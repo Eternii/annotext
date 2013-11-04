@@ -9,4 +9,19 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Annotext::Application.config.secret_key_base = '15ca5cdde75adee2d603c9d992f07b5694a76246508b9e9a0ad138e750c76076d9bf528713c58a41ee95a1df14b709b46c9ab17d683d03a68469035e2b033410'
+require 'securerandom'
+
+def secure_token
+  token_file = Rails.root.join('.secret')
+  if File.exist?(token_file)
+    # Use the existing token.
+    File.read(token_file).chomp
+  else
+    # Generate a new token and store it in token_file.
+    token = SecureRandom.hex(64)
+    File.write(token_file, token)
+    token
+  end
+end
+
+Annotext::Application.config.secret_key_base = secure_token
