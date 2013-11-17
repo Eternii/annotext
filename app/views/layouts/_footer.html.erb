@@ -6,7 +6,9 @@
     <ul>
       <li><%= link_to "History", '#' %></li>
       <li><%= link_to "Contact", contact_path %></li>
-      <li><%= link_to "Admin", '#' %></li>
+      <% if !signed_in? %>
+        <li><%= link_to "Admin", signin_path %></li>
+      <% end %>
     </ul>
   </nav>
 </footer>
