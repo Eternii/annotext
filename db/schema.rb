@@ -11,7 +11,26 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20131118195534) do
+ActiveRecord::Schema.define(version: 20131127234453) do
+
+  create_table "languages", force: true do |t|
+    t.string   "name"
+    t.string   "abbreviation"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "texts", force: true do |t|
+    t.string   "title"
+    t.string   "author"
+    t.integer  "lang_from_id"
+    t.integer  "lang_to_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.integer  "user_id"
+    t.integer  "position"
+    t.boolean  "released"
+  end
 
   create_table "users", force: true do |t|
     t.string   "name"

@@ -9,6 +9,9 @@ Annotext::Application.routes.draw do
 
   resources :users
   resources :sessions, only: [:new, :create, :destroy]
+  resources :texts do
+    get 'order', on: :collection
+  end
   # match '/signup',  to: 'users#new',    via: 'get'
 
 

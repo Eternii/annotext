@@ -1,0 +1,9 @@
+<li class="ui-state_default" id=<%= "text_#{text.id}" %>>
+  <%= link_to "View", text_path(text) %>
+  <span class="title_list"><%= text.title %></span>
+  <span class="author_list"><%= text.author %></span>
+  <% if signed_in? %>
+    <span class="released_list"><%= text.released %></span>
+    <%= link_to "Edit", edit_text_path(text) %>
+  <% end %>
+</li>

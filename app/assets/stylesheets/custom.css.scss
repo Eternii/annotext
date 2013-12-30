@@ -146,6 +146,26 @@ input {
   }
 }
 
+/* Texts index */
+
+.texts {
+  list-style: none;
+  margin: 0;
+  li {
+    border: 1px solid $gray;
+    background: $grayMediumLight;
+    overflow: auto;
+    padding: 10px 0;
+    &:last-child {
+    }
+  }
+}
+
+.ui-state-highlight {
+  height: 1.5em;
+    line-height: 2.2em;
+}
+
 /* miscellaneous */
 
 .debug_dump {

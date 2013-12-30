@@ -1,2 +1,11 @@
 <% provide(:title, @user.name) %>
 <%= @user.name %>, <%= @user.email %>
+
+<div class="span8">
+  <% if @user.texts.any? %>
+    <h3> Texts (<%= @user.texts.count %>)</h3>
+    <ul class="texts">
+      <%= render @texts %>
+    </ul>
+  <% end %>
+</div>

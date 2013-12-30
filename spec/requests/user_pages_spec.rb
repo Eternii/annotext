@@ -54,6 +54,8 @@ describe "User pages" do
 
   describe "profile page" do
     let(:user) { FactoryGirl.create(:user) } 
+    let!(:t1) { FactoryGirl.create(:text, user: user) }
+
     before do
       sign_in user
       visit user_path(user)
@@ -61,6 +63,12 @@ describe "User pages" do
 
     it { should have_content(user.name) }
     it { should have_title(user.name) }
+
+    describe "texts" do
+      it { should have_content(t1.title) }
+      it { should have_content(t1.author) }
+      it { should have_content(t1.released) }
+    end
   end
 
   describe "creating new user" do
