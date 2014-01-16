@@ -1,0 +1,7 @@
+<li>
+  <span class="term"><%= definition.term %></span>
+  <span class="definition"><%= definition.definition %></span>
+  <%= link_to "delete", definition, method: :delete,
+                                    data: { confirm: "Are you sure?" },
+                                    title: definition.term %>
+</li>

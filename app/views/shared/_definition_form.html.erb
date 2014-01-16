@@ -1,0 +1,10 @@
+sadf
+<% if @editing_def != nil %>
+  <%= form_for(@editing_def) do |f| %>
+    <%= render 'shared/error_messages', object: f.object %>
+    <div class="field">
+      <%= f.text_area :definition, placeholder: "Put the definition here." %>
+    </div>
+    <%= f.submit "Add to ?", class: "btn btn-lg btn-primary" %>
+  <% end %>
+<% end %>

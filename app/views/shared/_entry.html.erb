@@ -1,0 +1,9 @@
+<li id="<%= entry.id? %>">
+  <span class="term"><%= entry.term %></span>
+  <span class="lex_class"><%= entry.lex_class %></span>
+  <span class="definition"><%= entry.definition %></span>
+  <span class="match-list"><% #= entry. !!! %></span>
+  <%= link_to "delete", entry, method: :delete,
+                               data: { confirm: "Are you sure?" },
+                               title: entry.term %>
+</li>

@@ -1,6 +1,6 @@
 Annotext::Application.routes.draw do
 
-  root  'static_pages#home'
+  root  'texts#index'
   match '/help',    to: 'static_pages#help',    via: 'get'
   match '/about',   to: 'static_pages#about',   via: 'get'
   match '/contact', to: 'static_pages#contact', via: 'get'
@@ -12,6 +12,11 @@ Annotext::Application.routes.draw do
   resources :texts do
     get 'order', on: :collection
   end
+
+  resources :matches,     only: [:create, :show, :edit, :update, :destroy]
+  resources :phrases,     only: [:create, :show, :edit, :update, :destroy]
+  resources :definitions, only: [:create, :update, :destroy]
+
   # match '/signup',  to: 'users#new',    via: 'get'
 
 

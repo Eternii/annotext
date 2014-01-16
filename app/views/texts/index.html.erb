@@ -12,61 +12,19 @@
     window.location.href = "/texts/order?"+orderData;
    //window.location.href = "/texts/order?"+$('#sortable').sortable('serialize');
   });
-
-  $(document).on('click', '#testing', function() {
-    //alert(window.textCount);
-    //alert(window.texts[0].title);
-    var test = {};
-    test["w"] = "Good";
-    test["u"] = "Bad";
-    test["u*"] = "?";
-    //alert(test);
-    //alert(Object.keys(test));
-    //alert(Object.keys(test).sort());
-    //alert(Object.keys(test));
-
-
-  });
-
 </script>
-
-<%= javascript_tag do %>
-  window.textCount = '<%= @texts.count %>';
-  window.texts = <%= raw @texts.all.to_json.html_safe %>;
-<% end %>
 
 <% provide(:title, 'German Texts') %>
 <h1>German Texts</h1>
 
-<%= content_tag "div", id: "testing", data: {test: @texts, test2: @users, test3: @texts2, test4: @testing } do %>
-  Loading...
-<% end %>
-
-<script type="text/javascript">
-  console.log('hello');
-  console.log($('#testing').data('test'));
-  console.log($('#testing').data('test2'));
-  console.log($('#testing').data('test3'));
-  console.log($('#testing').data('test4'));
-  var arr = $('#testing').data('test4');
-  console.log(arr[100000]);
-  //var arr = $('#testing').data('test3');
-  //var arr2 = $('#testing').data('test');
-  //console.log(arr.indexOf("R"));
-  //console.log(arr2[0]);
-  //var arr3 = [1,2,3,4,5];
-  //console.log(arr3);
-</script>
-
 <% if signed_in? %>
-  <ul class="texts sortable">
+  <ul class="texts sortable" data-no-turbolink>
     <%= render @texts %>
   </ul>
     <button class="btn btn-primary" id="save_position">Save Text Order</button>
     <button class="btn btn-primary" id="testing">Test</button>
 <% else %>
   <ul class="texts">
-    <li class="ui-state-default">Test</li>
     <%= render @texts %>
   </ul>
 <% end %>

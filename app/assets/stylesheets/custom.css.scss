@@ -2,7 +2,7 @@
 
 /* mixins, variables, etc. */
 
-$grayMediumLight: #eaeaea;
+$gray-medium-light: #eaeaea;
 
 @mixin box_sizing {
   -moz-box-sizing: border-box;
@@ -18,6 +18,8 @@ html {
 
 body {
   padding-top: 60px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 section {
@@ -54,12 +56,16 @@ h2 {
   margin-bottom: 30px;
   text-align: center;
   font-weight: normal;
-  color: $grayLight;
+  color: $gray-light;
 }
 
 p {
   font-size: 1.1em;
   line-height: 1.7em;
+}
+
+.verse {
+  float: right;
 }
 
 /* header */
@@ -80,17 +86,44 @@ p {
   }
 }
 
+#navbar-collapse-1 {
+  margin-right: 10px
+}
+
+/* viewing header */
+
+#viewing_header {
+  height: 71px;
+}
+
+/* editing header */
+#editing_header {
+  height: 225px;
+}
+
+#translation_box {
+  float: left;
+  top: 20px;
+  width: 550px;
+  height: 62px;
+  margin-right: 10px;
+  background-color: #ffffff;
+  overflow: auto;
+}
+
+
+
 /* footer */
 
 footer {
   margin-top: 45px;
   padding-top: 5px;
-  border-top: 1px solid $grayMediumLight;
-  color: $grayLight;
+  border-top: 1px solid $gray-medium-light;
+  color: $gray-light;
   a {
     color: $gray;
     &:hover {
-      color: $grayDarker;
+      color: $gray-darker;
     }
   }
   small {
@@ -108,7 +141,7 @@ footer {
 
 /* forms */
 
-input, textarea, select, .uneditable-input {
+textarea, select, .form-control, .uneditable-input {
   border: 1px solid #bbb;
   width: 100%;
   margin-bottom: 15px;
@@ -141,7 +174,7 @@ input {
     overflow: auto;
     padding: 10px 0;
     &:last-child {
-      border-bottom: 1px solid $grayLighter;
+      border-bottom: 1px solid $gray-lighter;
     }
   }
 }
@@ -153,7 +186,7 @@ input {
   margin: 0;
   li {
     border: 1px solid $gray;
-    background: $grayMediumLight;
+    background: $gray-medium-light;
     overflow: auto;
     padding: 10px 0;
     &:last-child {
@@ -165,6 +198,53 @@ input {
   height: 1.5em;
     line-height: 2.2em;
 }
+
+/* definitions, matches, and phrases */
+
+.definitions {
+  list-style: none;
+  margin: 10px 0 0 0;
+  li {
+    padding: 10px 0;
+    border-top: 1px solid #e8e8e8;
+  }
+}
+
+.term {
+  font-weight: bold;
+}
+
+.lex_class {
+  font-style: italic;
+}
+
+.definition {
+}
+
+.match-list {
+}
+
+aside {
+  textarea {
+    height: 100px;
+    margin-bottom: 5px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* miscellaneous */
 

@@ -1,0 +1,16 @@
+<div class="row">
+  <aside class="col-xs-3">
+    <section>
+      <%= render 'shared/definition_form' %>
+    </section>
+    <section>
+      <%= render 'shared/glossary_definitions' %>
+    </section>
+    <section>
+      <%= render 'shared/dictionary_definitions' %>
+    </section>
+  </aside> 
+  <div class="col-xs-9">
+    <%= text_area_tag "editor", @content, class: 'ckeditor' %>
+  </div>
+</div>

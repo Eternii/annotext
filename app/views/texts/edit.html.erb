@@ -1,1 +1,27 @@
-blank
+<% provide(:title, "Edit " + @text.title) %>
+
+<ul class="nav nav-tabs">
+  <li class="active"><a href="#markup" data-toggle="tab">Markup</a></li>
+  <li><a href="#info" data-toggle="tab">Display Information</a></li>
+  <% if current_user.admin? %>
+    <li><a href="#ownership" data-toggle="tab">Ownership</a></li>
+  <% end %>
+</ul>
+
+<div class="tab-content">
+  <div class="tab-pane active" id="markup">
+    <%= render 'text_markup' %>
+  </div>
+  <div class="tab-pane" id="info">
+    <%= render 'text_info_edit' %>
+  </div>
+  <% if current_user.admin? %>
+    <div class="tab-pane" id="ownership">
+      Not finished: Should allow the admin user to change text's user/editor.
+    </div>
+  <% end %>
+</div>
+
+<%= javascript_tag do %>
+  setTextPath(<%= @text.id %>,"<%= Rails.root %>");
+<% end %>

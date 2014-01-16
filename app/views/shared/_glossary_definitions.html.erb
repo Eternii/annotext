@@ -1,0 +1,6 @@
+          <% if @definitions.any? %>
+            <ol class="definitions">
+              <%= render @definitions %>
+            </ol>
+            <% #= will_paginate @definitions %>
+          <% end %>

@@ -1,4 +1,9 @@
 <% provide(:title, @text.title) %>
-<div id="text_view" text-number=<%= @text.id %> >
+
+<div id="text_display">
   <%= @content %>
 </div>
+
+<%= javascript_tag do %>
+  setGlossary(<%= @text.id %>, <%= raw @matches.to_json %>,<%= raw @definitions.to_json %>,<%= raw @phrases.to_json %>);
+<% end %>

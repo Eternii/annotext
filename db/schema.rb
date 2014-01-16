@@ -11,7 +11,18 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20131127234453) do
+ActiveRecord::Schema.define(version: 20140111003214) do
+
+  create_table "definitions", force: true do |t|
+    t.string   "term"
+    t.string   "lex_class"
+    t.string   "definition"
+    t.integer  "text_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "definitions", ["text_id"], name: "index_definitions_on_text_id"
 
   create_table "languages", force: true do |t|
     t.string   "name"
@@ -19,6 +30,28 @@ ActiveRecord::Schema.define(version: 20131127234453) do
     t.datetime "created_at"
     t.datetime "updated_at"
   end
+
+  create_table "matches", force: true do |t|
+    t.string   "word"
+    t.integer  "definition_id"
+    t.integer  "text_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "matches", ["definition_id"], name: "index_matches_on_definition_id"
+  add_index "matches", ["text_id"], name: "index_matches_on_text_id"
+  add_index "matches", ["word", "text_id"], name: "index_matches_on_word_and_text_id"
+
+  create_table "phrases", force: true do |t|
+    t.string   "term"
+    t.string   "definition"
+    t.integer  "text_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "phrases", ["text_id"], name: "index_phrases_on_text_id"
 
   create_table "texts", force: true do |t|
     t.string   "title"

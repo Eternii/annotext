@@ -2,18 +2,18 @@ source 'https://rubygems.org'
 ruby '2.0.0'
 
 gem 'rails', '4.0.0'
-gem 'bootstrap-sass', '2.3.2.0'
+gem 'bootstrap-sass', '3.0.3.0'  #'2.3.2.0'
 gem 'bcrypt-ruby', '~> 3.0.0'    # Old version -> Required by SecurePassword
 gem 'will_paginate', '3.0.4'
 gem 'bootstrap-will_paginate', '0.0.9'
 
-gem 'ckeditor'
+gem 'ckeditor_rails', '4.3.1'
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', '1.3.8'   
 
 group :development do
-  gem 'annotate', '2.5.0'
+  gem 'annotate', '2.6.1'
 end
 
 group :development, :test do
