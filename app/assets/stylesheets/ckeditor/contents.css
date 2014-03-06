@@ -41,3 +41,19 @@
   position: absolute;
   z-index: 99;
 }
+
+.cke_button_label.cke_button__linkmedia_label {
+  display:inline-block !important;
+}
+
+.cke_button_label.cke_button__lemma_label {
+  display:inline-block !important;
+}
+
+.cke_button_label.cke_button__phrase_label {
+  display:inline-block !important;
+}
+
+.cke_button_label.cke_button__deletemarkup_label {
+  display:inline-block !important;
+}

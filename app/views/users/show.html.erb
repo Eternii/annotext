@@ -1,11 +1,21 @@
 <% provide(:title, @user.name) %>
-<%= @user.name %>, <%= @user.email %>
+
+<p class="bg-info">
+  The texts displayed here are those texts which you have ownership over.
+  However, the order in which the texts are displayed can only be modified on
+  the general <%= link_to "texts", texts_path %> page.
+</p>
 
 <div class="span8">
   <% if @user.texts.any? %>
-    <h3> Texts (<%= @user.texts.count %>)</h3>
+    <h3>
+      Texts (<%= @user.texts.count %>) belonging to 
+      <%= @user.name %> (<%= @user.email %>)
+    </h3>
     <ul class="texts">
       <%= render @texts %>
     </ul>
+  <% else %>
+    <h3> You currently own no texts. </h3>
   <% end %>
 </div>

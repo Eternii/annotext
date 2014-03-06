@@ -9,13 +9,7 @@
     <%= render 'layouts/shim' %>
 	</head>
 	<body>
-    <% if params[:controller]=="texts" && params[:action]=="show" %>
-      <%= render 'layouts/viewing_header' %> 
-    <% elsif params[:controller]=="texts" && params[:action]=="edit" %>
-      <%= render 'layouts/header' %>
-    <% else %>
-      <%= render 'layouts/header' %>
-    <% end %>
+    <%= render 'layouts/header' %>
     <div class="container-fluid">
       <%= render 'layouts/flash' %>
       <%= yield %>

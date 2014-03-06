@@ -44,10 +44,8 @@ CKEDITOR.plugins.add('lemma',
                 type: 'text',
                 id: 'lemma',
                 label: 'Glossary Match',
-               // validate: CKEDITOR.dialog.validate.notEmpty("Match field cannot be empty"),
                 validate: CKEDITOR.dialog.validate.functions(function(value) {
                   var regex1 = /^[^\s\n\t.,!?:;\/|\\'"()\[\]-]+$/
-                  //var regex1 = new RegExp("[^\\s\\n\\t.,!?:;\\\x2F|\\\\\'\"()\\[\\]-]{" + value.length + "," + value.length + "}");
                   var regex2 = /^\D.+$/;
                   return (regex1.test(value) && regex2.test(value));
                 }, "Display this always!"),   // !!! Change
@@ -62,10 +60,15 @@ CKEDITOR.plugins.add('lemma',
               {
                 type: 'button',
                 id: 'load',
-                label: 'Load Glossary Match',
+                label: 'Load Match',
                 disabled: false,
                 onClick: function() {
-                  alert("Should load something!");
+                  var dialog = this.getDialog();
+                  var match  = dialog.getContentElement
+                                          ("tab1", "lemma").getValue();
+                  $.get('/matches/1', {word: match, text: text}, function() {
+                    // Match Controller's show will display as clicked word
+                  }, "script");
                 }
               }
             ]
@@ -106,6 +109,7 @@ CKEDITOR.plugins.add('lemma',
             span.setAttribute('match', match);  
           }
 
+          // !!! Change after changing this in selectword.
           $.get('/matches/1', { word: match, text: text }, function(data) {
             // Use Match Controller's show to display match in editing header
           }, "script");

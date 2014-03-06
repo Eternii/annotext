@@ -1,6 +1,4 @@
-<% if @dict_entries.any? %>
-  <ol class="definitions">
-    <%= render partial: 'shared/entry', collection: @dict_entries %>
-  </ol>
-  <% #= will_paginate @dict_entries %>
-<% end %>
+<span class='count'>Dictionary Matches: <span id='dict_count'></span></span>
+
+<ol class="definitions" id="dict_definitions">
+</ol>

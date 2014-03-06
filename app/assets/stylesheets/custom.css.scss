@@ -3,6 +3,8 @@
 /* mixins, variables, etc. */
 
 $gray-medium-light: #eaeaea;
+$pine-green: #225331;
+$green-light: #e8f2e8;
 
 @mixin box_sizing {
   -moz-box-sizing: border-box;
@@ -18,11 +20,12 @@ html {
 
 body {
   padding-top: 60px;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  /* background-color: #FAFAFA; */
 }
 
-section {
+section {       /* !!! See Listing 7.15 in Rails Tutorial for better? */
   overflow: auto;
 }
 
@@ -37,6 +40,11 @@ textarea {
   }
 }
 
+.bg-info {  /* Should have been defined via Bootstrap 3.0... */
+  background-color: #D9EDF7;
+  padding: 15px;
+}
+
 /* typography */
 
 h1, h2, h3, h4, h5, h6 {
@@ -45,7 +53,6 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 3em;
-  letter-spacing: -2px;
   margin-bottom: 30px;
   text-align: center;
 }
@@ -64,25 +71,29 @@ p {
   line-height: 1.7em;
 }
 
-.verse {
-  float: right;
-}
-
 /* header */
 
-#logo {
-  float: left;
-  margin-right: 10px;
-  font-size: 1.7em;
-  color: #fff;
-  text-transform: uppercase;
-  letter-spacing: -1px;
-  padding-top: 9px;
-  font-weight: bold;
-  line-height: 1;
-  &:hover {
-    color: white;
-    text-decoration: none;
+.navbar-toggle {
+  border: 1px solid $gray-dark;
+  .icon-bar {
+    background-color: $gray;
+  }
+}
+
+.navbar-custom {
+  /* background-color: #EEF8F0; */
+  /* background-color: $gray-medium-light; */
+  background-color: $green-light;
+  border-bottom: 1px solid $gray-light;
+  a {
+    /* color: #8295C4; */
+    color: #9BA3B8;
+    &:hover {
+      /* color: #C2b9a3; */
+      background-color: $green-light !important;
+      color: #6B7180;
+      text-decoration: none;
+    }
   }
 }
 
@@ -90,24 +101,29 @@ p {
   margin-right: 10px
 }
 
-/* viewing header */
-
-#viewing_header {
-  height: 71px;
+#logo {              /* Visible when no translation_box */
+  float: left;
+  margin-right: 10px;
+  font-size: 1.7em;
+  color: $pine-green;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  padding-top: 11px;
+  font-weight: bold;
+  line-height: 1;
+  &:hover {
+    color: $pine-green;
+    text-decoration: none;
+  }
 }
 
-/* editing header */
-#editing_header {
-  height: 225px;
-}
-
-#translation_box {
+#translation_box {   /* Visible in Text "show" */
   float: left;
   top: 20px;
   width: 550px;
   height: 62px;
   margin-right: 10px;
-  background-color: #ffffff;
+  background-color: white;
   overflow: auto;
 }
 
@@ -161,8 +177,8 @@ input {
 }
 
 .field_with_errors {
-  @extend .control-group;
-  @extend .error;
+  @extend .form-group;
+  @extend .has-error;
 }
 
 /* Users index */
@@ -184,33 +200,136 @@ input {
 .texts {
   list-style: none;
   margin: 0;
+  overflow: scroll;
+  padding-left: 0px;
   li {
-    border: 1px solid $gray;
-    background: $gray-medium-light;
-    overflow: auto;
-    padding: 10px 0;
+    padding: 5px 0;
+    padding-left: 10px;
+    border-top: 1px solid #e8e8e8;
+    white-space: nowrap;
     &:last-child {
+      border-bottom: 1px solid #e8e8e8;
+    }
+    &:hover { 
+      background-color: $green-light;
+    }
+    .released {
+      padding-left: 10px;
+      display: inline-block;
+      width: 100px;
+    }
+    .author {
+      display: inline-block;
+      /*float: left; */
+      color: #22500F;
+      font-weight: bold;
+      font-size: 1.25em;
+      width: 280px;
+    }
+    .title {
+      display: inline-block;
+      font-weight: bold;
+      font-size: 1.25em;
+      white-space: nowrap;
+      color: #490C08;
     }
   }
 }
 
-.ui-state-highlight {
-  height: 1.5em;
-    line-height: 2.2em;
-}
-
-/* definitions, matches, and phrases */
-
-.definitions {
-  list-style: none;
-  margin: 10px 0 0 0;
+.sortable {
   li {
-    padding: 10px 0;
-    border-top: 1px solid #e8e8e8;
+    background: $gray-lighter;
+    border: 1px solid #555;
+    &:last-child {
+      border-bottom: 1px solid #555;
+    }
+    &:hover {
+      cursor: all-scroll;
+    }
   }
 }
 
-.term {
+.text-click {
+  position: relative;
+}
+
+.text-link {
+  width:100%;
+  height:100%;
+  position:absolute;
+  z-index:2;
+  top:0px;
+  left:0px;
+}
+
+.alt {
+  color: #9900CC;
+}
+
+.phrase {
+  color: #3399FF;
+}
+
+
+/* Text viewing */
+
+#text-display {
+  padding-top: 30px;
+  .title {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 3em;
+  }
+  .author {
+    text-align: center;
+  }
+  .verse {
+    float: right;
+  }
+}
+
+
+/* Text Editing */
+
+.column-header {
+  border-bottom: 2px solid black;
+  padding: 5px 0;
+}
+
+.column-gloss {
+  border-bottom: 2px solid black;
+  padding: 5px 0;
+  background-color: #E8FFD6;
+}
+
+.column-dict {
+  border-bottom: 2px solid black;
+  padding: 5px 0;
+  background-color: #D6E0FF;
+}
+
+.definitions {
+  list-style: none;
+  padding: 0;
+  margin: 3px 0 0 0;
+  li {
+    padding: 10px 0;
+    border-top: 1px solid #e8e8e8;
+    &:last-child {
+      border-bottom: 1px solid #e8e8e8;
+    }
+  }
+}
+
+.add-form {
+  display: inline;
+}
+
+/* Definition Display */  /* !!! ??? Is this correct? See question. */
+
+.term {             /* Am I using these above as well for displaying? !!! */
   font-weight: bold;
 }
 
@@ -231,21 +350,6 @@ aside {
   }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* miscellaneous */
 
 .debug_dump {
@@ -255,3 +359,4 @@ aside {
   margin-top: 45px;
   @include box_sizing;
 }
+

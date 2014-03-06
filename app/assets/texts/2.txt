@@ -1,5 +1,4698 @@
-<span class="title">Faust II</span>
 
-<p>
-This is a test document.
-</p>
+
+
+
+
+
+
+
+<profileDesc>section</profileDesc>
+
+
+
+
+
+<span class="author"><span id="2638" class="phrase">Heinrich von Kleist</span></span><br>
+<br>
+<span class="title">Der zerbrochene Krug<br>
+Ein Lustspiel (1811)<br></span><br>
+<br>
+
+<stage>Personen</stage>:<br>
+Walter, <hi rend="italic">Gerichtsrat</hi><br>
+Adam, <hi rend="italic">Dorfrichter</hi><br>
+Licht, <hi rend="italic">Schreiber</hi><br>
+Frau Marthe Rull<br>
+Eve, <hi rend="italic">ihre Tochter</hi><br>
+Veit Tümpel, <hi rend="italic">ein Bauer</hi><br>
+Ruprecht, <hi rend="italic">sein Sohn</hi><br>
+Frau Brigitte<br>
+Ein Bedienter, Büttel, Mägde <hi rend="italic">usw.</hi> <br>
+<br>
+
+<stage>Die Handlung spielt in einem niederländischen Dorf bei Utrecht</stage> <br>
+<br>
+<div type="section">
+<hi rend="bold"><span id="2640" class="phrase">Erster </span>Auftritt
+</hi><br>
+<br>
+
+<stage>[Adam sitzt und <span id="1747" class="phrase">verbindet sich ein Bein</span>. Licht <span id="auftreten" class="alt">tritt auf</span>.]</stage> <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Ei, was <span id="Henker" class="alt">zum Henker</span>, sagt, Gevatter Adam!<br>
+Was ist mit Euch geschehn? Wie <span id="aussehen" class="alt">seht</span> Ihr <span id="aussehen" class="alt">aus</span>? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ja, seht. <span id="1784" class="phrase">Zum Straucheln braucht's doch nichts als Füße</span>.<br>
+Auf diesem glatten Boden, ist ein <span id="1785" class="phrase">Strauch</span> hier?<br>
+<span id="straucheln" class="alt">Gestrauchelt</span> bin ich hier; denn jeder trägt<br>
+Den <span id="1786" class="phrase">leid'gen</span> <span id="1787" class="phrase">Stein zum Anstoß</span> in sich selbst. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Nein, sagt mir, Freund! Den Stein trüg jeglicher -? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ja, in sich selbst! <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Verflucht das! <br>
+
+<hi rend="bold">Adam:</hi> Was beliebt? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> <span id="1788" class="phrase">Ihr stammt von einem lockern Ältervater</span>,<br>
+Der so <span id="1789" class="phrase">beim Anbeginn der Dinge</span> fiel,<br>
+Und <span id="1790" class="phrase">wegen seines Falls</span> berühmt geworden;<br>
+Ihr seid doch nicht -? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Nun? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Gleichfalls -? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ob ich -? Ich glaube -!<br>
+Hier bin ich hingefallen, sag ich Euch. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Unbildlich <span id="1791" class="phrase">hingeschlagen</span>? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ja, unbildlich.<br>
+Es mag ein schlechtes Bild gewesen sein. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Wann <span id="1802" class="phrase">trug sich</span> die Begebenheit denn <span id="1802" class="phrase">zu</span>? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Jetzt, in dem Augenblick, da ich dem Bett<br>
+Entsteig. Ich hatte noch das Morgenlied<br>
+Im Mund, da stolpr ich in den Morgen schon,<br>
+Und eh ich noch <span id="1761" class="phrase">den Lauf des Tags</span> beginne,<br>
+<span id="1804" class="phrase">Renkt</span> unser Herrgott mir den Fuß schon <span id="1804" class="phrase">aus</span>. <br>
+
+<hi rend="bold">Licht:</hi> Und wohl den linken obenein? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Den linken? <br>
+<br>
+
+<hi rend="bold">Licht: </hi>Hier, <span id="1803" class="phrase">den gesetzten</span>? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Freilich! <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Allgerechter!<br>
+<span id="1792" class="phrase">Der ohnehin schwer den Weg der Sünde wandelt</span>? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Der Fuß! Was? Schwer! Warum? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Der Klumpfuß? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Klumpfuß!<br>
+Ein Fuß ist, wie der andere, ein Klumpen. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Erlaubt! <span id="1918" class="phrase">Da tut Ihr Eurem rechten unrecht</span>.<br>
+<span id="1917" class="phrase">Der rechte</span> kann sich dieser - Wucht nicht rühmen,<br>
+Und wagt sich ehr aufs Schlüpfrige. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ach, was!
+
+<span id="1793" class="phrase">Wo sich der eine hinwagt</span>, folgt der andre. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Und was hat das Gesicht Euch so verrenkt? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Mir das Gesicht? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Wie? Davon wisst Ihr nichts? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ich müsst ein Lügner sein - wie<span id="aussehen" class="alt"> sieht's</span> denn <span id="aussehen" class="alt">aus</span>? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Wie's aussieht? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ja, Gevatterchen. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Abscheulich! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2641" class="phrase">Erklärt Euch deutlicher</span>. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Geschunden ist's,<br>
+Ein Greul zu sehn. Ein Stück fehlt von der Wange,<br>
+Wie groß? <span id="1799" class="phrase">Nicht ohne Waage kann ich's schätzen</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Den Teufel auch!
+<br>
+<hi rend="bold">Licht</hi> <hi rend="italic">(bringt einen Spiegel):</hi>
+<br>
+Hier! Überzeugt Euch selbst!<br>
+<span id="1794" class="phrase">Ein Schaf, das, eingehetzt von Hunden, sich</span>
+<br>
+<span id="1794" class="phrase">Durch Dornen drängt, lässt nicht mehr Wolle sitzen</span>,<br>
+<span id="1794" class="phrase">Als Ihr - Gott weiß wo? - Fleisch habt sitzen lassen</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Hm! Ja! 's ist wahr. Unlieblich <span id="aussehen" class="alt">sieht</span> es <span id="aussehen" class="alt">aus</span>.<br>
+Die <span id="Nase" class="alt">Nas</span>' hat auch gelitten. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Und das Auge. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Das Auge nicht, Gevatter. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Ei, <span id="1795" class="phrase">hier liegt</span>
+<br>
+<span id="1795" class="phrase">Querfeld ein Schlag, blutrünstig, straf mich Gott</span>,<br>
+<span id="1796" class="phrase">Als hätt ein Großknecht wütend ihn geführt</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Das ist der Augenknochen. - Ja, nun seht,<br>
+Das alles hatt ich <span id="1919" class="phrase">nicht einmal</span> gespürt. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Ja, ja! <span id="1797" class="phrase">So geht's im Feuer des Gefechts</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Gefecht! Was? - <span id="1798" class="phrase">Mit dem verfluchten Ziegenbock</span>
+<br>
+<span id="1798" class="phrase">Am Ofen focht ich</span>, wenn Ihr wollt. <span id="1800" class="phrase">Jetzt weiß ichs</span>.<br>
+Da ich das Gleichgewicht verlier, und gleichsam<br>
+Ertrunken <span id="1801" class="phrase">in den Lüften um mich greife</span>,<br>
+Fass' ich die Hosen, die ich gestern abend<br>
+Durchnässt an <span id="1805" class="phrase">das Gestell des Ofens</span> hing.<br>
+Nun fass' ich sie, versteht Ihr, <span id="1806" class="phrase">denke mich</span>,<br>
+<span id="1806" class="phrase">Ich Tor, daran zu halten</span>, und nun reißt<br>
+Der Bund; Bund jetzt und <span id="Hosen" class="alt">Hos'</span> und ich, wir stürzen,<br>
+Und häuptlings mit dem Stirnblatt schmettr ich auf<br>
+Den Ofen hin, just wo ein Ziegenbock<br>
+Die Nase an der Ecke <span id="1807" class="phrase">vorgestreckt</span>. <br>
+<stage>Licht lacht</stage>.<br>
+Gut, gut. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Verdammt! <br>
+<br>
+
+<hi rend="bold">Licht:</hi> <span id="1808" class="phrase">Der erste Adamsfall</span>,<br>
+<span id="1808" class="phrase">Den Ihr aus einem Bett hinaus getan</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Mein Seel! - Doch, was ich sagen wollte, <span id="1809" class="phrase">was gibt's</span>
+<br>
+<span id="1809" class="phrase">Neues</span>? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> <span id="1810" class="phrase">Ja,</span> <span id="1810" class="phrase">was es Neues gibt</span>! <span id="1811" class="phrase">Der Henker hols</span>,<br>
+<span id="1812" class="phrase">Hätt ich's doch bald vergessen</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Nun? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> <span id="1813" class="phrase">Macht Euch bereit auf unerwarteten</span>
+<br>
+<span id="1813" class="phrase">Besuch aus Utrecht</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> So? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Der Herr Gerichtsrat kömmt. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Wer kömmt? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Der Herr Gerichtsrat Walter kömmt, aus Utrecht.<br>
+Er ist in <span id="1814" class="phrase">Revisions-Bereisung</span> auf den Ämtern,<br>
+Und heut noch <span id="1815" class="phrase">trifft</span> er bei uns <span id="1815" class="phrase">ein</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Noch heut! <span id="1816" class="phrase">Seid Ihr bei Trost</span>? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> <span id="1817" class="phrase">So wahr ich lebe</span>.<br>
+Er war in Holla, auf dem Grenzdorf, gestern,<br>
+Hat das Justizamt dort schon revidiert.<br>
+Ein Bauer sah <span id="1818" class="phrase">zur Fahrt nach Huisum schon</span>
+<br>
+<span id="1818" class="phrase">Die Vorspannpferde vor den Wagen schirren</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Heut noch, er, der Gerichtsrat, her, aus Utrecht!<br>
+<span id="2642" class="phrase">Zur Revision</span>, der wackre Mann, <span id="1819" class="phrase">der selbst</span>
+<br>
+<span id="1819" class="phrase">Sein Schäfchen schiert, dergleichen Fratzen hasst</span>.<br>
+Nach Huisum kommen und <span id="1820" class="phrase">uns kujonieren</span>! <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Kam er bis Holla, kommt er auch bis Huisum.<br>
+<span id="1821" class="phrase">Nehmt Euch in acht</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1822" class="phrase">Ach, geht</span>! <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Ich sag es Euch. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1823" class="phrase">Geht mir mit Eurem Märchen</span>, sag ich Euch. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Der Bauer hat ihn selbst gesehn, <span id="Henker" class="alt">zum Henker</span>. <br>
+<br>
+
+<hi rend="bold">Adam: </hi>Wer weiß, wen <span id="1824" class="phrase">der triefäugige Schuft</span> gesehn.<br>
+<span id="1825" class="phrase">Die Kerle unterscheiden ein Gesicht</span>
+<br>
+<span id="1825" class="phrase">Von einem Hinterkopf nicht, wenn er kahl ist</span>.<br>
+<span id="1826" class="phrase">Setzt einen Hut dreieckig auf mein Rohr</span>,<br>
+<span id="1826" class="phrase">Hängt ihm den Mantel um, zwei Stiefeln drunter</span>,<br>
+<span id="1826" class="phrase">So hält so'n Schubjak ihn, für wen Ihr wollt</span>. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Wohlan, <span id="1827" class="phrase">so zweifelt fort</span>, <span id="1742" class="phrase">ins Teufels Namen</span>,<br>
+Bis er zur Tür hier eintritt. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1828" class="phrase">Er, eintreten</span>! -<br>
+<span id="1829" class="phrase">Ohn uns ein Wort vorher gesteckt zu haben</span>. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> <span id="1830" class="phrase">Der Unverstand!</span> <span id="als" class="alt">Als ob's</span> der vorige<br>
+Revisor noch, <span id="1831" class="phrase">der Rat Wacholder</span>, wäre!<br>
+Es ist <span id="1832" class="phrase">Rat Walter</span> jetzt, der revidiert. <br>
+<br>
+
+Adam: <span id="1833" class="phrase">Wenn gleich Rat Walter</span>! <span id="1834" class="phrase">Geht,</span> <span id="1835" class="phrase">lasst mich zufrieden</span>.<br>
+Der Mann hat seinen Amtseid ja geschworen,<br>
+Und <span id="1920" class="phrase">praktiziert</span>, wie wir, <span id="1836" class="phrase">nach den</span>
+<br>
+<span id="1836" class="phrase">Bestehenden Edikten und Gebräuchen</span>. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Nun, ich versichr Euch, der Gerichtsrat Walter<br>
+Erschien in Holla unvermutet gestern,<br>
+Vis'tierte Kassen und Registraturen,
+
+Und <span id="1837" class="phrase">suspendierte</span> Richter dort und Schreiber,<br>
+Warum? ich weiß nicht, <span id="1837" class="phrase">ab officio</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Den Teufel auch? Hat das der Bauer gesagt? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Dies und noch mehr - <br>
+<br>
+
+<hi rend="bold">Adam:</hi> So? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Wenn Ihr's wissen wollt.<br>
+Denn <span id="1838" class="phrase">in der Frühe heut</span> sucht man den Richter,<br>
+<span id="1839" class="phrase">Dem man in seinem Haus Arrest gegeben</span>,<br>
+<span id="1840" class="phrase">Und findet hinten in der Scheuer ihn</span>
+<br>
+<span id="1840" class="phrase">Am Sparren hoch des Daches aufgehangen</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Was sagt Ihr? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> <span id="1841" class="phrase">Hilf</span> inzwischen <span id="herbeikommen" class="alt">kommt herbei</span>,<br>
+<span id="1842" class="phrase">Man löst ihn ab, man reibt ihn, und begießt ihn</span>,<br>
+<span id="1842" class="phrase">Ins nackte Leben bringt man ihn zurück</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> So? Bringt man ihn? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Doch jetzo <span id="1843" class="phrase">wird versiegelt</span>
+<br>
+<span id="1843" class="phrase">In seinem Haus, vereidet und verschlossen</span>,<br>
+Es ist, als wär er eine Leiche schon,<br>
+Und auch sein Richteramt <span id="1844" class="phrase">ist schon beerbt</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ei, Henker, seht! - Ein liederlicher Hund war's -<br>
+<span id="1845" class="phrase">Sonst eine ehrliche Haut</span>, <span id="1846" class="phrase">so wahr ich lebe</span>,<br>
+Ein Kerl, <span>mit dem sich's gut zusammen war</span>;<br>
+Doch <span id="1847" class="phrase">grausam liederlich</span>, das muss ich sagen.<br>
+Wenn der Gerichtsrat heut in Holla war,<br>
+<span id="1848" class="phrase">So ging's ihm schlecht</span>, dem armen Kauz, das glaub ich. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> <span id="1849" class="phrase">Und dieser Vorfall einzig</span>, sprach der Bauer,
+
+<span id="1849" class="phrase">Sei schuld</span>, dass der Gerichtsrat noch nicht hier;<br>
+Zu Mittag <span id="eintreffen" class="alt">treff</span> er doch ohnfehlbar <span id="eintreffen" class="alt">ein</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Zu Mittag! Gut, Gevatter! <span id="1850" class="phrase">Jetzt gilt's Freundschaft</span>.<br>
+Ihr wisst, <span id="1872" class="phrase">wie sich zwei Hände waschen können</span>.<br>
+Ihr wollt auch gern, ich weiß, Dorfrichter werden,<br>
+Und Ihr verdient's, bei Gott, <span id="1851" class="phrase">so gut wie einer</span>.<br>
+Doch heut ist noch nicht die Gelegenheit,<br>
+Heut <span id="1852" class="phrase">lasst Ihr noch den Kelch vorübergehn</span>. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Dorfrichter, ich! <span id="1763" class="phrase">Was denkt Ihr auch von mir?</span> <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ihr seid ein Freund von wohlgesetzter Rede,<br>
+Und Euren Cicero habt Ihr studiert<br>
+<span id="1853" class="phrase">Trotz Einem auf der Schul in Amsterdam</span>.<br>
+<span id="1854" class="phrase">Drückt Euren Ehrgeiz heut hinunter</span>, hört Ihr?<br>
+<span id="1855" class="phrase">Es werden wohl sich Fälle noch ergeben</span>,<br>
+<span id="1856" class="phrase">Wo Ihr mit Eurer Kunst Euch zeigen könnt</span>. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> <span id="1857" class="phrase">Wir zwei Gevatterleute! Geht mir fort</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1859" class="phrase">Zu seiner Zeit</span>, Ihr wisst's, <span id="1858" class="phrase">schwieg auch der große</span>
+<br>
+<span id="1858" class="phrase">Demosthenes</span>. Folgt hierin seinem Muster.<br>
+Und <span id="1860" class="phrase">bin ich König nicht von Mazedonien</span>,<br>
+Kann ich <span id="1861" class="phrase">auf meine Art</span> doch dankbar sein. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> <span id="1862" class="phrase">Geht mir mit Eurem Argwohn</span>, sag ich Euch.<br>
+Hab ich jemals -? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Seht, ich, ich, <span id="1863" class="phrase">für mein Teil</span>,<br>
+<span id="1864" class="phrase">Dem großen Griechen</span> folg ich auch. <span id="1865" class="phrase">Es ließe</span>
+<br>
+<span id="1865" class="phrase">Von Depositionen sich und Zinsen</span>
+<br>
+<span id="1865" class="phrase">Zuletzt auch eine Rede ausarbeiten</span>:<br>
+<span id="1866" class="phrase">Wer wollte solche Perioden drehn</span>? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Nun, also! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1921" class="phrase">Von solchem Vorwurf bin ich rein</span>,<br>
+<span id="1867" class="phrase">Der Henker hols</span>! Und alles, <span id="1868" class="phrase">was es gilt</span>,<br>
+Ein Schwank ist's etwa, <span id="1922" class="phrase">der, zur Nacht geboren</span>,<br>
+<span id="1922" class="phrase">Des Tags vorwitz'gen Lichtstrahl scheut</span>. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Ich weiß. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1762" class="phrase">Mein Seel</span>! <span id="1923" class="phrase">Es ist kein Grund</span>, warum ein Richter,<br>
+<span id="1869" class="phrase">Wenn er nicht auf dem Richtstuhl sitzt</span>,<br>
+Soll gravitätisch wie ein Eisbär sein. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Das sag ich auch. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Nun denn, so kommt, Gevatter,<br>
+Folgt mir <span id="1924" class="phrase">ein wenig</span> zur Registratur;<br>
+<span id="1870" class="phrase">Die Aktenstöße setz ich auf</span>, denn die,<br>
+Die liegen wie <span id="1871" class="phrase">der Turm zu Babylon</span>. <br>
+<br></div>
+<div type="section">
+<hi rend="bold">Zweiter Auftritt
+</hi><br>
+<br>
+
+<stage>[Ein Bedienter <span id="auftreten" class="alt">tritt auf</span>. Die Vorigen. - Nachher zwei Mägde.]</stage>
+<br>
+<br>
+
+<hi rend="bold">Der Bediente:</hi> <span id="1925" class="phrase">Gott helf, Herr Richter</span>! Der Gerichtsrat Walter<br>
+<span id="1873" class="phrase">Lässt seinen Gruß vermelden</span>, gleich wird er hier sein. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ei, <span id="1874" class="phrase">du gerechter Himmel</span>! Ist er mit Holla<br>
+Schon fertig? <br>
+<br>
+
+<hi rend="bold">Der Bediente:</hi> Ja, er ist in Huisum schon. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> He! Liese! Grete! <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Ruhig, ruhig jetzt. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Gevatterchen! <br>
+<br>
+
+<hi rend="bold">Licht:</hi> <span id="1875" class="phrase">Lasst Euern Dank vermelden</span>. <br>
+<br>
+
+<hi rend="bold">Der Bediente:</hi> Und morgen reisen wir nach Hussahe. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1877" class="phrase">Was tu ich jetzt</span>? <span id="1876" class="phrase">Was lass ich</span>?<br>
+<stage>[Er greift nach seinen Kleidern.]</stage>
+<br>
+<br>
+
+<hi rend="bold">Erste Magd</hi> <stage>[<span id="auftreten" class="alt">tritt auf</span>]</stage>: Hier bin ich, Herr. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Wollt Ihr die Hosen anziehn? Seid Ihr toll? <br>
+<br>
+
+<hi rend="bold">Zweite Magd</hi> <stage>[<span id="auftreten" class="alt">tritt auf</span>]:</stage> Hier bin ich, Herr Dorfrichter. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Nehmt den Rock. <br>
+<br>
+
+<stage><hi rend="bold">Adam</hi> <span id="umsehen" class="alt">sieht sich um</span></stage>: Wer? Der Gerichtsrat? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Ach, die Magd ist es. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Die Bäffchen! Mantel! Kragen! <br>
+<br>
+
+<hi rend="bold">Erste Magd:</hi> Erst die Weste! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Was? - <span id="1926" class="phrase">Rock aus</span>? Hurtig!<br>
+<br>
+
+<hi rend="bold">Licht</hi> <stage>[zum Bedienten]</stage>: <span id="1927" class="phrase">Der Herr Gerichtsrat werden</span>
+<br>
+<span id="1927" class="phrase">Hier sehr willkommen sein</span>. Wir sind sogleich<br>
+Bereit, ihn zu empfangen. Sagt ihm das. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1928" class="phrase">Den Teufel auch</span>! Der Richter Adam <span id="1878" class="phrase">lässt sich</span>
+<br>
+<span id="1878" class="phrase">Entschuldigen</span>. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Entschuldigen! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Entschuld'gen.<br>
+Ist er schon unterwegs etwa? <br>
+<br>
+
+<hi rend="bold">Der Bediente:</hi> Er ist<br>
+Im Wirtshaus noch. Er hat den Schmied bestellt;<br>
+Der Wagen <span id="1879" class="phrase">ging entzwei</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Gut. <span id="1880" class="phrase">Mein Empfehl</span>!<br>
+Der Schmied ist faul. <span id="1881" class="phrase">Ich ließe mich entschuldigen</span>.<br>
+<span id="1929" class="phrase">Ich hätte Hals und Beine fast gebrochen</span>,<br>
+Schaut selbst, 's ist ein Spektakel, wie ich ausseh;<br>
+Und <span id="1882" class="phrase">jeder Schreck purgiert mich von Natur</span>.<br>
+<span id="1930" class="phrase">Ich wäre krank</span>. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> <span id="1883" class="phrase">Seid Ihr bei Sinnen</span>? -<br>
+Der Herr Gerichtsrat wär sehr angenehm.<br>
+- Wollt Ihr? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="Henker" class="alt">Zum Henker</span>! <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Was? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1884" class="phrase">Der Teufel soll mich holen</span>,<br>
+<span id="1931" class="phrase">Ist's nicht so gut</span>, als hätt ich schon ein <span id="1885" class="phrase">Pulver</span>! <br>
+<br>
+
+<hi rend="bold">Licht:</hi> <span id="1886" class="phrase">Das fehlt noch</span>, <span id="1887" class="phrase">dass Ihr auf den Weg ihm leuchtet</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Margarete! he! <span id="1888" class="phrase">Der Sack voll Knochen</span>! Liese! <br>
+<br>
+
+<hi rend="bold">Die beiden Mägde:</hi> Hier sind wir ja. Was wollt Ihr? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Fort! sag ich.<br>
+Kuhkäse, Schinken, Butter, Würste, Flaschen<br>
+Aus der Registratur geschafft! Und flink! -<br>
+Du nicht. Die andere. - Maulaffe! Du, ja!<br>
+- <span id="1889" class="phrase">Gotts Blitz</span>, Margarete! Liese soll, die Kuhmagd,<br>
+In die Registratur! <br>
+<br>
+
+<stage>[Die erste Magd <span id="abgehen" class="alt">geht ab</span>.]</stage> <br>
+<br>
+
+<hi rend="bold">Die zweite Magd:</hi> Sprecht, <span id="2608" class="phrase">soll man Euch verstehn</span>! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1890" class="phrase">Halt's Maul</span> jetzt, sag ich -! Fort! schaff mir die Perücke!<br>
+Marsch! Aus dem Bücherschrank! Geschwind! <span id="1891" class="phrase">Pack dich</span>! <br>
+<br>
+
+<stage>[Die zweite Magd ab.]</stage> <br>
+<br>
+
+<hi rend="bold">Licht</hi> <stage>[zum Bedienten]</stage>.: <span id="1893" class="phrase">Es ist dem Herrn Gerichtsrat</span>, <span id="1892" class="phrase">will ich hoffen</span>,<br>
+<span id="1893" class="phrase">Nichts Böses auf der Reise zugestoßen</span>? <br>
+<br>
+
+<hi rend="bold">Der Bediente:</hi> <span id="1771" class="phrase">Je, nun</span>! <span id="1894" class="phrase">Wir sind im Hohlweg umgeworfen</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Pest! Mein geschundner Fuß! <span id="1895" class="phrase">Ich krieg die Stiefeln</span> - <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Ei, <span id="1896" class="phrase">du mein Himmel</span>! Umgeworfen, sagt Ihr?<br>
+Doch keinen Schaden weiter -? <br>
+<br>
+
+<hi rend="bold">Der Bediente:</hi> <span id="2643" class="phrase">Nichts von Bedeutung</span>.<br>
+Der Herr verstauchte sich die Hand ein wenig.<br>
+Die Deichsel brach. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1897" class="phrase">Dass er den Hals gebrochen</span>! <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Die Hand verstaucht! Ei, <span id="2644" class="phrase">Herr Gott</span>! Kam der Schmied schon? <br>
+<br>
+
+<hi rend="bold">Der Bediente:</hi> Ja, für die Deichsel. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Was? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ihr meint, der Doktor. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Was? <br>
+<br>
+
+<hi rend="bold">Der Bediente:</hi> Für die Deichsel? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2645" class="phrase">Ach, was</span>! Für die Hand. <br>
+<br>
+
+<hi rend="bold">Der Bediente:</hi> Adies, ihr Herrn. - Ich glaub, die Kerls sind toll.<br>
+<stage>[ab.]</stage> <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Den Schmied meint ich. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1898" class="phrase">Ihr gebt Euch bloß</span>, Gevatter. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Wieso? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1899" class="phrase">Ihr seid verlegen</span>. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Was! <br>
+<br>
+
+<stage>[Die erste Magd <span id="auftreten" class="alt">tritt auf</span>.}</stage> <br>
+<br>
+
+<hi rend="bold">Adam:</hi> He! Liese!<br>
+Was hast du da? <br>
+<br>
+
+<hi rend="bold">Erste Magd:</hi> Braunschweiger Wurst, Herr Richter. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Das sind Pupillenakten. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Ich, <span id="1900" class="phrase">verlegen</span>! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1901" class="phrase">Die kommen wieder zur Registratur</span>. <br>
+<br>
+
+<hi rend="bold">Erste Magd:</hi> Die Würste? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Würste! Was! Der Einschlag hier. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Es war ein Missverständnis. <br>
+<br>
+
+<hi rend="bold">Die zweite Magd</hi><stage>[ <span id="auftreten" class="alt">tritt auf</span>]</stage>: Im Bücherschrank,<br>
+Herr Richter, find ich die Perücke nicht. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Warum nicht? <br>
+<br>
+
+<hi rend="bold">Zweite Magd:</hi> Hm! Weil Ihr - <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Nun? <br>
+<br>
+
+<hi rend="bold">Zweite Magd:</hi> Gestern abend -
+
+Glock elf - <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Nun? <span id="1902" class="phrase">Werd ich's hören</span>? <br>
+<br>
+
+<hi rend="bold">Zweite Magd:</hi> Ei, Ihr kamt ja,<br>
+<span id="1903" class="phrase">Besinnt Euch</span>, ohne die Perück ins Haus. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ich, ohne die Perücke? <br>
+<br>
+
+<hi rend="bold">Zweite Magd:</hi> In der Tat.<br>
+Da ist die Liese, <span id="1745" class="phrase">die's bezeugen kann</span>.<br>
+Und Eure andr ist beim Perückenmacher. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ich wär -? <br>
+<br>
+
+<hi rend="bold">Erste Magd:</hi> Ja, <span id="1904" class="phrase">meiner Treu</span>, Herr Richter Adam!<br>
+Kahlköpfig <span id="bin" class="alt">wart</span> Ihr, als Ihr wiederkamt;<br>
+Ihr spracht, Ihr wärt gefallen, wisst Ihr nicht?<br>
+Das Blut musst ich Euch noch vom Kopfe waschen. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1905" class="phrase">Die Unverschämte</span>! <br>
+<br>
+
+<hi rend="bold">Erste Magd:</hi> <span id="1906" class="phrase">Ich will nicht ehrlich sein</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1907" class="phrase">Halt's Maul</span>, sag ich, <span id="1908" class="phrase">es ist kein wahres Wort</span>. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Habt Ihr die Wund <span id="1909" class="phrase">seit</span> gestern schon? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Nein, heut.<br>
+Die Wunde heut und gestern die Perücke.<br>
+Ich trug sie <span id="1910" class="phrase">weiß gepudert</span> auf dem Kopfe,<br>
+<span id="1911" class="phrase">Und nahm sie mit dem Hut, auf Ehre, bloß</span>,<br>
+<span id="1911" class="phrase">Als ich ins Haus trat, aus Versehen ab</span>.<br>
+Was die gewaschen hat, das weiß ich nicht.<br>
+- <span id="1912" class="phrase">Scher dich zum Satan, wo du hingehörst</span>!<br>
+In die Registratur! <stage>[Erste Magd ab.]</stage> <br>
+Geh, Margarete!<br>
+Gevatter Küster soll mir <span id="1913" class="phrase">seine</span> borgen;<br>
+In meine hätt die Katze heute morgen<br>
+Gejungt, das Schwein! Sie läge eingesäuet<br>
+Mir unterm Bette da, ich weiß nun schon. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Die Katze? Was? Seid Ihr -? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1914" class="phrase">So wahr ich lebe</span>.<br>
+Fünf Junge, gelb und schwarz, und eins ist weiß.<br>
+Die schwarzen will ich <span id="1915" class="phrase">in der Vecht ersäufen</span>.<br>
+Was soll man machen? Wollt Ihr eine haben? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> In die Perücke? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1916" class="phrase">Der Teufel soll mich holen</span>!<br>
+Ich hatte die Perücke aufgehängt,<br>
+Auf einen Stuhl, <span id="2646" class="phrase">da ich zu Bette ging</span>,<br>
+Den Stuhl berühr ich in der Nacht, sie fällt - <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Drauf nimmt die Katze sie ins Maul - <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2647" class="phrase">Mein Seel</span> - <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Und trägt sie unters Bett und jungt darin. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ins Maul? Nein - <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Nicht? Wie sonst? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Die Katz? <span id="2607" class="phrase">Ach, was</span>! <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Nicht? Oder Ihr vielleicht? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ins Maul! Ich glaube<br>
+<span id="1932" class="phrase">Ich stieß sie mit dem Fuße heut hinunter</span>,<br>
+<span id="2648" class="phrase">Als ich es sah</span>. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Gut, gut. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2605" class="phrase">Kanaillen die</span>!<br>
+<span id="2606" class="phrase">Die balzen sich</span> und jungen, wo ein Platz ist. <br>
+<br>
+
+<hi rend="bold">Zweite Magd</hi> <stage>[kichernd]</stage>: <span id="2649" class="phrase">Soll ich hingehn</span>? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ja, und <span id="1937" class="phrase">meinen Gruß</span><br>
+<span id="1937" class="phrase">An Muhme Schwarzgewand, die Küsterin</span>.<br>
+Ich <span id="zurückschicken" class="alt">schickt</span> ihr die Perücke unversehrt<br>
+Noch heut <span id="zurückschicken" class="alt">zurück</span>, ihm brauchst du nichts zu sagen.<br>
+Verstehst du mich? <br>
+<br>
+
+<hi rend="bold">Zweite Magd:</hi> <span id="1933" class="phrase">Ich werd es schon bestellen</span>.<br>
+<stage>[ab.]</stage> <br>
+<br></div>
+<div type="section">
+<hi rend="bold"><span id="2639" class="phrase">Dritter</span> Auftritt
+</hi><br>
+<br>
+
+<stage>Adam und Licht</stage>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1934" class="phrase">Mir ahndet heut nichts Guts</span>, Gevatter Licht. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Warum? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1935" class="phrase">Es geht bunt alles über Ecke mir</span>.<br>
+Ist nicht auch heut Gerichtstag? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Allerdings.<br>
+Die Kläger stehen vor der Türe schon. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> - <span id="1936" class="phrase">Mir träumt'</span>, es hätt ein Kläger mich ergriffen<br>
+Und schleppte vor den Richtstuhl mich; und ich,<br>
+Ich säße gleichwohl auf dem Richtstuhl dort,<br>
+Und <span id="2650" class="phrase">schält' und hunzt' und schlingelte mich herunter</span>,<br>
+Und <span id="1938" class="phrase">judiziert' den Hals ins Eisen mir</span>. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Wie? Ihr Euch selbst? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1939" class="phrase">So wahr ich ehrlich bin</span>.<br>
+<span id="1940" class="phrase">Drauf wurden beide wir zu eins</span>, und flohn,<br>
+Und mussten <span id="1941" class="phrase">in den Fichten</span> übernachten. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Nun? Und der Traum, meint Ihr -? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2651" class="phrase">Der Teufel hols</span>.<br>
+<span id="1942" class="phrase">Wenn's auch der Traum nicht ist</span>: <span id="1943" class="phrase">ein Schabernack</span>,<br>
+<span id="1943" class="phrase">Sei's, wie es woll</span><span id="1943" class="phrase">, ist wider mich im Werk!</span> <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Die läpp'sche Furcht! <span id="1944" class="phrase">Gebt Ihr nur</span> vorschriftsmäßig,<br>
+Wenn der Gerichtsrat gegenwärtig ist,<br>
+<span id="1944" class="phrase">Recht den Parteien</span> auf dem Richterstuhle,<br>
+Damit der Traum <span id="1945" class="phrase">vom ausgehunzten Richter</span>
+<br>
+<span id="1946" class="phrase">Auf andre Art nicht in Erfüllung geht</span>. <br>
+<br></div>
+<div type="section">
+<hi rend="bold">Vierter Auftritt
+</hi><br>
+<br>
+
+<stage>[Der Gerichtsrat Walter <span id="auftreten" class="alt">tritt auf</span>. Die Vorigen.]</stage>
+<br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="1947" class="phrase">Gott grüß Euch</span>, Richter Adam. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ei, willkommen!<br>
+Willkommen, <span id="gnädig" class="alt">gnäd'ger</span> Herr, in <span id="unser" class="alt">unserm</span> Huisum!<br>
+Wer konnte, <span id="1948" class="phrase">du gerechter Gott</span>, <span id="1949" class="phrase">wer konnte</span>
+<br>
+<span id="1949" class="phrase">So freudigen Besuches sich gewärt'gen</span>.<br>
+<span id="1950" class="phrase">Kein Traum, der heute früh Glock achte noch</span>
+<br>
+<span id="1950" class="phrase">Zu solchem Glücke sich versteigen durfte</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ich komm ein wenig schnell, ich weiß; und muss<br>
+<span id="1951" class="phrase">Auf dieser Reis', in unsrer Staaten Dienst</span>,<br>
+Zufrieden sein, <span id="1952" class="phrase">wenn meine Wirte mich</span>
+<br>
+<span id="1952" class="phrase">Mit wohlgemeintem Abschiedsgruß entlassen</span>.<br>
+Inzwischen ich, <span id="1953" class="phrase">was meinen Gruß betrifft</span>,<br>
+<span id="1954" class="phrase">Ich mein's von Herzen gut, schon wenn ich komme</span>.<br>
+Das Obertribunal in Utrecht will<br>
+<span id="1955" class="phrase">Die Rechtspfleg auf dem platten Land</span> verbessern,<br>
+Die mangelhaft von mancher Seite scheint,<br>
+Und <span id="1956" class="phrase">strenge Weisung hat der Missbrauch zu erwarten</span>.<br>
+Doch mein Geschäft auf dieser <span id="Reise" class="alt">Reis</span>' ist noch<br>
+Ein strenges nicht, sehn soll ich bloß, nicht strafen,<br>
+Und find ich gleich nicht alles, <span id="1958" class="phrase">wie es soll</span>,<br>
+Ich freue mich, wenn es erträglich ist. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Fürwahr, so edle Denkart muss man loben.<br>
+<span id="Gnade" class="alt">Euer Gnaden</span> werden <span id="1957" class="phrase">hie und da</span>, nicht <span id="zweifeln" class="alt">zweifl</span>' ich,<br>
+<span id="1959" class="phrase">Den alten Brauch im Recht zu tadeln wissen</span>;<br>
+<span id="2652" class="phrase">Und wenn er in den Niederlanden gleich</span><br>
+<span id="2652" class="phrase">Seit Kaiser Karl dem Fünften schon besteht</span>:<br>
+Was lässt sich in Gedanken nicht erfinden?<br>
+Die Welt, sagt unser Sprichwort, wird stets klüger,<br>
+Und <span id="1960" class="phrase">alles</span> liest, ich weiß, den Puffendorf;<br>
+Doch Huisum ist ein kleiner Teil der Welt,<br>
+<span id="1961" class="phrase">Auf den nicht mehr, nicht minder, als sein Teil nur</span>
+<br>
+<span id="1961" class="phrase">Kann von der allgemeinen Klugheit kommen</span>.<br>
+<span id="aufklären" class="alt">Klärt</span> die Justiz in Huisum gütigst <span id="aufklären" class="alt">auf</span>,<br>
+Und überzeugt Euch, <span id="gnädig" class="alt">gnäd'ger</span> Herr, <span id="1962" class="phrase">Ihr habt</span>
+<br>
+<span id="1962" class="phrase">Ihr noch so bald den Rücken nicht gekehrt</span>,<br>
+<span id="1962" class="phrase">Als sie auch völlig Euch befried'gen wird</span>;<br>
+Doch fändet Ihr sie heut im Amte schon,<br>
+Wie Ihr es wünscht, <span id="2653" class="phrase">mein Seel</span>, so wär's ein Wunder,<br>
+Da sie nur dunkel weiß noch, was Ihr wollt. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="1963" class="phrase">Es fehlt an Vorschriften</span>, <span id="1964" class="phrase">ganz recht</span>. Vielmehr<br>
+Es sind zu <span id="vielem" class="alt">viel</span>, man wird sie sichten müssen. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ja, durch ein großes Sieb. Viel Spreu! Viel Spreu! <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Das ist dort der Herr Schreiber? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Der Schreiber Licht,<br>
+<span id="1965" class="phrase">Zu Eurer Gnaden Diensten</span>. <span id="1966" class="phrase">Pfingsten</span>
+<br>
+<span id="1966" class="phrase">Neun Jahre, dass ich im Justizamt bin</span>. <br>
+<br>
+
+<hi rend="bold">Adam</hi> <stage>[bringt einen Stuhl]</stage>: <span id="1967" class="phrase">Setzt Euch</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="1753" class="phrase">Lasst sein</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ihr kommt von Holla schon. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Zwei kleine <span id="1968" class="phrase">Meilen</span> - Woher wisst Ihr das? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Woher? Euer Gnaden Diener - <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Ein Bauer <span id="sagen" class="alt">sagt</span>' es,<br>
+Der eben jetzt von Holla eingetroffen. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ein Bauer? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Aufzuwarten. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> - Ja! <span id="zutragen" class="alt">Es trug sich</span>
+<br>
+Dort ein unangenehmer Vorfall <span id="zutragen" class="alt">zu</span>,<br>
+Der mir die <span id="heiter" class="alt">heitre</span> Laune störte,<br>
+Die in Geschäften uns begleiten soll. -<br>
+<span id="1969" class="phrase">Ihr werdet davon unterrichtet sein</span>? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Wär's wahr, <span id="1971" class="phrase">gestrenger Herr</span>? Der Richter Pfaul,<br>
+<span id="1970" class="phrase">Weil er Arrest in seinem Haus empfing</span>,<br>
+<span id="1972" class="phrase">Verzweiflung hätt den Toren überrascht</span>,<br>
+Er <span id="aufhängen" class="alt">hing sich auf</span>? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Und <span id="1973" class="phrase">machte Übel ärger</span>.<br>
+Was nur Unordnung schien, Verworrenheit,<br>
+<span id="1974" class="phrase">Nimmt jetzt den Schein an der Veruntreuung</span>,<br>
+Die das Gesetz, Ihr <span id="wissen" class="alt">wisst's</span>, <span id="1975" class="phrase">nicht mehr verschont</span>. -<br>
+Wie viele Kassen habt Ihr? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Fünf, <span id="1976" class="phrase">zu dienen</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Wie, fünf? <span id="1783" class="phrase">Ich stand im Wahn</span> - Gefüllte Kassen?<br>
+<span id="1783" class="phrase">Ich stand im Wahn</span>, dass Ihr nur vier - <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Verzeiht!<br>
+Mit der <span id="1977" class="phrase">Rhein-Inundations-Kollekten-Kasse</span>? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Mit der <span id="1978" class="phrase">Inundations-Kollekten-Kasse</span>!<br>
+Doch jetzo ist der Rhein nicht inundiert,<br>
+Und <span id="1979" class="phrase">die Kollekten gehn mithin nicht ein</span>.<br>
+- Sagt doch, Ihr habt ja wohl Gerichtstag heut? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ob wir -? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Was? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Ja, <span id="1980" class="phrase">den ersten in der Woche</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Und jene Schar von Leuten, die ich draußen<br>
+Auf Eurem Flure sah, sind das -? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Das werden - <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Die Kläger <span id="sind" class="alt">sinds</span>, die <span id="versammeln" class="alt">sich</span> bereits versammeln. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Gut. Dieser Umstand <span id="1981" class="phrase">ist mir lieb</span>, ihr Herren.<br>
+Lasst diese Leute, <span id="1982" class="phrase">wenn's beliebt</span>, erscheinen.<br>
+Ich <span id="beiwohnen" class="alt">wohne</span> dem Gerichtsgang <span id="beiwohnen" class="alt">bei</span>; ich sehe,<br>
+Wie <span id="1983" class="phrase">er</span> in Eurem Huisum üblich ist.<br>
+<span id="1984" class="phrase">Wir nehmen die Registratur, die Kassen</span>
+<br>
+<span id="1984" class="phrase">Nachher, wenn diese Sache abgetan</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1985" class="phrase">Wie Ihr befehlt</span>. - Der Büttel! He! Hanfriede! <br>
+<br></div>
+<div type="section">
+<hi rend="bold">Fünfter Auftritt
+</hi><br>
+<br>
+
+<stage>[Die zweite Magd <span id="auftreten" class="alt">tritt auf</span>. Die Vorigen.]</stage> <br>
+<br>
+
+<hi rend="bold">Zweite Magd:</hi> Gruß von <span id="1986" class="phrase">Frau Küsterin</span>, Herr Richter Adam;<br>
+<span id="1987" class="phrase">So gern sie die Perück' Euch auch</span> - <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Wie? Nicht? <br>
+<br>
+
+<hi rend="bold">Zweite Magd:</hi> Sie sagt, es wäre Morgenpredigt heute;<br>
+Der Küster <span id="1988" class="phrase">hätte selbst die eine auf</span>,<br>
+Und <span id="1989" class="phrase">seine andre</span> wäre unbrauchbar,<br>
+Sie sollte heut zu dem Perückenmacher. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Verflucht! <br>
+<br>
+
+<hi rend="bold">Zweite Magd:</hi> Sobald der Küster wieder kömmt,<br>
+Wird sie jedoch sogleich Euch seine schicken. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Auf meine Ehre, gnäd'ger Herr - <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="1990" class="phrase">Was gibt's</span>? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ein Zufall, ein verwünschter, <span id="1991" class="phrase">hat um beide</span>
+<br>
+<span id="1991" class="phrase">Perücken mich gebracht</span>. Und jetzt <span id="ausbleiben" class="alt">bleibt</span> mir<br>
+Die dritte <span id="ausbleiben" class="alt">aus</span>, die ich mir leihen wollte:<br>
+Ich muss kahlköpfig <span id="1992" class="phrase">den Gerichtstag halten</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Kahlköpfig! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ja, beim <span id="ewig" class="alt">ew'gen</span> Gott! <span id="1993" class="phrase">So sehr</span>
+<br>
+<span id="1993" class="phrase">Ich ohne der Perücke Beistand um</span>
+<br>
+<span id="1993" class="phrase">Mein Richteransehn auch verlegen bin</span>.<br>
+- Ich müsst es auf dem Vorwerk noch versuchen,<br>
+Ob mir vielleicht der Pächter -? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Auf dem Vorwerk!<br>
+Kann <span id="1994" class="phrase">jemand anders</span> hier im Orte nicht -? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Nein, <span id="Tat" class="alt">in der Tat</span> - <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Der Prediger vielleicht. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Der Prediger? Der - <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Oder Schulmeister. <br>
+<br>
+
+<hi rend="bold">Adam:</hi><span id="1995" class="phrase"> Seit der Sackzehnte abgeschafft</span>, Euer Gnaden,<br>
+<span id="1996" class="phrase">Wozu ich hier im Amte mitgewirkt</span>,<br>
+<span id="1997" class="phrase">Kann ich auf beider Dienste nicht mehr rechnen</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Nun, Herr Dorfrichter? Nun? Und der Gerichtstag?<br>
+Denkt Ihr zu warten, <span id="2001" class="phrase">bis die Haar Euch wachsen</span>? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ja, wenn Ihr mir erlaubt, schick ich aufs Vorwerk. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> - Wie weit ist's auf das Vorwerk? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ei! Ein kleines Halbstündchen. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Eine halbe Stunde, was!<br>
+<span id="1998" class="phrase">Und Eurer Sitzung Stunde schlug bereits</span>.<br>
+<span id="1999" class="phrase">Macht fort</span>! Ich muss noch heut nach Hussahe. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2000" class="phrase">Macht fort</span>! ja - <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ei, so <span id="einpudern" class="alt">pudert</span> Euch den Kopf <span id="einpudern" class="alt">ein</span>!<br>
+Wo Teufel auch, wo ließt Ihr die Perücken?<br>
+- <span id="2654" class="phrase">Helft Euch, so gut Ihr könnt</span>. Ich habe Eile. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Auch das. <stage>[Der Büttel <span id="auftreten" class="alt">tritt auf</span>.]</stage>
+<br>
+Hier ist der Büttel! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Kann ich inzwischen<br>
+Mit einem guten Frühstück, Wurst aus Braunschweig,<br>
+Ein Gläschen Danziger etwa - <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Danke sehr. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2002" class="phrase">Ohn Umständ</span>! <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Dank, Ihr hört's, <span id="2003" class="phrase">hab's schon genossen</span>.<br>
+Geht Ihr, und <span id="nutzen" class="alt">nutzt</span> die Zeit, ich brauche sie,<br>
+In meinem Büchlein etwas mir zu merken. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Nun, wenn Ihr so befehlt - Komm, Margarete! <br>
+<br>
+
+<hi rend="bold">Walter:</hi> - Ihr seid ja bös verletzt, Herr Richter Adam.<br>
+Seid Ihr gefallen? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> - <span id="2004" class="phrase">Hab einen wahren Mordschlag</span>
+<br>
+Heut früh, als ich dem Bett entstieg,<span id="2004" class="phrase"> getan</span>:<br>
+Seht, gnäd'ger Herr Gerichtsrat, <span id="2005" class="phrase">einen Schlag</span>
+<br>
+<span id="2005" class="phrase">Ins Zimmer hin, ich glaubt, es wär ins Grab</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="2006" class="phrase">Das tut mir leid</span>. - Es wird doch weiter nicht<br>
+<span id="Folgen" class="alt">Von Folgen</span> sein? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ich denke nicht. Und auch<br>
+In meiner Pflicht soll's weiter mich nicht stören. Erlaubt! <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="gehen" class="alt">Geht</span>, <span id="gehen" class="alt">geht</span>! <br>
+<hi rend="bold">Adam</hi> <stage>[zum Büttel]</stage>: Die Kläger <span id="rufen" class="alt">rufst</span> du - Marsch! <br>
+<stage>[Adam, die Magd und der Büttel ab.]</stage> <br>
+<br></div>
+<div type="section">
+<hi rend="bold">Sechster Auftritt
+</hi><br>
+<br>
+
+<stage>[Frau Marthe, Eve, Veit und Ruprecht <span id="auftreten" class="alt">treten auf</span>. - Walter und Licht im Hintergrunde.]</stage> <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Ihr <span id="2007" class="phrase">krugzertrümmerndes Gesindel</span>, ihr!<br>
+<span id="2008" class="phrase">Ihr sollt mir büßen</span>, ihr! <br>
+<br>
+
+<hi rend="bold">Veit:</hi> Sei <span id="2011" class="phrase">Sie</span> nur ruhig,<br>
+Frau Marth! <span id="2609" class="phrase">Es wird sich alles hier entscheiden</span>. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> O ja. Entscheiden. Seht doch! Den Klugschwätzer!<br>
+Den Krug mir, den zerbrochenen, entscheiden!<br>
+Wer wird mir den geschiednen Krug entscheiden?<br>
+Hier wird entschieden werden, dass geschieden<br>
+Der Krug mir bleiben soll. Für so'n Schiedsurteil<br>
+Geb ich noch die geschiednen Scherben nicht. <br>
+<br>
+
+<hi rend="bold">Veit:</hi> Wenn <span id="2012" class="phrase">Sie</span> <span id="2009" class="phrase">sich Recht erstreiten</span> kann, <span id="2010" class="phrase">Sie hört's</span>,<br>
+Ersetz ich ihn. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> <span id="2015" class="phrase">Er</span> mir den Krug ersetzen.<br>
+Wenn ich <span id="2020" class="phrase">mir Recht erstreiten</span> kann, ersetzen.<br>
+<span id="hinsetzen" class="alt">Setz</span> <span id="2016" class="phrase">Er</span> den Krug mal <span id="hinsetzen" class="alt">hin</span>, versuch Er's mal,<br>
+<span id="hinsetzen" class="alt">Setz</span> <span id="2017" class="phrase">Er'n</span> mal <span id="hinsetzen" class="alt">hin</span> auf das Gesims! Ersetzen!<br>
+Den Krug, der kein Gebein zum Stehen hat,<br>
+Zum Liegen oder Sitzen hat, ersetzen! <br>
+<br>
+
+<hi rend="bold">Veit:</hi> <span id="2013" class="phrase">Sie</span> hört's! Was geifert <span id="2014" class="phrase">Sie</span>? Kann man mehr tun?<br>
+<span id="2021" class="phrase">Wenn einer Ihr von uns den Krug zerbrochen</span>,<br>
+Soll Sie entschädigt werden. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Ich entschädigt!<br>
+Als ob <span id="2023" class="phrase">ein Stück von meinem Hornvieh</span> spräche.<br>
+Meint <span id="2018" class="phrase">Er</span>, dass die Justiz ein Töpfer ist?<br>
+Und kämen die Hochmögenden und <span id="2024" class="phrase">bänden</span>
+<br>
+<span id="2024" class="phrase">Die Schürze vor</span>, und trügen ihn <span id="2025" class="phrase">zum Ofen</span>,<br>
+Die könnten <span id="2026" class="phrase">sonst was</span> in den Krug mir tun,<br>
+Als ihn entschädigen. Entschädigen! <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Lass <span id="2019" class="phrase">Er</span> sie, Vater. Folg <span id="2022" class="phrase">Er</span> mir. Der Drache!<br>
+'s ist der zerbrochne Krug nicht, der sie wurmt,<br>
+Die Hochzeit ist es, die ein Loch bekommen,<br>
+Und mit Gewalt hier denkt sie sie zu flicken.<br>
+<span id="2027" class="phrase">Ich aber setze noch den Fuß eins drauf:</span>
+<br>
+Verflucht bin ich, wenn ich die Metze nehme. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Der eitle Flaps! Die Hochzeit ich hier flicken!<br>
+<span id="2028" class="phrase">Die Hochzeit, nicht des Flickdrahts, unzerbrochen</span>,<br>
+<span id="2028" class="phrase">Nicht Einen von des Kruges Scherben wert</span>.<br>
+Und stünd die Hochzeit blankgescheuert vor mir,<br>
+Wie noch der Krug auf dem Gesimse gestern,<br>
+So fasst ich sie beim Griff jetzt mit den Händen,<br>
+Und schlüg sie gellend Ihm am Kopf entzwei,<br>
+Nicht aber hier die Scherben möcht ich flicken!<br>
+Sie flicken! <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Ruprecht! <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Fort, du -! <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Liebster Ruprecht! <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Mir aus den Augen! <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Ich beschwöre dich. <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Die liederliche -! <span id="2092" class="phrase">Ich mag nicht sagen</span>, was. <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Lass mich ein einz'ges Wort dir heimlich - <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Nichts! <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Du gehst zum Regimente jetzt, o Ruprecht,<br>
+Wer weiß, <span id="2655" class="phrase">wenn du erst die Muskete trägst</span>,<br>
+Ob ich dich je im Leben wieder sehe.<br>
+<span id="2656" class="phrase">Krieg ist's</span>, bedenke, Krieg, <span id="2029" class="phrase">in den du ziehst:</span>
+<br>
+Willst du mit solchem Grolle von mir scheiden? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Groll? Nein, <span id="2030" class="phrase">bewahr mich Gott</span>, das will ich nicht.<br>
+Gott schenk dir so viel Wohlergehn, als er<br>
+Erübrigen kann. Doch <span id="zurückkehren" class="alt">kehrt</span> ich aus dem Kriege<br>
+Gesund, <span id="2031" class="phrase">mit erzgegossnem Leib</span> <span id="zurückkehren" class="alt">zurück</span>,<br>
+Und würd in Huisum achtzig Jahre alt,<br>
+So sagt ich noch im Tode zu dir: Metze!<br>
+Du willst's ja selber vor Gericht beschwören. <br>
+<hi rend="bold">Frau Marthe</hi> <stage>zu Eve</stage>.<br>
+Hinweg! Was sagt ich dir? Willst du dich noch<br>
+Beschimpfen lassen? <span id="2032" class="phrase">Der Herr Korporal</span>
+<br>
+Ist was für dich, der würd'ge Holzgebein,<br>
+<span id="2033" class="phrase">Der seinen Stock im Militär geführt</span>,<br>
+Und nicht dort der Maulaffe, <span id="2034" class="phrase">der dem Stock</span>
+<br>
+<span id="2034" class="phrase">Jetzt seinen Rücken bieten wird</span>. Heut ist<br>
+Verlobung, Hochzeit, wäre Taufe heute,<br>
+Es wär mir recht, und mein Begräbnis leid ich,<br>
+<span id="2035" class="phrase">Wenn ich dem Hochmut erst den Kamm zertreten</span>,<br>
+<span id="2035" class="phrase">Der mir bis an die Krüge schwillet</span>. <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Mutter!<br>
+<span id="2610" class="phrase">Lasst doch den Krug</span>! Lasst mich doch in der Stadt versuchen,<br>
+Ob ein geschickter Handwerksmann die Scherben<br>
+Nicht wieder <span id="2036" class="phrase">Euch zur Lust</span> zusammenfügt.<br>
+Und <span id="2037" class="phrase">wär's um ihn geschehn</span>, nehmt <span id="meines" class="alt">meine</span> ganze<br>
+Sparbüchse hin, und kauft Euch einen neuen.<br>
+Wer wollte doch <span id="2038" class="phrase">um einen irdnen Krug</span>,<br>
+<span id="2039" class="phrase">Und stammt' er von Herodes' Zeiten her</span>,<br>
+Solch einen Aufruhr, so viel Unheil stiften. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Du sprichst, wie du's verstehst. Willst du etwa<br>
+Die Fiedel tragen, Evchen, in der Kirche<br>
+Am nächsten Sonntag reuig Buße tun?<br>
+Dein guter Name lag in diesem Topfe,<br>
+<span id="2040" class="phrase">Und vor der Welt mit ihm ward er zerstoßen</span>,<br>
+<span id="2041" class="phrase">Wenn auch vor Gott nicht, und vor mir und dir</span>.<br>
+Der Richter ist mein Handwerksmann, der Scherge,<br>
+Der Block ist's, Peitschenhiebe, <span id="2042" class="phrase">die es braucht</span>,<br>
+<span id="2043" class="phrase">Und auf den Scheiterhaufen das Gesindel</span>,<br>
+<span id="2044" class="phrase">Wenn's unsre Ehre weiß zu brennen gilt</span>,<br>
+<span id="2045" class="phrase">Und diesen Krug hier wieder zu glasieren</span>. <br>
+<br></div>
+<div type="section">
+<hi rend="bold">Siebenter Auftritt
+</hi><br>
+<br>
+
+<stage>[Adam im Ornat, doch ohne Perücke, <span id="auftreten" class="alt">tritt auf</span>. Die Vorigen.]</stage> <br>
+<br>
+
+<hi rend="bold">Adam</hi> <stage>[<span id="2046" class="phrase">für sich</span>]:</stage> Ei, Evchen. Sieh! Und <span id="2047" class="phrase">der vierschröt'ge Schlingel</span>,<br>
+Der Ruprecht! Ei, was Teufel, sieh! die ganze Sippschaft!<br>
+- <span id="2048" class="phrase">Die werden mich doch nicht bei mir verklagen</span>? <br>
+<br>
+
+<hi rend="bold">Eve:</hi> O liebste Mutter, folgt mir, ich beschwör Euch,<br>
+Lasst diesem Unglückszimmer uns entfliehen! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Gevatter! Sagt mir doch, was bringen <span id="1750" class="phrase">die</span>? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Was weiß ich? <span id="2049" class="phrase">Lärm um nichts</span>; Lappalien.<br>
+Es ist ein Krug zerbrochen worden, hör ich. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ein Krug! So! Ei! - Ei, wer zerbrach den Krug? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Wer ihn zerbrochen? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ja, Gevatterchen. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> <span id="2658" class="phrase">Mein Seel</span>, <span id="2050" class="phrase">setzt Euch:</span> <span id="2657" class="phrase">so werdet Ihrs erfahren</span>. <br>
+<br>
+
+<hi rend="bold">Adam</hi> <stage>[heimlich]</stage>: Evchen! <br>
+<br>
+
+<hi rend="bold">Eve</hi> <stage>[gleichfalls:]</stage> <span id="1770" class="phrase">Geh</span> <span id="2063" class="phrase">Er</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ein Wort. <br>
+<br>
+
+<hi rend="bold">Eve:</hi> <span id="2659" class="phrase">Ich will nichts wissen</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Was bringt ihr mir? <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Ich sag <span id="2051" class="phrase">Ihm</span>, <span id="2052" class="phrase">Er</span> soll gehn. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Evchen! Ich bitte dich! Was soll mir das bedeuten? <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Wenn <span id="2053" class="phrase">Er</span> nicht gleich -! Ich sag's <span id="2054" class="phrase">Ihm</span>, lass <span id="2055" class="phrase">Er</span> mich. <br>
+<br>
+
+<hi rend="bold">Adam</hi> <stage>[zu Licht]</stage>: Gevatter, hört, <span id="2658" class="phrase">mein Seel</span>, ich <span id="aushalten" class="alt">halt's</span> nicht <span id="aushalten" class="alt">aus</span>.<br>
+Die Wund am Schienbein <span id="2060" class="phrase">macht mir Übelkeiten;</span>
+<br>
+<span id="2061" class="phrase">Führt Ihr die Sach</span>, ich will zu Bette gehn. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Zu Bett -? Ihr wollt -? Ich glaub, Ihr seid verrückt. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2660" class="phrase">Der Henker hols</span>. Ich muss mich übergeben. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Ich glaub, Ihr rast, im Ernst. <span id="2062" class="phrase">Soeben kommt Ihr</span> -?<br>
+- Meinethalben. Sagt's dem Herrn Gerichtsrat dort.<br>
+Vielleicht erlaubt ers. - Ich weiß nicht, <span id="2661" class="phrase">was Euch fehlt</span>. <br>
+<br>
+
+<hi rend="bold">Adam</hi> <stage>[wieder zu Even]:</stage> Evchen! Ich flehe dich! Um alle Wunden!<br>
+Was ist's, das ihr mir bringt? <br>
+<br>
+
+<hi rend="bold">Eve:</hi> <span id="2056" class="phrase">Er</span> wird's schon hören. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ist's nur der Krug dort, den die Mutter <span id="halten" class="alt">hält</span>,<br>
+Den ich, soviel -? <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Ja, der zerbrochne Krug nur. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Und weiter nichts? <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Nichts weiter. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Nichts? Gewiss nichts? <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Ich sag <span id="2057" class="phrase">Ihm</span>, geh <span id="2058" class="phrase">Er</span>. <span id="2064" class="phrase">Lass Er mich zufrieden</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Hör du, bei Gott, sei klug, ich rat es dir. <br>
+<br>
+
+<hi rend="bold">Eve:</hi> <span id="2059" class="phrase">Er</span> Unverschämter! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> In dem Attest steht<br>
+Der Name jetzt, Frakturschrift, Ruprecht Tümpel.<br>
+Hier trag ich's <span id="2065" class="phrase">fix und fertig</span> in der Tasche;<br>
+Hörst du es knackern, Evchen? Sieh, das kannst du,<br>
+<span id="2066" class="phrase">Auf meine Ehr</span>, <span id="2067" class="phrase">heut übers Jahr</span> dir holen,<br>
+<span id="2068" class="phrase">Dir Trauerschürz und Mieder zuzuschneiden</span>,<br>
+Wenn's heißt: der Ruprecht in Batavia<br>
+Krepiert'- ich weiß <span id="2078" class="phrase">an welchem</span> Fieber nicht,<br>
+War's <span id="2069" class="phrase">gelb</span>, war's <span id="2070" class="phrase">scharlach</span>, oder war es <span id="2071" class="phrase">faul</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Sprecht nicht mit den Parteien, Herr Richter Adam,<br>
+Vor der Session! Hier setzt Euch, und befragt sie. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Was sagt er? - Was befehlen Euer Gnaden? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Was ich befehl? - Ich sagte deutlich Euch,<br>
+Dass Ihr nicht heimlich vor der Sitzung sollt<br>
+Mit den Parteien <span id="zweideutig" class="alt">zweideut'ge</span> <span id="2072" class="phrase">Sprache führen</span>.<br>
+Hier ist der Platz, <span id="2073" class="phrase">der Eurem Amt gebührt</span>,<br>
+Und <span id="2074" class="phrase">öffentlich Verhör</span>, was ich erwarte. <br>
+<br>
+
+<hi rend="bold">Adam</hi> <stage>[<span id="1757" class="phrase">für sich</span>]</stage>: Verflucht! Ich kann mich nicht <span id="entschließen" class="alt">dazu</span> entschließen -!<br>
+<span id="2076" class="phrase">Es klirrte etwas, da ich Abschied nahm</span> - <br>
+<br>
+
+<hi rend="bold">Licht</hi> <stage>[ihn aufschreckend]:</stage> Herr Richter! Seid Ihr -! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ich? <span id="2077" class="phrase">Auf Ehre</span> nicht!<br>
+Ich hatte sie behutsam drauf gehängt,<br>
+Und <span id="2662" class="phrase">müsst' ein Ochs gewesen sein</span> - <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Was? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Was? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Ich fragte -! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ihr fragtet, ob ich -? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Ob Ihr taub seid, fragt ich.<br>
+Dort <span id="2079" class="phrase">Sr. Gnaden</span> haben Euch gerufen. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ich glaubte -! Wer ruft? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Der Herr Gerichtsrat dort. <br>
+<br>
+
+<hi rend="bold">Adam</hi> <stage>[<span id="2075" class="phrase">für sich</span>]:</stage> Ei! <span id="2080" class="phrase">Hol's der Henker auch</span>! Zwei <span id="2081" class="phrase">Fälle</span> gibt's,<br>
+<span id="2663" class="phrase">Mein Seel</span>, nicht mehr, und wenn's nicht biegt, so bricht's.<br>
+- Gleich! Gleich! Gleich! Was befehlen Euer Gnaden?<br>
+Soll jetzt die Prozedur beginnen? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ihr seid ja sonderbar zerstreut. <span id="2082" class="phrase">Was fehlt Euch</span>? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> - <span id="1776" class="phrase">Auf Ehr</span>! Verzeiht. Es hat ein Perlhuhn mir,<br>
+Das ich von einem Indienfahrer kaufte,<br>
+Den Pips: ich soll es nudeln, und versteh's nicht,<br>
+Und <span id="1777" class="phrase">fragte</span> dort die Jungfer bloß <span id="1777" class="phrase">um Rat</span>.<br>
+Ich bin ein Narr in solchen Dingen, seht,<br>
+Und meine Hühner nenn ich meine Kinder. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Hier.<span id="2083" class="phrase"> Setzt Euch</span>. Ruft den Kläger und vernehmt ihn.<br>
+Und Ihr, Herr Schreiber, <span id="2084" class="phrase">führt das Protokoll</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Befehlen Euer Gnaden den Prozess<br>
+Nach den Formalitäten, oder so,<br>
+Wie er in Huisum üblich ist, zu halten? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Nach den gesetzlichen Formalitäten,<br>
+Wie er in Huisum üblich ist, <span id="2085" class="phrase">nicht anders</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Gut, gut. Ich werd Euch zu bedienen wissen.<br>
+Seid Ihr bereit, Herr Schreiber? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Zu Euren Diensten. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> - So <span id="2086" class="phrase">nimm, Gerechtigkeit, denn deinen Lauf</span>!<br>
+Kläger <span id="vortreten" class="alt">trete vor</span>. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Hier, Herr Dorfrichter! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Wer seid Ihr? <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Wer -? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ihr. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Wer ich -? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Wer Ihr seid!<br>
+<span id="2087" class="phrase">Wes Namens, Standes, Wohnorts, und so weiter</span>. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Ich glaub, <span id="2088" class="phrase">Er spasst</span>, Herr Richter. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Spassen, was!<br>
+Ich sitz im Namen der Justiz, Frau Marthe,<br>
+Und die Justiz muss wissen, wer Ihr seid. <br>
+<br>
+
+<hi rend="bold">Licht</hi> <stage>[halblaut]:</stage> <span id="1781" class="phrase">Lasst doch die sonderbare Frag</span> - <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Ihr guckt<br>
+Mir alle Sonntag in die Fenster ja,<br>
+Wenn Ihr aufs Vorwerk geht! <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Kennt Ihr die Frau? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Sie wohnt hier <span id="2089" class="phrase">um die Ecke</span>, Euer Gnaden,<br>
+Wenn man <span id="2090" class="phrase">den Fußsteig</span> durch die Hecken geht;<br>
+<span id="witwe" class="alt">Witw'</span> eines Kastellans, Hebamme jetzt,<br>
+Sonst eine ehrliche Frau, <span id="2091" class="phrase">von gutem Rufe</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Wenn Ihr so unterrichtet seid, Herr Richter,<br>
+So sind dergleichen Fragen überflüssig.<br>
+Setzt ihren Namen in das Protokoll,<br>
+Und schreibt dabei: dem Amte wohlbekannt. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Auch das. Ihr seid nicht für Formalitäten.<br>
+<span id="2093" class="phrase">Tut so, wie Sr. Gnaden anbefohlen</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Fragt nach dem Gegenstand der Klage jetzt. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Jetzt soll ich -? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ja, den Gegenstand ermitteln! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Das ist gleichfalls ein Krug, verzeiht. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Wie? Gleichfalls! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ein Krug. Ein bloßer Krug. <span id="1740" class="phrase">Setzt einen Krug</span>,<br>
+Und schreibt dabei: dem Amte wohlbekannt. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> <span id="2094" class="phrase">Auf meine hingeworfene Vermutung</span>
+<br>
+Wollt Ihr, Herr Richter -? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1743" class="phrase">Mein Seel</span>, wenn ich's Euch sage,<br>
+So <span id="hinschreiben" class="alt">schreibt</span> Ihr's <span id="hinschreiben" class="alt">hin</span>. Ist's nicht ein Krug, Frau Marthe? <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Ja, hier der Krug - <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Da habt Ihr's. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Der zerbrochne - <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Pedantische Bedenklichkeit. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Ich bitt Euch - <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Und wer zerbrach den Krug? Gewiss der Schlingel -? <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Ja, er, der Schlingel dort - <br>
+<br>
+
+<hi rend="bold">Adam</hi> <stage>[<span id="2095" class="phrase">für sich</span>]:</stage> Mehr brauch ich nicht. <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Das ist nicht wahr, Herr Richter. <br>
+<br>
+
+<hi rend="bold">Adam</hi> <stage>[<span id="2096" class="phrase">für sich</span>]:</stage> <span id="2097" class="phrase">Auf, aufgelebt</span>, du alter Adam! <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> <span id="2098" class="phrase">Das lügt sie in den Hals hinein</span> - <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Schweig, Maulaffe!<br>
+<span id="2099" class="phrase">Du steckst den Hals noch früh genug ins Eisen</span>.<br>
+- <span id="2100" class="phrase">Setzt einen Krug</span>, Herr Schreiber, wie gesagt,<br>
+<span id="2100" class="phrase">Zusamt dem Namen des, der ihn zerschlagen</span>.<br>
+Jetzt wird die Sache gleich ermittelt sein. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Herr Richter! Ei! Welch <span id="2101" class="phrase">ein gewaltsames Verfahren</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Wieso? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Wollt Ihr nicht förmlich <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Nein! sag ich;<br>
+Ihr Gnaden lieben Förmlichkeiten nicht. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Wenn Ihr die Instruktion, Herr Richter Adam,<br>
+Nicht des Prozesses einzuleiten wisst,<br>
+Ist hier der Ort jetzt nicht, es Euch zu <span id="lehrte" class="alt">lehren</span>.<br>
+<span id="2102" class="phrase">Wenn Ihr Recht anders nicht, als so, könnt geben</span>,<br>
+So <span id="abtreten" class="alt">tretet ab</span>: vielleicht kanns Euer Schreiber. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Erlaubt! Ich gabs, wie's hier in Huisum üblich;<br>
+Euer Gnaden haben's also mir befohlen. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ich hätt -? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Auf meine Ehre! <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ich befahl Euch,<br>
+<span id="2103" class="phrase">Recht hier nach den Gesetzen zu erteilen</span>;<br>
+Und hier in Huisum glaubt ich die Gesetze<br>
+Wie anderswo <span id="2104" class="phrase">in den vereinten Staaten</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Da muss submiss ich <span id="gebeten" class="alt">um</span> Verzeihung bitten!<br>
+Wir haben hier, <span id="2105" class="phrase">mit Euerer Erlaubnis</span>,<br>
+<span id="2106" class="phrase">Statuten, eigentümliche</span>, in Huisum,<br>
+Nicht aufgeschriebene, muss ich gestehn, <span id="2107" class="phrase">doch durch</span>
+<br>
+<span id="2107" class="phrase">Bewährte Tradition uns überliefert</span>.<br>
+<span id="2109" class="phrase">Von dieser Form</span>, <span id="2108" class="phrase">getrau ich mir zu hoffen</span>,<br>
+<span id="2109" class="phrase">Bin ich noch heut kein Jota abgewichen</span>.<br>
+Doch auch in Eurer andern Form bin ich,<br>
+Wie sie im Reich mag üblich sein, zu Hause.<br>
+Verlangt Ihr den Beweis? Wohlan, befehlt!<br>
+<span id="2110" class="phrase">Ich kann Recht so jetzt, jetzo so erteilen</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="2111" class="phrase">Ihr gebt mir schlechte Meinungen</span>, Herr Richter.<br>
+<span id="2112" class="phrase">Es sei</span>. Ihr <span id="anfangen" class="alt">fangt</span> von vorn die Sache<span id="anfangen" class="alt"> an</span>. - <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2113" class="phrase">Auf Ehr</span>! <span id="2114" class="phrase">Gebt acht</span>, Ihr sollt zufrieden sein.<br>
+- Frau Marthe Rull! <span id="vorbringen" class="alt">Bringt</span> Eure Klage <span id="vorbringen" class="alt">vor</span>. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Ich klag, Ihr wisst's, hier wegen dieses Krugs;<br>
+Jedoch vergönnt, dass ich, bevor ich melde,<br>
+Was diesem Krug geschehen, auch beschreibe,<br>
+Was er vorher mir war. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2115" class="phrase">Das Reden ist an Euch</span>. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Seht ihr den Krug, ihr wertgeschätzten Herren?<br>
+Seht ihr den Krug? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> O ja, wir sehen ihn. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Nichts seht ihr, <span id="2116" class="phrase">mit Verlaub</span>, die Scherben seht ihr;<br>
+<span id="2117" class="phrase">Der Krüge schönster</span> ist entzwei geschlagen.<br>
+Hier grade auf dem Loch, wo jetzo nichts,<br>
+<span id="2118" class="phrase">Sind die gesamten niederländischen Provinzen</span>
+<br>
+<span id="2118" class="phrase">Dem span'schen Philipp übergeben worden</span>.<br>
+<span id="2119" class="phrase">Hier im Ornat stand Kaiser Karl der Fünfte</span>:<br>
+Von dem seht ihr nur noch die Beine stehn.<br>
+Hier kniete Philipp und empfing die Krone;<br>
+<span id="2120" class="phrase">Der</span> liegt im Topf, <span id="2121" class="phrase">bis auf den Hinterteil</span>,<br>
+Und auch noch der hat einen Stoß empfangen.<br>
+<span id="2122" class="phrase">Dort wischten seine beiden Muhmen sich,</span>
+<br>
+<span id="2122" class="phrase">Der Franzen und der Ungarn Königinnen,</span>
+<br>
+<span id="2122" class="phrase">Gerührt die Augen aus;</span> <span id="2123" class="phrase">wenn man die eine</span>
+<br>
+<span id="2123" class="phrase">Die Hand noch mit dem Tuch empor sieht heben,</span>
+<br>
+<span id="2123" class="phrase">So ist's, als weinete sie über sich</span>.<br>
+<span id="2124" class="phrase">Hier im Gefolge stützt sich Philibert</span>,<br>
+<span id="2124" class="phrase">Für den den Stoß der Kaiser aufgefangen,</span>
+<br>
+<span id="2124" class="phrase">Noch auf das Schwert;</span> doch jetzo müsst er fallen,<br>
+So gut wie <span id="2125" class="phrase">Maximilian:</span> der Schlingel!<br>
+Die Schwerter unten jetzt sind weggeschlagen.<br>
+Hier in der Mitte, <span id="2126" class="phrase">mit der heil'gen Mütze</span>,<br>
+Sah man <span id="2127" class="phrase">den Erzbischof von Arras</span> stehn;<br>
+Den hat der Teufel <span id="2128" class="phrase">ganz und gar</span> geholt,<br>
+<span id="2129" class="phrase">Sein Schatten nur fällt lang noch übers Pflaster</span>.<br>
+Hier standen rings, <span id="2130" class="phrase">im Grunde</span>, Leibtrabanten,<br>
+Mit <span id="2131" class="phrase">Hellebarden</span>, dicht gedrängt, und Spießen,<br>
+Hier Häuser, seht, vom großen Markt zu Brüssel,<br>
+Hier guckt noch ein <span id="neugierig" class="alt">Neugier'ger</span> aus dem Fenster:<br>
+Doch was er jetzo sieht, das weiß ich nicht. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Frau <span id="Marthe" class="alt">Marth!</span> <span id="2132" class="phrase">Erlasst uns das zerscherbte Paktum</span>,<br>
+<span id="2664" class="phrase">Wenn es zur Sache nicht gehört</span>.<br>
+<span id="2133" class="phrase">Uns geht das Loch - nichts die Provinzen an,</span>
+<br>
+<span id="2134" class="phrase">Die darauf übergeben worden sind</span>. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Erlaubt! Wie schön der Krug, <span id="1756" class="phrase">gehört zur Sache</span>!<br>
+Den Krug erbeutete sich Childerich,<br>
+Der Kesselflicker, als <span id="2135" class="phrase">Oranien</span>
+<br>
+<span id="2135" class="phrase">Briel mit den Wassergeusen überrumpelte</span>.<br>
+Ihn hatt ein Spanier, gefüllt mit Wein,<br>
+Just an den Mund gesetzt, als Childerich<br>
+Den Spanier von hinten <span id="niederwerfen" class="alt">niederwarf</span>,<br>
+Den Krug ergriff, ihn leert' und <span id="weitergehen" class="alt">weiterging.</span> <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ein <span id="würdig" class="alt">würd'ger</span> Wassergeuse. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Hierauf <span id="2611" class="phrase">vererbte</span><br>
+<span id="2611" class="phrase">Der Krug auf Fürchtegott</span>, den Totengräber;<br>
+<span id="2136" class="phrase">Der trank zu dreimal nur</span>, der Nüchterne,<br>
+Und stets vermischt mit Wasser aus dem Krug.<br>
+Das erstemal, als er <span id="2137" class="phrase">im Sechzigsten</span>
+<br>
+Ein junges Weib sich nahm; drei Jahre drauf,<br>
+Als sie noch glücklich ihn zum Vater machte;<br>
+Und als sie jetzt noch funfzehn Kinder <span id="2138" class="phrase">zeugte,</span>
+<br>
+Trank er zum dritten Male, als sie starb. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Gut. <span id="übel" class="alt">Das ist</span> auch <span id="übel" class="alt">nicht übel</span>. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Drauf fiel der Krug<br>
+An den Zachäus, Schneider in Tirlemont,<br>
+Der meinem <span id="selig" class="alt">sel'gen</span> Mann, was ich euch jetzt<br>
+Berichten will, mit <span id="eigen" class="alt">eignem</span> Mund <span id="erzählen" class="alt">erzählt.</span>
+<br>
+Der <span id="werfen" class="alt">warf,</span> als die Franzosen plünderten,<br>
+Den Krug, <span id="2665" class="phrase">samt allem Hausrat</span>, aus dem Fenster,<br>
+Sprang selbst, und brach den Hals, der Ungeschickte,<br>
+Und dieser irdne Krug, der Krug von Ton,<br>
+Aufs Bein kam er zu stehen, und blieb ganz. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2139" class="phrase">Zur Sache</span>, <span id="2140" class="phrase">wenn's beliebt</span>, Frau Marthe Rull! <span id="2141" class="phrase">Zur Sache</span>! <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Drauf in der Feuersbrunst von sechsundsechzig,<br>
+Da hatt ihn schon mein Mann, <span id="2142" class="phrase">Gott hab ihn selig</span> - <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Zum Teufel! Weib! So seid Ihr noch nicht fertig? <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> - <span id="2143" class="phrase">Wenn ich nicht reden soll</span>, Herr Richter Adam,<br>
+So bin ich unnütz hier, so will ich gehn,<br>
+Und ein Gericht mir suchen, das mich hört. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ihr sollt hier reden: doch von Dingen nicht,<br>
+<span id="2612" class="phrase">Die Eurer Klage fremd</span>. Wenn Ihr uns sagt,<br>
+Dass jener Krug Euch wert, so wissen wir<br>
+So viel, <span id="2144" class="phrase">als wir zum Richten hier gebrauchen</span>. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Wie viel ihr brauchen möget, hier zu richten,<br>
+Das weiß ich nicht, und untersuch es nicht;<br>
+Das aber weiß ich, dass ich, um zu <span id="geklagt" class="alt">klagen</span>,<br>
+Muss vor euch sagen dürfen, über was. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Gut denn. Zum Schluss jetzt. Was geschah dem Krug?<br>
+Was? - Was geschah dem Krug im Feuer<br>
+Von Anno sechsundsechzig? <span id="2145" class="phrase">Wird man's hören</span>?<br>
+Was ist dem Krug geschehn? <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Was ihm geschehen?<br>
+Nichts ist dem Krug, <span id="2146" class="phrase">ich bitt euch sehr</span>, ihr Herren,<br>
+Nichts Anno sechsundsechzig ihm geschehen.<br>
+Ganz blieb der Krug, ganz in der Flammen Mitte,<br>
+Und aus des Hauses Asche <span id="hervorziehen" class="alt">zog</span> ich ihn<br>
+<span id="hervorziehen" class="alt">Hervor</span>, glasiert, am andern Morgen, glänzend,<br>
+Als käm er eben aus dem Töpferofen. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="1769" class="phrase">Nun gut</span>. Nun kennen wir den Krug. Nun wissen<br>
+Wir alles, <span id="2147" class="phrase">was dem Krug geschehn, was nicht.</span>
+<br>
+Was gibt's jetzt weiter? <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Nun, diesen Krug jetzt, seht - den Krug,<br>
+<span id="2148" class="phrase">Zertrümmert einen Krug noch wert</span>, den Krug<br>
+Für eines Fräuleins Mund, <span id="2149" class="phrase">die Lippe selbst</span>
+<br>
+<span id="2149" class="phrase">Nicht der Frau Erbstatthalterin zu schlecht</span>,<br>
+Den Krug, ihr hohen Herren Richter beide,<br>
+Den Krug hat jener Schlingel mir zerbrochen. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Wer? <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Er, der Ruprecht dort. <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Das ist gelogen, Herr Richter. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Schweig Er, bis man Ihn fragen wird.<br>
+<span id="2150" class="phrase">Auch heut an Ihn noch wird die Reihe kommen</span>.<br>
+- Habt Ihr's im Protokoll bemerkt? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> O ja. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Erzählt den Hergang, würdige Frau Marthe. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Es war <span id="2151" class="phrase">Uhr elfe</span> gestern - <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Wann, sagt Ihr? <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> <span id="2152" class="phrase">Uhr elf</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Am Morgen? <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Nein, verzeiht, am Abend -<br>
+Und schon die Lamp im Bette wollt ich löschen,<br>
+Als laute Männerstimmen, ein Tumult,<br>
+In meiner Tochter abgelegnen Kammer,<br>
+<span id="1744" class="phrase">Als ob</span> der Feind einbräche, mich erschreckt.<br>
+<span id="2153" class="phrase">Geschwind die Trepp eil ich hinab</span>, ich finde<br>
+Die Kammertür gewaltsam eingesprengt,<br>
+Schimpfreden <span id="2154" class="phrase">schallen wütend mir entgegen</span>,<br>
+Und da ich mir den Auftritt jetzt beleuchte,<br>
+Was find ich jetzt, Herr Richter, was jetzt find ich?<br>
+Den Krug find ich zerscherbt im Zimmer liegen,<br>
+<span id="2155" class="phrase">In jedem Winke</span>l brüchig liegt ein Stück,<br>
+Das Mädchen ringt die Händ, und er, der Flaps dort,<br>
+Der trotzt, wie toll, Euch in des Zimmers Mitte. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ei, Wetter! <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Was? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Sieh da, Frau Marthe! <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Ja! -<br>
+Drauf ist's, <span id="2157" class="phrase">als ob</span>, in so gerechtem Zorn,<br>
+<span id="2157" class="phrase">Mir noch zehn Arme wüchsen</span>, <span id="2158" class="phrase">jeglichen</span>
+<br>
+<span id="2158" class="phrase">Fühl ich mir wie ein Geier ausgerüstet</span>.<br>
+<span id="2159" class="phrase">Ihn stell ich dort zur Rede</span>, <span id="2160" class="phrase">was er hier</span>
+<br>
+<span id="2160" class="phrase">In später Nacht zu suchen</span>, mir die Krüge<br>
+Des Hauses tobend <span id="einschlagen" class="alt">einzuschlagen</span> <span id="2160" class="phrase">habe</span>;<br>
+Und er, zur Antwort gibt er mir, <span id="2161" class="phrase">jetzt ratet</span> -<br>
+Der Unverschämte! Der Halunke, der!<br>
+<span id="2162" class="phrase">Aufs Rad will ich ihn sehen</span>, <span id="2163" class="phrase">oder mich</span>
+<br>
+<span id="2163" class="phrase">Nicht mehr geduldig auf den Rücken legen</span>;<br>
+Er spricht, <span id="2164" class="phrase">es hab ein anderer den Krug</span>
+<br>
+<span id="2164" class="phrase">Vom Sims gestürzt</span> - <span id="2165" class="phrase">ein anderer</span><span id="2165" class="phrase">, ich bitt Euch,</span>
+<br>
+<span id="2166" class="phrase">Der vor ihm aus der Kammer nur entwichen</span>;<br>
+- Und überhäuft mit Schimpf mir da das Mädchen. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> O! <span id="2156" class="phrase">faule Fische</span> - Hierauf? <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> <span id="2167" class="phrase">Auf dies Wort</span>
+<br>
+Seh ich das Mädchen fragend an; die steht<br>
+Gleich einer Leiche da, ich sage: Eve!<br>
+Sie setzt sich. - Ist's ein anderer gewesen?<br>
+Frag ich. Und <span id="2168" class="phrase">»Joseph und Marie«</span>, ruft sie,<br>
+»Was denkt Ihr, Mutter, auch?« - So sprich! Wer war's?<br>
+»<span id="2169" class="phrase">Wer sonst</span>«, sagt sie, - und wer auch konnt es anders?<br>
+Und <span id="zuschwören" class="alt">schwört</span> mir <span id="zuschwören" class="alt">zu</span>, dass er's gewesen ist. <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Was schwor ich Euch? Was hab ich Euch geschworen?<br>
+Nichts schwor ich, nichts Euch - <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Eve! <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Nein! Dies lügt Ihr - <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Da hört Ihr's. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Hund, jetzt, verfluchter, schweig,<br>
+<span id="2170" class="phrase">Soll hier die Faust den Rachen dir nicht stopfen</span>!<br>
+Nachher ist Zeit für dich, nicht jetzt. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Du hättest nicht -? <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Nein, Mutter! Dies verfälscht Ihr.<br>
+Seht, <span id="2171" class="phrase">leid tut's in der Tat mir tief zur Seele</span>,<br>
+Dass ich es öffentlich erklären muss:<br>
+Doch nichts schwor ich, nichts, nichts hab ich geschworen. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Seid doch vernünftig, Kinder. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Das ist ja seltsam. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Du hättest mir, o Eve, nicht versichert<br>
+Nicht <span id="2172" class="phrase">Joseph und Maria angerufen</span>? <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Beim Schwur nicht! Schwörend nicht! Seht, dies jetzt schwör ich,<br>
+Und <span id="2173" class="phrase">Joseph und Maria ruf ich an</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ei, Leutchen! Ei, Frau Marthe! Was auch macht Sie?<br>
+Wie <span id="einschüchtern" class="alt">schüchtert</span> Sie das gute Kind auch <span id="einschüchtern" class="alt">ein</span>!<br>
+Wenn sich die Jungfer wird besonnen haben,<br>
+Erinnert ruhig dessen, was geschehen,<br>
+- Ich sage, was geschehen ist, und was,<br>
+Spricht sie nicht, wie sie soll, geschehn noch kann:<br>
+<span id="2174" class="phrase">Gebt acht</span>, so <span id="aussagen" class="alt">sagt</span> sie heut uns <span id="aussagen" class="alt">aus</span>, wie gestern,<br>
+Gleichviel, ob sie's beschwören kann, ob nicht.<br>
+<span id="2666" class="phrase">Lasst Joseph und Maria aus dem Spiele</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Nicht doch, Herr Richter, nicht! Wer wollte den<br>
+Parteien so <span id="zweideutig" class="alt">zweideut'ge</span> Lehren geben. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> <span id="2175" class="phrase">Wenn sie ins Angesicht mir sagen kann</span>,<br>
+Schamlos, die liederliche Dirne, die,<br>
+Dass es <span id="2667" class="phrase">ein andrer als der Ruprecht</span> war,<br>
+So mag <span id="2177" class="phrase">meinetwegen</span> sie - ich mag nicht sagen, was.<br>
+Ich aber, ich versichr es Euch, Herr Richter,<br>
+Und kann ich gleich nicht, dass sie's schwor, behaupten,<br>
+Dass sie's gesagt hat gestern, das beschwör ich,<br>
+Und <span id="2176" class="phrase">Joseph und Maria ruf ich an</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Nun weiter will ja auch die Jungfer - <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Herr Richter! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Euer Gnaden? Was sagt er? - Nicht, <span id="2178" class="phrase">Herzens-Evchen</span>. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> <span id="2179" class="phrase">Heraus damit</span>! Hast du's mir nicht gesagt?<br>
+Hast du's mir gestern nicht, mir nicht gesagt? <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Wer leugnet Euch, dass ich's gesagt - <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Da habt Ihr's. <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Die Metze, die! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2180" class="phrase">Schreibt auf</span>. <br>
+<br>
+
+<hi rend="bold">Veit:</hi> Pfui, schäm Sie <span id="schämen" class="alt">sich</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Von Eurer Aufführung, Herr Richter Adam,<br>
+Weiß ich nicht, was ich denken soll. <span id="2673" class="phrase">Wenn Ihr selbst</span><br>
+Den Krug zerschlagen hättet, <span id="2181" class="phrase">könntet Ihr</span>
+<br>
+<span id="2181" class="phrase">Von Euch ab den Verdacht nicht eifriger</span>
+<br>
+<span id="2181" class="phrase">Hinwälzen auf den jungen Mann</span>, als jetzt.<br>
+Ihr setzt nicht mehr ins Protokoll, Herr Schreiber,<br>
+<span id="2182" class="phrase">Als nur der Jungfer Eingeständnis</span>, hoff ich.<br>
+<span id="2182" class="phrase">Vom gestrigen Geständnis, nicht vom Fakto</span>.<br>
+- <span id="2183" class="phrase">Ist's an die Jungfer jetzt schon</span>, <span id="aussagen" class="alt">auszusagen</span>? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2674" class="phrase">Mein Seel</span>, <span id="2675" class="phrase">wenn's ihre Reihe noch nicht ist</span>,<br>
+In solchen Dingen irrt der Mensch, Euer Gnaden.<br>
+Wen hätt ich fragen sollen jetzt? Beklagten?<br>
+<span id="2668" class="phrase">Auf Ehr</span>! Ich <span id="annehmen" class="alt">nehme</span> gute Lehre <span id="annehmen" class="alt">an</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Wie unbefangen! - Ja, fragt den Beklagten.<br>
+Fragt, macht ein Ende, fragt, ich bitt Euch sehr:<br>
+<span id="2669" class="phrase">Dies ist die letzte Sache, die Ihr führt</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Die letzte! Was! Ei freilich! Den Beklagten!<br>
+Wohin auch, alter Richter, dachtest du?<br>
+Verflucht das <span id="Pips" class="alt">pips'ge</span> Perlhuhn mir! Dass es<br>
+Krepiert wär <span id="2184" class="phrase">an der Pest</span> in Indien!<br>
+Stets <span id="2676" class="phrase">liegt</span> der Kloß von Nudeln <span id="2676" class="phrase">mir im Sinn</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Was liegt? Was für ein Kloß liegt Euch -? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Der Nudelkloß,<br>
+Verzeiht, den ich dem Huhne geben soll.<br>
+Schluckt mir das Aas die Pille nicht herunter,<br>
+<span id="2670" class="phrase">Mein Seel</span>, <span id="2677" class="phrase">so weiß ich nicht, wie's werden wird</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Tut Eure Schuldigkeit, sag ich, zum Henker! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Beklagter <span id="vortreten" class="alt">trete vor</span>. <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Hier, Herr Dorfrichter.<br>
+Ruprecht, Veits, des Kossäten, Sohn, aus Huisum. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Vernahm Er dort, was vor Gericht soeben<br>
+Frau Marthe <span id="2185" class="phrase">gegen Ihn hat angebracht</span>? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Ja, Herr Dorfrichter, das hab ich. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2186" class="phrase">Getraut Er sich</span>
+<br>
+<span id="2187" class="phrase">Etwas dagegen aufzubringen</span>, was?<br>
+Bekennt Er, oder <span id="2188" class="phrase">unterfängt Er sich</span>,<br>
+Hier wie ein gottvergessner Mensch zu leugnen? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> <span id="2189" class="phrase">Was ich dagegen aufzubringen habe</span>,<br>
+Herr Richter? Ei! Mit Euerer Erlaubnis,<br>
+Dass sie kein wahres Wort gesprochen hat. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> So? Und das denkt Er zu beweisen? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> O ja. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Die würdige Frau Marthe, die -<br>
+Beruhige Sie <span id="beruhigen" class="alt">sich</span>. <span id="2190" class="phrase">Es wird sich finden</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="2191" class="phrase">Was geht Ihm die Frau Marthe an</span>, Herr Richter? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Was mir -? Bei Gott! Soll ich als Christ -? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Bericht'<br>
+Er, <span id="2192" class="phrase">was Er für sich anzuführen hat</span>. -<br>
+Herr Schreiber, <span id="2671" class="phrase">wisst Ihr den Prozess zu führen</span>? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ach, was! <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Ob ich - ei nun, wenn Euer Gnaden - <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2193" class="phrase">Was glotzt Er da</span>? Was hat Er aufzubringen?<br>
+Steht nicht der Esel wie ein Ochse da?<br>
+Was hat Er aufzubringen? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Was ich aufzubringen? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Er, ja, Er soll den Hergang jetzt erzählen. <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> <span id="2678" class="phrase">Mein Seel</span>, <span id="2194" class="phrase">wenn man zu Wort mich kommen ließe</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> 's ist in der Tat, Herr Richter, nicht zu dulden. <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> <span id="2195" class="phrase">Glock zehn Uhr mocht' es etwa sein zu Nacht</span>,<br>
+Und warm just diese Nacht des Januars<br>
+Wie Mai, - als ich zum Vater sage: Vater!<br>
+Ich will ein bissel noch zur Eve gehn.<br>
+Denn heuren wollt ich sie, das müsst Ihr wissen;<br>
+Ein rüstig Mädel ist's, ich hab's beim Ernten<br>
+gesehn, wie alles <span id="2196" class="phrase">von der Faust</span> ihr ging,<br>
+<span id="2197" class="phrase">Und ihr das Heu man flog, als wie gemaust</span>.<br>
+<span id="2198" class="phrase">Das sagt ich: Willst du?</span> Und sie sagte: »Ach!<br>
+Was du da gakelst.« Und nachher sagt' sie: »Ja.« <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2613" class="phrase">Bleib Er bei seiner Sache</span>. Gakeln! Was!<br>
+Ich sagte: Willst du? Und sie sagte: Ja. <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Ja, <span id="2199" class="phrase">meiner Treu</span>, Herr Richter. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Weiter! Weiter! <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Nun -<br>
+Da sagt ich: Vater, hört Er? <span id="2200" class="phrase">Lass Er mich</span>.<br>
+Wir schwatzen noch am Fenster <span id="1780" class="phrase">was</span> zusammen.<br>
+»Na«, sagt er, »lauf; <span id="2201" class="phrase">bleibst du auch draußen</span>?« sagt er.<br>
+Ja, meiner Seel, sag ich, das ist geschworen.<br>
+»Na«, sagt er, »lauf, um elfe bist du hier.« <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Na, so sag du, und gakle, und kein Ende.<br>
+Na, hat er bald sich ausgesagt? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Na, sag ich,<br>
+Das ist ein Wort, und <span id="aufsetzen" class="alt">setz</span> die Mütze <span id="aufsetzen" class="alt">auf</span>,<br>
+Und geh; und übern Steig will ich, und <span id="2202" class="phrase">muss</span>
+<br>
+<span id="2202" class="phrase">Durchs Dorf zurückgehn</span>, weil der Bach geschwollen.<br>
+Ei, <span id="2614" class="phrase">alle Wetter</span>, denk ich, Ruprecht, <span id="2203" class="phrase">Schlag</span>!<br>
+Nun ist die Gartentür bei Marthens <span id="2615" class="phrase">zu</span>:<br>
+<span id="2204" class="phrase">Denn bis um zehn lässt's Mädel sie nur offen</span>,<br>
+Wenn ich um zehn nicht da bin, komm ich nicht. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Die liederliche Wirtschaft, die. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Drauf weiter? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Drauf - wie ich übern Lindengang <span id="nähern" class="alt">mich</span> näh're,<br>
+Bei Marthens, <span id="2205" class="phrase">wo die Reihen dicht gewölbt</span>
+<br>
+<span id="2205" class="phrase">Und dunkel, wie der Dom zu Utrecht, sind</span>,<br>
+Hör ich die Gartentüre fernher knarren.<br>
+Sieh da! Da ist die Eve noch! sag ich,<br>
+<span id="2206" class="phrase">Und schicke freudig Euch</span>, <span id="2207" class="phrase">von wo die Ohren</span>
+<br>
+<span id="2207" class="phrase">Mir Kundschaft brachten</span>, <span id="2206" class="phrase">meine Augen nach</span>
+<br>
+- <span id="2208" class="phrase">Und schelte sie</span>, <span id="2209" class="phrase">da sie mir wiederkommen</span>,<br>
+<span id="2208" class="phrase">Für blind</span>, <span id="2210" class="phrase">und schicke auf der Stelle sie</span>
+<br>
+<span id="2210" class="phrase">Zum zweitenmal, sich besser umzusehen</span>,<br>
+<span id="2211" class="phrase">Und schimpfe sie nichtswürdige Verleumder</span>,<br>
+<span id="2211" class="phrase">Aufhetzer, niederträcht'ge Ohrenbläser</span>,<br>
+Und schicke sie zum drittenmal, und denke,<br>
+<span id="2212" class="phrase">Sie werden, weil sie ihre Pflicht getan</span>,<br>
+<span id="2212" class="phrase">Unwillig los sich aus dem Kopf mir reißen</span>,<br>
+<span id="2212" class="phrase">Und sich in einen andern Dienst begeben</span>:<br>
+Die Eve ist's, <span id="erkennen" class="alt">am</span> Latz erkenn ich sie,<br>
+<span id="2616" class="phrase">Und einer ist's noch obenein</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> So? <span id="2617" class="phrase">Einer noch</span>? Und wer, Er Klugschwätzer? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Wer? Ja, <span id="2679" class="phrase">mein Seel</span>, da fragt Ihr mich - <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Nun also!<br>
+Und <span id="2213" class="phrase">nicht gefangen, denk ich, nicht gehangen</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Fort! Weiter in der Rede! <span id="2214" class="phrase">Lasst ihn doch!</span>
+<br>
+<span id="2215" class="phrase">Was</span> unterbracht Ihr ihn, Herr Dorfrichter? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> <span id="2216" class="phrase">Ich kann das Abendmahl darauf nicht nehmen</span>,<br>
+Stockfinster wars, <span id="1775" class="phrase">und alle Katzen grau</span>.<br>
+Doch müsst Ihr wissen, dass der Flickschuster,<br>
+Der Lebrecht, den man kürzlich losgesprochen,<br>
+<span id="2217" class="phrase">Dem Mädel längst mir auf die Fährte ging</span>.<br>
+Ich sagte vor'gen Herbst schon: Eve, höre,<br>
+Der Schuft schleicht mir ums Haus, das mag ich nicht;<br>
+Sag ihm, <span id="2218" class="phrase">dass du kein Braten bist für ihn</span>,<br>
+Mein Seel, sonst werf ich ihn vom Hof herunter.<br>
+Die spricht: »Ich glaub, <span id="2672" class="phrase">du schierst mich</span>«, <span id="2219" class="phrase">sagt ihm was</span>,<br>
+<span id="2219" class="phrase">Das ist nicht hin, nicht her, nicht Fisch, nicht Fleisch</span>:<br>
+Drauf geh ich hin und werf den Schlingel herunter. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> So? Lebrecht heißt der Kerl? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Ja, Lebrecht. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Gut.<br>
+Das ist ein Nam'. <span id="2220" class="phrase">Es wird sich alles finden</span>.<br>
+- Habt Ihr's bemerkt im Protokoll, Herr Schreiber? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> O ja, und <span id="2680" class="phrase">alles andere</span>, Herr Richter. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Sprich weiter, Ruprecht, jetzt, mein Sohn. <br>
+<br>
+
+Ruprecht: <span id="2221" class="phrase">Nun schießt</span>,<br>
+Da ich Glock elf das Pärchen hier begegne,<br>
+- Glock zehn Uhr <span id="abziehen" class="alt">zog</span> ich immer <span id="abziehen" class="alt">ab</span> - <span id="2221" class="phrase">das Blatt mir</span>.<br>
+Ich denke: halt, jetzt ist's noch Zeit, o Ruprecht,<br>
+Noch wachsen dir die Hirschgeweihe nicht;<br>
+Hier musst du sorgsam dir die Stirn befühlen,<br>
+Ob dir von fern hornartig etwas keimt.<br>
+Und <span id="2222" class="phrase">drücke sacht mich durch die Gartenpforte</span>,<br>
+Und berg <span id="2223" class="phrase">in einem Strauch von Taxus</span> mich,<br>
+Und hör Euch ein Gefispre hier, ein Scherzen,<br>
+<span id="2224" class="phrase">Ein Zerren hin,</span> Herr Richter, <span id="2224" class="phrase">Zerren her,</span>
+<br>
+<span id="1741" class="phrase">Mein Seel</span>, ich denk, ich soll vor Lust - <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Du Bösewicht!<br>
+Was das, o, schändlich ist von dir! <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Halunke!<br>
+<span id="2225" class="phrase">Dir weis' ich noch einmal</span>, wenn wir allein sind,<br>
+<span id="2225" class="phrase">Die Zähne</span>! <span id="gewartet" class="alt">Wart</span>! Du weißt noch nicht, <span id="2226" class="phrase">wo mir</span>
+<br>
+<span id="2226" class="phrase">Die Haare wachsen</span>! Du sollst's erfahren! <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Ein Viertelstündchen dauert's so; ich denke:<br>
+<span id="2681" class="phrase">Was wird's doch werden</span>, ist doch heut nicht Hochzeit?<br>
+Und eh ich den Gedanken ausgedacht,<br>
+Husch! sind sie beid ins Haus schon, <span id="2227" class="phrase">vor dem Pastor</span>. <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Geht, Mutter, <span id="2228" class="phrase">mag es werden, wie es will</span> - <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Schweig du mir dort, tat ich, <span id="2229" class="phrase">das Donnerwetter</span>
+<br>
+<span id="2229" class="phrase">Schlägt über dich ein</span>, unberufne Schwätzerin!<br>
+<span id="2230" class="phrase">Wart, bis ich auf zur Red' dich rufen werde</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Sehr sonderbar, bei Gott! <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> <span id="2231" class="phrase">Jetzt hebt,</span> Herr Richter Adam,<br>
+<span id="2231" class="phrase">Jetzt hebt sich's, wie ein Blutsturz, mir</span>. Luft!<br>
+<span id="2232" class="phrase">Da mir der Knopf am Brustlatz springt</span>: Luft jetzt!<br>
+Und <span id="aufreißen" class="alt">reiße</span> mir den Latz <span id="aufreißen" class="alt">auf</span>: Luft jetzt, sag ich!<br>
+Und geh, <span id="2233" class="phrase">und drück, und tret und donnere</span>,<br>
+Da ich <span id="2682" class="phrase">der Dirne Tür</span> verriegelt finde,<br>
+<span id="einstemmen" class="alt">Gestemmt</span>, <span id="2683" class="phrase">mit Macht</span>, <span id="2234" class="phrase">auf einen Tritt</span>, sie <span id="einstemmen" class="alt">ein</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Blitzjunge, du! <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> <span id="2235" class="phrase">Just da sie auf jetzt rasselt</span>,<br>
+Stürzt dort der Krug vom Sims ins Zimmer hin,<br>
+Und husch! springt einer aus dem Fenster Euch:<br>
+Ich seh die Schösse noch vom Rocke wehn. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> War das der Leberecht? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Wer sonst, Herr Richter?<br>
+Das Mädchen steht, <span id="2236" class="phrase">die werf ich übern Haufen</span>,<br>
+Zum Fenster eil' ich hin, und find den Kerl<br>
+<span id="2237" class="phrase">Noch in den Pfählen hangen, am Spalier</span>,<br>
+<span id="2238" class="phrase">Wo sich das Weinlaub aufrankt</span> bis zum Dach.<br>
+Und da die Klinke in der Hand mir blieb,<br>
+Als ich die Tür eindonnerte, <span id="2239" class="phrase">so reiß' ich</span>
+<br>
+Jetzt mit dem Stahl <span id="2239" class="phrase">eins pfundschwer übern Detz ihm</span>:<br>
+Den just, Herr Richter, konnt ich noch erreichen. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Wars eine Klinke? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Was? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ob's - <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Ja, die Türklinke. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Darum. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Ihr glaubtet wohl, es war ein Degen? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ein Degen? Ich - wieso? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Ein Degen! <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Je nun!<br>
+Man kann <span id="2240" class="phrase">sich</span> wohl <span id="2240" class="phrase">verhören</span>. Eine Klinke<br>
+Hat sehr viel Ähnlichkeit mit einem Degen. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ich glaub -! <br>
+<br>
+
+<hi rend="bold">Licht:</hi> <span id="2241" class="phrase">Bei meiner Treu</span>! Der Stiel, Herr Richter? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Der Stiel! <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Der Stiel! Der war's nun aber nicht.<br>
+<span id="2242" class="phrase">Der Klinke umgekehrtes Ende war's.</span> <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2243" class="phrase">Das umgekehrte Ende war's der Klinke</span>! <br>
+<br>
+
+<hi rend="bold">Licht:</hi> So! So! <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Doch auf dem Griffe lag ein Klumpen<br>
+Blei, wie ein Degengriff, das muss ich sagen. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ja, wie ein <span id="griffes" class="alt">Griff</span>. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Gut. Wie ein Degengriff.<br>
+Doch irgendeine tück'sche Waffe musst es<br>
+Gewesen sein. Das wusst' ich wohl. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="2684" class="phrase">Zur Sache</span> stets, Ihr Herren, doch! <span id="2684" class="phrase">Zur Sache</span>! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1754" class="phrase">Nichts als</span> Allotrien, Herr Schreiber! - Er, weiter! <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Jetzt stürzt der Kerl, und ich schon will mich wenden,<br>
+Als ich's im Dunkeln <span id="2244" class="phrase">auf sich rappeln</span> sehe.<br>
+Ich denke: lebst du noch? und <span id="gestiegen" class="alt">steig'</span> aufs Fenster<br>
+Und <span id="2245" class="phrase">will dem Kerl das Gehen unten legen</span>:<br>
+<span id="2246" class="phrase">Als jetzt</span>, Ihr Herrn, <span id="2685" class="phrase">da ich zum Sprung just aushol'</span>,<br>
+<span id="2246" class="phrase">Mir eine Handvoll grobgekörnten Sandes</span> -<br>
+Und Kerl und Nacht und Welt und Fensterbrett,<br>
+<span id="2247" class="phrase">Worauf ich steh'</span>, <span id="2248" class="phrase">denk' ich nicht, straf' mich Gott</span>,<br>
+Das alles fällt in einen Sack zusammen -<br>
+<span id="2246" class="phrase">Wie Hagel, stiebend, in die Augen fliegt</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Verflucht! Sieh da! Wer tat das? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Wer? Der Lebrecht. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Halunke! <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> <span id="2249" class="phrase">Meiner Treu</span>! <span id="1768" class="phrase">Wenn er's gewesen</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span>Wer sonst</span>! <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> <span id="2250" class="phrase">Als stürzte mich ein Schlossenregen</span>
+<br>
+<span id="2250" class="phrase">Von eines Bergs zehn Klaftern hohem Abhang</span>,<br>
+So <span id="schlug" class="alt">schlag</span> ich jetzt vom Fenster Euch ins Zimmer:<br>
+Ich denk', <span id="2251" class="phrase">ich schmettere den Boden ein</span>.<br>
+Nun brech' ich mir den Hals doch nicht, auch nicht<br>
+Das Kreuz mir, Hüften, oder sonst, <span id="2252" class="phrase">inzwischen</span>
+<br>
+<span id="2252" class="phrase">Konnt' ich des Kerls doch nicht mehr habhaft werden</span>,<br>
+Und <span id="1749" class="phrase">sitze auf</span>, und wische mir die Augen.<br>
+Die kommt, und: »Ach, Herr <span id="Gott" class="alt">Gott!«</span> ruft sie, und: »Ruprecht!<br>
+<span>Was ist dir auch?«</span> <span>Mein' Seel</span>, ich hob den Fuß,<br>
+<span>Gut wars</span>, dass ich nicht sah, wohin ich stieß. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Kam das vom Sande noch? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Vom Sandwurf, ja. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Verdammt! Der traf! <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> <span id="2253" class="phrase">Da ich jetzt aufersteh'</span>, -<br>
+<span id="2254" class="phrase">Was sollt' ich</span> auch die Fäuste hier mir schänden? -<br>
+So <span id="geschimpft" class="alt">schimpf'</span> ich sie, und sage: Liederliche Metze,<br>
+Und denke, das ist gut genug für sie.<br>
+Doch Tränen, seht, ersticken mir die Sprache.<br>
+Denn da Frau Marthe jetzt ins Zimmer tritt,<br>
+Die Lampe hebt, und ich das Mädchen dort<br>
+Jetzt schlotternd, <span id="Erbarmen" class="alt">zum</span> Erbarmen, vor mir sehe,<br>
+Sie, <span id="2255" class="phrase">die so herzhaft sonst wohl um sich sah</span>,<br>
+So sag' ich zu mir: blind ist auch nicht übel.<br>
+<span id="2256" class="phrase">Ich hätte meine Augen hingegeben</span>,<br>
+Knippkügelchen, wer will, damit zu spielen. <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Er ist nicht wert, der Bösewicht - <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Sie soll schweigen! <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> <span id="2618" class="phrase">Das Weitre</span> wisst Ihr. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Wie, <span id="2618" class="phrase">das Weitere</span>? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Nun ja, Frau Marthe kam, und geiferte,<br>
+Und Ralf, der Nachbar, kam, und Hinz, der Nachbar,<br>
+Und <span id="2688" class="phrase">Muhme Sus'</span> und <span id="2689" class="phrase">Muhme Liese</span> kamen.<br>
+Und Knecht' und <span id="Magd" class="alt">Mägd'</span> und Hund' und Katzen kamen,<br>
+'s war ein Spektakel, und Frau Marthe fragte<br>
+Die Jungfer dort, wer ihr den Krug zerschlagen,<br>
+Und die, die sprach, Ihr <span id="wissen" class="alt">wissts</span>, dass ich's gewesen.<br>
+<span id="2690" class="phrase">Mein' Seel</span>, <span id="2289" class="phrase">sie hat so unrecht nicht</span>, Ihr Herren.<br>
+Den Krug, den sie zu Wasser trug, <span id="zerschlagen" class="alt">zerschlug</span> ich,<br>
+Und der Flickschuster hat im Kopf ein Loch. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Frau Marthe! <span id="2619" class="phrase">Was entgegnet Ihr der Rede</span>?<br>
+<span>Sagt an</span>! <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> <span id="2620" class="phrase">Was ich der Red entgegene</span>?<br>
+Dass <span id="1773" class="phrase">sie</span>, Herr Richter, wie der Marder <span id="einbrechen" class="alt">einbricht</span>,<br>
+Und Wahrheit wie ein gakelnd' Huhn erwürgt.<br>
+Was Recht liebt, sollte <span id="2257" class="phrase">zu den Keulen greifen</span>,<br>
+<span id="2258" class="phrase">Um dieses Ungetüm der Nacht zu tilgen</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span>Da wird Sie den Beweis uns führen müssen</span>. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> O ja, sehr gern. Hier ist mein Zeuge. - Rede! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Die Tochter? Nein, Frau Marthe. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Nein? Warum nicht? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Als Zeugin, gnädiger Herr? Steht im Gesetzbuch<br>
+Nicht <span id="2259" class="phrase">titulo, ist's quarto? - oder quinto!</span>
+<br>
+Wenn Krüge <span id="1782" class="phrase">oder sonst</span>, was weiß ich?<br>
+Von jungen Bengeln sind zerschlagen worden,<br>
+So zeugen Töchter ihren Müttern nicht? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> In Eurem Kopf liegt Wissenschaft und Irrtum<br>
+<span id="2260" class="phrase">Geknetet, innig, wie ein Teig, zusammen</span>;<br>
+Mit jedem Schnitte gebt Ihr mir <span id="1760" class="phrase">von beidem</span>.<br>
+Die Jungfer zeugt noch nicht, sie deklariert jetzt;<br>
+Ob, und für wen, sie zeugen will und kann,<br>
+<span id="1748" class="phrase">Wird erst aus der Erklärung sich ergeben</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ja, deklarieren. Gut. <span id="2261" class="phrase">Titulo sexto</span>.<br>
+Doch was sie sagt, das glaubt man nicht. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="vortreten" class="alt">Tritt vor</span>, mein junges Kind. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> He! <span id="Liese" class="alt">Lies</span>'-! - Erlaubt!<br>
+Die Zunge wird sehr trocken mir - <span id="Margarete" class="alt">Margrete</span>! <br>
+<br></div>
+<div type="section">
+<hi rend="bold">Achter Auftritt
+</hi><br>
+<br>
+
+<stage>[Eine Magd <span id="auftreten" class="alt">tritt auf</span>. Die Vorigen.]</stage> <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ein Glas mit Wasser! - <br>
+<br>
+
+<hi rend="bold">Die Magd:</hi> Gleich! <span id="ab" class="alt">[ab.]</span> <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Kann ich Euch gleichfalls -? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span>Ich danke</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2262" class="phrase">Franz? oder Mos'ler?</span> <span>Was</span> Ihr wollt. <br>
+<stage>Walter verneigt <span id="verneigen" class="alt">sich</span>; die Magd bringt Wasser und entfernt sich.</stage> <br>
+<br>
+
+<hi rend="bold">Neunter Auftritt
+</hi><br>
+<br>
+
+<stage>[Walter. Adam. Frau Marthe usw. ohne die Magd.]</stage>
+<br>
+<br>
+
+<hi rend="bold">Adam:</hi> - Wenn ich freimütig reden darf, Ihr Gnaden,<br>
+<span id="2263" class="phrase">Die Sache eignet gut sich zum Vergleich</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span>Sich zum Vergleich</span>? Das ist nicht klar, Herr Richter.<br>
+<span id="vernünftig" class="alt">Vernünft'ge</span> Leute können sich vergleichen;<br>
+Doch wie Ihr den Vergleich schon wollt bewirken,<br>
+<span id="2264" class="phrase">Da noch durchaus die Sache nicht entworren</span>,<br>
+Das <span>hätt</span> ich wohl von Euch zu hören <span>Lust</span>.<br>
+Wie denkt Ihr's anzustellen, <span>sagt mir an</span>?<br>
+Habt Ihr <span id="2265" class="phrase">ein Urteil schon gefasst</span>? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2691" class="phrase">Mein' Seel</span>!<br>
+Wenn ich, <span id="2266" class="phrase">da das Gesetz im Stich mich lässt</span>,<br>
+Philosophie <span id="2267" class="phrase">zu Hilfe nehmen</span> soll,<br>
+So war's - der <span id="Lebrecht" class="alt">Leberecht</span> - <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Wer? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Oder Ruprecht - <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Wer? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Oder Lebrecht, der den Krug <span id="zerschlagen" class="alt">zerschlug</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Wer also war's? Der Lebrecht oder Ruprecht?<br>
+<span id="2268" class="phrase">Ihr greift, ich seh, mit Eurem Urteil ein</span>,<br>
+<span id="2268" class="phrase">Wie eine Hand in einen Sack voll Erbsen</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Erlaubt! <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Schweigt, schweigt, ich <span id="bittest" class="alt">bitt'</span> Euch. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Wie Ihr wollt.<br>
+<span id="2269" class="phrase">Auf meine Ehr, mir wär's vollkommen recht</span>,<br>
+Wenn sie es <span id="2692" class="phrase">alle beid'</span> gewesen wären. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Fragt dort, so <span id="werden" class="alt">werdet</span> <span id="2693" class="phrase">Ihrs</span> erfahren. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Sehr gern.<br>
+Doch wenn Ihr's herausbekommt, bin ich ein Schuft.<br>
+- Habt Ihr das Protokoll da in Bereitschaft? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Vollkommen. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Gut. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> <span id="2270" class="phrase">Und brech' ein eignes Blatt mir</span><span id="Niederlanden" class="alt">,</span>
+<br>
+<span id="2271" class="phrase">Begierig, was darauf zu stehen kommt</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2272" class="phrase">Ein eignes Blatt</span>? Auch gut. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Sprich dort, mein Kind! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Sprich, Evchen, hörst du, sprich jetzt, Jungfer Evchen!<br>
+<span id="2273" class="phrase">Gib Gotte</span>, hörst du, Herzchen, <span id="2273" class="phrase">gib</span>, <span id="2694" class="phrase">mein Seel</span>,<br>
+<span id="2273" class="phrase">Ihm und der Welt, gib ihm was von der Wahrheit</span>.<br>
+Denk, dass du hier vor Gottes Richtstuhl bist,<br>
+Und dass du deinen Richter nicht mit Leugnen,<br>
+Und Plappern, <span id="2695" class="phrase">was zur Sache nicht gehört</span>,<br>
+Betrüben musst. Ach, was! Du bist vernünftig.<br>
+Ein Richter immer, weißt du, ist ein Richter,<br>
+Und <span id="2696" class="phrase">einer</span> braucht ihn heut, und <span id="2696" class="phrase">einer</span> morgen.<br>
+Sagst du, dass es der Lebrecht war: nun gut;<br>
+Und sagst du, dass es Ruprecht war: auch gut!<br>
+<span id="2276" class="phrase">Sprich so, sprich so</span>, <span id="2274" class="phrase">ich bin kein ehrlicher Kerl</span>,<br>
+<span id="2275" class="phrase">Es wird sich alles, wie du wünschest, finden</span>.<br>
+Willst du mir hier <span id="2697" class="phrase">von einem andern</span> trätschen,<br>
+Und dritten etwa, dumme Namen nennen:<br>
+Sieh, Kind, <span id="2277" class="phrase">nimm dich in acht</span>, ich sag' nichts weiter.<br>
+In Huisum, <span id="2698" class="phrase">hol's der Henker</span>, glaubt dir's <span id="2699" class="phrase">keiner</span>,<br>
+Und <span id="2699" class="phrase">keiner</span>, Evchen, in den Niederlanden;<br>
+Du weißt, die weißen Wände zeugen nicht,<br>
+<span id="2278" class="phrase">Der auch wird zu verteidigen sich wissen</span>:<br>
+Und <span id="2279" class="phrase">deinen Ruprecht holt die Schwerenot</span>! <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Wenn Ihr doch Eure Reden lassen wolltet.<br>
+Geschwätz, <span id="2280" class="phrase">gehauen nicht und nicht gestochen</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Verstehen's Euer Gnaden nicht? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="2281" class="phrase">Macht fort</span>!<br>
+Ihr habt zulängst hier auf dem Stuhl gesprochen. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2282" class="phrase">Auf Ehr</span>! Ich habe nicht studiert, Euer Gnaden.<br>
+Bin ich Euch Herrn aus Utrecht nicht verständlich,<br>
+Mit diesem Volk vielleicht <span id="2283" class="phrase">verhält sich's anders</span>:<br>
+Die Jungfer weiß, ich wette, was ich will. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Was soll das? Dreist heraus jetzt mit der Sprache! <br>
+<br>
+
+<hi rend="bold">Eve:</hi> O liebste Mutter! <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Du -! Ich rate dir! <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Mein' Seel, 's ist schwer, Frau Marthe, dreist zu sprechen,<br>
+Wenn das Gewissen <span id="2284" class="phrase">an der Kehl uns sitzt</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Schweig Er jetzt, Nasweis, mucks Er nicht. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Wer wars? <br>
+<br>
+
+<hi rend="bold">Eve:</hi> O Jesus. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Maulaffe, der! Der niederträchtige!<br>
+O Jesus! <span id="2621" class="phrase">Als ob</span> sie eine Hure wäre.<br>
+War's <span id="2700" class="phrase">der Herr Jesus</span>? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Frau Marthe! Unvernunft!<br>
+Was das für -! <span id="2285" class="phrase">Lass Sie die Jungfer doch gewähren</span>!<br>
+Das Kind einschrecken - Hure - Schafsgesicht!<br>
+So wird uns nichts. Sie wird sich schon besinnen. <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> O ja, besinnen. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Flaps dort, schweig Er jetzt. <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Der Flickschuster wird ihr schon einfallen. <br>
+<br>
+<hi rend="bold">
+Adam:</hi> Der Satan! Ruft den Büttel! He! Hanfriede! <br>
+
+<hi rend="bold">Ruprecht:</hi> Nun, nun! Ich schweig, Herr Richter, Lasst's nur sein.<br>
+Sie wird Euch schon auf meinen Namen kommen. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Hör du, mach mir hier kein' Spektakel, sag' ich.<br>
+Hör, neunundvierzig bin ich alt geworden<br>
+<span id="2622" class="phrase">In Ehren</span>: funfzig möcht ich gern erleben.<br>
+Den dritten Februar ist mein <span id="Geburtstag" class="alt">Geburtstag;</span>
+<br>
+Heut ist der erste. Mach es kurz. Wer wars? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Gut, meinethalben! Gut, Frau Marthe Rull! <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Der Vater sprach, als er <span id="verscheiden" class="alt">verschied:</span> <span id="hören" class="alt">»Hör,</span> Marthe,<br>
+<span id="2286" class="phrase">Dem Mädel schaff mir einen wackern Mann</span>;<br>
+Und wird sie eine liederliche Metze,<br>
+So gib dem Totengräber einen Groschen,<br>
+<span id="2287" class="phrase">Und lass mich wieder auf den Rücken legen:</span>
+<br>
+Mein Seel, ich glaub, <span id="2288" class="phrase">ich kehr' im Grab mich um</span>.« <br>
+<br>
+
+<hi rend="bold">Adam</hi>: Nun, das ist auch nicht übel. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Willst du Vater<br>
+Und Mutter jetzt, mein Evchen, <span id="2290" class="phrase">nach dem vierten</span>
+<br>
+<span id="2290" class="phrase">Gebot</span> hoch ehren, gut, so sprich: in meine Kammer<br>
+Ließ ich den Schuster, oder einen dritten,<br>
+Hörst du? Der <span id="Bräutigam" class="alt">Bräut'gam</span> aber war es nicht. <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> <span id="2291" class="phrase">Sie jammert mich</span>. <span id="2701" class="phrase">Lasst doch den Krug</span>, ich <span id="gebeten" class="alt">bitt</span> Euch;<br>
+Ich will <span id="2687" class="phrase">'n</span> nach Utrecht tragen. Solch ein Krug -<br>
+<span id="2292" class="phrase">Ich wollt', ich hätt' ihn nur entzwei geschlagen</span>. <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Unedelmüt'ger, du! Pfui, schäme dich,<br>
+Dass du nicht sagst: gut, ich zerschlug den Krug!<br>
+Pfui, Ruprecht, pfui, o schäme dich, <span id="2293" class="phrase">dass du</span>
+<br>
+<span id="2293" class="phrase">Mir nicht in meiner Tat vertrauen kannst</span>.<br>
+Gab ich die Hand dir nicht, und sagte: ja,<br>
+Als du mich fragtest: <span id="Eve" class="alt">»Eve</span>, willst du <span id="mich" class="alt">mich?«</span><br>
+Meinst du, <span id="2294" class="phrase">dass du den Flickschuster nicht wert bist</span>?<br>
+Und hättest du durchs Schlüsselloch mich mit<br>
+Dem Lebrecht aus dem Kruge trinken sehen,<br>
+Du hättest denken sollen: Ev ist brav,<br>
+<span id="2295" class="phrase">Es wird sich alles ihr zum Ruhme lösen</span>,<br>
+Und ist's im Leben nicht, so ist es Jenseits,<br>
+Und wenn wir auferstehn, ist auch ein Tag. <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Mein' Seel, das dauert mir zu lange, Evchen.<br>
+Was ich mit Händen greife, glaub' ich gern. <br>
+<br>
+
+<hi rend="bold">Eve:</hi> <span id="2296" class="phrase">Gesetzt</span>, es wär der Leberecht gewesen,<br>
+<span id="2297" class="phrase">Warum - des Todes will ich ewig sterben</span>,<br>
+<span id="2297" class="phrase">Hätt ich's dir Einzigen nicht gleich vertraut;</span>
+<br>
+Jedoch warum vor Nachbarn, Knecht' und Mägden -<br>
+<span id="2298" class="phrase">Gesetzt</span>, <span id="2299" class="phrase">ich hätte Gründ</span>, es zu verbergen,<br>
+Warum, o Ruprecht, sprich, warum nicht sollt' ich<br>
+<span id="2300" class="phrase">Auf dein Vertraun hin</span> sagen, dass du's warst?<br>
+Warum nicht sollt ich's? Warum sollt ich's nicht? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Ei, so zum Henker, sag's, <span id="2301" class="phrase">es ist mir recht</span>,<br>
+Wenn du die Fiedel dir ersparen kannst. <br>
+<br>
+
+<hi rend="bold">Eve:</hi> O du Abscheulicher! Du Undankbarer!<br>
+<span id="2302" class="phrase">Wert, dass ich mir die Fiedel spare!</span> <span id="2303" class="phrase">Wert,</span>
+<br>
+<span id="2303" class="phrase">Dass ich mit Einem Wort zu Ehren mich,</span>
+<br>
+<span id="2303" class="phrase">Und dich in ewiges Verderben bringe. </span>
+<br>
+<br>
+
+<hi rend="bold">Walter:</hi> Nun -? Und dies einz'ge Wort -? <span id="2304" class="phrase">Halt uns nicht auf</span>.<br>
+Der Ruprecht also war es nicht? <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Nein, gnäd'ger Herr, <span id="2305" class="phrase">weil er's denn selbst so will</span>,<br>
+Um seinetwillen nur verschwieg ich es:<br>
+Den irdnen Krug zerschlug der Ruprecht nicht,<br>
+Wenn er's Euch selber leugnet, könnt Ihr's glauben. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Eve! Der Ruprecht nicht? <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Nein, Mutter, nein!<br>
+Und wenn ich's gestern sagte, war's gelogen. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Hör, dir zerschlag ich alle Knochen! <br>
+<stage>[Sie setzt den Krug nieder.]</stage>
+<br>
+<br>
+
+<hi rend="bold">Eve:</hi> Tut, was Ihr wollt. <br>
+<br>
+
+<hi rend="bold">Walter</hi> <stage>[drohend]</stage>: Frau Marthe! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> He! Der Büttel! -<br>
+Schmeißt sie heraus dort, <span id="2306" class="phrase">die verwünschte Vettel</span>!<br>
+Warum soll's Ruprecht just gewesen sein?<br>
+<span id="2307" class="phrase">Hat Sie das Licht dabei gehalten, was</span>?<br>
+Die Jungfer, denk ich, wird es wissen müssen:<br>
+<span id="2308" class="phrase">Ich bin ein Schelm</span>, wenn's nicht der Lebrecht war. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> War es der Lebrecht etwa? War's der Lebrecht? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Sprich, Evchen, war's der Lebrecht nicht,<br>
+mein Herzchen? <br>
+<br>
+
+<hi rend="bold">Eve:</hi> <span id="2623" class="phrase">Er</span> Unverschämter, <span id="2623" class="phrase">Er</span>! <span id="2623" class="phrase">Er</span> <span id="niederträchtig" class="alt">Niederträcht'ger</span>!<br>
+Wie kann <span id="2623" class="phrase">Er</span> sagen, dass es Lebrecht - <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Jungfer!<br>
+Was <span id="untersteht" class="alt">untersteht</span> Sie <span id="untersteht" class="alt">sich</span>? Ist das mir der<br>
+Respekt, den Sie dem Richter <span id="schuldig" class="alt">schuldig ist</span>? <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Ei, was! Der Richter dort! <span id="2309" class="phrase">Wert, selbst vor dem</span>
+<br>
+<span id="2309" class="phrase">Gericht, ein armer Sünder, dazustehn</span> -<br>
+- <span id="2623" class="phrase">Er</span>, der wohl besser weiß, wer es gewesen! <br>
+<stage>Sich zum Dorfrichter wendend</stage>. <br>
+Hat <span id="2623" class="phrase">Er</span> den Lebrecht in die Stadt nicht gestern<br>
+<span id="schicken" class="alt">Geschickt</span> nach Utrecht, vor <span id="2310" class="phrase">die Kommission</span>,<br>
+Mit dem Attest, <span id="2311" class="phrase">der die Rekruten aushebt</span>?<br>
+Wie kann <span id="2623" class="phrase">Er</span> sagen, dass es Lebrecht war,<br>
+Wenn <span id="2623" class="phrase">Er</span> wohl weiß, dass der in Utrecht ist? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Nun, wer denn sonst? Wenn's Lebrecht nicht, zum Henker -<br>
+Nicht Ruprecht ist, nicht Lebrecht ist - - Was machst du? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Mein' Seel, Herr Richter Adam, Lasst Euch sagen,<br>
+Hierin mag doch die Jungfer just nicht lügen.<br>
+Dem Lebrecht bin ich selbst begegnet gestern,<br>
+Als er nach Utrecht ging, früh war's Glock acht,<br>
+Und <span id="2312" class="phrase">wenn er auf ein Fuhrwerk sich nicht lud</span>,<br>
+<span id="2313" class="phrase">Hat sich</span> der Kerl, krummbeinig wie er ist,<br>
+Glock zehn Uhr nachts noch <span id="2313" class="phrase">nicht zurückgehaspelt</span>.<br>
+Es kann ein dritter wohl gewesen sein. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ach was! Krummbeinig! Schafsgesicht! Der Kerl<br>
+<span id="2314" class="phrase">Geht seinen Stiefel</span>, der, trotz einem.<br>
+<span id="2315" class="phrase">Ich will von ungespaltnem Leibe sein</span>,<br>
+<span id="2316" class="phrase">Wenn nicht ein Schäferhund von mäß'ger Größe</span>
+<br>
+<span id="2316" class="phrase">Muss seinen Trab gehn, mit ihm fortzukommen</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Erzähl den Hergang uns. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Verzeihn Euer Gnaden!<br>
+Hierauf wird Euch die Jungfer schwerlich dienen. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Nicht dienen? Mir nicht dienen? Und warum nicht? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ein twatsches Kind. Ihr seht's. Gut, aber twatsch.<br>
+Blutjung, <span id="2317" class="phrase">gefirmelt kaum</span>; das schämt sich noch,<br>
+Wenn's einen Bart <span id="2318" class="phrase">von weitem</span> sieht. So 'n Volk,<br>
+<span id="2319" class="phrase">Im Finstern leiden sie's</span>, <span id="2320" class="phrase">und wenn es Tag wird</span>,<br>
+<span id="2321" class="phrase">So leugnen sie's vor ihrem Richter ab</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ihr seid sehr nachsichtsvoll, Herr Richter Adam,<br>
+Sehr mild, in allem, was die Jungfer angeht. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Die Wahrheit Euch zu sagen, Herr Gerichtsrat,<br>
+Ihr Vater war ein guter Freund von mir.<br>
+<span id="2322" class="phrase">Wollen Euer Gnaden heute huldreich sein</span>,<br>
+So tun wir hier nicht mehr, als unsre Pflicht,<br>
+Und lassen seine Tochter <span id="gehen" class="alt">gehn</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ich spüre große Lust in mir, Herr Richter,<br>
+<span id="2323" class="phrase">Der Sache völlig auf den Grund zu kommen</span>. -<br>
+Sei dreist, mein Kind; sag, wer den Krug zerschlagen.<br>
+Vor niemand stehst du, in dem Augenblick,<br>
+<span id="2324" class="phrase">Der einen Fehltritt nicht verzeihen könnte</span>. <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Mein lieber, würdiger und gnäd'ger Herr,<br>
+<span id="2325" class="phrase">Erlasst mir, Euch den Hergang zu erzählen</span>.<br>
+Von dieser <span id="weigern" class="alt">Weigrung</span> <span id="2326" class="phrase">denkt uneben nicht</span>.<br>
+Es ist <span id="2327" class="phrase">des Himmels wunderbare Fügung</span>,<br>
+Die mir den Mund in dieser Sache <span id="schliessen" class="alt">schließt</span>.<br>
+Dass Ruprecht jenen Krug nicht <span id="2328" class="phrase">traf</span>, will ich<br>
+Mit einem Eid, wenn Ihr's verlangt,<br>
+<span id="2329" class="phrase">Auf heiligem Altar bekräftigen</span>.<br>
+Jedoch die gestrige Begebenheit,<br>
+<span id="2330" class="phrase">Mit jedem andern Zuge</span>, ist mein eigen,<br>
+<span id="2331" class="phrase">Und nicht das ganze Garnstück kann die Mutter</span>,<br>
+<span id="2331" class="phrase">Um eines einz'gen Fadens willen, fordern,</span>
+<br>
+<span id="2331" class="phrase">Der, ihr gehörig, durchs Gewebe läuft.</span>
+<br>
+Ich kann hier, wer den Krug zerschlug, nicht melden,<br>
+<span id="2332" class="phrase">Geheimnisse, die nicht mein Eigentum,</span>
+<br>
+<span id="2332" class="phrase">Müsst ich, dem Kruge völlig fremd, berühren</span>.<br>
+<span id="1759" class="phrase">Früh oder spät</span> will ich's ihr anvertrauen,<br>
+Doch hier das Tribunal ist nicht der Ort,<br>
+Wo sie das Recht hat, mich darnach zu fragen. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Nein, <span id="2333" class="phrase">Rechtens nicht</span>. Auf meine Ehre, nicht.<br>
+Die Jungfer weiß, <span id="2702" class="phrase">wo unsre Zäume hängen.</span><br>
+Wenn sie den Eid hier vor Gericht will schwören,<br>
+So <span id="wegfallen" class="alt">fällt</span> der Mutter Klage <span id="wegfallen" class="alt">weg</span>:<br>
+<span id="2334" class="phrase">Dagegen ist nichts weiter einzuwenden</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Was sagt zu der Erklärung Sie, Frau Marthe? <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Wenn ich gleich <span id="2335" class="phrase">was Erkleckliches</span> nicht aufbringe<br>
+Gestrenger Herr, so glaubt, ich bitt' Euch sehr,<br>
+<span id="2336" class="phrase">Dass mir der Schlag bloß jetzt die Zunge lähmte</span>.<br>
+Beispiele gibt's, dass<span id="2703" class="phrase"> ein verlorner Mensch</span>,<br>
+<span id="2337" class="phrase">Um vor der Welt zu Ehren sich zu bringen</span>,<br>
+Den Meineid vor dem Richtstuhl wagt; doch dass<br>
+Ein falscher Eid sich schwören kann, auf <span id="heilig" class="alt">heil'gem</span>
+<br>
+Altar, um an den Pranger hinzukommen,<br>
+Das <span id="heute" class="alt">heut'</span> erfährt die Welt <span id="erstenmal" class="alt">zum</span> erstenmal.<br>
+<span id="2338" class="phrase">Wär,</span> dass <span id="2704" class="phrase">ein andrer, als der Ruprecht</span>, sich<br>
+In ihre Kammer gestern schlich, <span id="2338" class="phrase">gegründet</span>,<br>
+<span id="2339" class="phrase">Wär's überall nur möglich</span>, gnäd'ger Herr,<br>
+Versteht mich wohl, - <span id="2340" class="phrase">so säumt' ich hier nicht länger</span>.<br>
+<span id="2341" class="phrase">Den Stuhl setzt ich, zur ersten Einrichtung</span>,<br>
+<span id="2341" class="phrase">Ihr vor die Tür</span>, und sagte: geh, mein Kind,<br>
+Die Welt ist weit, da zahlst du keine Miete,<br>
+Und lange Haare hast du auch geerbt,<br>
+<span id="2342" class="phrase">Woran du dich, kommt Zeit, kommt Rat, kannst hängen</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ruhig, ruhig, Frau Marthe. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> <span id="2705" class="phrase">Da ich jedoch</span><br>
+<span id="2705" class="phrase">Hier den Beweis noch anders führen kann</span>,<br>
+<span id="2343" class="phrase">Als bloß durch sie, die diesen Dienst mir weigert</span>,<br>
+Und überzeugt bin völlig, dass nur er<br>
+Mir, und kein anderer, den Krug zerschlug,<br>
+<span id="2344" class="phrase">So bringt die Lust, es kurzhin abzuschwören</span>,<br>
+<span id="2344" class="phrase">Mich noch auf einen schändlichen Verdacht</span>.<br>
+Die Nacht von gestern birgt ein anderes<br>
+Verbrechen noch, als bloß die Krugverwüstung.<br>
+Ich muss Euch sagen, gnäd'ger Herr, dass Ruprecht<br>
+<span id="2345" class="phrase">Zur Konskription gehört</span>, <span id="2706" class="phrase">in wenig Tagen</span><br>
+Soll er den Eid zur Fahn in Utrecht schwören.<br>
+<span id="2346" class="phrase">Die jungen Landessöhne reißen aus</span>.<br>
+<span id="2347" class="phrase">Gesetzt,</span> er hätte gestern nacht gesagt:<br>
+<span id="1746" class="phrase">»Was meinst du</span>, Evchen? Komm. Die Welt ist groß.<br>
+<span id="2348" class="phrase">Zu Kist und Kasten hast du ja die Schlüssel</span>«<br>
+Und sie, <span id="2349" class="phrase">sie hätt ein wenig sich gesperrt</span>:<br>
+<span id="2352" class="phrase">So hätte</span> ohngefähr, da ich sie störte,<br>
+- Bei ihm <span id="2350" class="phrase">aus Rach'</span>, <span id="2351" class="phrase">aus Liebe noch bei ihr</span> -<br>
+<span id="2352" class="phrase">Der Rest, so wie geschehn, erfolgen können</span>. <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Das Rabenaas! Was das für Reden sind!<br>
+<span id="2353" class="phrase">Zu Kist und Kasten</span> - <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Still! <br>
+<br>
+
+<hi rend="bold">Eve:</hi> <span id="2354" class="phrase">Er, austreten</span>! <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="2707" class="phrase">Zur Sache hier</span>. Vom Krug ist hier die Rede.<br>
+<span id="beweisen" class="alt">Beweis, Beweis</span>, dass Ruprecht ihn zerbrach! <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Gut, gnäd'ger Herr. Erst will ich hier beweisen,<br>
+Dass Ruprecht mir den Krug zerschlug,<br>
+Und dann will ich im Hause untersuchen. -<br>
+Seht, eine Zunge, die mir Zeugnis redet,<br>
+<span id="2355" class="phrase">Bring ich</span> für jedes Wort <span id="2355" class="phrase">auf</span>, das er sagte,<br>
+Und <span id="2356" class="phrase">hätt in Reihen gleich sie aufgeführt</span>,<br>
+Wenn ich <span id="fern" class="alt">von fern</span> geahndet nur, <span id="2357" class="phrase">dass diese</span>
+<br>
+<span id="2357" class="phrase">Die ihrige für mich nicht brauchen würde</span>.<br>
+Doch wenn Ihr Frau Brigitte jetzo ruft,<br>
+Die ihm die Muhm ist, so genügt mir die,<br>
+Weil die den Hauptpunkt just bestreiten wird.<br>
+Denn die, <span id="2359" class="phrase">die hat</span> <span id="2358" class="phrase">Glock halb auf elf</span> im Garten,<br>
+Merkt wohl, bevor der Krug zertrümmert worden,<br>
+<span id="2359" class="phrase">Wortwechselnd mit der Ev ihn schon getroffen</span>;<br>
+Und wie <span id="2360" class="phrase">die Fabel, die er aufgestellt</span>,<br>
+Vom Kopf zu Fuß dadurch gespalten wird,<br>
+Durch diese einz'ge <span id="Zunge" class="alt">Zung</span>', ihr hohen Richter:<br>
+<span id="2361" class="phrase">Das überlass ich selbst euch einzusehn</span>. <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Wer hat mich? <br>
+<br>
+
+<hi rend="bold">Veit:</hi> Schwester Briggy? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Mich mit Ev? Im Garten? <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Ihn mit der Ev, im Garten, Glock <span id="2362" class="phrase">halb elf</span>,<br>
+Bevor er noch, wie er geschwätzt, um elf<br>
+Das Zimmer überrumpelnd eingesprengt:<br>
+Im <span id="2363" class="phrase">Wortgewechsel</span>, <span id="2364" class="phrase">kosend bald, bald zerrend</span>,<br>
+Als wollt er sie zu etwas überreden. <br>
+<br>
+
+<hi rend="bold">Adam</hi> <stage>[<span id="2365" class="phrase">für sich</span>]:</stage> Verflucht! Der Teufel ist mir gut. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="2366" class="phrase">Schafft diese Frau herbei</span>. <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Ihr Herrn, ich <span id="gebeten" class="alt">bitt</span> euch:<br>
+Das ist kein wahres Wort, das ist nicht möglich. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> O <span id="2367" class="phrase">wart</span>, Halunke! - He! Der Büttel! Hanfried! -<br>
+Denn auf der Flucht zerschlagen sich die Krüge -<br>
+- Herr Schreiber, geht, <span id="herbeischaffen" class="alt">schafft</span> Frau Brigitt <span id="herbeischaffen" class="alt">herbei</span>! <br>
+<br>
+
+<hi rend="bold">Veit:</hi> Hör, du verfluchter Schlingel, du, was machst du?<br>
+Dir brech' ich alle Knochen noch. <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Weshalb auch? <br>
+<br>
+
+<hi rend="bold">Veit:</hi> Warum verschwiegst du, dass du mit der Dirne<br>
+Glock halb elf im Garten schon scharwenzt?<br>
+Warum verschwiegst du's? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Warum ich's verschwieg?<br>
+<span id="2368" class="phrase">Gotts Schlag und Donner</span>, weil's nicht wahr ist, Vater!<br>
+Wenn das die Muhme Briggy zeugt, so <span id="gehängt" class="alt">hängt</span> mich.<br>
+Und bei den Beinen sie <span id="meinethalber" class="alt">meinthalb</span> dazu. <br>
+<br>
+
+<hi rend="bold">Veit:</hi> Wenn aber sie's bezeugt - <span id="2369" class="phrase">nimm dich in acht</span>!<br>
+Du und die saubre Jungfer Eve dort,<br>
+<span id="2370" class="phrase">Wie ihr auch vor Gericht euch stellt</span>, <span id="2371" class="phrase">ihr steckt</span>
+<br>
+<span id="2371" class="phrase">Doch unter einer Decke noch</span>. 's ist <span id="2624" class="phrase">irgend</span><br>
+Ein <span id="schändlich" class="alt">schändliches</span> Geheimnis noch, von dem<br>
+Sie weiß, und <span id="2372" class="phrase">nur aus Schonung</span> hier nichts sagt. <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Geheimnis? Welches? <br>
+<br>
+
+<hi rend="bold">Veit:</hi> Warum hast du eingepackt?<br>
+He? Warum hast du gestern abend eingepackt? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Die Sachen? <br>
+<br>
+
+<hi rend="bold">Veit:</hi> Röcke, Hosen, ja, und <span id="2418" class="phrase">Wäsche;</span>
+<br>
+Ein Bündel, wie's ein Reisender just auf<br>
+Die Schultern wirft? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Weil ich nach Utrecht soll!<br>
+Weil ich zum Regiment soll! <span id="2373" class="phrase">Himmel-Donner</span> -!<br>
+Glaubt Er, dass ich -? <br>
+<br>
+
+<hi rend="bold">Veit:</hi> Nach Utrecht? Ja, nach Utrecht!<br>
+Du hast geeilt, nach Utrecht hinzukommen!<br>
+Vorgestern wusstest du noch nicht, ob du<br>
+Den fünften oder sechsten Tag wirst reisen. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="2374" class="phrase">Weiß Er zur Sache was zu melden</span>, Vater? <br>
+<br>
+
+<hi rend="bold">Veit:</hi> - <span id="2375" class="phrase">Gestrenger Herr</span>, ich will noch nichts behaupten.<br>
+Ich war daheim, <span id="2708" class="phrase">als sich der Krug zerschlug</span>,<br>
+Und auch von einer andern Unternehmung<br>
+Hab' ich, die Wahrheit zu gestehn, noch nichts,<br>
+<span id="2376" class="phrase">Wenn ich jedweden Umstand wohl erwäge</span>,<br>
+Das meinen Sohn verdächtig macht, bemerkt.<br>
+Von seiner Unschuld völlig überzeugt,<br>
+Kam ich hierher, <span id="2377" class="phrase">nach abgemachtem Streit</span>
+<br>
+<span id="2378" class="phrase">Sein ehelich Verlöbnis aufzulösen</span>,<br>
+Und ihm das Silberkettlein einzufordern,<br>
+Zusamt dem Schaupfennig, den er der Jungfer<br>
+Bei dem Verlöbnis vor'gen Herbst verehrt.<br>
+Wenn jetzt <span id="2709" class="phrase">von Flucht was und Verräterei</span><br>
+An meinem grauen Haar <span id="2379" class="phrase">zu Tage kommt</span>,<br>
+So ist mir das so neu, Ihr Herrn, als Euch:<br>
+<span id="2380" class="phrase">Doch dann der Teufel soll den Hals ihm brechen</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="herbeischaffen" class="alt">Schafft</span> Frau Brigitt <span id="herbeischaffen" class="alt">herbei</span>, Herr Richter Adam. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> - Wird Euer Gnaden diese Sache nicht<br>
+Ermüden? <span id="2381" class="phrase">Sie zieht sich in die Länge</span>.<br>
+Euer Gnaden haben meine Kassen noch,<br>
+Und die Registratur - <span id="2382" class="phrase">Was ist die Glocke</span>? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> <span id="2625" class="phrase">Es schlug soeben</span> halb. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2383" class="phrase">Auf elf</span>? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Verzeiht, <span id="2384" class="phrase">auf zwölfe</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Gleichviel. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ich glaub, <span id="2626" class="phrase">die Zeit ist, oder Ihr verrückt</span>. <br>
+<stage>[Er sieht nach der Uhr.]</stage>
+<br>
+Ich bin kein ehrlicher Mann - Ja, was befehlt Ihr? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="2385" class="phrase">Ich bin der Meinung</span> - <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Abzuschließen? Gut -! <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Erlaubt! <span id="2386" class="phrase">Ich bin der Meinung</span>, fortzufahren. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2387" class="phrase">Ihr seid der Meinung</span> - Auch gut. Sonst würd' ich<br>
+Auf Ehre, morgen früh, Glock neun, die Sache<br>
+<span id="Zufriedenheit" class="alt">Zu Euerer Zufriedenheit</span> beendigen. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="1767" class="phrase">Ihr wißt um meinen Willen</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Wie Ihr befehlt.<br>
+Herr Schreiber, <span id="abschicken" class="alt">schickt</span> die Büttel <span id="abschicken" class="alt">ab</span>; sie sollen<br>
+Sogleich ins Amt die <span id="Brigitte" class="alt">Frau Brigitte</span> <span id="2388" class="phrase">laden</span>. <br>
+<br>
+<div type="section">
+<hi rend="bold">Walter:</hi> <span id="2390" class="phrase">Und nehmt Euch</span> - <span id="2389" class="phrase">Zeit, die mir viel wert, zu sparen</span> -<br>
+<span id="2390" class="phrase">Gefälligst selbst der Sach' ein wenig an</span>. <br>
+<stage>[Licht ab.]</stage> <br>
+<br>
+
+<hi rend="bold">Zehnter Auftritt
+</hi><br>
+<br>
+
+<stage>[Die Vorigen ohne Licht. Späterhin einige Mägde.]</stage>
+<br>
+<br>
+
+<hi rend="bold">Adam</hi> <stage>[aufstehend]</stage>: Inzwischen könnte man, <span id="2391" class="phrase">wenn's so gefällig</span>,<br>
+<span id="2392" class="phrase">Vom Sitze sich ein wenig lüften</span> -? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Hm! O ja.<br>
+Was ich sagen wollt - <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Erlaubt Ihr gleichfalls,<br>
+Dass die Partein, bis Frau Brigitt erscheint -? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Was? Die Partein? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ja, vor die Tür, wenn Ihr - <br>
+<br>
+
+<hi rend="bold">Walter</hi> <stage>[<span id="2419" class="phrase">für sich</span>]:</stage> Verwünscht! <br>
+<stage>[<span id="2420" class="phrase">laut</span>]</stage> Herr Richter Adam, wisst Ihr was?<br>
+Gebt ein Glas Wein mir in der Zwischenzeit. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Von <span id="herzen" class="alt">ganzem</span> Herzen gern. He! Margarete!<br>
+Ihr macht mich glücklich, gnäd'ger Herr. - Margrete! <br>
+<br>
+
+<stage>[Die Magd <span id="auftreten" class="alt">tritt auf</span>.]</stage>
+<br>
+<br>
+
+<hi rend="bold">Die Magd:</hi> Hier. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Was befehlt Ihr! - <span id="abtreten" class="alt">Tretet ab</span>, ihr Leute.<br>
+<span id="2393" class="phrase">Franz</span>? - <span id="2394" class="phrase">Auf den Vorsaal draußen</span>. - <span id="2393" class="phrase">Oder Rhein</span>? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Von unserm Rhein. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Gut. - Bis ich rufe. Marsch! <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Wohin? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Geh, <span id="2395" class="phrase">vom versiegelten</span>, Margrete. -<br>
+Was? Auf den Flur bloß draußen. - Hier. Der Schlüssel. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Hm! Bleibt. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1778" class="phrase">Fort</span>! Marsch, sag ich! - Geh, Margarete!<br>
+Und Butter, <span id="2396" class="phrase">frisch gestampft</span>, <span id="Käse" class="alt">Käs'</span> auch aus Limburg,<br>
+Und von der fetten pommerschen Räuchergans. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Halt! Einen Augenblick! <span id="2397" class="phrase">Macht nicht so viel</span>
+<br>
+<span id="2397" class="phrase">Umständ'</span>, ich bitt Euch sehr, Herr Richter. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2398" class="phrase">Schert</span>
+<br>
+<span id="2398" class="phrase">Zum Teufel euch</span>, sag ich! Tu, wie ich sagte. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Schickt Ihr die Leute fort, Herr Richter? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Euer Gnaden? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ob Ihr -? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Sie <span id="abtreten" class="alt">treten ab</span>, wenn Ihr erlaubt.<br>
+<span id="2399" class="phrase">Bloß ab</span>, bis Frau Brigitt erscheint.<br>
+Wie, oder soll's nicht etwa -? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Hm! Wie Ihr wollt.<br>
+Doch <span id="2400" class="phrase">ob's der Mühe sich verlohnen wird</span>?<br>
+Meint Ihr, <span id="2401" class="phrase">dass es so lange Zeit wird währen</span>,<br>
+Bis man im Ort sie trifft? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> 's ist heute <span id="2402" class="phrase">Holztag</span>,<br>
+Gestrenger Herr. Die Weiber größtenteils<br>
+Sind <span id="2403" class="phrase">in den Fichten</span>, <span id="2404" class="phrase">Sträucher einzusammeln</span>.<br>
+Es könnte leicht - <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Die Muhme ist <span id="2710" class="phrase">zu Hause</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="2710" class="phrase">Zu Haus</span>. Lasst sein. <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Die wird sogleich erscheinen. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Die wird uns gleich erscheinen. Schafft den Wein. <br>
+<br>
+
+<hi rend="bold">Adam</hi> <stage>[<span id="2405" class="phrase">für sich</span>]</stage>: Verflucht! <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="2408" class="phrase">Macht fort</span>. Doch <span id="2407" class="phrase">nichts zum Imbiss</span>, <span id="gebeten" class="alt">bitt</span> ich,<br>
+Als ein Stück trocknen Brotes nur, und Salz. <br>
+<br>
+
+<hi rend="bold">Adam</hi> <stage>[<span id="2406" class="phrase">für sich</span>]:</stage> Zwei Augenblicke mit der Dirn' allein - <br>
+<stage>[laut]</stage> Ach, trocknes Brot! Was! Salz! <span id="2409" class="phrase">Geht doch</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Gewiss. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ei, ein Stück <span id="Käse" class="alt">Käs'</span> aus Limburg mindestens. - Käse<br>
+Macht erst geschickt die Zunge, Wein, zu schmecken. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Gut. Ein Stück Käse denn, <span id="1751" class="phrase">doch weiter nichts</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> So geh. <span id="2410" class="phrase">Und weiß, von Damast, aufgedeckt</span>.<br>
+<span id="2411" class="phrase">Schlecht alles zwar, doch recht</span>. <stage>[Die Magd ab.]</stage> <br>
+Das ist der Vorteil<br>
+<span id="2412" class="phrase">Von uns verrufnen hagestolzen Leuten</span>,<br>
+Dass wir, was <span id="2413" class="phrase">andre</span>, <span id="2414" class="phrase">knapp und kummervoll</span>,<br>
+Mit Weib und Kindern täglich teilen müssen,<br>
+Mit einem Freunde, <span id="2415" class="phrase">zur gelegnen Stunde</span>,<br>
+Vollauf genießen. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Was ich sagen wollte -<br>
+Wie kamt Ihr doch zu Eurer <span id="Wunde" class="alt">Wund'</span>, Herr Richter?<br>
+Das ist ein böses Loch, fürwahr, im Kopf, das! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> - Ich fiel. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ihr fielt. Hm! So. Wann? Gestern abend? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Heut, Glock <span id="2416" class="phrase">halb sechs</span>, verzeiht, am Morgen, früh,<br>
+Da ich soeben aus dem Bette stieg. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="2417" class="phrase">Worüber</span>? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Über - <span id="gnädiger" class="alt">gnäd'ger</span> Herr Gerichtsrat,<br>
+Die Wahrheit Euch zu sagen, über mich.<br>
+Ich <span id="niederschlagen" class="alt">schlug</span> Euch häuptlings an den Ofen <span id="niederschlagen" class="alt">nieder</span>,<br>
+Bis diese Stunde weiß ich nicht, warum? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Von hinten? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Wie? Von hinten - <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Oder vorn?<br>
+Ihr habt zwo Wunden, vorne ein' und hinten. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Von vorn und hinten. - Margarete! <br>
+<br>
+
+<stage>[Die beiden Mägde mit Wein usw. Sie <span id="2421" class="phrase">decken auf</span> und <span id="abgehen" class="alt">gehen</span> wieder <span id="abgehen" class="alt">ab</span>.]</stage> <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Wie? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Erst so, dann so. Erst auf die Ofenkante,<br>
+<span id="2422" class="phrase">Die vorn die Stirn mir einstieß</span>, und sodann<br>
+Vom Ofen rückwärts auf den Boden wieder,<br>
+Wo ich mir noch den Hinterkopf zerschlug. <stage>[Er <span id="einschenken" class="alt">schenkt ein</span>.]</stage>
+<br>
+<span id="2423" class="phrase">Ist's Euch gefällig</span>? <br>
+<br>
+
+<hi rend="bold">Walter</hi> <stage>[nimmt das Glas]</stage>: Hättet Ihr ein Weib,<br>
+So würd' ich wunderliche Dinge glauben,<br>
+Herr Richter. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Wieso? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ja, <span id="2424" class="phrase">bei meiner Treu</span>,<br>
+So rings seh ich <span id="2425" class="phrase">zerkritzt Euch und zerkratzt</span>. <br>
+<br>
+
+<hi rend="bold">Adam</hi> <stage>[lacht]:</stage> Nein, <span id="1779" class="phrase">Gott sei Dank</span>! <span id="2426" class="phrase">Fraun-Nägel</span> sind es nicht. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="2427" class="phrase">Glaubs</span>. Auch ein Vorteil noch der Hagestolzen. <br>
+<br>
+
+<hi rend="bold">Adam</hi> <stage>[fortlachend]:</stage> <span id="2428" class="phrase">Strauchwerk, für Seidenwürmer</span>, das man <span id="2429" class="phrase">trocknend</span>
+<br>
+Mir an dem Ofenwinkel aufgesetzt. -<br>
+Auf Euer Wohlergehn! <stage>[Sie trinken.]</stage> <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Und grad auch heut<br>
+Noch die Perücke seltsam <span id="einbüßen" class="alt">einzubüßen</span>!<br>
+Die hätt Euch Eure Wunden noch bedeckt. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ja, ja. <span id="2430" class="phrase">Jedwedes Übel ist ein Zwilling</span>.<br>
+Hier - von dem fetten jetzt - kann ich -? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ein Stückchen.<br>
+Aus Limburg? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="direkt" class="alt">Rect'</span> aus Limburg, <span id="gnädig" class="alt">gnäd'ger</span> Herr. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> -Wie Teufel aber, sagt mir, <span id="zugehen" class="alt">ging</span> das <span id="zugehen" class="alt">zu</span>? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Was? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Dass Ihr die Perücke <span id="einbüßen" class="alt">eingebüßt</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ja, seht. Ich sitz und lese gestern abend<br>
+Ein Aktenstück, und weil ich mir die Brille<br>
+Verlegt, <span id="2431" class="phrase">duck' ich so tief mich in den Streit</span>,<br>
+Dass bei der Kerze Flamme lichterloh<br>
+<span id="2432" class="phrase">Mir die Perücke angeht</span>. Ich, ich denke,<br>
+Feur fällt vom Himmel auf mein sündig Haupt,<br>
+Und greife sie, und will sie von mir werfen;<br>
+Doch eh ich noch das Nackenband gelöst,<br>
+Brennt sie wie <span id="2433" class="phrase">Sodom und Gomorrha</span> schon.<br>
+Kaum dass ich die drei Haare noch mir rette. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Verwünscht! Und <span id="2434" class="phrase">Eure andr'</span> ist in der Stadt? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Bei dem Perückenmacher. - <span id="2627" class="phrase">Doch zur Sache</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Nicht allzu rasch, ich bitt, Herr Richter Adam. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ei, was! Die Stunde rollt. Ein Gläschen. Hier. <br>
+<stage>[Er <span id="einschenken" class="alt">schenkt ein</span>.]</stage> <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Der Lebrecht - wenn der Kauz dort wahr gesprochen<br>
+<span id="2435" class="phrase">Er auch hat einen bösen Fall getan</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2436" class="phrase">Auf meine Ehr</span>. <stage>[Er trinkt.]</stage> <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Wenn hier die Sache,<br>
+Wie ich fast fürchte, unentworren bleibt,<br>
+So werdet Ihr, in Eurem Ort, den Täter<br>
+Leicht noch aus seiner <span id="Wunde" class="alt">Wund'</span> entdecken können. <br>
+<stage>[Er trinkt]</stage> Niersteiner? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Was? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Oder guter Oppenheimer? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Nierstein. Sieh da! Auf Ehre! Ihr versteht's.<br>
+Aus Nierstein, <span id="gnädig" class="alt">gnäd'ger</span> Herr, als hätt ich ihn geholt. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ich prüft ihn, <span id="2437" class="phrase">vor drei Jahren</span>, an der Kelter. <br>
+<stage>[Adam <span id="einschenken" class="alt">schenkt</span> wieder <span id="einschenken" class="alt">ein</span>.]</stage> <br>
+- Wie hoch ist Euer Fenster? - Dort! Frau Marthe! <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Mein Fenster? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Das Fenster jener Kammer, ja,<br>
+Worin die Jungfer schläft? <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Die Kammer zwar<br>
+<span id="2438" class="phrase">Ist nur vom ersten Stock</span>, <span id="2711" class="phrase">ein Keller drunter</span>,<br>
+<span id="2439" class="phrase">Mehr als neun Fuß das Fenster nicht vom Boden</span>;<br>
+<span id="2440" class="phrase">Jedoch die ganze, wohlerwogene</span>
+<br>
+<span id="2440" class="phrase">Gelegenheit sehr ungeschickt zum Springen</span>.<br>
+<span id="2441" class="phrase">Denn auf zwei Fuß steht von der Wand ein Weinstock</span>,<br>
+<span id="2442" class="phrase">Der seine knot'gen Äste rankend hin</span>
+<br>
+<span id="2442" class="phrase">Durch ein Spalier treibt, längs der ganzen Wand</span>:<br>
+Das Fenster selbst ist noch davon umstrickt.<br>
+Es würd ein Eber, ein gewaffneter,<br>
+Müh mit den Fängern haben, durchzubrechen. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Es hing auch keiner drin. <br>
+<stage>[Er <span id="einschenken" class="alt">schenkt</span> sich <span id="einschenken" class="alt">ein</span>.]</stage> <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Meint Ihr? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ach, geht! <stage>[Er trinkt.]</stage> <br>
+<br>
+
+<hi rend="bold">Walter</hi> <stage>[zu Ruprecht]:</stage> <span id="2443" class="phrase">Wie traf Er denn den Sünder</span>? Auf den Kopf? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Hier. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="2628" class="phrase">Lasst.</span> <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="geben" class="alt">Gebt</span> her. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> 's ist halb noch voll. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2712" class="phrase">Will's füllen</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ihr hört's. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ei, <span id="2444" class="phrase">für die gute Zahl</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ich <span id="gebeten" class="alt">bitt'</span> Euch. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ach, was! <span id="2445" class="phrase">Nach der Pythagoräer-Regel</span>. <br>
+<stage>[Er <span id="einschenken" class="alt">schenkt</span> ihm <span id="einschenken" class="alt">ein</span>.]</stage>
+<br>
+<br>
+
+<hi rend="bold">Walter</hi> <stage>[wieder zu Ruprecht]</stage>: Wie oft traf Er dem Sünder denn den Kopf? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2446" class="phrase">Eins ist der Herr; Zwei ist das finstre Chaos;</span>
+<br>
+Drei ist die Welt. Drei Gläser <span id="2447" class="phrase">lob ich mir</span>.<br>
+Im dritten trinkt man mit den Tropfen Sonnen,<br>
+Und Firmamente <span id="2448" class="phrase">mit den übrigen</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Wie oftmals auf den Kopf traf Er den Sünder?<br>
+Er, Ruprecht, Ihn dort frag ich! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Wird man's hören?<br>
+Wie oft trafst du den Sündenbock? Na, heraus!<br>
+<span id="2449" class="phrase">Gotts Blitz</span>, seht, weiß der Kerl wohl selbst, ob er -<br>
+Vergaßt du's? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Mit der Klinke? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ja, was weiß ich. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="2450" class="phrase">Vom Fenster, als Er nach ihm herunter hieb</span>? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Zweimal, Ihr Herrn. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Halunke! Das behielt er! <stage>[Er trinkt.] </stage>
+<br>
+<br>
+
+<hi rend="bold">Walter:</hi> Zweimal! Er konnt ihn mit zwei solchen Hieben<br>
+Erschlagen, weiß er -? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Hätt ich ihn erschlagen,<br>
+So hätt ich ihn. <span id="2451" class="phrase">Es wär mir grade recht</span>.<br>
+Läg er hier vor mir, tot, so könnt ich sagen,<br>
+Der war's, Ihr Herrn, ich hab Euch nicht belogen. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ja, tot! Das glaub ich. Aber so - <br>
+<stage>[Er <span id="einschenken" class="alt">schenkt ein</span>.]</stage> <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Konnt Er ihn denn im Dunkeln nicht erkennen? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> <span id="2452" class="phrase">Nicht einen Stich</span>, gestrenger Herr. Wie sollt ich? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2453" class="phrase">Warum sperrtst du nicht die Augen auf</span>? - <span id="2454" class="phrase">Stoßt an</span>! <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> <span id="2455" class="phrase">Die Augen auf! Ich hatt sie aufgesperrt</span>.<br>
+Der Satan warf sie mir voll Sand. <br>
+<br>
+
+<hi rend="bold">Adam</hi> <stage>[<span id="2456" class="phrase">in den Bart</span>]:</stage> Voll Sand, ja!<br>
+Warum <span id="aufsperren" class="alt">sperrtst</span> du deine großen Augen <span id="aufsperren" class="alt">auf</span>?<br>
+- Hier. <span id="2457" class="phrase">Was wir lieben</span>, gnäd'ger Herr! <span id="2458" class="phrase">Stoßt an</span>! <br>
+<br>
+
+<hi rend="bold">Walter:</hi> - <span id="2457" class="phrase">Was recht und gut und treu ist</span>, Richter Adam! <br>
+<stage>[Sie trinken.]</stage> <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Nun denn, <span id="2459" class="phrase">zum Schluß jetzt, wenn's gefällig ist</span>. <br>
+<stage>[Er <span id="einschenken" class="alt">schenkt ein</span>.]</stage> <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ihr seid zuweilen bei Frau Marthe wohl,<br>
+Herr Richter Adam. Sagt mir doch,<br>
+Wer, außer Ruprecht, <span id="2460" class="phrase">geht dort aus und ein</span>? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Nicht allzu <span id="2686" class="phrase">oft</span>, gestrenger Herr, verzeiht.<br>
+<span id="2461" class="phrase">Wer aus und ein geht</span>, kann ich Euch nicht sagen. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="2687" class="phrase">Wie</span>? Solltet Ihr die Witwe nicht zuweilen<br>
+Von Eurem <span id="selig" class="alt">sel'gen</span> Freund besuchen? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Nein, <span id="1758" class="phrase">in der Tat</span>, sehr selten nur. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Frau Marthe!<br>
+<span id="2462" class="phrase">Habt Ihr's mit Richter Adam hier verdorben</span>?<br>
+Er sagt, <span id="2463" class="phrase">er spräche nicht mehr bei Euch ein</span>? <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Hm! Gnäd'ger Herr, <span id="2464" class="phrase">verdorben</span>? Das just nicht.<br>
+Ich denk, <span id="2629" class="phrase">er nennt mein guter Freund sich noch</span>.<br>
+Doch dass ich oft in meinem Haus ihn sähe,<br>
+<span id="2465" class="phrase">Das vom Herrn Vetter kann ich just nicht rühmen</span>.<br>
+Neun Wochen sind's, dass er's zuletzt betrat,<br>
+Und auch nur da noch <span id="2466" class="phrase">im Vorübergehn</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Wie sagt Ihr? <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Was? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Neun Wochen wären's -? <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Neun,<br>
+Ja - Donnerstag sind's zehn. <span id="2467" class="phrase">Er bat sich Samen</span>
+<br>
+<span id="2467" class="phrase">Bei mir, von Nelken und Aurikeln, aus</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Und - Sonntags - wenn er auf das Vorwerk geht -? <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Ja, da - da guckt er mir ins Fenster wohl,<br>
+Und saget guten Tag zu mir und meiner Tochter;<br>
+Doch dann so geht er wieder <span id="2468" class="phrase">seiner Wege</span>. <br>
+<br>
+
+<hi rend="bold">Walter<stage> [<span id="2469" class="phrase">für sich</span>]</stage></hi>: Hm! Sollt ich auch dem Manne wohl - <br>
+<stage>[Er trinkt]</stage> Ich glaubte,<br>
+Weil Ihr die Jungfer Muhme dort zuweilen<br>
+In Eurer Wirtschaft braucht, so würdet Ihr<br>
+<span id="2713" class="phrase">Zum Dank</span> die Mutter <span id="2470" class="phrase">dann und wann</span> besuchen. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Wieso, gestrenger Herr? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Wieso? Ihr sagtet,<br>
+Die Jungfer <span id="2471" class="phrase">helfe Euren Hühnern auf</span>,<br>
+<span id="2471" class="phrase">Die Euch im Hof erkranken</span>. <span id="2472" class="phrase">Hat sie nicht</span>
+<br>
+<span id="2472" class="phrase">Noch heut in dieser Sach Euch Rat erteilt</span>? <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Ja, allerdings, gestrenger Herr, das tut sie.<br>
+Vorgestern <span id="schicken" class="alt">schickt'</span> er ihr ein krankes Perlhuhn<br>
+Ins Haus, <span id="2473" class="phrase">das schon den Tod im Leibe hatte</span>.<br>
+Vorm Jahr rettete sie ihm eins <span id="2474" class="phrase">vom Pips</span>,<br>
+Und dies auch wird sie mit der Nudel heilen:<br>
+Jedoch <span id="2475" class="phrase">zum Dank</span> ist er noch nicht erschienen. <br>
+<br>
+
+<hi rend="bold">Walter</hi> <stage>[verwirrt]</stage>: - <span id="einschenken" class="alt">Schenkt ein</span>, Herr Richter Adam, seid so gut.<br>
+<span id="einschenken" class="alt">Schenkt</span> gleich mir<span id="einschenken" class="alt"> ein</span>. Wir wollen eins noch trinken. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Zu Eurem Dienst. Ihr macht mich glücklich. Hier. <br>
+<stage>[Er <span id="einschenken" class="alt">schenkt ein</span>.]</stage> <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="2630" class="phrase">Auf Euer Wohlergehn</span>! - Der Richter Adam,<br>
+Er wird <span id="spät" class="alt">früh oder spät </span>schon kommen. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Meint Ihr? Ich zweifle.<br>
+Könnt ich Niersteiner, solchen, wie Ihr trinkt,<br>
+Und wie mein <span id="selig" class="alt">sel'ger</span> Mann, der Kastellan,<br>
+Wohl auch, von Zeit zu Zeit, im Keller hatte,<br>
+Vorsetzen dem Herrn Vetter, wär's was anders:<br>
+Doch so besitz ich nichts, ich arme Witwe,<br>
+In meinem Hause, das ihn lockt. <br>
+<br>
+<div type="section">
+<hi rend="bold">Walter:</hi> <span id="2476" class="phrase">Um so viel besser</span>. <br>
+<br>
+
+<hi rend="bold">Elfter Auftritt
+</hi><br>
+<br>
+
+<stage>[Licht, Frau Brigitte mit einer Perücke in der Hand, die Mägde <span id="auftreten" class="alt">treten auf</span>. Die <br>
+Vorigen.] <br></stage>
+<br>
+
+<hi rend="bold">Licht:</hi> Hier, Frau Brigitt, herein. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ist das die Frau, Herr Schreiber Licht? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Das ist die Frau Brigitte, Euer Gnaden. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Nun denn, so Lasst die Sach uns jetzt beschließen.<br>
+<span id="1764" class="phrase">Nehmt ab</span>, ihr Mägde. Hier. <br>
+<br>
+
+<stage>[<span id="1765" class="phrase">Die Mägde mit Gläsern usw. ab</span>.]</stage> <br>
+<br>
+
+<hi rend="bold">Adam</hi> <stage>[<span id="2477" class="phrase">währenddessen</span>]:</stage> Nun, Evchen, höre,<br>
+<span id="2481" class="phrase">Dreh du mir deine Pille ordentlich</span>,<br>
+<span id="2482" class="phrase">Wie sich's gehört</span>, so <span id="2480" class="phrase">sprech ich heute abend</span>
+<br>
+<span id="2480" class="phrase">Auf ein Gericht Karauschen bei euch ein</span>.<br>
+<span id="2483" class="phrase">Dem Luder muss sie ganz jetzt durch die Gurgel,</span>
+<br>
+<span id="2483" class="phrase">Ist sie zu groß, so mag's den Tod dran fressen</span>. <br>
+<br>
+
+<hi rend="bold">Walter</hi> <stage>[erblickt die Perücke]:</stage> Was bringt uns Frau Brigitte dort für eine<br>
+Perücke? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Gnäd'ger Herr? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Was jene Frau uns dort für eine<br>
+Perücke bringt? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Hm! <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Was? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Verzeiht - <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Werd' ich's erfahren? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Wenn Euer Gnaden gütigst<br>
+Die Frau, durch den Herrn Richter, fragen wollen,<br>
+So wird, wem die Perücke <span id="2484" class="phrase">angehört</span>,<br>
+Sich, <span id="2714" class="phrase">und das Weitre</span>, <span id="zweifeln" class="alt">zweifl</span> ich nicht, ergeben. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> - Ich will nicht wissen, wem sie <span id="2485" class="phrase">angehört</span>.<br>
+Wie <span id="dazukommen" class="alt">kam</span> die Frau <span id="dazukommen" class="alt">dazu</span>? Wo fand sie sie? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Die Frau fand die Perücke im Spalier<br>
+Bei Frau Margrete Rull. Sie hing gespießt,<br>
+Gleich einem Nest, im Kreuzgeflecht des Weinstocks,<br>
+Dicht unterm Fenster, wo die Jungfer schläft. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Was? Bei mir? Im Spalier? <br>
+<br>
+
+<hi rend="bold">Walter</hi> <stage>[heimlich]:</stage> Herr Richter Adam,<br>
+Habt Ihr mir etwas zu vertraun,<br>
+So <span id="gebeten" class="alt">bitt</span> ich, um die Ehre des <span id="Gericht" class="alt">Gerichtes</span>,<br>
+<span id="2533" class="phrase">Ihr seid so gut</span>, und <span id="ansagen" class="alt">sagt mir's an</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ich Euch -? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Nicht? Habt Ihr nicht -? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Auf meine Ehre - <stage>[Er ergreift die Perücke.]</stage> <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Hier die Perücke ist die Eure nicht? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Hier die <span id="Perücke" class="alt">Perück</span>', ihr Herren, ist <span id="2715" class="phrase">die meine</span>!<br>
+Das ist, <span id="2486" class="phrase">Blitz-Element</span>, <span id="2487" class="phrase">die nämliche</span>,<br>
+Die ich dem Burschen <span id="1772" class="phrase">vor acht Tagen</span> gab,<br>
+Nach Utrecht sie zum <span id="2488" class="phrase">Meister Mehl</span> zu bringen. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Wem? Was? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Dem Ruprecht? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Mir? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Hab ich Ihm, Schlingel,<br>
+Als Er nach Utrecht <span id="1772" class="phrase">vor acht Tagen</span> ging,<br>
+Nicht die <span id="Perücke" class="alt">Perück</span> hier anvertraut, sie zum<br>
+Friseur, dass er sie renoviere, hinzutragen? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Ob Er -? Nun ja. Er gab mir - <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Warum hat er<br>
+Nicht die Perück, Halunke, abgegeben?<br>
+Warum nicht hat Er sie, wie ich befohlen,<br>
+Beim Meister in der Werkstatt abgegeben? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Warum ich sie -? <span id="2489" class="phrase">Gotts Himmel-Donner-Schlag</span>!<br>
+Ich hab sie in der Werkstatt abgegeben.<br>
+<span id="2490" class="phrase">Der Meister Mehl</span> nahm sie - <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Sie abgegeben?<br>
+Und jetzt hängt sie im Weinspalier bei Marthens?<br>
+O <span id="gewartet" class="alt">wart</span>, Canaille! So entkommst du nicht.<br>
+<span id="2491" class="phrase">Dahinter steckt mir von Verkappung was</span>,<br>
+<span id="2491" class="phrase">Und Meuterei</span>, was weiß ich? - Wollt Ihr erlauben,<br>
+Dass ich sogleich die Frau nur inquiriere? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ihr hättet die Perücke -? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Gnäd'ger Herr,<br>
+Als jener Bursche dort, <span id="2492" class="phrase">vergangnen Dienstag</span>,<br>
+Nach Utrecht fuhr mit seines Vaters Ochsen,<br>
+Kam er ins Amt, und sprach: »<span id="Herr" class="alt">Herr</span> Richter Adam,<br>
+Habt Ihr im Städtlein <span id="2493" class="phrase">etwas zu bestellen</span>?«<br>
+Mein Sohn, sag ich, wenn du so gut willst sein,<br>
+So lass mir die Perück hier auftoupieren -<br>
+Nicht aber sagt ich ihm: geh und <span id="aufbewahren" class="alt">bewahre</span>
+<br>
+Sie bei dir<span id="aufbewahren" class="alt"> auf</span>, <span id="2494" class="phrase">verkappe dich darin</span>,<br>
+Und lass sie im Spalier bei Marthens hängen. <br>
+<br>
+
+<hi rend="bold">Frau Brigitte:</hi> Ihr Herrn, der Ruprecht, <span id="gemeint" class="alt">mein'</span> ich, <span id="2495" class="phrase">halt zu Gnaden</span>,<br>
+Der <span id="1736" class="phrase">war's</span> wohl nicht. Denn da ich gestern nacht<br>
+Hinaus aufs Vorwerk geh, zu meiner Muhme,<br>
+Die schwer <span id="2496" class="phrase">im Kindbett liegt</span>, hört ich die Jungfer<br>
+Gedämpft, im Garten hinten, jemand schelten:<br>
+<span id="2497" class="phrase">Wut scheint und Furcht die Stimme ihr zu rauben</span>.<br>
+»<span id="Pfui" class="alt">Pfui</span>, schäm Er sich, Er Niederträchtiger,<br>
+Was macht Er? Fort! Ich werd die Mutter rufen«;<br>
+<span id="2498" class="phrase">Als ob die Spanier im Lande wären</span>.<br>
+Drauf: Eve! durch den Zaun hin: Eve! ruf ich.<br>
+Was hast du? Was auch gibt's? - Und still wird es:<br>
+Nun? Wirst du antworten? - <span id="was" class="alt">»Was</span> wollt Ihr, Muhme?«<br>
+<span id="2499" class="phrase">Was hast du vor</span>? frag ich. - »<span id="2500" class="phrase">Was werd ich haben</span>?«<br>
+Ist es der Ruprecht? - »Ei so ja, der Ruprecht.<br>
+<span id="2501" class="phrase">Geht Euren Weg doch nur</span>.« - <span id="2502" class="phrase">So koch dir Tee</span>.<br>
+<span id="2503" class="phrase">Das liebt sich, denk ich, wie sich andre zanken</span>. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Mithin -? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Mithin -? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Schweigt! Lasst die Frau vollenden. <br>
+<br>
+
+<hi rend="bold">Frau Brigitte:</hi> Da ich vom Vorwerk nun zurückekehre,<br>
+Zur Zeit der Mitternacht etwa, und just,<br>
+Im Lindengang, bei Marthens Garten bin,<br>
+<span id="vorbeihuschen" class="alt">Huscht</span> Euch ein Kerl bei mir <span id="vorbeihuschen" class="alt">vorbei</span>, kahlköpfig,<br>
+Mit einem Pferdefuß, und hinter ihm<br>
+<span id="2504" class="phrase">Erstinkt's</span> wie Dampf von Pech und Haar und Schwefel.<br>
+Ich <span id="aussprechen" class="alt">sprech</span> ein <span id="2505" class="phrase">Gottseibeiuns</span> <span id="aussprechen" class="alt">aus</span>, und <span id="umdrehen" class="alt">drehe</span>
+<br>
+Entsetzensvoll <span id="umdrehen" class="alt">mich um</span>, und seh, <span id="1752" class="phrase">mein Seel</span>,<br>
+Die Glatz, Ihr Herren, <span id="2506" class="phrase">im Verschwinden</span> noch,<br>
+<span id="2507" class="phrase">Wie faules Holz, den Lindengang durchleuchten</span>. <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Was! <span id="2539" class="phrase">Himmel - Tausend</span> <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Ist <span id="1774" class="phrase">Sie</span> toll, Frau Briggy? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Der Teufel, meint <span id="1774" class="phrase">Sie</span>, wär's -? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Still! Still! <br>
+<br>
+
+<hi rend="bold">Frau Brigitte:</hi> <span id="1752" class="phrase">Mein Seel</span>!<br>
+Ich weiß, was ich gesehen und gerochen. <br>
+<br>
+
+<hi rend="bold">Walter</hi> <stage>[ungeduldig]:</stage> Frau, ob's der Teufel war, will ich nicht untersuchen,<br>
+Ihn aber, ihn denunziert man nicht.<br>
+Kann Sie von einem andern melden, gut:<br>
+<span id="2508" class="phrase">Doch mit dem Sünder da verschont Sie uns</span>. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Wollen Euer Gnaden sie vollenden lassen. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Blödsinnig Volk, das! <br>
+<br>
+
+<hi rend="bold">Frau Brigitte:</hi> Gut, wie Ihr befehlt.<br>
+Doch der Herr Schreiber Licht sind mir ein Zeuge. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Wie? Ihr ein Zeuge? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Gewissermaßen, ja. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Fürwahr, ich weiß nicht - <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Bitte ganz submiss,<br>
+Die Frau in dem Berichte nicht zu stören.<br>
+Dass es der Teufel war, behaupt ich nicht;<br>
+Jedoch mit Pferdefuß, und kahler Glatze<br>
+Und hinten Dampf, wenn ich nicht sehr mich irre,<br>
+Hat seine völl'ge Richtigkeit! - <span id="2509" class="phrase">Fahrt fort</span>! <br>
+<br>
+
+<hi rend="bold">Frau Brigitte:</hi> Da ich nun mit Erstaunen heut vernehme,<br>
+Was bei Frau Marthe Rull geschehn, und ich,<br>
+Den Krugzertrümmerer auszuspionieren,<br>
+Der mir zu Nacht begegnet' am Spalier,<br>
+Den Platz, wo er gesprungen, untersuche,<br>
+Find ich im Schnee, Ihr Herrn, Euch eine Spur -<br>
+Was find ich euch für eine Spur im Schnee?<br>
+<span id="2510" class="phrase">Rechts fein und scharf und nett gekantet immer</span>,<br>
+Ein ordentlicher Menschenfuß,<br>
+<span id="2511" class="phrase">Und links unförmig grobhin eingetölpelt</span>
+<br>
+Ein ungeheurer klotz'ger Pferdefuß. <br>
+<hi rend="bold">Walter</hi> <stage>ärgerlich</stage>.<br>
+Geschwätz, wahnsinniges, verdammenswürd'ges <br>
+<br>
+
+<hi rend="bold">Veit:</hi> Es ist nicht möglich, Frau! <br>
+<br>
+
+<hi rend="bold">Frau Brigitte:</hi> <span id="2512" class="phrase">Bei meiner Treu</span>!<br>
+Erst am Spalier, da, wo der Sprung geschehen,<br>
+Seht, einen weiten, <span id="2513" class="phrase">schneezerwühlten Kreis</span>,<br>
+<span id="2716" class="phrase">Als ob</span> sich eine Sau <span id="2514" class="phrase">darin gewälzt</span>;<br>
+Und Menschenfuß und Pferdefuß von hier,<br>
+Und Menschenfuß und Pferdefuß, und Menschenfuß und Pferdefuß,<br>
+Quer durch den Garten, <span id="2515" class="phrase">bis in alle Welt</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Verflucht! - Hat sich der Schelm vielleicht erlaubt,<br>
+<span id="2516" class="phrase">Verkappt des Teufels Art</span> -? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Was! Ich! <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Schweigt! Schweigt! <br>
+<br>
+
+<hi rend="bold">Frau Brigitte:</hi> Wer einen Dachs sucht <span id="2517" class="phrase">und die Fährt entdeckt</span>,<br>
+Der Weidmann, triumphiert nicht so, als ich.<br>
+Herr Schreiber Licht, sag ich, denn eben seh ich,<br>
+Von Euch <span id="schicken" class="alt">geschickt</span>, den Würd'gen zu mir treten,<br>
+Herr Schreiber Licht, <span id="2540" class="phrase">spart Eure Session</span>,<br>
+Den Krugzertrümmrer judiziert Ihr nicht,<br>
+<span id="2541" class="phrase">Der sitzt nicht schlechter Euch, als in der Hölle</span>:<br>
+Hier ist die Spur, die er gegangen ist. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> So habt Ihr selbst Euch überzeugt? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Euer Gnaden,<br>
+Mit dieser Spur hat's <span id="völlig" class="alt">völl'ge</span> Richtigkeit. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ein Pferdefuß? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Fuß eines Menschen, bitte,<br>
+Doch <span id="2518" class="phrase">praeter propter</span> wie ein Pferdehuf. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="1766" class="phrase">Mein Seel</span>, Ihr Herrn, die Sache scheint mir ernsthaft.<br>
+<span id="2519" class="phrase">Man hat viel beißend abgefasste Schriften,</span>
+<br>
+<span id="2519" class="phrase">Die, dass ein Gott sei, nicht gestehen wollen;</span>
+<br>
+<span id="2520" class="phrase">Jedoch den Teufel hat, soviel ich weiß,</span>
+<br>
+<span id="2520" class="phrase">Kein Atheist noch bündig wegbewiesen</span>.<br>
+Der Fall, der <span id="vorlegen" class="alt">vorliegt</span>, <span id="2521" class="phrase">scheint besonderer</span>
+<br>
+<span id="2521" class="phrase">Erörterung wert</span>. Ich <span id="2523" class="phrase">trage darauf an</span>,<br>
+Bevor wir <span id="2522" class="phrase">ein Konklusum fassen</span>,<br>
+Im Haag bei der Synode anzufragen,<br>
+Ob das Gericht befugt sei, anzunehmen,<br>
+Dass <span id="2524" class="phrase">Belzebub</span> den Krug zerbrochen hat. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ein Antrag, wie ich ihn von Euch erwartet.<br>
+Was wohl meint Ihr, Herr Schreiber? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Euer Gnaden werden<br>
+Nicht die Synode brauchen, um zu urteiln.<br>
+<span id="vollenden" class="alt">Vollendet</span> - mit Erlaubnis! - den Bericht,<br>
+Ihr, Frau Brigitte, dort; so <span id="2526" class="phrase">wird</span> der Fall<br>
+Aus der Verbindung, hoff ich, <span id="2526" class="phrase">klar konstieren</span>. <br>
+<br>
+
+<hi rend="bold">Frau Brigitte:</hi> Hierauf: Herr Schreiber Licht, sag ich, Lasst uns<br>
+Die Spur ein wenig doch verfolgen, sehn,<br>
+<span id="2527" class="phrase">Wohin der Teufel wohl entwischt mag sein</span>.<br>
+<span id="gut" class="alt">»Gut«</span>, sagt er, <span id="Frau" class="alt">»Frau</span> Brigitt, ein guter Einfall;<br>
+<span id="2528" class="phrase">Vielleicht gehn wir uns nicht weit um</span>,<br>
+Wenn wir zum Herrn Dorfrichter Adam <span id="gehen" class="alt">gehn.«</span> <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Nun? Und jetzt fand sich -? <br>
+<br>
+
+<hi rend="bold">Frau Brigitte:</hi> Zuerst jetzt finden wir<br>
+<span id="2525" class="phrase">Jenseits des Gartens</span>, in dem Lindengange,<br>
+Den Platz, wo, Schwefeldämpfe von sich <span id="lassen" class="alt">lassend</span>,<br>
+<span id="2529" class="phrase">Der Teufel bei mir angeprellt</span>: ein Kreis,<br>
+<span id="2530" class="phrase">Wie scheu ein Hund etwa zur Seite weicht,</span>
+<br>
+<span id="2530" class="phrase">Wenn sich die Katze prustend vor ihm setzt.</span> <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Drauf weiter? <br>
+<br>
+
+<hi rend="bold">Frau Brigitte:</hi> Nicht weit davon jetzt <span id="2531" class="phrase">steht ein Denkmal seiner</span>,<br>
+<span id="2531" class="phrase">An einem Baum</span>, dass ich davor erschrecke. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ein Denkmal? Wie? <br>
+<br>
+
+<hi rend="bold">Frau Brigitte:</hi> Wie? ja, da werdet Ihr - <br>
+<br>
+
+<hi rend="bold">Adam</hi> <stage>[<span id="2478" class="phrase">für sich</span>]:</stage> Verflucht, mein Unterleib. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> <span id="2532" class="phrase">Vorüber, bitte,</span>
+<br>
+<span id="2532" class="phrase">Vorüber, hier, ich bitte</span>, Frau Brigitte. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Wohin die Spur Euch führte, will ich wissen! <br>
+<br>
+
+<hi rend="bold">Frau Brigitte:</hi> Wohin? <span id="2631" class="phrase">Mein Treu</span>, den nächsten Weg zu Euch,<br>
+Just wie Herr Schreiber Licht gesagt. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Zu uns? Hierher? <br>
+<br>
+
+<hi rend="bold">Frau Brigitte:</hi> Vom <span id="Lindengang" class="alt">Lindengange</span>, ja,<br>
+Aufs Schulzenfeld, <span id="2632" class="phrase">den Karpfenteich entlang</span>,<br>
+Den Steg, quer übern Gottesacker dann,<br>
+Hier, sag ich, her, zum Herrn Dorfrichter Adam. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Zum Herrn Dorfrichter Adam? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Hier zu mir? <br>
+<br>
+
+<hi rend="bold">Frau Brigitte:</hi> Zu Euch, ja. <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Wird doch der Teufel nicht<br>
+In dem Gerichtshof wohnen? <br>
+<br>
+
+<hi rend="bold">Frau Brigitte:</hi> <span id="2534" class="phrase">Mein Treu</span>, ich weiß nicht,<br>
+Ob er in diesem Hause wohnt; doch hier,<br>
+<span id="2535" class="phrase">Ich bin nicht ehrlich</span>, ist er abgestiegen:<br>
+<span id="2536" class="phrase">Die Spur geht hinten ein bis an die Schwelle</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Sollt er vielleicht hier durchpassiert -? <br>
+<br>
+
+<hi rend="bold">Frau Brigitte:</hi> Ja, oder durchpassiert. <span id="2717" class="phrase">Kann sein</span>. Auch das.<br>
+Die Spur vornaus - <br>
+<br>
+
+<hi rend="bold">Walter:</hi> War eine Spur vornaus? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Vornaus, verzeihn Euer Gnaden, keine Spur. <br>
+<br>
+
+<hi rend="bold">Frau Brigitte:</hi> Ja, vornaus war der Weg zertreten. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Zertreten. Durchpassiert. Ich bin ein Schuft.<br>
+Der Kerl, <span id="aufpassen" class="alt">passt auf</span>, <span id="2542" class="phrase">hat den Gesetzen hier</span>
+<br>
+<span id="2542" class="phrase">Was angehängt</span>. Ich will nicht ehrlich sein,<br>
+Wenn es nicht stinkt in der Registratur.<br>
+Wenn meine Rechnungen, wie ich nicht zweifle,<br>
+Verwirrt befunden werden sollten,<br>
+<span id="1755" class="phrase">Auf meine Ehr</span>, ich <span id="einstehen" class="alt">stehe für</span> nichts <span id="einstehen" class="alt">ein</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ich auch nicht. <br>
+<stage>[<span id="2479" class="phrase">Für sich</span>]:</stage> Hm! Ich weiß nicht, war's <span id="2633" class="phrase">der Linke</span>,<br>
+War es <span id="2634" class="phrase">der Rechte</span>? <span id="2635" class="phrase">Seiner Füße einer </span>-<br>
+Herr Richter! Eure Dose! - <span id="2636" class="phrase">Seid so gefällig</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Die Dose? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Die Dose. Gebt! Hier! <br>
+<br>
+
+<hi rend="bold">Adam</hi> <stage>[zu Licht]:</stage> Bringt dem Herrn Gerichtsrat. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="2637" class="phrase">Wozu die Umständ</span>? <span id="2537" class="phrase">Einen Schritt gebraucht's</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Es ist schon abgemacht. Gebt Sr. Gnaden. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="1738" class="phrase">Ich hätt Euch was ins Ohr gesagt</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2538" class="phrase">Vielleicht, dass wir nachher Gelegenheit</span> - <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Auch gut. <stage>[Nachdem sich Licht wieder gesetzt.]</stage> <br>
+Sagt doch, Ihr Herrn, ist jemand hier im Orte,<br>
+Der missgeschaffne Füße hat? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Hm! Allerdings ist jemand hier in Huisum - <br>
+<br>
+
+<hi rend="bold">Walter:</hi> So? Wer? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Wollen Euer Gnaden den Herrn Richter fragen - <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Den Herrn Richter Adam? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ich weiß von nichts.<br>
+Zehn Jahre bin ich hier im Amt zu Huisum,<br>
+Soviel ich weiß, ist alles grad gewachsen. <br>
+<br>
+
+<hi rend="bold">Walter</hi> <stage>[zu Licht]</stage>: Nun? Wen hier meint Ihr? <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> <span id="2544" class="phrase">Lass Er doch seine Füße draußen</span>!<br>
+<span id="2543" class="phrase">Was steckt Er untern Tisch verstört sie hin</span>,<br>
+Dass man fast meint, <span id="2545" class="phrase">Er wär die Spur gegangen</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Wer? Der Herr Richter Adam? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ich? Die Spur?<br>
+Bin ich der Teufel? Ist das ein Pferdefuß? <br>
+<stage>[Er zeigt seinen linken Fuß.]</stage> <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="1739" class="phrase">Auf meine Ehr</span>. Der Fuß ist gut. <br>
+<stage>[Heimlich]</stage> Macht jetzt mit der Session sogleich ein Ende. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ein Fuß, wenn den der Teufel hätt,<br>
+So könnt er auf die Bälle gehn und tanzen. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Das sag ich auch. Wo wird der Herr Dorfrichter - <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ach, was! Ich! <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Macht, sag ich, gleich ein Ende. <br>
+<br>
+
+<hi rend="bold">Frau Brigitte:</hi> Den einz'gen Skrupel nur, Ihr würd'gen Herrn,<br>
+Macht, dünkt mich, dieser feierliche Schmuck! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Was für ein feierlicher -? <br>
+<br>
+
+<hi rend="bold">Frau Brigitte:</hi> Hier, die Perücke!<br>
+Wer sah den Teufel je in solcher Tracht?<br>
+Ein Bau, getürmter, <span id="2546" class="phrase">strotzender von Talg</span>,<br>
+Als eines Domdechanten auf der Kanzel! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Wir wissen <span id="2718" class="phrase">hier zu Land</span> nur unvollkommen,<br>
+Was in der Hölle Mod ist, Frau Brigitte!<br>
+Man sagt, gewöhnlich trägt er eignes Haar.<br>
+Doch auf der Erde, bin ich überzeugt,<br>
+<span id="2547" class="phrase">Wirft er in die Perücke sich</span>, <span id="2548" class="phrase">um sich</span>
+<br>
+<span id="2548" class="phrase">Den Honoratioren beizumischen</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Nichtswürd'ger! <span id="2549" class="phrase">Wert, vor allem Volk ihn schmachvoll</span>
+<br>
+<span id="2549" class="phrase">Vom Tribunal zu jagen</span>! <span id="2719" class="phrase">Was Euch schützt</span>,<br>
+Ist einzig nur die Ehre des Gerichts.<br>
+Schließt Eure Session! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ich will nicht hoffen - <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Ihr hofft jetzt nichts. <span id="2550" class="phrase">Ihr zieht Euch aus der Sache</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Glaubt Ihr, ich hätte, ich, der Richter, gestern,<br>
+Im Weinstock die Perücke eingebüßt? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="2551" class="phrase">Behüte Gott</span>! <span id="2552" class="phrase">Die Eur'</span> <span id="2554" class="phrase">ist ja im Feuer</span>,<br>
+Wie <span id="2553" class="phrase">Sodom und Gomorrha</span>, <span id="2554" class="phrase">aufgegangen</span>. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> <span id="2555" class="phrase">Vielmehr vergebt mir</span>, gnäd'ger Herr! die Katze<br>
+Hat gestern <span id="2556" class="phrase">in die seinige</span> gejungt. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ihr Herrn, <span id="2557" class="phrase">wenn hier der Anschein mich verdammt</span>:<br>
+Ihr übereilt Euch nicht, <span id="gebeten" class="alt">bitt</span> ich. <span id="2558" class="phrase">Es gilt</span>
+<br>
+<span id="2558" class="phrase">Mir Ehre oder Prostitution</span>.<br>
+Solang die Jungfer schweigt, begreif ich nicht,<br>
+Mit welchem Recht ihr mich beschuldiget.<br>
+Hier auf dem Richterstuhl von Huisum sitz ich,<br>
+Und lege die Perücke auf den Tisch:<br>
+<span id="2559" class="phrase">Den, der behauptet, dass sie mein gehört,</span>
+<br>
+<span id="2559" class="phrase">Fordr ich vors Oberlandgericht in Utrecht</span>. <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Hm! Die Perücke passt Euch doch, <span id="2720" class="phrase">mein Seel</span>,<br>
+Als wär' auf Euren Scheiteln sie gewachsen. <br>
+<stage>[Er <span id="2560" class="phrase">setzt sie auf</span>.]</stage> <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Verleumdung! <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Nicht? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2561" class="phrase">Als Mantel um die Schultern</span>
+<br>
+<span id="2561" class="phrase">Mir noch zu weit, wieviel mehr um den Kopf</span>. <br>
+<stage>[Er besieht sich im Spiegel.]</stage> <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Ei, solch ein <span id="2562" class="phrase">Donnerwetter-Kerl</span>! <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Still, Er! <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Ei, solch ein <span id="2563" class="phrase">blitz-verfluchter</span> Richter, das! <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="2564" class="phrase">Noch einmal</span>, wollt Ihr gleich, soll ich die Sache enden? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ja, was befehlt Ihr? <br>
+<br>
+
+<hi rend="bold">Ruprecht</hi> <stage>[zu Eve]</stage>: Eve, sprich, <span id="2565" class="phrase">ist ers</span>? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Was untersteht der Unverschämte <span id="untersteht" class="alt">sich</span>? <br>
+<br>
+
+<hi rend="bold">Veit:</hi> Schweig du, sag ich. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="gewartet" class="alt">Wart</span>, Bestie! Dich fass' ich. <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Ei, du <span id="2566" class="phrase">Blitz-Pferdefuß</span>! <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Heda! Der Büttel! <br>
+<br>
+
+<hi rend="bold">Veit:</hi> <span id="2567" class="phrase">Halt's Maul</span>, sag ich. <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> <span id="gewartet" class="alt">Wart</span>! <span id="2568" class="phrase">Heute reich ich dich</span>.<br>
+Heut streust du keinen Sand mir in die Augen. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Habt Ihr nicht soviel Witz, Herr Richter -? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Ja, wenn Euer Gnaden<br>
+Erlauben, <span id="2569" class="phrase">fäll ich jetzo die Sentenz</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Gut. Tut das. <span id="2570" class="phrase">Fällt sie</span>. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2571" class="phrase">Die Sache jetzt konstiert</span>,<br>
+Und Ruprecht dort, der Racker, ist der Täter. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Auch gut das. Weiter. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> <span id="2572" class="phrase">Den Hals erkenn ich</span>
+<br>
+<span id="2572" class="phrase">Ins Eisen ihm</span>, und weil er ungebührlich<br>
+<span id="betragen" class="alt">Sich</span> gegen seinen Richter hat betragen,<br>
+Schmeiß ich ihn ins vergitterte Gefängnis.<br>
+Wie lange, werd ich noch bestimmen. <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Den Ruprecht -? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Ins Gefängnis mich? <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Ins Eisen? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="2573" class="phrase">Spart eure Sorgen</span>, Kinder. - Seid Ihr fertig? <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Den Krug meinthalb mag er ersetzen, oder nicht. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Gut denn. Geschlossen ist die Session.<br>
+Und Ruprecht appelliert an die Instanz zu Utrecht. <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Er soll, er, erst nach Utrecht appellieren? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Was? Ich -? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Zum Henker, ja! Und <span id="2574" class="phrase">bis dahin</span> - <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Und <span id="2575" class="phrase">bis dahin</span> -? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> In das Gefängnis gehn? <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Den Hals ins Eisen stecken? Seid Ihr auch Richter?<br>
+Er dort, der Unverschämte, der dort sitzt,<br>
+Er selber war's - <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Du hörst's, zum Teufel! Schweig!<br>
+<span id="2576" class="phrase">Ihm bis dahin krümmt sich kein Haar</span> - <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Auf, Ruprecht!<br>
+Der Richter Adam hat den Krug zerbrochen! <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Ei, <span id="gewartet" class="alt">wart</span>, du! <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Er? <br>
+<br>
+
+<hi rend="bold">Frau Brigitte:</hi> Der dort? <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Er, ja! Auf, Ruprecht!<br>
+Er war bei deiner Eve gestern!<br>
+Auf! Fass' ihn! Schmeiß ihn jetzo, wie du willst. <br>
+<br>
+
+<hi rend="bold">Walter</hi> <stage>[<span id="2577" class="phrase">steht auf</span>]:</stage> Halt dort! Wer hier Unordnungen - <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Gleichviel!<br>
+Das Eisen ist verdient, geh, Ruprecht!<br>
+Geh, schmeiß ihn von dem Tribunal herunter. <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Verzeiht, Ihr Herrn. <stage>[Läuft weg.]</stage> <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Hier! Auf! <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Halt ihn! <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Geschwind! <br>
+<br>
+
+<hi rend="bold">Adam:</hi> Was? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> <span id="2578" class="phrase">Blitz-Hinketeufel</span>! <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Hast du ihn? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> <span id="2579" class="phrase">Gotts Schlag und Wetter</span>!<br>
+Es ist sein Mantel bloß! <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Fort! Ruft den Büttel! <br>
+<br>
+
+<hi rend="bold">Ruprecht</hi> <stage>[schlägt den Mantel.]</stage> <br>
+Ratz! Das ist eins. Und Ratz! Und Ratz! Noch eins.<br>
+Und noch eins! <span id="2580" class="phrase">In Ermangelung des Buckels</span>. <br>
+<br>
+
+<hi rend="bold">Walter:</hi> <span id="2586" class="phrase">Er</span> ungezogner Mensch! - <span id="2581" class="phrase">Schafft hier mir Ordnung</span>!<br>
+- <span id="2582" class="phrase">An Ihm, wenn Er sogleich nicht ruhig ist,</span>
+<br>
+<span id="2582" class="phrase">Ihm wird der Spruch vom Eisen heut noch wahr.</span> <br>
+<br>
+
+<hi rend="bold">Veit:</hi> Sei ruhig, du vertrackter Schlingel! <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Ei, Evchen!<br>
+Wie hab ich heute schändlich dich beleidigt!<br>
+Ei, <span id="2583" class="phrase">Gotts Blitz, alle Wetter</span>; und wie gestern!<br>
+Ei, du mein goldnes Mädchen, <span id="2584" class="phrase">Herzens-Braut</span>!<br>
+<span id="2585" class="phrase">Wirst du dein Lebtag mir vergeben können</span>? <br>
+<hi rend="bold">Eve</hi> <hi rend="italic">(<span id="1737" class="phrase">wirft sich dem Gerichtsrat zu Füßen</span>):</hi>
+<br>
+Herr! Wenn Ihr jetzt nicht helft, sind wir verloren! <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Verloren? Warum das? <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Herr Gott! Was gibt's? <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Errettet Ruprecht von der Konskription!<br>
+Denn diese Konskription - der Richter Adam<br>
+Hat mir's als ein Geheimnis anvertraut -
+
+Geht nach Ostindien; und von dort, Ihr wisst,<br>
+<span id="zurückkehren" class="alt">Kehrt</span> <span id="2721" class="phrase">von drei Männern Einer nur</span> <span id="zurückkehren" class="alt">zurück</span>! <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Was! Nach Ostindien! <span id="2587" class="phrase">Bist du bei Sinnen</span>? <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Nach <span id="2588" class="phrase">Bantam</span>, gnäd'ger Herr; verleugnet's nicht!<br>
+Hier ist der Brief, die stille heimliche<br>
+Instruktion, die Landmiliz betreffend,<br>
+<span id="2589" class="phrase">Die die Regierung jüngst deshalb erließ</span>:<br>
+Ihr seht, ich bin von allem unterrichtet. <br>
+<br>
+
+<hi rend="bold">Walter</hi> <stage>[nimmt den Brief und liest ihn]:</stage>
+<br>
+O <span id="2590" class="phrase">unerhört-arglistiger Betrug</span>! -<br>
+Der Brief ist falsch! <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Falsch? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Falsch, so wahr ich lebe!<br>
+Herr Schreiber Licht, sagt selbst, ist das die Ordre,<br>
+Die man aus Utrecht jüngst an euch erließ? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Die Ordre! Was! Der Sünder, der! Ein Wisch,<br>
+<span id="2591" class="phrase">Den er mit eignen Händen aufgesetzt</span>! -<br>
+Die Truppen, die man anwarb, sind bestimmt<br>
+Zum Dienst <span id="2592" class="phrase">im Landesinneren</span>; kein Mensch<br>
+Denkt dran, sie nach Ostindien zu schicken! <br>
+<br>
+
+<hi rend="bold">Eve:</hi> Nein, nimmermehr, Ihr Herrn? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Bei meiner Ehre!<br>
+Und zum Beweise meines Worts: den Ruprecht,<br>
+Wär's so, wie du mir sagst:<span id="2593" class="phrase"> ich kauf ihn frei</span>! <br>
+<br>
+
+<hi rend="bold">Eve</hi> <stage>[steht auf]</stage>: O Himmel! Wie belog der Böswicht mich!<br>
+Denn mit der schrecklichen Besorgnis eben<br>
+Quält' er mein Herz, und kam, zur Zeit der Nacht,<br>
+Mir ein Attest für Ruprecht aufzudrängen;<br>
+Bewies, wie <span id="2594" class="phrase">ein erlognes Krankheitszeugnis</span>
+<br>
+Von allem Kriegsdienst ihn befreien könnte;<br>
+Erklärte und versicherte und schlich,<br>
+Um es mir auszufert'gen, in mein Zimmer:<br>
+So Schändliches, Ihr Herren, von mir fordernd,<br>
+Dass es kein Mädchenmund wagt auszusprechen! <br>
+<br>
+
+<hi rend="bold">Frau Brigitte:</hi> Ei, <span id="2595" class="phrase">der nichtswürdig-schändliche Betrüger</span>! <br>
+<br>
+
+<hi rend="bold">Ruprecht:</hi> Lass, lass den Pferdehuf, mein süßes Kind!<br>
+Sieh, hätt ein Pferd bei dir den Krug zertrümmert,<br>
+Ich wär so eifersüchtig just, als jetzt! <br>
+<stage>[Sie küssen sich.]</stage>
+<br>
+<br>
+
+<hi rend="bold">Veit:</hi> Das sag ich auch! Küsst und versöhnt und liebt euch;<br>
+Und Pfingsten, wenn ihr wollt, mag Hochzeit sein! <br>
+<br>
+
+<hi rend="bold">Licht</hi> <stage>[am Fenster]:</stage> Seht, wie der Richter Adam, <span id="gebeten" class="alt">bitt</span> ich euch,<br>
+<span id="2596" class="phrase">Berg auf, Berg ab</span>, <span id="2597" class="phrase">als flöh er Rad und Galgen</span>,<br>
+Das aufgepflügte Winterfeld durchstampft! <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Was? Ist das Richter Adam? <br>
+<br>
+
+<hi rend="bold">Licht:</hi> Allerdings! <br>
+<br>
+
+<hi rend="bold">Mehrere:</hi> Jetzt kommt er auf die Straße. Seht! seht!<br>
+Wie die Perücke ihm den Rücken peitscht! <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Geschwind, Herr Schreiber, fort! Holt ihn zurück!<br>
+<span id="2598" class="phrase">Dass er nicht Übel rettend ärger mache</span>.<br>
+Von seinem Amt zwar ist er suspendiert,<br>
+<span id="2599" class="phrase">Und Euch bestell ich, bis auf weitere</span>
+<br>
+<span id="2599" class="phrase">Verfügung, hier im Ort es zu verwalten;</span>
+<br>
+Doch sind die Kassen richtig, wie ich hoffe,<br>
+<span id="2600" class="phrase">Zur Desertion ihn zwingen will ich nicht</span>.<br>
+Fort! <span>Tut mir den Gefallen</span>, holt ihn wieder! <br>
+<stage>[Licht ab.]</stage> <br>
+<br></div></div></div>
+<div type="section">
+<hi rend="bold">Letzter Auftritt
+</hi><br>
+<br>
+
+<stage>[Die Vorigen ohne Licht.]</stage> <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Sagt doch, gestrenger Herr, <span id="2601" class="phrase">wo find ich auch</span>
+<br>
+<span id="2601" class="phrase">Den Sitz in Utrecht der Regierung</span>? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Weshalb, Frau Marthe? <br>
+<br>
+
+<hi rend="bold">Frau Marthe</hi> <stage>[empfindlich]:</stage> Hm! Weshalb? Ich weiß nicht -<br>
+<span id="2602" class="phrase">Soll hier dem Kruge nicht sein Recht geschehn</span>? <br>
+<br>
+
+<hi rend="bold">Walter:</hi> Verzeiht mir! Allerdings. <span id="2603" class="phrase">Am großen Markt</span>,<br>
+Am Dienstag ist und Freitag Session. <br>
+<br>
+
+<hi rend="bold">Frau Marthe:</hi> Gut! <span id="2604" class="phrase">Auf die Woche stell' ich dort mich ein</span>. <br>
+<stage>[Alle ab.]</stage> <br>
+<br>
+
+<stage><span id="2722" class="phrase">Ende</span> </stage>
+<br>
+<br></div>
+  

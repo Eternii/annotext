@@ -93,9 +93,15 @@ function isolateWord(str, loc) {
   else
     word += sec2;
 
-  // Replace unwanted characters (from Annotext 3.0)
-  var pattern = /[\s\n\t.,!?:;\/|\\'"()\[\]-]/g;
+  // Clear out any remaining whitespace surrounding the word
+  var pattern = /^[\s\xa0]+|[\s\xa0]+$/g;  // \xa0 = unicode non-breaking space
   word = word.replace(pattern,"");
+
+  // Remove any punctionation surrounding the word
+  // List derived from NON_WORD_CHARS array in Annotext 3.0
+  pattern = /^[.,!?:;\/|\\'"()\[\]-]+|[.,!?:;\/|\\'"()\[\]-]+$/g;
+  word = word.replace(pattern,"");
+  
   word = word.toLowerCase();
 
   return word;
@@ -236,7 +242,6 @@ $(document).on("mouseup", "#text_display", function() {
     }
   }
 });
-
 
 
 /* ******************************************************************** *

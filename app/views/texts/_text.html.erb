@@ -1,9 +1,21 @@
-<li class="ui-state_default" id=<%= "text_#{text.id}" %>>
-  <%= link_to "View", text_path(text) %>
-  <span class="title_list"><%= text.title %></span>
-  <span class="author_list"><%= text.author %></span>
+<li id=<%= "text_#{text.id}" %> class="text-click">
   <% if signed_in? %>
-    <span class="released_list"><%= text.released %></span>
-    <span data-no-turbolink><%= link_to "Edit", edit_text_path(text) %></span>
+    <span data-no-turbolink>
+      <% if current_user.id == text.user_id %>
+        <%= link_to "Edit", edit_text_path(text),
+                            class: "btn btn-primary btn-xs" %>
+      <% elsif current_user.admin? %>
+        <%= link_to "Edit", edit_text_path(text),
+                            class: "btn btn-info btn-xs" %>
+      <% else %>
+        <%= link_to "Edit", '#', 
+                            class: "btn btn-primary btn-xs", disabled: true %>
+      <% end %>
+    </span>
+    <%= render 'texts/released_form', text: text %>
+  <% else %>
+    <%= link_to content_tag(:span, ""), text_path(text), class: "text-link" %>
   <% end %>
+  <span class="author"><%= text.author %></span>
+  <span class="title"><%= text.title %></span>
 </li>

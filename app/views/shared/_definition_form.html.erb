@@ -1,10 +1,22 @@
-sadf
-<% if @editing_def != nil %>
-  <%= form_for(@editing_def) do |f| %>
+<% if @definition != nil %>
+  <%= form_for(@definition, remote: true) do |f| %>
+    <%= render 'shared/flash_ajax', flash: flash %>
     <%= render 'shared/error_messages', object: f.object %>
-    <div class="field">
-      <%= f.text_area :definition, placeholder: "Put the definition here." %>
-    </div>
-    <%= f.submit "Add to ?", class: "btn btn-lg btn-primary" %>
+
+    <%= f.label :term %>
+    <%= f.text_field :term, class: "form-control" %>
+
+    <%= f.label :lex_class %>
+    <%= f.text_field :lex_class, class: "form-control" %>
+
+    <%= f.label :definition %>
+    <%= f.text_area :definition, class: "form-control" %>
+
+    <%= f.label :hits %>
+    <%= f.text_area :hits, class: "form-control" %>
+
+    <%= f.hidden_field :text_id %>
+
+    <%= f.submit "Save changes", class: "btn btn-primary btn-xs", :data => { :disable_with => "Processing" } %>
   <% end %>
 <% end %>

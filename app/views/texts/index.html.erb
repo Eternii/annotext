@@ -1,30 +1,34 @@
 <script type="text/javascript">
   $(function() {
-    $(".sortable").sortable({
-      //placeholder: "ui-state-highlight"
-    });
+    $(".sortable").sortable({});
     $(".sortable").disableSelection();
   });
 
   $(document).on('click', '#save_position', function() {
     var orderData = $(".texts").sortable('serialize');
-    alert(orderData);
     window.location.href = "/texts/order?"+orderData;
-   //window.location.href = "/texts/order?"+$('#sortable').sortable('serialize');
   });
 </script>
+
+
+
 
 <% provide(:title, 'German Texts') %>
 <h1>German Texts</h1>
 
-<% if signed_in? %>
-  <ul class="texts sortable" data-no-turbolink>
-    <%= render @texts %>
-  </ul>
-    <button class="btn btn-primary" id="save_position">Save Text Order</button>
-    <button class="btn btn-primary" id="testing">Test</button>
-<% else %>
-  <ul class="texts">
-    <%= render @texts %>
-  </ul>
-<% end %>
+<div class="row">
+ <div class="col-md-10 col-md-offset-1 col-sm-12">
+    <% if signed_in? %>
+      <ul class="texts sortable" data-no-turbolink>
+        <%= render @texts %>
+      </ul>
+      <br>
+      <button class="btn btn-primary" id="save_position">Save Text Order</button>
+      <%= link_to "Add New Text", new_text_path, class: "btn btn-primary" %>
+    <% else %>
+      <ul class="texts">
+        <%= render @texts %>
+      </ul>
+    <% end %>
+  </div>
+</div>

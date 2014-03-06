@@ -4,18 +4,28 @@ Annotext::Application.routes.draw do
   match '/help',    to: 'static_pages#help',    via: 'get'
   match '/about',   to: 'static_pages#about',   via: 'get'
   match '/contact', to: 'static_pages#contact', via: 'get'
+  match '/history', to: 'static_pages#history', via: 'get'
   match '/signin',  to: 'sessions#new',         via: 'get'
   match '/signout', to: 'sessions#destroy',     via: 'delete'
 
   resources :users
   resources :sessions, only: [:new, :create, :destroy]
   resources :texts do
-    get 'order', on: :collection
+    collection do
+      get :order #'order'     # !!! Shouldn't be a get...
+    end
+    member do
+      patch :release, :save
+    end
   end
 
   resources :matches,     only: [:create, :show, :edit, :update, :destroy]
   resources :phrases,     only: [:create, :show, :edit, :update, :destroy]
-  resources :definitions, only: [:create, :update, :destroy]
+  resources :definitions, except: [:index] do
+    member do
+      post :copy_to_gloss, :copy_to_dict
+    end
+  end
 
   # match '/signup',  to: 'users#new',    via: 'get'
 

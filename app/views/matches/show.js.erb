@@ -1,1 +1,13 @@
-setMatches(<%= @found %>, <%= raw @matches.to_json %>, <%= raw @definitions.to_json %>);
+$("#current_match").html("<%= @match_string %>");
+
+$("#gloss_count").html("(<%= pluralize(@gloss_entries.count, 'match') %>)");
+$("#dict_count").html("(<%= pluralize(@dict_entries.count, 'match') %>)");
+
+$("#gloss_definitions").html("");
+$("#gloss_definitions").append("<%= escape_javascript(render partial: 'shared/entry', collection: @gloss_entries) %>");
+
+$("#new_definition").html("");
+$("#new_definition").append("<%= escape_javascript(render partial: 'shared/new_glossary_def', locals: { text_id: @text_id }) %>");
+
+$("#dict_definitions").html("");
+$("#dict_definitions").append("<%= escape_javascript(render partial: 'shared/entry', collection: @dict_entries) %>");

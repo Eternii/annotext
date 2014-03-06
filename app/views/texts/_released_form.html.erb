@@ -1,0 +1,7 @@
+<span id=<%= "release-status-#{text.id}" %>>
+  <% if text.released %>
+    <%= render 'texts/unrelease', text: text %>
+  <% else %>
+    <%= render 'texts/release', text: text %>
+  <% end %>
+</span>

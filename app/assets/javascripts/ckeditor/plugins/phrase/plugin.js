@@ -44,7 +44,8 @@ CKEDITOR.plugins.add('phrase',
                 type: 'text',
                 id: 'term',
                 label: 'Term',
-                validate: CKEDITOR.dialog.validate.notEmpty("Term field cannot be empty"),
+                validate: CKEDITOR.dialog.validate
+                              .notEmpty("Term field cannot be empty"),
                 setup: function(data) {
                   this.setValue(data.term);
                 },
@@ -53,16 +54,62 @@ CKEDITOR.plugins.add('phrase',
                 }
               },
               {
-                type: 'text',
+                type: 'textarea',
                 id: 'definition',
                 label: 'Definition',
-                validate: CKEDITOR.dialog.validate.notEmpty("Definition field cannot be empty"),
+                validate: CKEDITOR.dialog.validate
+                              .notEmpty("Definition field cannot be empty"),
                 setup: function(data) {
                   this.setValue(data.defin);
                 },
                 commit: function(data) {
                   data.defin = this.getValue();
                 }
+              },
+              {
+                type: 'button',
+                id: 'load_recent',
+                label: 'Load Most Recently Created Phrase',
+                disabled: false,
+                onClick: function() {
+                  alert("Load last phrase!");
+                }
+              },
+              {
+                type: 'hbox',
+                widths: [ '30%', '70%' ],
+                children: [
+                  {
+                    type: 'text',
+                    id: 'number',
+                    label: 'Phrase Number'
+                  },
+                  {
+                    type: 'vbox',
+                    children: [
+                      {
+                        type: 'html',
+                        html: ''
+                      },
+                      {
+                        type: 'button',
+                        id: 'load_number',
+                        label: 'Load Phrase Number',
+                        disabled: false,
+                        padding: '1',
+                        onClick: function() {
+                          var dialog = this.getDialog();
+                          var phrase = dialog.getContentElement
+                                                  ("tab1", "number").getValue();
+
+                          $.get('/phrases/'+ phrase +'/edit',{},function(data){
+                            dialog.setupContent(data);
+                          }, "json");
+                        }
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           }

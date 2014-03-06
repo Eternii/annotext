@@ -1,0 +1,3 @@
+<%= form_tag(release_text_path(text.id), method: 'patch', remote: true, class: "add-form released") do %>
+  <%= submit_tag "Unrelease", class: "btn btn-xs btn-primary" %>
+<% end %>

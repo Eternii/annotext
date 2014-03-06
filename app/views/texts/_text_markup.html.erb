@@ -1,16 +1,16 @@
 <div class="row">
-  <aside class="col-xs-3">
-    <section>
-      <%= render 'shared/definition_form' %>
+  <aside class="col-xs-4">
+    <section class="column-header">
+      <b>Most Recently Clicked Word:</b> <span id="current_match"></span>
     </section>
-    <section>
+    <section class="column-gloss">
       <%= render 'shared/glossary_definitions' %>
     </section>
-    <section>
+    <section class="column-dict">
       <%= render 'shared/dictionary_definitions' %>
     </section>
   </aside> 
-  <div class="col-xs-9">
+  <div class="col-xs-8">
     <%= text_area_tag "editor", @content, class: 'ckeditor' %>
   </div>
 </div>

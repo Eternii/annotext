@@ -29,26 +29,29 @@ CKEDITOR.plugins.add( 'selectword',
 
           if (selRange.getNative().isCollapsed) {
             var element = selRange.getStartElement();
-            var word = '';
-          
-            if (element)
-              element = element.getAscendant('span', true);
+            var word;
 
-            if (element.getAttribute('class') == "phrase")
-              return true;
+            if (element) {
+              element = element.getAscendantAltOrPhrase(true);
 
-            if (element.getAttribute('class') == "alt")
-              word = element.getAttribute('match');
-            else {
-              var sel = selRange && selRange.getRanges()[0];
-              var startCon = sel.startContainer;
-              var startOff = sel.startOffset;
-              var str = startCon.getText();
+              if (element) {
+                if (element.hasClass('phrase'))
+                  return true;
+                else
+                  word = element.getAttribute('match');
+                console.log("Answer-> " + element.getAttribute('match'));
+              }
+              else {
+                var sel = selRange && selRange.getRanges()[0];
+                var startCon = sel.startContainer;
+                var startOff = sel.startOffset;
+                var str = startCon.getText();
 
-              word = isolateWord(str, startOff);
+                word = isolateWord(str, startOff);
+              }
             }
 
-            if (word != '') {
+            if (word != null) {
               // !!! Change this jQuery form !!!
               $.get('/matches/1', { word: word, text: text }, function(data) {
                 // Use Match Controller's show
@@ -59,6 +62,31 @@ CKEDITOR.plugins.add( 'selectword',
         return true;
       });
     });
+  }
+});
+
+
+
+
+CKEDITOR.tools.extend( CKEDITOR.dom.node.prototype,
+{
+  getAscendantAltOrPhrase : function( includeSelf )
+    {
+      var element = this;
+   
+      if ( !includeSelf )
+        element = element.parentNode;
+   
+      while ( element )
+      {
+        if (element.hasClass('phrase'))
+          return element;
+        if (element.hasClass('alt'))
+          return element;
+
+        element = element.parentNode;
+      }
+    return null;
   }
 });
 

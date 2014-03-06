@@ -1,9 +1,12 @@
 <% provide(:title, @text.title) %>
 
-<div id="text_display">
-  <%= @content %>
+<div class="row">
+  <div id="text-display">
+    <%= @content %>
+  </div>
 </div>
 
 <%= javascript_tag do %>
   setGlossary(<%= @text.id %>, <%= raw @matches.to_json %>,<%= raw @definitions.to_json %>,<%= raw @phrases.to_json %>);
+  $(".media").empty();
 <% end %>

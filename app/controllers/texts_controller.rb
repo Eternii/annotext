@@ -1,5 +1,5 @@
 class TextsController < ApplicationController
-  before_action :signed_in_user, only: [:edit, :order, :new, :create]
+  before_action :signed_in_user, except: [:index, :show]
   before_action :has_permission, only: [:edit]
 
   def new
@@ -8,9 +8,12 @@ class TextsController < ApplicationController
 
   def create
     @position = Text.all.pluck(:position).max+1
-    @text = current_user.texts.build(text_params, position: @position, released: false)
+    @text = current_user.texts.build(text_params)
+    @text.position = @position
+    @text.released = false
     if @text.save
       flash[:success] = "A new text has been successfully created!"
+      File.new("app/assets/texts/#{@text.id}.txt", "w+")
       redirect_to edit_text_path(@text)
     else
       render 'new'
@@ -21,7 +24,44 @@ class TextsController < ApplicationController
     @content = File.open("#{Rails.root}/app/assets/texts/#{params[:id]}.txt").read.html_safe
     @text = Text.find(params[:id])
     @definitions = []   # !!! Fix this
+    @dict_entries = []
     # @definitions = @text.definitions.paginate(page: params[:page])
+  end
+
+  def update
+    respond_to do |format|
+      format.js {
+        @text = Text.find(params[:id])
+        if @text.update_attributes(text_params)
+          # Errors displayed automatically
+          flash.now[:success] = "Title and author updated!"
+        end
+      }
+    end
+  end
+
+  def save
+    respond_to do |format|
+      format.json {
+        @text = params[:id]
+        @content = params[:content]
+
+        File.open("#{Rails.root}/app/assets/texts/#{@text}.txt", "w+") do |f|
+          f.write(@content)
+        end
+
+        render :nothing => true
+      }
+    end
+  end
+
+  def release
+    respond_to do |format|
+      format.js {
+        @text = Text.find(params[:id])
+        @text.toggle!(:released)
+      }
+    end
   end
 
   def index

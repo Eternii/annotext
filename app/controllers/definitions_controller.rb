@@ -3,39 +3,85 @@ class DefinitionsController < ApplicationController
 
   # Likely will need @editing_def = @text.definitions.build somewhere
 
+  def new
+    respond_to do |format|
+      format.js {
+        @text = Text.find_by_id(params[:text])
+        @definition = @text.definitions.new
+      }
+    end
+  end
+
   def create
-    @text = Text.find_by_id(params[:text])
+    logger.debug "   --->   Text id: #{params[:definition][:text_id]}"
+    @text = Text.find_by_id(params[:definition][:text_id])
     @definition = @text.definitions.build(definition_params)
     if @definition.save
-      # flash[:success] = "Definition saved!"  # Probably not needed
-      # next need to create matches = flash.now[:error] for 
-      # redirect or render
+      update_matches(params[:definition][:hits])
+      flash.now[:success] = "Definition created!"
+      render 'edit'
     else
-      # flash.now[...]
-      # render something
+      render 'edit'
+    end
+  end
+
+  def edit
+    respond_to do |format|
+      format.js {
+        @definition = Definition.find_by_id(params[:id])
+      }
     end
   end
     
   def update
     respond_to do |format|
       format.js {
-        definition = Definition.find_by_id(params[:id])
-        definition.update_attributes({term: params[:term], lex_class: params[:lex], definition: params[:defin]}) 
-        # Update matches
-        update_matches(definition,params[:list])
-        # !!! This should redirect to matches show to update (otherwise, next and previous buttons will return bad data if no other word is clicked on first).
+        @definition = Definition.find(params[:id])
+        if @definition.update_attributes(definition_params)
+          flash.now[:success] = "Definition updated!"
+          update_matches(params[:definition][:hits])  
+          # update_matches will send flash errors on failed creation
+          render 'edit'
+        else
+          render 'edit'   # Errors via 'shared/error_messages'
+        end
       }
     end
   end
 
   def destroy
-    # !!! Obviously need to get text here somehow...
-    @definition = @text.definition.find_by_id(params[:id])
-    # !!! Make sure its not nil
-    @definition.destroy
-    # !!! Finish render...
+    respond_to do |format|
+      format.js {   # !!! Deal with exceptation at all? Or just let it go?
+        @definition = Definition.find(params[:id])
+        @definition.destroy
+      }
+    end
   end
 
+  def copy_to_gloss
+    respond_to do |format|
+      format.js {
+        text_id = params[:text_id]
+        @definition = Definition.find(params[:id])
+        @new_def = @definition.transplant(text_id)
+        if !@new_def
+          render :nothing => true   # !!! Change this to render errors
+        end
+      }
+    end
+  end
+
+  def copy_to_dict
+    respond_to do |format|
+      format.js {
+        @definition = Definition.find(params[:id])
+        @new_def = @definition.transplant(nil)
+        if !@new_def
+          render :nothing => true   # !!! Change this to render errors
+        end
+      }
+    end
+  end
 
 
   private
@@ -45,26 +91,42 @@ class DefinitionsController < ApplicationController
     end
 
 
+    # For the given definition, update its matches in the glossary/dictionary.
+    # To do so, first get the list of matches from the database and the list
+    # from the definition editor. Compare the two lists, removing the common
+    # matches from the lists. Then, for each new match present in the editor,
+    # add them to the database. Likewise, for each match present in the
+    # database (but not in the editor), remove them from the database.
+    def update_matches(list)
+      error_str = ''
 
-    def update_matches(definition, list)
+      # old_matches = @definition.hits.split(' ');  !!! fix hits?
+      old_matches = @definition.matches.pluck(:word)
+      new_matches = list.gsub(/[\n\t.,!?:;\/|\\'"()\[\]-]/,'').split(' ');
+
       # Protect against numeric matches in the list! Destroys data. !!!
   
-      old_w = definition.matches.pluck(:word)
-      new_w = list.split(' ');
-
-      not_modified = new_w & old_w  # Matches present in both lists are fine
+      not_modified = new_matches & old_matches
 
       not_modified.each do |w|
-        new_w.delete(w)             # This is now a list of matches to add
-        old_w.delete(w)             # This is now a list of matches to delete
+        new_matches.delete(w)
+        old_matches.delete(w)
       end
 
-      new_w.each do |w|
-        definition.matches.create(word: w, text_id: definition.text_id)
+      new_matches.each do |w|
+        # !!! Need to validate and not add new matches if duplicates !!!
+        match = @definition.matches.build(word: w, text_id: @definition.text_id)
+        if !(match.save)
+          error_str <<  "Error: #{w} match could not be created. "
+        end
       end
 
-      old_w.each do |w|
-        Match.find_by_word_and_text_id(w, definition.text_id).destroy
+      if (error_str != '')
+        flash.now[:danger] = error_str
+      end
+
+      old_matches.each do |w|
+        Match.find_by_word_and_text_id(w, @definition.text_id).destroy
       end
     end
 

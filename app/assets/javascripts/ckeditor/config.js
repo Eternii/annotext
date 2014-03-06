@@ -1,13 +1,18 @@
 CKEDITOR.editorConfig = function( config ) {
     config.uiColor = '#AADC6E';
     config.height = 400;
-    config.extraAllowedContent = 'span(*){*}[*]';
-    //config.language => 'de';  // Not working... but that's probably ok.
-    config.extraPlugins = 'selectword,lemma,phrase';
+    config.enterMode = CKEDITOR.ENTER_BR;
+    // a (class){style}[attribute - !=Required]
+    config.extraAllowedContent = 'span(*){*}[*]; a(*)[!href,media,target]';
+    config.extraPlugins =
+      'selectword,lemma,phrase,linkmedia,savetext,deletemarkup';
     config.toolbar = [
-      [ 'Source', '-', 'Bold', 'Italic', 'Lemma', 'Phrase' ]
+      [ 'Source', '-', 'SaveText' ],
+      [ 'Cut','Copy','Paste','PasteText','PasteFromWord','-','Undo','Redo' ],
+      [ 'Find','Replace'],
+      [ 'Bold', 'Italic', 'Underline','Strike' ],
+      '/',
+      [ 'Lemma', 'Phrase', 'DeleteMarkup' ],
+      [ 'LinkMedia' ]
     ];
-    
-    //config.extraPlugins = 'selectword,lemma';
-    
 };
