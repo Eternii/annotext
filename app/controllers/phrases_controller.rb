@@ -49,4 +49,13 @@ class PhrasesController < ApplicationController
       }
     end
   end
+
+  def show
+    respond_to do |format|
+      format.js {
+        @phrase = Phrase.find_by_id(params[:id])
+      }
+    end
+  end
+
 end

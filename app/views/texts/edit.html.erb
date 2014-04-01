@@ -3,6 +3,7 @@
 <ul class="nav nav-tabs">
   <li class="active"><a href="#markup" data-toggle="tab">Markup</a></li>
   <li><a href="#info" data-toggle="tab">Display Information</a></li>
+  <li><a href="#about" data-toggle="tab">About the Text</a></li>
   <% if current_user.admin? %>
     <li><a href="#ownership" data-toggle="tab">Ownership</a></li>
   <% end %>
@@ -15,6 +16,9 @@
   <div class="tab-pane" id="info">
     <%= render 'text_info_edit' %>
   </div>
+  <div class="tab-pane" id="about">
+    <%= render 'text_about_edit' %>
+  </div>
   <% if current_user.admin? %>
     <div class="tab-pane" id="ownership">
       Not finished: Should allow the admin user to change text's user/editor.
@@ -23,5 +27,5 @@
 </div>
 
 <%= javascript_tag do %>
-  setTextPath(<%= @text.id %>,"<%= Rails.root %>");
+  setTextId(<%= @text.id %>);
 <% end %>

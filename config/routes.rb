@@ -15,7 +15,8 @@ Annotext::Application.routes.draw do
       get :order #'order'     # !!! Shouldn't be a get...
     end
     member do
-      patch :release, :save
+      patch :release, :save, :delete, :save_about
+      get :about
     end
   end
 

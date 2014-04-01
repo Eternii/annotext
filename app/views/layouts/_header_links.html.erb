@@ -1,14 +1,21 @@
 <ul class="nav navbar-nav navbar-right">
   <li>
-    <%= link_to root_path do %>
-      <%= content_tag(:span, "",class: "glyphicon glyphicon-book") %>
-      Texts
+    <% if params[:controller]=="texts" && params[:action]=="show" %>
+      <%= link_to about_text_path(@text) do %>
+        <%= content_tag(:span, "", class: "glyphicon glyphicon-info-sign") %>
+        About This Text
+      <% end %>
+    <% elsif params[:controller]=="texts" && params[:action]=="about" %>
+      <%= link_to text_path(@text) do %>
+        <%= content_tag(:span, "", class: "glyphicon glyphicon-bookmark") %>
+        Return to Text
+      <% end %>
     <% end %>
   </li>
   <li>
-    <%= link_to about_path do %>
-      <%= content_tag(:span, "",class: "glyphicon glyphicon-info-sign") %>
-      About
+    <%= link_to root_path do %>
+      <%= content_tag(:span, "",class: "glyphicon glyphicon-book") %>
+      Texts
     <% end %>
   </li>
   <li>
@@ -33,7 +40,7 @@
         </li>
         <li>
           <%= link_to current_user do %>
-            <%= content_tag(:span, "", class: "glyphicon glyphicon-bookmark") %>
+            <%= content_tag(:span, "",class: "glyphicon glyphicon-briefcase") %>
             My Texts
           <% end %>
         </li>

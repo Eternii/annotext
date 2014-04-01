@@ -101,7 +101,7 @@ p {
   margin-right: 10px
 }
 
-#logo {              /* Visible when no translation_box */
+#logo {              /* Visible when no translation-box */
   float: left;
   margin-right: 10px;
   font-size: 1.7em;
@@ -117,7 +117,7 @@ p {
   }
 }
 
-#translation_box {   /* Visible in Text "show" */
+#translation-box {   /* Visible in Text "show" */
   float: left;
   top: 20px;
   width: 550px;
@@ -125,6 +125,11 @@ p {
   margin-right: 10px;
   background-color: white;
   overflow: auto;
+  border: 1px solid #CCCCCC;
+  border-radius: 4px;
+  padding: 1px 5px;
+  @include box_sizing;
+  resize: both;
 }
 
 
@@ -270,11 +275,14 @@ input {
   color: #3399FF;
 }
 
+.phrase:hover:after {
+}
+
 
 /* Text viewing */
 
 #text-display {
-  padding-top: 30px;
+  padding-top: 70px;
   .title {
     display: inline-block;
     width: 100%;
@@ -301,13 +309,21 @@ input {
 .column-gloss {
   border-bottom: 2px solid black;
   padding: 5px 0;
-  background-color: #E8FFD6;
+  background-color: #F4FFEB;
 }
 
 .column-dict {
   border-bottom: 2px solid black;
   padding: 5px 0;
-  background-color: #D6E0FF;
+  background-color: #EBF4FF;
+}
+
+.column-phrase {
+  .phrase-display {
+    border-bottom: 2px solid black;
+    padding: 10px 0;
+    background-color: #FFF4EB;
+  }
 }
 
 .definitions {

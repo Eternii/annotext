@@ -12,13 +12,13 @@ CKEDITOR.plugins.add('savetext',
           data: { content: content },
           dataType: "json"
         }).done(function(data) {
-          alert('Success');
+          alert('Success');    // !!! Doesn't do anything...
         });
       }
     });
 
     editor.ui.addButton('SaveText', {
-      label: 'Save the Text',
+      label: 'Save Text',
       command: 'savetext',
       // Image from http://findicons.com/icon/85483/3_disc?width=16
       icon: this.path + 'images/icon.png'

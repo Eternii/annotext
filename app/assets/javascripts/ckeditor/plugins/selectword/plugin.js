@@ -29,17 +29,16 @@ CKEDITOR.plugins.add( 'selectword',
 
           if (selRange.getNative().isCollapsed) {
             var element = selRange.getStartElement();
-            var word;
+            var word, phrase;
 
             if (element) {
               element = element.getAscendantAltOrPhrase(true);
 
               if (element) {
                 if (element.hasClass('phrase'))
-                  return true;
+                  phrase = element.getAttribute('phrase');
                 else
                   word = element.getAttribute('match');
-                console.log("Answer-> " + element.getAttribute('match'));
               }
               else {
                 var sel = selRange && selRange.getRanges()[0];
@@ -52,9 +51,13 @@ CKEDITOR.plugins.add( 'selectword',
             }
 
             if (word != null) {
-              // !!! Change this jQuery form !!!
               $.get('/matches/1', { word: word, text: text }, function(data) {
                 // Use Match Controller's show
+              }, "script");
+            }
+            else if (phrase != null) {
+              $.get('/phrases/' + phrase, function(data) {
+                // Use Phrase Controller's show
               }, "script");
             }
           }

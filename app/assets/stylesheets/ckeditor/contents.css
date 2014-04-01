@@ -1,7 +1,3 @@
-/* Tooltip info borrowed from:
-   http://www.webdesignerdepot.com/2012/11/how-to-create-a-simple-css3-tooltip/
-*/
-
 .alt {
   color: #FF8900;
   display: inline;
@@ -12,34 +8,6 @@
   color: #3399FF;
   display: inline;
   position: relative;
-}
-
-.phrase:hover:after {
-  background: #333;
-  background: rgba(0,0,0,.8);
-  border-radius: 5px;
-  bottom: 26px;
-  color: #fff;
-/*
-  Truncate for very long words...
-*/
-  content: attr(phrase);
-  left: 20%;
-  padding: 5px 15px;
-  position: absolute;
-  z-index: 98;
-  width: 220px;
-}
-
-.phrase:hover:before {
-  border: solid;
-  border-color: #333 transparent;
-  border-width: 6px 6px 0 6px;
-  bottom: 20px;
-  content: "";
-  left: 50%;
-  position: absolute;
-  z-index: 99;
 }
 
 .cke_button_label.cke_button__linkmedia_label {
@@ -54,6 +22,22 @@
   display:inline-block !important;
 }
 
+.cke_button_label.cke_button__multistart_label {
+  display:inline-block !important;
+}
+
+.cke_button_label.cke_button__multicont_label {
+  display:inline-block !important;
+}
+
 .cke_button_label.cke_button__deletemarkup_label {
+  display:inline-block !important;
+}
+
+.cke_button_label.cke_button__savetext_label {
+  display:inline-block !important;
+}
+
+.cke_button_label.cke_button__saveabout_label {
   display:inline-block !important;
 }

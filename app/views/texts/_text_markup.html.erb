@@ -9,6 +9,9 @@
     <section class="column-dict">
       <%= render 'shared/dictionary_definitions' %>
     </section>
+    <section class="column-phrase">
+      <span id="clicked-phrase"></span>
+    </section>
   </aside> 
   <div class="col-xs-8">
     <%= text_area_tag "editor", @content, class: 'ckeditor' %>
