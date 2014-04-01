@@ -1,0 +1,9 @@
+$("#current_match").html("");
+$("#gloss_definitions").html("");
+$("#new_definition").html("");
+$("#dict_definitions").html("");
+$("#gloss_count").html("");
+$("#dict_count").html("");
+
+$("#clicked-phrase").html("");
+$("#clicked-phrase").append("<%= escape_javascript(render partial: 'shared/phrase_definition') %>");
