@@ -1,0 +1,12 @@
+<% provide(:title, @media.title) %>
+
+<%= render partial: 'caption' %>
+
+<br>
+<br>
+<div class="media-caption">
+  Please click the link to continue to an external website.
+</div>
+<div class="media-caption">
+  <%= link_to @link, @link %>
+</div>

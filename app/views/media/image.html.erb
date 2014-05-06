@@ -1,0 +1,5 @@
+<% provide(:title, @media.title) %>
+
+<%= image_tag @image, class: "media-display", alt: @media.title %>
+
+<%= render partial: 'caption' %>

@@ -1,0 +1,7 @@
+<% if !@creating %>
+  <% if entry.text_id == nil %>
+    <%= render 'shared/add_to_gloss', entry: entry %>
+  <% else %>
+    <%= render 'shared/add_to_dict', entry: entry %>
+  <% end %>
+<% end %>

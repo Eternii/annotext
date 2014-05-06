@@ -1,0 +1,6 @@
+<% provide(:title, @media.title) %>
+
+<%= video_tag @video, class: "media-display", 
+                                           alt: @media.title, controls: true %>
+
+<%= render partial: 'caption' %>

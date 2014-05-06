@@ -1,0 +1,10 @@
+<% if @creating %>
+  <button type="button" class="btn btn-primary btn-xs" id="cancel-new-def">
+    Cancel
+  </button>
+<% else %>
+  <%= link_to "Revert", edit_definition_path(@definition),
+              class: "btn btn-primary btn-xs", remote: true, 
+              title: "Revert to most recently saved definition.",
+              :data => { :disable_with => "Processing" } %>
+<% end %>

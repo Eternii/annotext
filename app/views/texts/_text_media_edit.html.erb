@@ -1,0 +1,22 @@
+<h1>Manage media</h1>
+
+<div class="row">
+  <div class="col-xs-10 col-xs-offset-1">
+    <span id="media-flash"></span>
+    <ul class="media-list">
+      <%= render @media %>
+      <li id="new-media"></li>
+    </ul>
+    <br>
+    <%= link_to "Add New Image", new_medium_path(text: @text.id, type: "image"),
+                                      class: "btn btn-primary", remote: true %>
+    <%= link_to "Add New Audio", new_medium_path(text: @text.id, type: "audio"),
+                                      class: "btn btn-primary", remote: true %>
+    <%= link_to "Add New Video", new_medium_path(text: @text.id, type: "video"),
+                                      class: "btn btn-primary", remote: true %>
+    <%= link_to "Add New Link", new_medium_path(text: @text.id, type: "link"),
+                                      class: "btn btn-primary", remote: true %>
+  </div>
+</div>
+<br>
+<br>

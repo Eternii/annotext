@@ -1,0 +1,122 @@
+/* Texts index */
+
+.texts {
+  list-style: none;
+  margin: 0;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  padding-left: 0px;
+}
+
+.text-click {
+  position: relative;
+  padding: 5px 0 5px 10px;
+  border-top: 1px solid $gray-medium-light;
+  white-space: nowrap;
+  &:last-child {
+    border-bottom: 1px solid $gray-medium-light;
+  }
+  &:hover {
+    background-color: $green-light;
+  }
+  .author, .title {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 1.25em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .author {
+    color: $green-dark;
+    width: 260px;
+  }
+  .title {
+    color: $red-dark;
+    width: calc(100% - 300px);
+  }
+}
+
+.text-link {    /* Only in Non-editor Text Index */
+  width:100%;
+  height:100%;
+  position:absolute;
+  z-index:2;
+  top:0px;
+  left:0px;
+}
+
+.sortable {   /* Editor Text Index */
+  .text-click {
+    background-color: $gray-medium-light;
+    border: 1px solid $gray;
+    &:last-child {
+      border-bottom: 1px solid $gray;
+    }
+    .sorting-handle {
+      display: inline-block;
+      font-size: 20pt;
+      top: 5px;
+      &:hover {
+        cursor: all-scroll;
+      }
+    }
+    .release-form {
+      margin-left: 40px;
+      display: inline-block;
+      width: 60px;
+      height: 50px;
+    }
+    .btn-edit {
+      margin-top: -8px;
+      margin-right: 25px;
+      margin-left: 20px;
+      display: inline-block;
+    }
+    .title {
+      width: calc(100% - 500px);
+    }
+  }
+}
+
+
+
+/* Text Viewing */
+/* Note: Translation Box is in custom.css.scss with rest of header css */
+
+#text-display {
+  padding-top: 65px;
+  .title {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 3em;
+  }
+  .author {
+    text-align: center;
+  }
+  .verse {
+    float: right;
+  }
+  .note {
+    color: $gray-medium;
+  }
+}
+
+
+/* Text Editing */
+
+.add-form { /* Used in add_to_gloss/dict partials. */
+  display: inline;
+}
+
+.edit_definition { /* Created by form_for when editing definition */
+  display: inline;
+}
+
+.cke_button__linkmedia_label, .cke_button__lemma_label, .cke_button__phrase_label, .cke_button__multistart_label, .cke_button__multicont_label, .cke_button__deletemarkup_label, .cke_button__savetext_label, .cke_button__saveabout_label, .cke_button__note_label {
+  display:inline-block !important;
+}

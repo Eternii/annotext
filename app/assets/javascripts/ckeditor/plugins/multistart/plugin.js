@@ -1,6 +1,7 @@
 CKEDITOR.plugins.add('multistart',
 {
   init: function(editor) {
+    // Image from http://findicons.com/icon/117421/document_arrow?id=341268
     var iconPath = this.path + 'images/icon.png';
 
     editor.addCommand('mulSDialog', new CKEDITOR.dialogCommand('mulSDialog'));

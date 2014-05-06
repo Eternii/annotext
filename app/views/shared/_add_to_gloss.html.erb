@@ -1,5 +1,4 @@
 <%= form_tag(copy_to_gloss_definition_path(entry.id), method: 'post', remote: true, class: "add-form") do %>
   <%= hidden_field_tag "text_id", @text_id %>
-  <%= hidden_field_tag "current_match", @match_string %>
-  <%= submit_tag "Add to glossary", class: "btn btn-sm btn-primary" %>
+  <%= submit_tag "Add to glossary", class: "btn btn-xs btn-primary" %>
 <% end %>

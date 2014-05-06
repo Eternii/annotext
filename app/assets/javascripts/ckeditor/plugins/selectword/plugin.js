@@ -1,4 +1,4 @@
-/* Name:          selectword
+/* Name:          selectword/plugin.js
  * Called by:     Clicking the text in the CKEditor during text editing.
  * Parameters:    N/A
  * Returns:       Nothing. (Prints match definitions to editing header.)

@@ -4,6 +4,7 @@
   <li class="active"><a href="#markup" data-toggle="tab">Markup</a></li>
   <li><a href="#info" data-toggle="tab">Display Information</a></li>
   <li><a href="#about" data-toggle="tab">About the Text</a></li>
+  <li><a href="#media" data-toggle="tab">Manage Media</a></li>
   <% if current_user.admin? %>
     <li><a href="#ownership" data-toggle="tab">Ownership</a></li>
   <% end %>
@@ -18,6 +19,9 @@
   </div>
   <div class="tab-pane" id="about">
     <%= render 'text_about_edit' %>
+  </div>
+  <div class="tab-pane" id="media">
+    <%= render 'text_media_edit' %>
   </div>
   <% if current_user.admin? %>
     <div class="tab-pane" id="ownership">

@@ -1,15 +1,17 @@
-$("#current_match").html("<%= @match_string %>");
+lastclicked = "<%= @match_string %>";
 
-$("#gloss_count").html("(<%= pluralize(@gloss_entries.count, 'match') %>)");
-$("#dict_count").html("(<%= pluralize(@dict_entries.count, 'match') %>)");
+$("#current-match").html("<%= @match_string %>");
 
-$("#gloss_definitions").html("");
-$("#gloss_definitions").append("<%= escape_javascript(render partial: 'shared/entry', collection: @gloss_entries) %>");
+$("#gloss-count").html("(<%= pluralize(@gloss_entries.count, 'match') %>)");
+$("#dict-count").html("(<%= pluralize(@dict_entries.count, 'match') %>)");
 
-$("#new_definition").html("");
-$("#new_definition").append("<%= escape_javascript(render partial: 'shared/new_glossary_def', locals: { text_id: @text_id }) %>");
+$("#gloss-definitions").html("");
+$("#gloss-definitions").append("<%= escape_javascript(render partial: 'shared/entry', collection: @gloss_entries) %>");
 
-$("#dict_definitions").html("");
-$("#dict_definitions").append("<%= escape_javascript(render partial: 'shared/entry', collection: @dict_entries) %>");
+$("#new-definition").html("");
+$("#new-definition").append("<%= escape_javascript(render partial: 'shared/new_glossary_def') %>");
+
+$("#dict-definitions").html("");
+$("#dict-definitions").append("<%= escape_javascript(render partial: 'shared/entry', collection: @dict_entries) %>");
 
 $("#clicked-phrase").html("");

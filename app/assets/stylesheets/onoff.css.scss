@@ -1,0 +1,272 @@
+/* Name:         onoff.css.scss
+ * Author:       Robert Eastman
+ * Created:      April 4, 2014
+ * Used in:      Text index page when the editor is signed in.
+ * Explanation:
+ *   This stylesheet controls the look of the On and Off buttons, which
+ * indicate whether or not a text has been released.
+ *   A depressed button will have a white power indicator lit up. Also, a small
+ * green light will be lit underneath it. This signals that the text is
+ * currently released. When the text is not released, the button appears as
+ * with a black power indicator. Further, the light underneath the button will
+ * shine red. The two buttons are actually used for seperate forms, so when
+ * one appears, the other disappears. There is some basic animation that occurs
+ * when changing from one button to the other, though this animation must
+ * remain simple because using the "sortable" functionality of the editor's
+ * text makes the animation refresh (which can be distracting to the editor).
+ *
+ * Citations:
+ *   Based on design:  http://www.hongkiat.com/blog/css3-on-off-button/
+ *
+ * Revisions:
+ *   04/04/14 - Created.
+ *   04/23/14 - Simplified animations.
+ */
+
+
+/* On and Off Buttons */
+
+.button-off:after {
+  font-family: 'Glyphicons Halflings';
+  content: "\e017";       /* glyphicon-off */
+  position: relative;
+  top: -4px;
+}
+
+.button-on:after {
+  font-family: 'Glyphicons Halflings';
+  content: "\e017";      /* glyphicon-off */
+  position: relative;
+  top: -3px;
+}
+
+.button-off, .button-on {
+  font-size: 16pt;
+  display: block;
+  position: relative;
+  text-decoration: none;
+  background-color: rgb(83,87,93);
+  width: 35px;
+  height: 35px;
+  border: 0;
+  border-radius: 18px;
+  text-align: center;
+  line-height: 40px;
+}
+
+.button-off {
+  box-shadow: 0px 2px 0px 0px rgb(34,34,34),
+              0px 4px 5px 0px rgb(17,17,17),
+              inset 0px 1px 1px 0px rgba(250, 250, 250, .2),
+              inset 0px -6px 17px 0px rgba(0, 0, 0, .5);
+  top: 0px;
+  color: #252525;
+  text-shadow: 0px 1px 1px rgba(250,250,250,0.1);
+  -webkit-animation: pushoff 300ms; /* Safari and Chrome */
+     -moz-animation: pushoff 300ms; /* Firefox */
+       -o-animation: pushoff 300ms; /* Opera */
+          animation: pushoff 300ms;
+}
+
+.button-on {
+  box-shadow: 0px 0px 0px 0px rgb(34,34,34), /* 1st Shadow */
+              0px 2px 4px 0px rgb(17,17,17), /* 2nd Shadow */
+              inset 0px 1px 1px 0px rgba(250, 250, 250, .2), /* 3rd Shadow */
+              inset 0px -5px 18px 3px rgba(0, 0, 0, .5); /* 4th Shadow */
+  top: 3px;
+  color: #FFF;
+  text-shadow: 0px 0px 3px rgb(250,250,250);
+  -webkit-animation: pushon 300ms; /* Safari and Chrome */
+     -moz-animation: pushon 300ms; /* Firefox */
+       -o-animation: pushon 300ms; /* Opera */
+          animation: pushon 300ms;
+}
+
+
+/* On and Off Indicator Lights */
+
+.light-on, .light-off {
+  display: block;
+  width: 8px;
+  height: 8px;
+  border-radius: 4px;
+  clear: both;
+  position: absolute;
+  bottom: 3px;
+  left: 94px;
+}
+
+.light-on {
+  background-color: rgb(135,187,83);
+  box-shadow: inset 0px 1px 0px 0px rgba(250,250,250,0.5),
+              0px 0px 3px 2px rgba(135,187,83,0.5);
+}
+
+.light-off {
+  background-color: rgb(226,0,0);
+  box-shadow: inset 0px 1px 0px 0px rgba(250,250,250,0.5),
+              0px 0px 3px 2px rgba(226,0,0,0.5);
+}
+
+
+/* Animation Keyframes */
+
+/* Safari and Chrome */
+@-webkit-keyframes pushoff {
+  from { 
+    box-shadow: 0px 0px 0px 0px rgb(34,34,34), /* 1st Shadow */
+                0px 2px 4px 0px rgb(17,17,17), /* 2nd Shadow */
+                inset 0px 1px 1px 0px rgba(250, 250, 250, .2), /* 3rd Shadow */
+                inset 0px -5px 18px 3px rgba(0, 0, 0, .5); /* 4th Shadow */
+    top: 3px;
+  }
+  to {
+    box-shadow: 0px 2px 0px 0px rgb(34,34,34),
+                0px 4px 5px 0px rgb(17,17,17),
+                inset 0px 1px 1px 0px rgba(250, 250, 250, .2),
+                inset 0px -6px 17px 0px rgba(0, 0, 0, .5);
+    top: 0px;
+  }
+}
+
+@-webkit-keyframes pushon {
+  from {
+    box-shadow: 0px 2px 0px 0px rgb(34,34,34),
+                0px 4px 5px 0px rgb(17,17,17),
+                inset 0px 1px 1px 0px rgba(250, 250, 250, .2),
+                inset 0px -6px 17px 0px rgba(0, 0, 0, .5);
+    top: 0px;
+    color: #252525;
+    text-shadow: 0px 1px 1px rgba(250,250,250,0.1);
+  }
+  to {
+    box-shadow: 0px 0px 0px 0px rgb(34,34,34), /* 1st Shadow */
+                0px 2px 4px 0px rgb(17,17,17), /* 2nd Shadow */
+                inset 0px 1px 1px 0px rgba(250, 250, 250, .2), /* 3rd Shadow */
+                inset 0px -5px 18px 3px rgba(0, 0, 0, .5); /* 4th Shadow */
+    top: 3px;
+    color: #FFF;
+    text-shadow: 0px 0px 3px rgb(250,250,250);
+  }
+}
+
+
+/* Firefox */
+@-moz-keyframes pushoff {
+  from {
+    box-shadow: 0px 0px 0px 0px rgb(34,34,34), /* 1st Shadow */
+                0px 2px 4px 0px rgb(17,17,17), /* 2nd Shadow */
+                inset 0px 1px 1px 0px rgba(250, 250, 250, .2), /* 3rd Shadow */
+                inset 0px -5px 18px 3px rgba(0, 0, 0, .5); /* 4th Shadow */
+    top: 3px;
+  }
+  to {
+    box-shadow: 0px 2px 0px 0px rgb(34,34,34),
+                0px 4px 5px 0px rgb(17,17,17),
+                inset 0px 1px 1px 0px rgba(250, 250, 250, .2),
+                inset 0px -6px 17px 0px rgba(0, 0, 0, .5);
+    top: 0px;
+  }
+}
+
+@-moz-keyframes pushon {
+  from {
+    box-shadow: 0px 2px 0px 0px rgb(34,34,34),
+                0px 4px 5px 0px rgb(17,17,17),
+                inset 0px 1px 1px 0px rgba(250, 250, 250, .2),
+                inset 0px -6px 17px 0px rgba(0, 0, 0, .5);
+    top: 0px;
+    color: #252525;
+    text-shadow: 0px 1px 1px rgba(250,250,250,0.1);
+  }
+  to {
+    box-shadow: 0px 0px 0px 0px rgb(34,34,34), /* 1st Shadow */
+                0px 2px 4px 0px rgb(17,17,17), /* 2nd Shadow */
+                inset 0px 1px 1px 0px rgba(250, 250, 250, .2), /* 3rd Shadow */
+                inset 0px -5px 18px 3px rgba(0, 0, 0, .5); /* 4th Shadow */
+    top: 3px;
+    color: #FFF;
+    text-shadow: 0px 0px 3px rgb(250,250,250);
+  }
+}
+
+
+/* Opera */
+@-o-keyframes pushoff {
+  from {
+    box-shadow: 0px 0px 0px 0px rgb(34,34,34), /* 1st Shadow */
+                0px 2px 4px 0px rgb(17,17,17), /* 2nd Shadow */
+                inset 0px 1px 1px 0px rgba(250, 250, 250, .2), /* 3rd Shadow */
+                inset 0px -5px 18px 3px rgba(0, 0, 0, .5); /* 4th Shadow */
+    top: 3px;
+  }
+  to {
+    box-shadow: 0px 2px 0px 0px rgb(34,34,34),
+                0px 4px 5px 0px rgb(17,17,17),
+                inset 0px 1px 1px 0px rgba(250, 250, 250, .2),
+                inset 0px -6px 17px 0px rgba(0, 0, 0, .5);
+    top: 0px;
+  }
+}
+
+@-o-keyframes pushon {
+  from {
+    box-shadow: 0px 2px 0px 0px rgb(34,34,34),
+                0px 4px 5px 0px rgb(17,17,17),
+                inset 0px 1px 1px 0px rgba(250, 250, 250, .2),
+                inset 0px -6px 17px 0px rgba(0, 0, 0, .5);
+    top: 0px;
+    color: #252525;
+    text-shadow: 0px 1px 1px rgba(250,250,250,0.1);
+  }
+  to {
+    box-shadow: 0px 0px 0px 0px rgb(34,34,34), /* 1st Shadow */
+                0px 2px 4px 0px rgb(17,17,17), /* 2nd Shadow */
+                inset 0px 1px 1px 0px rgba(250, 250, 250, .2), /* 3rd Shadow */
+                inset 0px -5px 18px 3px rgba(0, 0, 0, .5); /* 4th Shadow */
+    top: 3px;
+    color: #FFF;
+    text-shadow: 0px 0px 3px rgb(250,250,250);
+  }
+}
+
+
+/* Non-vendor Specific */
+
+@keyframes pushoff {
+  from {
+    box-shadow: 0px 0px 0px 0px rgb(34,34,34), /* 1st Shadow */
+                0px 2px 4px 0px rgb(17,17,17), /* 2nd Shadow */
+                inset 0px 1px 1px 0px rgba(250, 250, 250, .2), /* 3rd Shadow */
+                inset 0px -5px 18px 3px rgba(0, 0, 0, .5); /* 4th Shadow */
+    top: 3px;
+  }
+  to {
+    box-shadow: 0px 2px 0px 0px rgb(34,34,34),
+                0px 4px 5px 0px rgb(17,17,17),
+                inset 0px 1px 1px 0px rgba(250, 250, 250, .2),
+                inset 0px -6px 17px 0px rgba(0, 0, 0, .5);
+    top: 0px;
+  }
+}
+
+@keyframes pushon {
+  from {
+    box-shadow: 0px 2px 0px 0px rgb(34,34,34),
+                0px 4px 5px 0px rgb(17,17,17),
+                inset 0px 1px 1px 0px rgba(250, 250, 250, .2),
+                inset 0px -6px 17px 0px rgba(0, 0, 0, .5);
+    top: 0px;
+    color: #252525;
+    text-shadow: 0px 1px 1px rgba(250,250,250,0.1);
+  }
+  to {
+    box-shadow: 0px 0px 0px 0px rgb(34,34,34), /* 1st Shadow */
+                0px 2px 4px 0px rgb(17,17,17), /* 2nd Shadow */
+                inset 0px 1px 1px 0px rgba(250, 250, 250, .2), /* 3rd Shadow */
+                inset 0px -5px 18px 3px rgba(0, 0, 0, .5); /* 4th Shadow */
+    top: 3px;
+    color: #FFF;
+    text-shadow: 0px 0px 3px rgb(250,250,250);
+  }
+}

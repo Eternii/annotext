@@ -1,15 +1,17 @@
-<footer class="footer">
-  <small>
-    <a href="http://annotext.dartmouth.edu/">Annotext</a>
-  </small>
-  <nav>
-    <ul>
-      <li><%= link_to "About Annotext", about_path   %></li>
-      <li><%= link_to "History",        history_path %></li>
-      <li><%= link_to "Contact",        contact_path %></li>
-      <% if !signed_in? %>
-        <li><%= link_to "Editor",       signin_path %></li>
-      <% end %>
-    </ul>
-  </nav>
-</footer>
+<% if !(params[:controller]=="texts" && params[:action]=="edit") %>
+  <footer class="footer">
+    <small>
+      <a href="http://annotext.dartmouth.edu/">Annotext</a>
+    </small>
+    <nav>
+      <ul>
+        <li><%= link_to "About Annotext", about_path   %></li>
+        <li><%= link_to "History",        history_path %></li>
+        <li><%= link_to "Contact",        contact_path %></li>
+        <% if !signed_in? %>
+          <li><%= link_to "Editor",       signin_path %></li>
+        <% end %>
+      </ul>
+    </nav>
+  </footer>
+<% end %>

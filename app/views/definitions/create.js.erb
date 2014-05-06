@@ -1,0 +1,6 @@
+<% @button_caption = "Update" %>
+
+$("#gloss-definitions").append('<li id="def-<%= @definition.id %>"></li>');
+$("#def-<%= @definition.id %>").html("<%= escape_javascript(render partial: 'shared/definition_form') %>");
+
+$("#new-gloss-def").html(newdef_button);

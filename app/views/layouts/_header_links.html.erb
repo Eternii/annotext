@@ -1,64 +1,19 @@
 <ul class="nav navbar-nav navbar-right">
-  <li>
-    <% if params[:controller]=="texts" && params[:action]=="show" %>
-      <%= link_to about_text_path(@text) do %>
-        <%= content_tag(:span, "", class: "glyphicon glyphicon-info-sign") %>
-        About This Text
-      <% end %>
-    <% elsif params[:controller]=="texts" && params[:action]=="about" %>
-      <%= link_to text_path(@text) do %>
-        <%= content_tag(:span, "", class: "glyphicon glyphicon-bookmark") %>
-        Return to Text
-      <% end %>
-    <% end %>
-  </li>
-  <li>
-    <%= link_to root_path do %>
-      <%= content_tag(:span, "",class: "glyphicon glyphicon-book") %>
-      Texts
-    <% end %>
-  </li>
-  <li>
-    <%= link_to help_path do %>
-      <%= content_tag(:span, "", class: "glyphicon glyphicon-question-sign") %>
-      Help
-    <% end %>
-  </li>
+  <% if params[:controller]=="texts" && params[:action]=="edit" %>
+    <%= render partial: 'layouts/save_notification' %>
+    <%= render partial: 'layouts/view_text_link' %>
+  <% elsif params[:controller]=="texts" && params[:action]=="show" %>
+    <%= render partial: 'layouts/search_bar' %>
+    <%= render partial: 'layouts/options_dropdown' %>
+    <%= render partial: 'layouts/about_text_link' %>
+  <% elsif params[:controller]=="texts" && params[:action]=="about" %>
+    <%= render partial: 'layouts/return_text_link' %>
+  <% end %>
+
+  <%= render partial: 'layouts/home_links' %>
+  <%= render partial: 'layouts/help_links' %>
+
   <% if signed_in? %>
-    <li class="dropdown">
-      <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-        <%= content_tag(:span, "", class: "glyphicon glyphicon-pencil") %>
-        Editor Menu
-        <b class="caret"></b>
-      </a>
-      <ul class="dropdown-menu">
-        <li>
-          <%= link_to edit_user_path(current_user) do %>
-            <%= content_tag(:span, "", class: "glyphicon glyphicon-user") %>
-            Update Profile
-          <% end %>
-        </li>
-        <li>
-          <%= link_to current_user do %>
-            <%= content_tag(:span, "",class: "glyphicon glyphicon-briefcase") %>
-            My Texts
-          <% end %>
-        </li>
-        <li class="divider"></li>
-        <li>
-          <%= link_to users_path do %>
-            <%= content_tag(:span, "", class: "glyphicon glyphicon-th-list") %>
-            User List
-          <% end %>
-        </li>
-        <li class="divider"></li>
-        <li>
-          <%= link_to signout_path, method: "delete" do %>
-            <%= content_tag(:span, "", class: "glyphicon glyphicon-log-out") %>
-            Sign out
-          <% end %>
-        </li>
-      </ul>
-    </li>
+    <%= render partial: 'layouts/editing_links' %>
   <% end %>
 </ul>

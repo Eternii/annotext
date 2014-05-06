@@ -1,3 +1,6 @@
-<%= form_tag(release_text_path(text.id), method: 'patch', remote: true, class: "add-form released") do %>
-  <%= submit_tag "Release", class: "btn btn-xs btn-danger" %>
+<%= form_tag(release_text_path(text.id), method: 'patch', remote: true,
+                                              class: "release-form") do %>
+  <%= button_tag(type: "submit", class: "button-off") do %>
+  <% end %>
+  <span class="light-off"></span>
 <% end %>

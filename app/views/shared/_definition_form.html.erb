@@ -2,6 +2,7 @@
   <%= form_for(@definition, remote: true) do |f| %>
     <%= render 'shared/flash_ajax', flash: flash %>
     <%= render 'shared/error_messages', object: f.object %>
+    <%= render 'shared/close_def_button' %>
 
     <%= f.label :term %>
     <%= f.text_field :term, class: "form-control" %>
@@ -13,10 +14,21 @@
     <%= f.text_area :definition, class: "form-control" %>
 
     <%= f.label :hits %>
-    <%= f.text_area :hits, class: "form-control" %>
+    <% if @match_string %>
+      <%= f.text_area :hits, class: "form-control", value: @match_string %>
+    <% else %>
+      <%= f.text_area :hits, class: "form-control" %>
+    <% end %>
 
     <%= f.hidden_field :text_id %>
+    <%= f.hidden_field :editing_text_id, value: @text_id %>
 
-    <%= f.submit "Save changes", class: "btn btn-primary btn-xs", :data => { :disable_with => "Processing" } %>
+    <%= f.submit "#{@button_caption} definition", title: "Save changes.",
+                 class: "btn btn-primary btn-xs", 
+                 :data => { :disable_with => "Processing" } %>
+
+    <%= render 'shared/revert_cancel_def_button' %>
   <% end %>
+
+  <%= render 'shared/add_to_button', entry: @definition %>
 <% end %>

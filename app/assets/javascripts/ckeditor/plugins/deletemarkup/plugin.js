@@ -1,6 +1,7 @@
 CKEDITOR.plugins.add('deletemarkup',
 {
   init: function(editor) {
+    // Image from http://findicons.com/icon/237767/edit_delete
     var iconPath = this.path + 'images/icon.png';
 
     editor.addCommand('deleteMarkup', {

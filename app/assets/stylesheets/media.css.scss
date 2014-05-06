@@ -1,0 +1,64 @@
+// Place all the styles related to the Media controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+/* Media Display */
+
+.media-display {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.media-title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 2em;
+}
+
+.media-caption {
+  text-align:center;
+}
+
+/* Media Editing */
+
+.media-list {
+  list-style: none;
+  margin: 0;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  padding-left: 0px;
+}
+
+.media-click {
+  padding: 5px 10px;
+  border-top: 1px solid $gray-medium-light;
+  white-space: nowrap;
+  &:last-child {
+    border-bottom: 1px solid $gray-medium-light;
+  }
+}
+
+.media-edit-title, .media-edit-description, .media-edit-type {
+  display: inline-block;
+  font-weight: bold;
+  font-size: 1.25em;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.media-edit-type {
+  padding-left: 25px;
+  width: 100px;
+}
+
+.media-edit-title {
+  width: 250px;
+}
+
+.media-edit-description {
+  width: calc(100% - 400px);
+}

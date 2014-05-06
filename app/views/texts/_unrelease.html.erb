@@ -1,3 +1,9 @@
-<%= form_tag(release_text_path(text.id), method: 'patch', remote: true, class: "add-form released") do %>
-  <%= submit_tag "Unrelease", class: "btn btn-xs btn-primary" %>
+<%= form_tag(release_text_path(text.id), method: 'patch', remote: true,
+                                              class: "release-form") do %>
+
+  <%= button_tag(type: "submit", class: "button-on", data: { confirm:
+        "Are you sure you want to remove the text from being viewable?" }) do %>
+  <% end %>
+
+  <span class="light-on"></span>
 <% end %>

@@ -3,7 +3,6 @@ CKEDITOR.plugins.add('savetext',
   init: function(editor) {
     editor.addCommand('savetext', {
       exec: function(editor) {
-        // !!! Pause until complete? setReadOnly
         var content = editor.document.getBody().getHtml();
 
         $.ajax({
@@ -11,9 +10,21 @@ CKEDITOR.plugins.add('savetext',
           url: '/texts/' + text + '/save',
           data: { content: content },
           dataType: "json"
-        }).done(function(data) {
-          alert('Success');    // !!! Doesn't do anything...
+        })
+        .fail(function(data) {
+          $("#save-failure").css('visibility', 'visible');
+          $("#save-failure").fadeOut(10000, function() {
+            $(this).css({ 'display': 'block', 'visibility': 'hidden' });
+          });
+          alert("There has been an error in saving the text!");
+        })
+        .done(function(data) {
+          $("#save-success").css('visibility', 'visible');
+          $("#save-success").fadeOut(10000, function() {
+            $(this).css({ 'display': 'block', 'visibility': 'hidden' });
+          });
         });
+
       }
     });
 

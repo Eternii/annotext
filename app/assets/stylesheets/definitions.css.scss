@@ -1,3 +1,70 @@
 // Place all the styles related to the Definitions controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+/* Dictionary and Glossary Column */
+
+#definition-column {
+  overflow-y: scroll;
+}
+
+.column-header {
+  border-bottom: 2px solid black;
+  padding: 5px 0;
+}
+
+.column-gloss {
+  border-bottom: 2px solid black;
+  padding: 5px 0;
+  background-color: $green-lighter;
+}
+
+.column-dict {
+  border-bottom: 2px solid black;
+  padding: 5px 0;
+  background-color: $blue-lighter;
+}
+
+.column-phrase {
+  .phrase-display {
+    border-bottom: 2px solid black;
+    padding: 10px 0;
+    background-color: $orange-light;
+  }
+}
+
+.definitions {
+  list-style: none;
+  padding: 0;
+  margin: 3px 0 0 0;
+  li {
+    padding: 10px 0;
+    border-top: 1px solid $gray-medium-light;
+    &:last-child {
+      border-bottom: 1px solid $gray-medium-light;
+    }
+  }
+}
+
+/* Definition Display */  /* !!! ??? Is this correct? See question. */
+
+.term {             /* Am I using these above as well for displaying? !!! */
+  font-weight: bold;
+}
+
+.lex_class {
+  font-style: italic;
+}
+
+.definition {
+}
+
+.match-list {
+}
+
+aside {
+  textarea {
+    height: 100px;
+    margin-bottom: 5px;
+  }
+}

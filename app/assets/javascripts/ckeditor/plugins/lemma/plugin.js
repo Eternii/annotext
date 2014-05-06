@@ -6,7 +6,8 @@ CKEDITOR.plugins.add('lemma',
     editor.addCommand('lemmaDialog', new CKEDITOR.dialogCommand('lemmaDialog'));
 
     editor.ui.addButton('Lemma', {
-      label: 'Insert Lemma',
+      label: 'Mark Lemma',
+      title: 'Create or Edit a Lemma',
       command: 'lemmaDialog',
       icon: iconPath
     });

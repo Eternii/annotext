@@ -1,1 +1,8 @@
-$("#new_gloss_def").html("<%= escape_javascript(render partial: 'shared/definition_form') %>");
+<% @creating = true %>
+<% @button_caption = "Create" %>
+
+<% if @match_string %>
+  newdef_button = $("#new-gloss-def").html();
+<% end %>
+
+$("#new-gloss-def").html("<%= escape_javascript(render partial: 'shared/definition_form') %>");

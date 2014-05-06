@@ -1,6 +1,7 @@
 CKEDITOR.plugins.add('multicont',
 {
   init: function(editor) {
+    // Modified from http://findicons.com/icon/118092/arrow_continue?id=122344
     var iconPath = this.path + 'images/icon.png';
 
     editor.addCommand('mulCDialog', new CKEDITOR.dialogCommand('mulCDialog'));

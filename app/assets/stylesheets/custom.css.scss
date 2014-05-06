@@ -1,10 +1,19 @@
+$grid-float-breakpoint: 1120px;
 @import "bootstrap";
 
 /* mixins, variables, etc. */
 
-$gray-medium-light: #eaeaea;
-$pine-green: #225331;
-$green-light: #e8f2e8;
+$gray-medium-light: #EAEAEA;
+$gray-medium:       #BABABA;
+$pine-green:        #225331;
+$green-lighter:     #F4FFEB;
+$green-light:       #E8F2E8;
+$green-dark:        #22500F;
+$red-dark:          #66110B;
+$purple:            #9900CC;   /* Changes here also to texts.js variable */
+$blue-light:        #3399FF;   /* Changes here also to texts.js variable */
+$blue-lighter:      #EBF4FF;
+$orange-light:      #FFF4EB;
 
 @mixin box_sizing {
   -moz-box-sizing: border-box;
@@ -38,11 +47,6 @@ textarea {
   h1 {
     margin-bottom: 10px;
   }
-}
-
-.bg-info {  /* Should have been defined via Bootstrap 3.0... */
-  background-color: #D9EDF7;
-  padding: 15px;
 }
 
 /* typography */
@@ -97,7 +101,15 @@ p {
   }
 }
 
-#navbar-collapse-1 {
+.navbar .nav .open > .dropdown-toggle, .navbar .nav .active > .dropdown-toggle, .navbar .nav .open.active > .dropdown-toggle {
+    background-color: $green-lighter !important;
+}
+
+#search-dropdown, #options-dropdown {
+  width: 400px;
+}
+
+#navbar-collapse-links {
   margin-right: 10px
 }
 
@@ -117,12 +129,20 @@ p {
   }
 }
 
+.save-state {
+  visibility: hidden;
+}
+
+.save-label {
+  font-size: 100% !important; /* Override bootstrap label size decrease */
+}
+
 #translation-box {   /* Visible in Text "show" */
   float: left;
   top: 20px;
   width: 550px;
   height: 62px;
-  margin-right: 10px;
+  margin-right: 2px;
   background-color: white;
   overflow: auto;
   border: 1px solid #CCCCCC;
@@ -184,186 +204,6 @@ input {
 .field_with_errors {
   @extend .form-group;
   @extend .has-error;
-}
-
-/* Users index */
-
-.users {
-  list-style: none;
-  margin: 0;
-  li {
-    overflow: auto;
-    padding: 10px 0;
-    &:last-child {
-      border-bottom: 1px solid $gray-lighter;
-    }
-  }
-}
-
-/* Texts index */
-
-.texts {
-  list-style: none;
-  margin: 0;
-  overflow: scroll;
-  padding-left: 0px;
-  li {
-    padding: 5px 0;
-    padding-left: 10px;
-    border-top: 1px solid #e8e8e8;
-    white-space: nowrap;
-    &:last-child {
-      border-bottom: 1px solid #e8e8e8;
-    }
-    &:hover { 
-      background-color: $green-light;
-    }
-    .released {
-      padding-left: 10px;
-      display: inline-block;
-      width: 100px;
-    }
-    .author {
-      display: inline-block;
-      /*float: left; */
-      color: #22500F;
-      font-weight: bold;
-      font-size: 1.25em;
-      width: 280px;
-    }
-    .title {
-      display: inline-block;
-      font-weight: bold;
-      font-size: 1.25em;
-      white-space: nowrap;
-      color: #490C08;
-    }
-  }
-}
-
-.sortable {
-  li {
-    background: $gray-lighter;
-    border: 1px solid #555;
-    &:last-child {
-      border-bottom: 1px solid #555;
-    }
-    &:hover {
-      cursor: all-scroll;
-    }
-  }
-}
-
-.text-click {
-  position: relative;
-}
-
-.text-link {
-  width:100%;
-  height:100%;
-  position:absolute;
-  z-index:2;
-  top:0px;
-  left:0px;
-}
-
-.alt {
-  color: #9900CC;
-}
-
-.phrase {
-  color: #3399FF;
-}
-
-.phrase:hover:after {
-}
-
-
-/* Text viewing */
-
-#text-display {
-  padding-top: 70px;
-  .title {
-    display: inline-block;
-    width: 100%;
-    text-align: center;
-    font-weight: bold;
-    font-size: 3em;
-  }
-  .author {
-    text-align: center;
-  }
-  .verse {
-    float: right;
-  }
-}
-
-
-/* Text Editing */
-
-.column-header {
-  border-bottom: 2px solid black;
-  padding: 5px 0;
-}
-
-.column-gloss {
-  border-bottom: 2px solid black;
-  padding: 5px 0;
-  background-color: #F4FFEB;
-}
-
-.column-dict {
-  border-bottom: 2px solid black;
-  padding: 5px 0;
-  background-color: #EBF4FF;
-}
-
-.column-phrase {
-  .phrase-display {
-    border-bottom: 2px solid black;
-    padding: 10px 0;
-    background-color: #FFF4EB;
-  }
-}
-
-.definitions {
-  list-style: none;
-  padding: 0;
-  margin: 3px 0 0 0;
-  li {
-    padding: 10px 0;
-    border-top: 1px solid #e8e8e8;
-    &:last-child {
-      border-bottom: 1px solid #e8e8e8;
-    }
-  }
-}
-
-.add-form {
-  display: inline;
-}
-
-/* Definition Display */  /* !!! ??? Is this correct? See question. */
-
-.term {             /* Am I using these above as well for displaying? !!! */
-  font-weight: bold;
-}
-
-.lex_class {
-  font-style: italic;
-}
-
-.definition {
-}
-
-.match-list {
-}
-
-aside {
-  textarea {
-    height: 100px;
-    margin-bottom: 5px;
-  }
 }
 
 /* miscellaneous */

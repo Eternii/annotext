@@ -1,4 +1,5 @@
-<span id="new_gloss_def">
-  <%= link_to "Create New Definition", new_definition_path(text: text_id), 
-                              class: "btn btn-warning btn-xs", remote: true %>
+<span id="new-gloss-def">
+  <%= link_to "Create New Definition", 
+                      new_definition_path(text: @text_id, str: @match_string), 
+                      class: "btn btn-warning btn-xs", remote: true %>
 </span>

@@ -1,0 +1,2 @@
+$("#media-flash").html("<%= escape_javascript(render 'shared/flash_ajax', flash: flash) %>");
+$("#media-<%= "#{@media.id}" %>").replaceWith("<%= escape_javascript(render @media) %>");

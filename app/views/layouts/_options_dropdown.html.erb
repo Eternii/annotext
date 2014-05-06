@@ -1,0 +1,29 @@
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+    <%= content_tag(:span, "", class: "glyphicon glyphicon-cog") %>
+    Options
+    <b class="caret"></b>
+  </a>
+  <ul class="dropdown-menu" id="options-dropdown">
+    <li>
+      <form class="navbar-form navbar-left" onsubmit="return false;">
+        <div class="checkbox">
+          <label>
+            <input id="media-checkbox" type="checkbox" checked="checked">
+            Display Media Links
+          </label>
+        </div>
+      </form>
+    </li>
+    <li>
+      <form class="navbar-form navbar-left" onsubmit="return false;">
+        <div class="checkbox">
+          <label>
+            <input id="colorize-checkbox" type="checkbox">
+            Display Marked Phrases with Different Colors
+          </label>
+        </div>
+      </form>
+    </li>
+  </ul>
+</li>

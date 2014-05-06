@@ -1,18 +1,3 @@
-<script type="text/javascript">
-  $(function() {
-    $(".sortable").sortable({});
-    $(".sortable").disableSelection();
-  });
-
-  $(document).on('click', '#save_position', function() {
-    var orderData = $(".texts").sortable('serialize');
-    window.location.href = "/texts/order?"+orderData;
-  });
-</script>
-
-
-
-
 <% provide(:title, 'German Texts') %>
 <h1>German Texts</h1>
 
@@ -23,7 +8,9 @@
         <%= render @texts %>
       </ul>
       <br>
-      <button class="btn btn-primary" id="save_position">Save Text Order</button>
+      <button class="btn btn-primary" id="save_position">
+        Save Text Order
+      </button>
       <%= link_to "Add New Text", new_text_path, class: "btn btn-primary" %>
     <% else %>
       <ul class="texts">

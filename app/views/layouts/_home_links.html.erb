@@ -1,0 +1,15 @@
+<% if signed_in? %>
+  <li data-no-turbolink>
+    <%= link_to root_path do %>
+      <%= content_tag(:span, "", class: "glyphicon glyphicon-book") %>
+      Texts
+    <% end %>
+  </li>
+<% else %>
+  <li>
+    <%= link_to root_path do %>
+      <%= content_tag(:span, "", class: "glyphicon glyphicon-home") %>
+      Home
+    <% end %>
+  </li>
+<% end %>

@@ -10,9 +10,21 @@ CKEDITOR.plugins.add('saveabout',
           url: '/texts/' + text + '/save_about',
           data: { content: content },
           dataType: "json"
-        }).done(function(data) {
-          alert("Success");   // !!! Change this to give good feedback.
+        })
+        .fail(function(data) {
+          $("#save-failure").css('visibility', 'visible');
+          $("#save-failure").fadeOut(10000, function() {
+            $(this).css({ 'display': 'block', 'visibility': 'hidden' });
+          });
+          alert("There has been an error in saving the 'About' text!");
+        })
+        .done(function(data) {
+          $("#save-success").css('visibility', 'visible');
+          $("#save-success").fadeOut(10000, function() {
+            $(this).css({ 'display': 'block', 'visibility': 'hidden' });
+          });
         });
+        
       }
     });
 

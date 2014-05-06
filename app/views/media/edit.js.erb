@@ -1,0 +1,2 @@
+<% @button_caption = "Update" %>
+$("#media-<%= @media.id %>").html("<%= escape_javascript(render partial: 'media_edit') %>");

@@ -1,0 +1,16 @@
+<li id=<%= "media-#{medium.id}" %> class="media-click">
+  <%= link_to "Edit", edit_medium_path(medium),
+                            class: "btn btn-primary btn-xs", remote: true %>
+
+  <span class="media-edit-type">
+    <%= content_tag(:span, "", class: media_icon(medium.media_type) ) %>
+    <% if linked_media?(medium.media_type) %>
+      <%= content_tag(:span, "", class: "glyphicon glyphicon-link" ) %>
+    <% end %>
+  </span>
+
+  <span class="media-edit-title">
+    <%= link_to medium.title, medium, target: "_blank" %>
+  </span>
+  <span class="media-edit-description"><%= medium.description %></span>
+</li>

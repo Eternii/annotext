@@ -1,0 +1,6 @@
+<% provide(:title, @media.title) %>
+
+<%= audio_tag @audio, class: "media-display",
+                                           alt: @media.title, controls: true %>
+
+<%= render partial: 'caption' %>

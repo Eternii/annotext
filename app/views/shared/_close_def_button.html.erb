@@ -1,0 +1,7 @@
+<% if !@creating %>
+  <%= link_to close_definition_path(@definition, text: @text_id),
+          remote: true, class: "close",
+          title: "Close without saving. All unsaved changes will be lost." do %>
+    <span aria-hidden="true">&times;</span>
+  <% end %>
+<% end %>

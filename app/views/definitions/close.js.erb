@@ -1,0 +1,1 @@
+$("#def-<%= "#{@definition.id}" %>").replaceWith("<%= escape_javascript(render partial: 'shared/entry', locals: { entry: @definition } ) %>");

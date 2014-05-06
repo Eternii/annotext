@@ -1,6 +1,7 @@
 CKEDITOR.plugins.add('phrase',
 {
   init: function(editor) {
+    // Created in http://faviconist.com/
     var iconPath = this.path + 'images/icon.png';
 
     editor.addCommand('phrDialog', new CKEDITOR.dialogCommand('phrDialog'));

@@ -1,5 +1,2 @@
-var childElement = document.getElementById("<%= @definition.id %>");
+var childElement = document.getElementById("def-<%= @definition.id %>");
 childElement.parentNode.removeChild(childElement);
-
-
-// $("#<%= @definition.id %>").html("");

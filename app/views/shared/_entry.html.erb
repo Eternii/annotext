@@ -1,20 +1,16 @@
-<li id="<%= entry.id %>">
+<li id="def-<%= entry.id %>">
   <span class="term"><%= entry.term %></span>
   <span class="lex_class"><%= entry.lex_class %></span>
   <span class="definition"><%= entry.definition %></span>
   <br>
   <b>Matches: </b><span class="match-list"><%= entry.hits %></span>
   <br>
-  <%= link_to "delete", entry, method: :delete,
+  <%= link_to "Edit", edit_definition_path(entry, text: @text_id),
+                      class: "btn btn-primary btn-xs", remote: true %>
+  <%= link_to "Delete", entry, method: :delete,
                                data: { confirm: "Are you sure?" },
                                title: entry.term,
                                class: "btn btn-primary btn-xs",
                                remote: true %>
-  <%= link_to "edit", edit_definition_path(entry), 
-                      class: "btn btn-primary btn-xs", remote: true %>
-  <% if entry.text_id == nil %>
-    <%= render 'shared/add_to_gloss', entry: entry %>
-  <% else %>
-    <%= render 'shared/add_to_dict', entry: entry %>
-  <% end %>
+  <%= render 'shared/add_to_button', entry: entry %>
 </li>

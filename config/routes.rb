@@ -1,12 +1,13 @@
 Annotext::Application.routes.draw do
 
   root  'texts#index'
-  match '/help',    to: 'static_pages#help',    via: 'get'
-  match '/about',   to: 'static_pages#about',   via: 'get'
-  match '/contact', to: 'static_pages#contact', via: 'get'
-  match '/history', to: 'static_pages#history', via: 'get'
-  match '/signin',  to: 'sessions#new',         via: 'get'
-  match '/signout', to: 'sessions#destroy',     via: 'delete'
+  match '/help',        to: 'static_pages#help',        via: 'get'
+  match '/editor_help', to: 'static_pages#editor_help', via: 'get'
+  match '/about',       to: 'static_pages#about',       via: 'get'
+  match '/contact',     to: 'static_pages#contact',     via: 'get'
+  match '/history',     to: 'static_pages#history',     via: 'get'
+  match '/signin',      to: 'sessions#new',             via: 'get'
+  match '/signout',     to: 'sessions#destroy',         via: 'delete'
 
   resources :users
   resources :sessions, only: [:new, :create, :destroy]
@@ -16,7 +17,13 @@ Annotext::Application.routes.draw do
     end
     member do
       patch :release, :save, :delete, :save_about
-      get :about
+      get   :about
+    end
+  end
+
+  resources :media do
+    member do
+      get :close
     end
   end
 
@@ -25,6 +32,7 @@ Annotext::Application.routes.draw do
   resources :definitions, except: [:index] do
     member do
       post :copy_to_gloss, :copy_to_dict
+      get  :close
     end
   end
 

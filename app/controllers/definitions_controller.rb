@@ -1,27 +1,29 @@
 class DefinitionsController < ApplicationController
   before_action :signed_in_user
 
-  # Likely will need @editing_def = @text.definitions.build somewhere
-
   def new
     respond_to do |format|
       format.js {
         @text = Text.find_by_id(params[:text])
-        @definition = @text.definitions.new
+        @match_string = params[:str]
+        @definition = @text.definitions.new(term: @match_string)
       }
     end
   end
 
   def create
-    logger.debug "   --->   Text id: #{params[:definition][:text_id]}"
-    @text = Text.find_by_id(params[:definition][:text_id])
-    @definition = @text.definitions.build(definition_params)
-    if @definition.save
-      update_matches(params[:definition][:hits])
-      flash.now[:success] = "Definition created!"
-      render 'edit'
-    else
-      render 'edit'
+    respond_to do |format|
+      format.js {
+        @text_id = params[:definition][:text_id]
+        @text = Text.find_by_id(@text_id)
+        @definition = @text.definitions.build(definition_params)
+        if @definition.save
+          update_matches(params[:definition][:hits])
+          flash.now[:success] = "Definition created!"
+        else
+          render 'new'
+        end
+      }
     end
   end
 
@@ -29,14 +31,16 @@ class DefinitionsController < ApplicationController
     respond_to do |format|
       format.js {
         @definition = Definition.find_by_id(params[:id])
+        @text_id = params[:text]
       }
     end
   end
-    
+
   def update
     respond_to do |format|
       format.js {
         @definition = Definition.find(params[:id])
+        @text_id = params[:definition][:editing_text_id] # Need for add_to_gloss
         if @definition.update_attributes(definition_params)
           flash.now[:success] = "Definition updated!"
           update_matches(params[:definition][:hits])  
@@ -45,6 +49,16 @@ class DefinitionsController < ApplicationController
         else
           render 'edit'   # Errors via 'shared/error_messages'
         end
+      }
+    end
+  end
+
+  def close
+    respond_to do |format|
+      format.js {
+        @definition = Definition.find_by_id(params[:id])
+        @text_id = params[:text]   # Necessary for add_to_gloss to function
+        # Will close edit form and discard any unsaved changes.
       }
     end
   end
@@ -75,6 +89,7 @@ class DefinitionsController < ApplicationController
     respond_to do |format|
       format.js {
         @definition = Definition.find(params[:id])
+        @text_id = @definition.text_id       # Needed for add_to_gloss form.
         @new_def = @definition.transplant(nil)
         if !@new_def
           render :nothing => true   # !!! Change this to render errors

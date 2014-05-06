@@ -1,0 +1,35 @@
+<% if @media != nil %>
+  <%= form_for(@media, remote: true, authenticity_token: true) do |f| %>
+    <%= render 'shared/flash_ajax', flash: flash %>
+    <%= render 'shared/error_messages', object: f.object %>
+
+    <%= f.label :title %>
+    <%= f.text_field :title, class: "form-control" %>
+
+    <%= f.label :description %>
+    <%= f.text_area :description, class: "form-control" %>
+
+    <%= f.label :location, "URL" %>
+    <%= f.text_field :location, class: "form-control" %>
+
+    <%= f.label :media_type %>
+    <br>
+    <%= f.select :media_type, ['video-link', 'audio-link', 'image-link'], class: "form-control"  %>
+    <br>
+
+    <%= f.hidden_field :text_id %>
+
+    <%= f.submit "#{@button_caption} link", class: "btn btn-primary",
+                                  :data => { :disable_with => "Processing" } %>
+
+    <% if @media.id %>
+      <%= link_to "Cancel", close_medium_path(@media),
+                                      class: "btn btn-primary", remote: true %>
+    <% else %>
+      <button type="button" class="btn btn-primary" id="cancel-new-media">
+        Cancel
+      </button>
+    <% end %>
+
+  <% end %>
+<% end %>

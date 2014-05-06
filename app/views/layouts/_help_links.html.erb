@@ -1,0 +1,15 @@
+<% if signed_in? %>
+  <li>
+    <%= link_to editor_help_path do %>
+      <%= content_tag(:span, "", class: "glyphicon glyphicon-question-sign") %>
+      Editor Help
+    <% end %>
+  </li>
+<% else %>
+  <li>
+    <%= link_to help_path do %>
+      <%= content_tag(:span, "", class: "glyphicon glyphicon-question-sign") %>
+      Help
+    <% end %>
+  </li>
+<% end %>

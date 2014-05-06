@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140111003214) do
+ActiveRecord::Schema.define(version: 20140401234927) do
 
   create_table "definitions", force: true do |t|
     t.string   "term"
@@ -43,6 +43,16 @@ ActiveRecord::Schema.define(version: 20140111003214) do
   add_index "matches", ["text_id"], name: "index_matches_on_text_id"
   add_index "matches", ["word", "text_id"], name: "index_matches_on_word_and_text_id"
 
+  create_table "media", force: true do |t|
+    t.string   "location"
+    t.string   "media_type"
+    t.string   "title"
+    t.string   "description"
+    t.integer  "text_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
   create_table "phrases", force: true do |t|
     t.string   "term"
     t.string   "definition"
@@ -52,6 +62,9 @@ ActiveRecord::Schema.define(version: 20140111003214) do
   end
 
   add_index "phrases", ["text_id"], name: "index_phrases_on_text_id"
+
+# Could not dump table "sqlite_stat1" because of following NoMethodError
+#   undefined method `[]' for nil:NilClass
 
   create_table "texts", force: true do |t|
     t.string   "title"

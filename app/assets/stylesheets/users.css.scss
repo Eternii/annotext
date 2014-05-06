@@ -1,3 +1,25 @@
-// Place all the styles related to the Users controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+/* Name:         users.css.scss
+ * Author:       Robert Eastman
+ * Created:      April 4, 2014
+ * Used in:      User index page. Available when the editor is signed in.
+ * Explanation:
+ *   This stylesheet controls the look of all User model specific styling.
+ *
+ * Revisions:
+ *   04/04/14 - Split from custom.css.scss
+ */
+
+
+/* Users index */
+
+.users {
+  list-style: none;
+  margin: 0;
+  li {
+    overflow: auto;
+    padding: 10px 0;
+    &:last-child {
+      border-bottom: 1px solid $gray-lighter;
+    }
+  }
+}

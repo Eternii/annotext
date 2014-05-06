@@ -18,11 +18,12 @@ class Text < ActiveRecord::Base
   belongs_to :user
   has_many :definitions, dependent: :destroy
   has_many :phrases, dependent: :destroy
+  has_many :media, dependent: :destroy
 
   default_scope -> { order('position ASC') }
 
-  validates :title, presence: true, length: { maximum: 80 }
-  validates :author, presence: true, length: { maximum: 40 }
+  validates :title, presence: true,   length: { maximum: 80 }
+  validates :author,                  length: { maximum: 40 }
   validates :user_id, presence: true
   validates :position, presence: true
 end

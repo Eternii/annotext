@@ -12,7 +12,6 @@ class TextsController < ApplicationController
     @text.position = @position
     @text.released = false
     if @text.save
-      flash[:success] = "A new text has been successfully created!"
       File.new(       text_loc(@text.id), "w+")
       File.new( about_text_loc(@text.id), "w+")
       redirect_to edit_text_path(@text)
@@ -24,6 +23,8 @@ class TextsController < ApplicationController
   def edit
     @text = Text.find(params[:id])
     @content = File.read( text_loc(params[:id]) ).html_safe
+    @about_content = File.read( about_text_loc(params[:id]) ).html_safe
+    @media = Medium.where("text_id = ?", params[:id])
   end
 
   def update
@@ -46,7 +47,7 @@ class TextsController < ApplicationController
         File.open( text_loc(params[:id]), "w+") do |f|
           f.write(@content)
         end
-        render :nothing => true
+        render :json => { :success => true } # Needed this to get ajax response.
       }
     end
   end
@@ -98,7 +99,7 @@ class TextsController < ApplicationController
         File.open( about_text_loc(params[:id]), "w+") do |f|
           f.write(@content)
         end
-        render :nothing => true # !!! Change this!
+        render :json => { :success => true } # Needed this to get ajax response.
       }
     end
   end

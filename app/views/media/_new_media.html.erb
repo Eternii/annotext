@@ -1,0 +1,8 @@
+<%# Else covers: 'link', 'video-link', 'audio-link', 'image-link' %>
+
+<% case @media_type
+     when "image" %>   <%= render partial: 'image_edit' %>
+  <% when "video" %>   <%= render partial: 'video_edit' %>
+  <% when "audio" %>   <%= render partial: 'audio_edit' %>
+  <% else %>           <%= render partial: 'link_edit'  %>
+<% end %>

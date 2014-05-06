@@ -1,1 +1,2 @@
-$("#<%= @definition.id %>").html("<%= escape_javascript(render partial: 'shared/definition_form') %>");
+<% @button_caption = "Update" %>
+$("#def-<%= @definition.id %>").html("<%= escape_javascript(render partial: 'shared/definition_form') %>");
