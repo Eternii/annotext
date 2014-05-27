@@ -32,7 +32,7 @@ CKEDITOR.plugins.add( 'selectword',
             var word, phrase;
 
             if (element) {
-              element = element.getAscendantAltOrPhrase(true);
+              element = element.getAscendantAltOrPhrase(true, true, true);
 
               if (element) {
                 if (element.hasClass('phrase'))
@@ -73,22 +73,21 @@ CKEDITOR.plugins.add( 'selectword',
 
 CKEDITOR.tools.extend( CKEDITOR.dom.node.prototype,
 {
-  getAscendantAltOrPhrase : function( includeSelf )
-    {
-      var element = this;
+  getAscendantAltOrPhrase : function(includeSelf, alt, phr) {
+    var element = this.$;
    
-      if ( !includeSelf )
-        element = element.parentNode;
+    if (!includeSelf)
+      element = element.parentNode;
    
-      while ( element )
-      {
-        if (element.hasClass('phrase'))
-          return element;
-        if (element.hasClass('alt'))
-          return element;
+    while (element) {
+      if (alt && element.className == 'alt')
+        return new CKEDITOR.dom.node(element);
+      if (phr && element.className == 'phrase')
+        return new CKEDITOR.dom.node(element);
 
-        element = element.parentNode;
-      }
+      element = element.parentNode;
+    }
+
     return null;
   }
 });

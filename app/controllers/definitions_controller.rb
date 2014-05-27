@@ -16,8 +16,9 @@ class DefinitionsController < ApplicationController
       format.js {
         @text_id = params[:definition][:text_id]
         @text = Text.find_by_id(@text_id)
+        @match_list = params[:definition][:hits]
         @definition = @text.definitions.build(definition_params)
-        if @definition.save
+        if (valid_match? && @definition.save)
           update_matches(params[:definition][:hits])
           flash.now[:success] = "Definition created!"
         else
@@ -39,15 +40,17 @@ class DefinitionsController < ApplicationController
   def update
     respond_to do |format|
       format.js {
-        @definition = Definition.find(params[:id])
         @text_id = params[:definition][:editing_text_id] # Need for add_to_gloss
-        if @definition.update_attributes(definition_params)
-          flash.now[:success] = "Definition updated!"
+        @match_list = params[:definition][:hits]
+        @definition = Definition.find(params[:id])
+        @definition.assign_attributes(definition_params)
+        if (valid_match? && @definition.save)
           update_matches(params[:definition][:hits])  
-          # update_matches will send flash errors on failed creation
+          flash.now[:success] = "Definition updated!"
           render 'edit'
         else
-          render 'edit'   # Errors via 'shared/error_messages'
+          @match_string = params[:definition][:hits]  # Maintain edited list
+          render 'edit'
         end
       }
     end
@@ -115,12 +118,9 @@ class DefinitionsController < ApplicationController
     def update_matches(list)
       error_str = ''
 
-      # old_matches = @definition.hits.split(' ');  !!! fix hits?
       old_matches = @definition.matches.pluck(:word)
-      new_matches = list.gsub(/[\n\t.,!?:;\/|\\'"()\[\]-]/,'').split(' ');
+      new_matches = @match_list    # Converted to array in valid_match
 
-      # Protect against numeric matches in the list! Destroys data. !!!
-  
       not_modified = new_matches & old_matches
 
       not_modified.each do |w|
@@ -129,7 +129,6 @@ class DefinitionsController < ApplicationController
       end
 
       new_matches.each do |w|
-        # !!! Need to validate and not add new matches if duplicates !!!
         match = @definition.matches.build(word: w, text_id: @definition.text_id)
         if !(match.save)
           error_str <<  "Error: #{w} match could not be created. "
@@ -145,4 +144,17 @@ class DefinitionsController < ApplicationController
       end
     end
 
+    # Checks for valid matches.
+    # Converts @match_list to an array of strings
+    def valid_match?
+      @match_list = @match_list.gsub(/[\n\t]/,'').split(' ').uniq
+      if (@match_list.length > 0)
+        true
+      else
+        @definition.valid?
+        @definition.errors.add(:hits, 
+                                  "list must contain at least one valid match.")
+        false
+      end
+    end
 end

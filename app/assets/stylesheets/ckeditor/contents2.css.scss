@@ -13,3 +13,29 @@
 h1 {
   color: blue;
 }
+
+.verse {
+  float: right;
+}
+
+.xlarge_text {
+  font-size: 3em;
+}
+
+.large_text {
+  font-size: 2em;
+}
+
+.medium_text {
+  font-size: 1.5em;
+}
+
+/* !!! Something still off with padding/margin */
+blockquote {        /* Overwrite default CKEditor css */
+  font-style: normal;
+  font-family: inherit;
+  padding: 5px 0;
+  margin: 0 50px;
+  border-style: none;
+  border-width: 0;
+}

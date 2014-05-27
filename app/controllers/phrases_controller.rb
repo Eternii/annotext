@@ -23,10 +23,11 @@ class PhrasesController < ApplicationController
     respond_to do |format|
       format.json {
         phrase = Phrase.find_by_id(params[:id])
-        if phrase
+        text = params[:text]
+        if (phrase && phrase.text_id.to_s == text)
           render :json => { :term => phrase.term, :defin => phrase.definition }
         else
-          render :json => { :str => '', :defin => '' }
+          render :json => { :term => '', :defin => '' }
         end
       }
     end

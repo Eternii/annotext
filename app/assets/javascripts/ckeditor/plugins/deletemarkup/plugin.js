@@ -10,8 +10,7 @@ CKEDITOR.plugins.add('deletemarkup',
         var element = selRange.getStartElement();
 
         if (element) {
-          element = element.getAscendantAltOrPhrase(true);
-
+          element = element.getAscendantAltOrPhrase(true, true, true);
  
          if (element)
           element.remove(true);
@@ -19,7 +18,6 @@ CKEDITOR.plugins.add('deletemarkup',
 
       }
     });
-
 
     editor.ui.addButton('DeleteMarkup', {
       label: 'Delete Markup',

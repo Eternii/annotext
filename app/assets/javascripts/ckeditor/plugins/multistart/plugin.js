@@ -7,7 +7,9 @@ CKEDITOR.plugins.add('multistart',
     editor.addCommand('mulSDialog', new CKEDITOR.dialogCommand('mulSDialog'));
 
     editor.ui.addButton('MultiStart', {
-      label: 'Start MWE',
+      label: 'Start Multi-Word',
+      title: 'Begin creating a multi-word phrase. Use this button to mark ' +
+             'the first section of the multi-word phrase.',
       command: 'mulSDialog',
       icon: iconPath
     });
@@ -41,8 +43,6 @@ CKEDITOR.plugins.add('multistart',
                 type: 'textarea',
                 id: 'definition',
                 label: 'Definition',
-                validate: CKEDITOR.dialog.validate
-                              .notEmpty("Definition field cannot be empty"),
                 setup: function(data) {
                   this.setValue(data.defin);
                 },
@@ -62,41 +62,42 @@ CKEDITOR.plugins.add('multistart',
           var data = {};
 
           if (element)
-            element = element.getAscendant('span', true);
+            element = element.getAscendantAltOrPhrase(true, true, true);
 
-          if (!element || (element.getAttribute('class')!="phrase") || 
-                                          element.data('cke-realelement')) {
+          if (element) {
+            alert("The highlighted text already contains a phrase or a " +
+                  "lemma. Please use the requisite 'Mark/Edit' button to " +
+                  "modify it.");
+            dialog.hide();
+          }
+          else {
             element = editor.document.createElement('span');
             data.term = sel.getSelectedText();
             dialog.setupContent(data);
             this.element = element;
-          }
-          else {
-            alert("The highlighted text already contains a phrase. Please " +
-                  "use the 'Mark Phrase' button to modify it.");
-            dialog.hide();
           }
         },
 
 
         onOk: function() {
           var span = this.element;   // !!! Either remove or use for errors
-          var dialog = this;
           var data = {};
+          var phrase = '';
           var style = '';
 
           this.commitContent(data);
 
           $.post('/phrases', {term: data.term, defin: data.defin, text: text},
-          function(jsondata) {
-            if (jsondata.phrase) {
-              style = new CKEDITOR.style(
-                  {attributes: { class: "phrase", phrase: jsondata.phrase}});
+                                                  function(jsondata) {
+            phrase = jsondata.phrase;
+            console.log(phrase);
+            if (phrase) {
+              style = new CKEDITOR.style({attributes:
+                                          {class: "phrase", phrase: phrase}});
               editor.applyStyle(style);
-              multiphrase = jsondata.phrase; // Save phrase # for continuation.
+              multiphrase = jsondata.phrase;
+              lastused_phrase = phrase;
             }
-            //else
-              // !!! Need to get ride of span created above.
           }, "json");
         }
       };

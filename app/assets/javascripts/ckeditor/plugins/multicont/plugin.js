@@ -7,7 +7,9 @@ CKEDITOR.plugins.add('multicont',
     editor.addCommand('mulCDialog', new CKEDITOR.dialogCommand('mulCDialog'));
 
     editor.ui.addButton('MultiCont', {
-      label: 'Continue MWE',
+      label: 'Continue Multi-Word',
+      title: 'Continue creating a multi-word phrase. Use this button to ' +
+             'mark all subsequent parts of a multi-word phrase.',
       command: 'mulCDialog',
       icon: iconPath
     });
@@ -41,8 +43,6 @@ CKEDITOR.plugins.add('multicont',
                 type: 'textarea',
                 id: 'definition',
                 label: 'Definition',
-                validate: CKEDITOR.dialog.validate
-                              .notEmpty("Definition field cannot be empty"),
                 setup: function(data) {
                   this.setValue(data.defin);
                 },
@@ -64,16 +64,23 @@ CKEDITOR.plugins.add('multicont',
 
           if (!phrase) {
             alert("The is currently no phrase to continue marking. Please " +
-                  "use the 'Start MWE' button to begin creating a phrase.");
+                  "use the 'Start Multi-Word' button to begin creating " +
+                  "a phrase.");
             dialog.hide();
+            return;
           }
 
           if (element)
-            element = element.getAscendant('span', true);
+            element = element.getAscendantAltOrPhrase(true, true, true);
 
-          if (!element || (element.getAttribute('class')!="phrase") ||
-                                          element.data('cke-realelement')) {
-            $.get('/phrases/' + phrase + '/edit', {}, function(data) {
+          if (element) {
+            alert("The highlighted text already contains a phrase or a " +
+                  "lemma. Please use the requisite 'Mark/Edit' button to " +
+                  "modify it.");
+            dialog.hide();
+          }
+          else {
+            $.get('/phrases/'+ phrase +'/edit', {text: text}, function(data) {
               element = editor.document.createElement('span');
               data.term = data.term + " " + sel.getSelectedText();
               dialog.setupContent(data);
@@ -83,37 +90,28 @@ CKEDITOR.plugins.add('multicont',
               .fail(function() {
                 alert("The selected phrase either will not load or is not " +
                       "found on the server. Please check your connection or " +
-                      "use the 'Start MWE' button to create a new phrase.")
+                      "use the 'Start Multi-Word' button to begin creating " +
+                      "a new phrase.")
                 dialog.hide();
               });
-          }
-          else {
-            alert("The highlighted text already contains a phrase. Please " +
-                  "use the 'Mark Phrase' button to modify it.");
-            dialog.hide();
           }
         },
 
 
         onOk: function() {
           var span = this.element;   // !!! Either remove or use for errors
-          var phrase = this.phrase;
-          var dialog = this;
           var data = {};
+          var phrase = this.phrase;
           var style = '';
 
           this.commitContent(data);
 
           $.post('/phrases/' + phrase, { _method: 'PATCH', term: data.term,
-                 defin: data.defin }, function() {
-            style = new CKEDITOR.style(
-                  { attributes: { class: "phrase", phrase: phrase }});
+                                           defin: data.defin }, function() {
+            style = new CKEDITOR.style({attributes:
+                                          {class: "phrase", phrase: phrase }});
             editor.applyStyle(style);
-          }, "script")
-            .fail(function() {
-              alert("There is a problem saving the data to the server." +
-                    "Please check your connection and try again.")
-            });
+          }, "script");
         }
       };
     });

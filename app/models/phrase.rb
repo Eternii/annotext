@@ -15,5 +15,5 @@ class Phrase < ActiveRecord::Base
 
   validates :term, presence: true
   validates :text_id, presence: true
-  validates :definition, presence: true
+  #validates :definition, presence: true  !!! See if there's a better way !!!
 end

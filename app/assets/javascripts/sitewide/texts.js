@@ -5,9 +5,6 @@
 var matches = {};
 var definitions = {};
 var phrases = {};
-var text;                   // Editing only. Used by CKEditor plugins.
-var multiphrase;            // Editing only. Used by CKEditor plugins.
-var newdef_button;          // Editing only. See below - #cancel-new-def click
 
 // These must match equivalent variable names in custom.css.scss
 var $purple = "#9900CC";          // For display of alt class.
@@ -31,23 +28,6 @@ function setGlossary(match, defin, phrase) {
   matches = match;
   definitions = defin;
   phrases = phrase;
-}
-
-
-/* Name:         setTextId
- * Called by:    edit.js.erb (Texts controller)
- * Parameters:   num    - Text number.
- * Returns:      Nothing. (Sets globals.)
- * Explanation:
- *   Used to set the text id for the text that is being edited. This is used
- * by several of the CKEditor plugins when sending AJAX requests to the server.
- * Also, ensures the value of the multiphrase id is null. This is used by the
- * multiword expression plugins (multistart and multicont) to create phrases
- * across multiple words.
- */
-function setTextId(num) {
-  text = num;
-  multiphrase = '';
 }
 
 
@@ -342,7 +322,7 @@ function isolateWord(str, loc) {
 
 
 /* Name:         trimWordLowerCase
- * Called by:    isolateWord, "mouseup" function on "#search-button"
+ * Called by:    isolateWord, "mouseup" on "#search-button", prepareHits
  * Parameters:   word (word clicked on / word typed in search box)
  * Returns:      word (without punctuation, lowercase, etc.)
  * Citation:     Derived mostly from getClickedWord in Annotext 3.0 global.js
@@ -353,8 +333,12 @@ function isolateWord(str, loc) {
  * lowercase.
  */
 function trimWordLowerCase(word) {
+  // Remove some zero-width unicode characters (esp. &nbsp; = u00A0)
+  var pattern = /[\u200B-\u200D\uFEFF\u00A0]/g;
+  word = word.replace(pattern,"");
+
   // Clear out any remaining whitespace surrounding the word
-  var pattern = /^[\s\xa0]+|[\s\xa0]+$/g;  // \xa0 = unicode non-breaking space
+  pattern = /^[\s]+|[\s]+$/g;
   word = word.replace(pattern,"");
 
   // Remove any punctionation surrounding the word
@@ -433,166 +417,4 @@ $(document).on("mousedown", "#translation-box", function(event) {
 }).mouseup(function(event) {
   $('#text-display').css('margin-top',($('#translation-box').height()-58)+'px');
 });
-
-
-
-// !!! Do I want to move these to a different file that isn't loaded normally?
-
-/* ******************************************************************** *
- *                               Editing                                *
- * ******************************************************************** */
-
-/* Name:          N/A
- * Called by:     N/A (Used on the Text index when the editor is logged in.)
- * Parameters:    N/A
- * Returns:       Nothing.
- * Explanation:
- *   Activates the sorting arrows on the editor's text index page. That is,
- * this function makes it possible for the editor to rearrange the order of the
- * texts in the displayed text list.
- *   Currently requires that turbolinks be turned off for the link, so the
- * header "Texts" link is within a li with "data-no-turbolink". If this were
- * not so, then the editor's text index page would need to be refreshed before
- * the sortable handles functioned.
- */
-$(function() {
-  $(".sortable").sortable({ handle: '.sorting-handle' });
-});
-
-
-/* Name:          N/A ("click" function on "#save_position" button)
- * Called by:     Clicking the 'Save Position' button in the editor Text index.
- * Parameters:    N/A
- * Returns:       Nothing. (Sends data to server.)
- * Explanation:
- *   The "Save Position" button is on the texts index page when the editor is
- * logged in. The editor can move the texts around the list and save that text
- * order. The order that is saved will be the order that the texts appear to
- * the end users on the main index/home page (though only "released" texts will
- * be displayed to the end user).
- */
-// !!! Clean this up! Needs not to be a get as well! Change button id too.
-$(document).on('click', '#save_position', function() {
-  var orderData = $(".texts").sortable('serialize');
-  window.location.href = "/texts/order?"+orderData;
-});
-
-
-/* Name:          N/A ("click" function on "#cancel-new-media" button)
- * Called by:     Clicking the 'Cancel' button when adding new media.
- * Parameters:    N/A
- * Returns:       Nothing. (Changes Editor's Media display.)
- * Explanation:
- *   Empties the <li id="new-media"> item in the media list in the editor.
- * Also, clears the media manager's flash information.
- *   The "Manage Media" tab in the editor holds a "Cancel" button when the
- * editor is either creating or updating media. In the updating case, this
- * cancel button goes to the server (as multiple pieces of media could be in
- * editing mode at once, making client side upkeep difficult) to get the most
- * recently saved information about that media for display. In the case of
- * adding new media, however, this is unnessary as nothing is created and
- * therefore nothing needs to be displayed. Thus, this function simply resets
- * the affected html.
- */
-$(document).on('click', '#cancel-new-media', function() {
-  $("#media-flash").html("");
-  $("#new-media").html("");
-});
-
-
-
-/* Name:          N/A ("click" function on "#cancel-new-def" button)
- * Called by:     Clicking the 'Cancel' button when adding a new definition.
- * Parameters:    N/A
- * Globals:       newdef_button - Required. HTML for new definition link.
- *                                Contains button HTML, including href,
- *                                caption, classes, data-remote=true, and
- *                                parameters (text id & match string).
- *                                    
- * Returns:       Nothing. (Changes Editor's Definition Glossary display.)
- * Explanation:
- *   When the user clicks the "Create New Definition" button in the glossary
- * definition list in the Markup tab of the Editor, the button is replaced by
- * the "shared/definition_form" which is used to create a new glossary
- * definition (amongst other things). This function is called when the user
- * presses the "Cancel" button on this form. This function then replaces that
- * form with the "Create New Definition" button that had been there previously.
- * The form of that button (e.g. address, parameters, etc.) is stored in the
- * "newdef_button" global, which is set in definitions/new.js.erb. Basically, 
- * this function reverses the process from new.js.erb.
- *   The "Markup" tab in the editor contains a list of definitions for a word
- * once it is clicked. When creating or editing a definition, there is a
- * "Cancel" or similar button present. In the updating case, this cancel button
- * goes to the server (as multiple definitions could be in editing mode at
- * once, making client side upkeep difficult) to get the most recently saved
- * definition information for normal entry display. In the case of creating a
- * new definition this is unnessary, as nothing is created and therefore only
- * the "Create New Definition" button needs to be re-rendered. Thus, this
- * function simply resets the affected html. Note that currently creating
- * new definitions is limited to the glossary (and not the dictionary).
- */
-$(document).on('click', '#cancel-new-def', function() {
-  $("#new-gloss-def").html(newdef_button);
-});
-
-
-/* Name:          N/A
- * Called by:     N/A (Used on the Markup tab of the Text edit page.)
- * Parameters:    N/A
- * Returns:       Nothing. (Changes Definition Column and CKEditor height.)
- * Explanation:
- *   Calls adjustMarkupTab to adjust the height of the Definition column and
- * CKEditor instance on the Markup tab of the Text Editor page.
- */
-$(function() {
-  if (document.getElementById("markup"))
-    adjustMarkupTab();
-});
-
-
-/* Name:          N/A ("resize" function on the window)
- * Called by:     Resizing the window when on the Text edit page.
- * Parameters:    N/A
- * Returns:       Nothing. (Changes Definition Column and CKEditor height.)
- * Explanation:
- *   Calls adjustMarkupTab to adjust the height of the Definition column and
- * CKEditor instance on the Markup tab of the Text Editor page.
- */
-$(window).resize(function() {
-  if (document.getElementById("markup"))
-    adjustMarkupTab();
-});
-
-/* Name:          adjustMarkupTab
- * Called by:     opening a webpage, resizing the window
- * Parameters:    N/A
- * Returns:       Nothing. (Changes Definition Column and CKEditor height.)
- * Explanation:
- *   Assumes that the current webpage is the Text Edit page with a Markup tab.
- *   Resizes the Definition column and the CKEditor heights in the Editor's
- * Markup tab to fill the remainder of the screen. Both the column and CKEditor
- * instance should scroll independently of the window.
- *   As of the writing of this function, CSS3 viewport units (esp. vh) are very
- * new and not well supported across all browsers, so resizing based on the
- * height of the viewport is being done with jQuery instead.
- */
-function adjustMarkupTab() {
-  var viewportHeight = $(window).height()-130;
-  $("#definition-column").height(viewportHeight);
-  $("#ckeditor-text").height(viewportHeight-100);
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

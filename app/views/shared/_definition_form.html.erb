@@ -15,15 +15,18 @@
 
     <%= f.label :hits %>
     <% if @match_string %>
-      <%= f.text_area :hits, class: "form-control", value: @match_string %>
+      <%= f.text_area :hits, class: "form-control", value: @match_string,
+                                                id: "hits_#{@definition.id}" %>
     <% else %>
-      <%= f.text_area :hits, class: "form-control" %>
+      <%= f.text_area :hits, class: "form-control",
+                                                id: "hits_#{@definition.id}" %>
     <% end %>
 
     <%= f.hidden_field :text_id %>
     <%= f.hidden_field :editing_text_id, value: @text_id %>
 
     <%= f.submit "#{@button_caption} definition", title: "Save changes.",
+                 onclick: "return prepareHits('#{@definition.id}');",
                  class: "btn btn-primary btn-xs", 
                  :data => { :disable_with => "Processing" } %>
 

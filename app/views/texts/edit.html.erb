@@ -32,4 +32,9 @@
 
 <%= javascript_tag do %>
   setTextId(<%= @text.id %>);
+
+  window.onbeforeunload = function(e) {   // !!! Put elsewhere?
+    return 'Please ensure that any changes to the text and the "about" text' +
+           'have been saved.'
+  };
 <% end %>

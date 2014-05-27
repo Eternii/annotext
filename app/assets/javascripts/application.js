@@ -12,9 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require jquery.remotipart
-//= require ckeditor-jquery
-//= require jquery.ui.sortable
 //= require bootstrap
 //= require turbolinks
-//= require_tree .
+//= require_tree ./sitewide

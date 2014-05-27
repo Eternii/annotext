@@ -88,6 +88,8 @@
 
 #text-display {
   padding-top: 65px;
+  font-size: 1.1em;
+  line-height: 1.7em;
   .title {
     display: inline-block;
     width: 100%;
@@ -98,11 +100,21 @@
   .author {
     text-align: center;
   }
+  .note {
+    color: $gray-medium;
+  }
+  /* The following should be consistent in ckeditor/contents2 */
   .verse {
     float: right;
   }
-  .note {
-    color: $gray-medium;
+  .xlarge_text {
+    font-size: 3em;
+  }
+  .large_text {
+    font-size: 2em;
+  }
+  .medium_text {
+    font-size: 1.5em;
   }
 }
 
@@ -117,6 +129,6 @@
   display: inline;
 }
 
-.cke_button__linkmedia_label, .cke_button__lemma_label, .cke_button__phrase_label, .cke_button__multistart_label, .cke_button__multicont_label, .cke_button__deletemarkup_label, .cke_button__savetext_label, .cke_button__saveabout_label, .cke_button__note_label {
+.cke_button__linkmedia_label, .cke_button__lemma_label, .cke_button__phrase_label, .cke_button__multistart_label, .cke_button__multicont_label, .cke_button__deletemarkup_label, .cke_button__savetext_label, .cke_button__saveabout_label, .cke_button__note_label, .cke_button__verse_label {
   display:inline-block !important;
 }
