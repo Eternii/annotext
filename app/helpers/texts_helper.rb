@@ -33,4 +33,20 @@ module TextsHelper
       @phrases[p[0]] = [p[1],p[2]]
     end
   end
+
+  def text_loc(id)
+    Rails.root.join('app', 'assets', 'texts', "#{id}", "#{id}.html")
+  end
+
+  def about_text_loc(id)
+    Rails.root.join('app', 'assets', 'texts', "#{id}", "about.html")
+  end
+
+  def showing_text?
+    (params[:controller]=="texts" && params[:action]=="show")
+  end
+
+  def editing_text?
+    (params[:controller]=="texts" && params[:action]=="edit")
+  end
 end

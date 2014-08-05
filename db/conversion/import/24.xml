@@ -1,0 +1,1359 @@
+<!DOCTYPE TEI.2 SYSTEM "../DTD/tei2.dtd" [ <!ENTITY % TEI.prose "INCLUDE" > <!ENTITY % TEI.XML "INCLUDE"> ]>
+<?xml-stylesheet type="text/css" href="text.css"?>
+<?xml-stylesheet type="text/css" href="text_d.css"?>
+<?xml-stylesheet type="text/css" href="text_dp.css"?>
+<?xml-stylesheet type="text/css" href="text_e.css"?>
+<?xml-stylesheet type="text/css" href="text_em.css"?>
+<?xml-stylesheet type="text/css" href="text_m.css"?>
+<TEI.2>
+<teiHeader>
+</teiHeader>
+
+<text>
+<body>
+
+<p><head>DIE SOLDATEN</head></p>
+
+<p><author>Joachim Michael Reinhold Lenz (1751-1792)</author></p>
+
+<p><hi rend="italic">PERSONEN</hi></p>
+
+<p>Wesener, <hi rend="italic">ein Galanteriehändler in Lille</hi></p>
+<p>Frau Wesener, <hi rend="italic">seine Frau</hi></p>
+<p>Marie, Charlotte, <hi rend="italic">Ihre Töchter</hi></p>
+<p>Stolzius, <hi rend="italic">Tuchhändler in Armentières</hi></p>
+<p>Seine Mutter</p>
+<p><distinct type="alternative-form" n="JungferZipfersaat">Jungfer Zipfersaat</distinct></p>
+<p>Desportes, <hi rend="italic">ein Edelmann aus dem französischen Hennegau</hi></p>
+<p><distinct type="alternative-form" n="Spannheim">Der Graf von Spannheim</distinct>, <hi rend="italic">sein Obrister</hi></p>
+<p>Pirzel, <hi rend="italic">ein <distinct type="alternative-form" n="Hauptmann">Hauptman</distinct>  <term type="one-word" n="293">in französischen Diensten</term></hi></p>
+<p>Eisenhardt, <hi rend="italic">Feldprediger</hi></p>
+<p>Haudy, Rammler, Mary, <hi rend="italic">Offiziere</hi></p>
+<p>Die Gräfin <distinct type="alternative-form" n="Roche">de la Roche</distinct></p>
+<p>Ihr Sohn</p>
+<p><distinct type="alternative-form" n="Bischof">Frau Bischof</distinct></p>
+<p>Ihre Cousine und <term type="one-word" n="2307">andere</term></p>
+
+<p><hi rend="italic">Der Schauplatz ist im französischen Flandern</hi></p>
+
+<p>ERSTER AKT</p>
+<p><hi rend="bold">Erste Szene</hi></p>
+<p><hi rend="italic">IN LILLE Marie. Charlotte.</hi></p>
+
+<p>MARIE <hi rend="italic">(<distinct type="alternative-form" n="untergestütztem">mit untergestütztem Kopf </distinct>einen Brief schreibend)</hi>  Schwester, weißt du nicht, wie schreibt man Madam, <term type="one-word" n="2282">Ma-, ma-, t- a- m- m, tamm, m- e-, me</term>.</p>
+
+<p>CHARLOTTE <hi rend="italic">(sitzt und spinnt:)</hi>  So 'st recht.</p>
+
+<p>MARIE Hör, ich will dir vorlesen, ob's so angeht, wie ich schreibe: "Meine liebe Matamm! <term type="one-word" n="2283">Wir sein gottlob glücklich in Lille arriviert</term>", ist's recht so: arriviert, <term type="one-word" n="2284">ar ar, riew, wiert</term>?</p>
+
+<p>CHARLOTTE So ist recht.</p>
+
+<p>MARIE "Wir wissen nicht, <term type="one-word" n="2378">womit die Gütigkeit nur verdient haben</term>, <term type="one-word" n="2664">womit uns überschüttet</term>, <term type="one-word" n="1942">wünschte nur imstand zu sein</term>" - ist so recht?</p>
+
+<p>CHARLOTTE So lies doch, <term type="one-word" n="2285">bis der Verstand aus ist</term>.</p>
+
+<p>MARIE "Ihro alle die Politessen und Höflichkeit wiederzuerstatten. Weil aber es <distinct type="alternative-form" n="Kräften">noch</distinct> <distinct type="alternative-form" n="Kräften">nicht in unsern Kräften steht</distinct>, <term type="one-word" n="2286">als bitten um fernere Continuation</term>."</p>
+
+<p>CHARLOTTE <term type="one-word" n="1435">Bitten wir um fernere</term>.</p>
+
+<p>MARIE Laß doch sein, <term type="one-word" n="1152">was fällst du mir in die Rede.</term></p>
+
+<p>CHARLOTTE Wir bitten um fernere Continuation.</p>
+
+<p>MARIE Ei, was redst du doch, der Papa schreibt ja auch so.</p>
+
+<p>CHARLOTTE Nu, <term type="one-word" n="2287">so les' Sie doch aus</term>.</p>
+
+<p>MARIE <term type="one-word" n="395">Das übrige geht dich nichts an</term>. <term type="multiword" n="2308">Sie</term> will allesfort klüger sein als der Papa, letzthin sagte der Papa auch, es wäre nicht höflich, wenn man immer "wir" schriebe und "ich" <term type="one-word" n="2288">und so dergleichen</term>. <hi rend="italic">(<distinct type="alternative-form" n="Siegelt">Siegelt zu</distinct>.)</hi>  Da, Steffen <hi rend="italic">(gibt ihm Geld.)</hi>  <distinct type="alternative-form" n="Tragt">Tragt den Brief auf die Post</distinct>.</p>
+
+<p>CHARLOTTE <term type="multiword" n="2308">Sie</term> wollt mir den Schluß nicht vorlesen, gewiß hat <term type="multiword" n="2308">Sie</term> da <term type="one-word" n="1510">was Schönes</term> <term type="one-word" n="2289">vor</term> den Herrn Stolzius.</p>
+
+<p>MARIE <term type="one-word" n="1194">Das geht dich nichts an</term>.</p>
+
+<p>CHARLOTTE <term type="one-word" n="2161">Nu seht doch</term>, bin ich denn schon schalu darüber gewesen? Ich hätt ja ebensogut schreiben können als du, <distinct type="alternative-form" n="berauben">aber ich hab dir das Vergnügen nicht berauben wollen</distinct>, deine Hand <term type="one-word" n="2309">zur Schau zu stellen</term>.</p>
+
+<p>MARIE Hör, Lotte, <term type="one-word" n="858">laß mich zufrieden mit dem Stolzius</term>, ich sag dir's, oder ich geh gleich herunter und klag's dem Papa.</p>
+
+<p>CHARLOTTE Denk doch, <term type="one-word" n="1147">was mach ich mir daraus</term>, er weiß ja doch, daß du verliebt in ihn bist, und <term type="one-word" n="1899">daß du's nur nicht leiden kannst</term>, <distinct type="alternative-form" n="andrer">wenn ein andrer ihn nur mit Namen nennt</distinct>. </p>
+
+<p>MARIE Lotte! <hi rend="italic">(<distinct type="alternative-form" n="anfangen">Fängt an</distinct> zu weinen und läuft herunter)</hi>.</p>
+
+
+<p><hi rend="bold">Zweite Szene</hi></p>
+<p>IN ARMENTIERES <hi rend="italic">(Stolzius und seine Mutter.)</hi></p>
+
+<p>STOLZIUS <hi rend="italic">(mit verbundenem Kopf:)</hi>  <term type="one-word" n="1962">Mir ist nicht wohl</term>, Mutter.</p>
+
+<p>MUTTER <hi rend="italic">(steht eine Weile und sieht ihn an)  </hi>Nu, ich glaube, <term type="one-word" n="2305">Ihm steckt das verzweifelte Mädel im Kopf</term>, <term type="one-word" n="2306">darum tut er Ihm so weh</term>. Seit sie weggereist ist, <term type="one-word" n="2290">hat Er keine vergnügte Stunde mehr</term>. </p>
+
+<p>STOLZIUS <distinct type="alternative-form" n="Ernst">Aus Ernst</distinct>, Mutter, mir ist nicht recht. </p>
+
+<p>MUTTER Nu, <term type="one-word" n="170">wenn du mir gute Worte gibst</term>, so will ich dir das Herz wohl leichter machen. <hi rend="italic">(<distinct type="alternative-form" n="herausziehen">Zieht</distinct> einen Brief <distinct type="alternative-form" n="herausziehen">heraus</distinct>)</hi>. </p>
+
+<p>STOLZIUS <hi rend="italic">(<distinct type="alternative-form" n="aufspringen">springt auf</distinct>: )</hi>  Sie hat Euch geschrieben -</p>
+
+<p>MUTTER Da kannst du's lesen. <hi rend="italic">(Stolzius reißt ihn ihr aus der Hand und verschlingt den Brief mit den Augen.)</hi>  Aber hör, <term type="one-word" n="2291">der Obriste will das Tuch ausgemessen haben</term> für die Regimenter.</p>
+
+<p>STOLZIUS Laßt mich den Brief beantworten, Mutter. </p>
+
+<p>MUTTER <term type="one-word" n="2665">Hans Narr</term>, <term type="one-word" n="2203">ich rede vom Tuch</term>, das der Obrist bestellt hat für die Regimenter. Kommt denn -</p>
+
+
+<p><hi rend="bold">Dritte Szene</hi></p>
+<p>IN LILLE<hi rend="italic"> (Marie. Desportes.)</hi></p>
+
+<p>DESPORTES Was machen Sie denn da, meine göttliche Mademoiselle?</p>
+
+<p>MARIE <hi rend="italic">(die <term type="one-word" n="2311">ein Buch weiß Papier</term> vor sich liegen hat, auf dessen sie kritzelte, steckt schnell die Feder hinters Ohr)  </hi>O nichts, nichts, gnädiger Herr - <hi rend="italic">(Lächelnd)</hi>  <term type="one-word" n="2666">Ich schreib gar zu gern</term>. </p>
+
+<p>DESPORTES Wenn ich nur so glücklich wäre, einen von Ihren Briefen, nur eine Zeile von Ihrer schönen Hand zu sehen. </p>
+
+<p>MARIE O verzeihen Sie mir, ich schreibe gar nicht schön, ich <distinct type="alternative-form" n="schäme">schäme mich</distinct>, von meiner Schrift zu weisen. </p>
+
+<p>DESPORTES Alles, was von einer solchen Hand kommt, muß schön sein. </p>
+
+<p>MARIE O Herr Baron, <distinct type="alternative-form" n="aufhören">hören Sie auf</distinct>, ich weiß doch, <term type="one-word" n="2031">daß das alles nur Komplimenten sein</term>. </p>
+
+<p>DESPORTES <hi rend="italic">(kniend)</hi> Ich schwöre Ihnen, daß ich noch in meinem Leben nichts Vollkommeneres gesehen habe, als Sie sind.</p>
+
+<p>MARIE <hi rend="italic">(strickt, <distinct type="alternative-form" n="niedergeschlagen">die Augen auf ihre Arbeit niedergeschlagen</distinct>)</hi> Meine Mutter hat mir doch gesagt - sehen Sie, wie falsch Sie sind. </p>
+
+<p>DESPORTES Ich falsch? Können Sie das von mir glauben, göttliche Mademoiselle? Ist das falsch, <term type="one-word" n="1978">wenn ich mich vom Regiment wegstehle</term>, da ich <distinct type="alternative-form" n="Semestre">mein Semestre doch verkauft habe</distinct> und jetzt riskiere, daß, wenn man erfährt, daß ich nicht bei meinen Eltern bin, <term type="one-word" n="174">wie ich vorgab</term>, man mich in Prison wirft, wenn ich wiederkomme, ist das falsch, nur um das Glück zu haben, Sie zu sehen, Vollkommenste? </p>
+
+<p>MARIE <hi rend="italic">(wieder auf ihre Arbeit sehend)</hi>  Meine Mutter hat mir doch oft gesagt, <term type="one-word" n="2292">ich sei noch nicht vollkommen ausgewachsen</term>, ich sei in den Jahren, <term type="one-word" n="2313">wo</term> man <term type="one-word" n="2293">weder schön noch häßlich</term> ist.</p>
+
+<p><hi rend="italic">(Wesener <distinct type="alternative-form" n="hereintreten">tritt herein</distinct>.)</hi></p>
+<p>WESENER <term type="one-word" n="2314">Ei sieh doch</term>, <distinct type="alternative-form" n="gehorsamer">gehorsamer Diener</distinct>, Herr Baron, <term type="one-word" n="2294">wie kommt's denn</term>, <term type="one-word" n="2315">daß wir wieder einmal die Ehre haben</term>? <hi rend="italic">(Umarmt ihn.)</hi></p>
+
+<p>DESPORTES Ich bin nur <term type="one-word" n="2316">auf einige Wochen</term> hier, <term type="one-word" n="2317">einen meiner Verwandten zu besuchen</term>, der von Brüssel angekommen ist.</p>
+
+<p>WESENER Ich bin nicht <term type="one-word" n="2318">zu Hause</term> gewesen, <term type="one-word" n="1427">werden verzeihen</term>, mein Marieel <term type="multiword" n="2319">wird</term> Sie ennuyiert haben; wie <distinct type="alternative-form" n="befinden">befinden sich</distinct> denn die werten Eltern, <term type="multiword" n="2319">werden</term> die Tabatieren doch erhalten haben -</p>
+
+<p>DESPORTES Ohne Zweifel, ich bin nicht <term type="one-word" n="2320">bei ihnen</term> gewesen, <term type="one-word" n="2026">wir werden auch noch eine Rechnung miteinander haben</term>, Vaterchen.</p>
+
+<p>WESENER O <term type="one-word" n="2295">das hat gute Wege</term>, es ist ja nicht das erstemal. Die gnädige Frau sind letzten Winter nicht zu unserm Carneval herabgekommen.</p>
+
+<p>DESPORTES <term type="one-word" n="198">Sie befindet sich etwas unpaß</term> - <term type="one-word" n="846">waren viel Bälle</term>? </p>
+
+<p>WESENER <term type="one-word" n="2296">So so, es ließ sich noch halten</term> - Sie wissen, <term type="one-word" n="604">ich komme auf keinen und meine Töchter noch weniger</term>.</p>
+
+<p>DESPORTES Aber ist denn das auch erlaubt, Herr Wesener, daß Sie Ihren Töchtern alles Vergnügen so versagen, wie können sie dabei gesund bleiben?</p>
+
+<p>WESENER O wenn sie arbeiten, werden sie schon gesund bleiben. <term type="one-word" n="2297">Meinem Marieel fehlt doch Gott sei Dank nichts</term>, und sie hat immer rote Backen.</p>
+
+<p>MARIE Ja, <term type="one-word" n="2298">das läßt sich der Papa nicht ausreden</term>, und <term type="multiword" n="2299">ich krieg</term> doch so bisweilen <term type="multiword" n="2299">so eng um das Herz</term>, daß ich nicht weiß, <term type="one-word" n="2321">wo</term> ich <term type="one-word" n="2322">vor Angst</term> in der Stube bleiben soll. </p>
+
+<p>DESPORTES Sehn Sie, Sie gönnen Ihr Mademoiselle Tochter kein Vergnügen, und das wird noch einmal Ursache sein, daß sie melancholisch werden wird. </p>
+
+<p>WESENER <term type="one-word" n="2323">Ei was</term>, sie hat Vergnügen genug mit ihren Kamerädinnen, wenn sie zusammen sind, <term type="one-word" n="2300">hört man sein eigen Wort nicht</term>. </p>
+
+<p>DESPORTES Erlauben Sie mir, daß ich die Ehre haben kann, Ihre Mademoiselle Tochter einmal in die Komödie zu führen. Man gibt heut ein ganz neues Stück. </p>
+
+<p>MARIE Ach Papa! </p>
+
+<p>WESENER Nein - Nein, <distinct type="alternative-form" n="durchaus">durchaus nicht</distinct>, Herr Baron! <distinct type="alternative-form" n="ungnädig">Nehmen</distinct> Sie mir's nicht <distinct type="alternative-form" n="ungnädig">ungnädig</distinct>, davon kein Wort mehr. Meine Tochter <term type="one-word" n="1519">ist nicht gewohnt</term>, in die Komödie zu gehen, das würde nur Gerede bei den Nachbarn geben, und mit einem jungen Herrn von den Milizen dazu. </p>
+
+<p>DESPORTES Sie sehen, ich bin <distinct type="alternative-form" n="Bürgerskleide">im Bürgerskleide</distinct>, wer kennt mich? </p>
+
+<p>WESENER Tant pis! <distinct type="alternative-form" n="allemal">ein für allemal</distinct>, <term type="one-word" n="2301">es schickt sich mit keinem jungen Herren</term>, und <term type="one-word" n="2324">denn ist es auch noch nicht einmal zum Tisch des Herrn gewesen</term> und soll schon in die Komödie und <term type="one-word" n="2082">die Staatsdame machen</term>, <distinct type="alternative-form" n="kurz">kurz und gut</distinct>, ich erlaube es nicht, Herr Baron. </p>
+
+<p>MARIE Aber Papa, wenn den Herrn Baron doch nun niemand kennt. </p>
+
+<p>WESENER <hi rend="italic">(etwas leise)</hi>  <term type="one-word" n="1715">Willstu's Maul halten</term>? niemand kennt, tant pis, wenn ihn niemand kennt. Werden pardonnieren Herr Baron! <term type="one-word" n="1657">so gern als Ihnen den Gefallen tun wollte</term>, <term type="one-word" n="2302">in allen andern Stücken haben zu befehlen</term>. </p>
+
+<p>DESPORTES A propos, lieber Wesener! wollten Sie mir doch nicht einige von Ihren Zitternadeln weisen? </p>
+
+<p>WESENER Sogleich. <hi rend="italic">(<distinct type="alternative-form" n="herausgehen">Geht heraus</distinct>)</hi> </p>
+
+<p>DESPORTES Wissen Sie was, mein englisches, mein göttliches Marieel, wir wollen Ihrem Vater <term type="one-word" n="2303">einen Streich spielen</term>. <term type="one-word" n="336">Heut geht es nicht mehr an</term>, aber übermorgen geben sie ein fürtreffliches Stück, "<term type="one-word" n="2304">La chercheuse d'esprit</term>", und die erste Piece ist der "Déserteur" - haben Sie hier nicht eine gute Bekannte?</p>
+
+<p>MARIE <distinct type="alternative-form" n="Weyher">Frau Weyher</distinct>.</p>
+
+<p>DESPORTES Wo wohnt sie?</p>
+
+<p>MARIE <term type="one-word" n="213">Gleich hier</term>, an der Ecke beim Brunnen.</p>
+
+<p>DESPORTES Da <distinct type="alternative-form" n="hinkommen">komm</distinct> ich <distinct type="alternative-form" n="hinkommen">hin</distinct>, und da <distinct type="alternative-form" n="hinkommen">kommen</distinct> Sie auch <distinct type="alternative-form" n="hinkommen">hin</distinct>, so gehn wir miteinander in die Komödie.</p>
+
+<p><hi rend="italic">(Wesener kommt wieder mit einer großen Schachtel Zitternadeln. Marie <distinct type="alternative-form" n="zuwinken">winkt</distinct> Desportes lächelnd <distinct type="alternative-form" n="zuwinken">zu</distinct>.)</hi></p>
+
+<p>WESENER Sehen Sie, da sind zu allen Preisen - diese zu hundert Talern, diese zu funfzig, diese zu hundertfunfzig, wie es befehlen.</p>
+
+<p>DESPORTES <hi rend="italic">(besieht <term type="one-word" n="1659">eine nach der andern</term> und weist die Schachtel Marien:)</hi> <distinct type="alternative-form" n="rieten">Zu welcher rieten Sie mir</distinct>? <hi rend="italic">(Marie lächelt, und sobald der Vater beschäftigt ist, eine herauszunehmen, <distinct type="alternative-form" n="zuwinken">winkt</distinct> sie ihm <distinct type="alternative-form" n="zuwinken">zu</distinct>.)</hi></p>
+
+<p>WESENER Sehen Sie, <term type="one-word" n="2326">die spielt gut</term>, auf meine Ehr.</p>
+
+<p>DESPORTES Das ist wahr.<hi rend="italic"> (Hält sie Marien an den Kopf)</hi>  Sehen Sie, <distinct type="alternative-form" n="Braun">auf so schönem Braun</distinct>, was das für eine Wirkung tut. O hören Sie, Herr Wesener, <term type="one-word" n="2327">sie steht Ihrer Tochter gar zu schön</term>, <term type="one-word" n="2328">wollen Sie mir die Gnade tun und sie behalten</term>.</p>
+
+<p>WESENER <hi rend="italic">(gibt sie ihm lächelnd zurück)</hi> Ich bitte Sie, Herr Baron - <term type="one-word" n="2329">das geht nicht an</term> - meine Tochter hat noch in ihrem Leben keine Präsente von den Herren angenommen.</p>
+
+<p>MARIE <hi rend="italic">(die Augen fest auf ihre Arbeit geheftet)</hi> Ich würde sie auch zudem nicht haben tragen können, sie ist zu groß für meine Frisur.</p>
+
+<p>DESPORTES So will ich sie meiner Mutter schicken. <hi rend="italic">(<distinct type="alternative-form" n="wickelt">Wickelt sie sorgfältig ein</distinct>)</hi></p>
+
+<p>WESENER <hi rend="italic">(indem er die andern einschachtelt, brummt etwas heimlich zu Marien):</hi> Zitternadel <term type="one-word" n="1758">du selber</term>, sollst in deinem Leben keine auf den Kopf bekommen, <term type="one-word" n="1197">das ist kein Tragen für dich</term>. <hi rend="italic">(Sie schweigt still und <distinct type="alternative-form" n="fortarbeiten">arbeitet fort</distinct>)</hi></p>
+
+<p>DESPORTES So empfehle ich <distinct type="alternative-form" n="empfehle">mich</distinct> denn, Herr Wesener! Eh ich wegreise, <term type="one-word" n="2330">machen wir richtig</term>.</p>
+
+<p>WESENER <term type="multiword" n="2331">Das hat gute Wege</term>, Herr Baron, <term type="multiword" n="2331">das hat gute Wege</term>, sein Sie so gütig und <term type="one-word" n="2332">tun uns einmal wieder die Ehre an</term>.</p>
+
+<p>DESPORTES Wenn Sie mir's erlauben wollen - Adieu, Jungfer Marie! <hi rend="italic">(<term type="one-word" n="2333">Ab</term>)</hi></p>
+
+<p>MARIE Aber sag Er mir doch, Papa, <term type="one-word" n="733">wie ist Er denn auch</term>?</p>
+
+<p>WESENER Na, <term type="one-word" n="2334">hab ich dir schon wieder nicht recht gemacht</term>. Was verstehst du doch von der Welt, dummes Keuchel.</p>
+
+<p>MARIE Er hat doch gewiß ein gutes Gemüt, der Herr Baron.</p>
+
+<p>WESENER Weil er dir ein paar Schmeicheleien und so und so - <term type="one-word" n="2335">Einer ist so gut wie der andere</term>, <distinct type="alternative-form" n="lehr">lehr du mich die jungen Milizen nit kennen</distinct>. Da laufen sie in alle Aubergen und in alle Kaffeehäuser und erzählen <term type="one-word" n="270">sich</term>, und <distinct type="alternative-form" n="versieht">eh man sich's versieht</distinct>, wips ist ein armes Maidel in der Leute Mäuler. Ja, und <term type="one-word" n="2336">mit der und der Jungfer ist's auch nicht zum besten bestellt</term>, und <term type="one-word" n="2337">die und die</term> kenn ich auch, und <term type="one-word" n="2338">die hätt ihn auch gern drin</term> -</p>
+
+<p>MARIE Papa! <hi rend="italic">(<distinct type="alternative-form" n="anfangen">fängt an</distinct> zu weinen)  </hi>Er ist auch immer so grob.</p>
+
+<p>WESENER <hi rend="italic">(<term type="one-word" n="1794">klopft sie auf die Backen</term>)</hi>: <term type="one-word" n="1756">Du mußt mir das so übel nicht nehmen</term>, du bist meine einzige Freude, Narr, <term type="one-word" n="2339">darum trag ich auch Sorge für dich</term>.</p>
+
+<p>MARIE <term type="one-word" n="124">Wenn Er mich doch nur wollte für mich selber sorgen lassen</term>. Ich bin doch kein klein Kind mehr.</p>
+
+
+<p><hi rend="bold">Vierte Szene</hi></p>
+<p>IN ARMENTIERES <hi rend="italic">(Der Obriste Graf Spannheim am Tisch mit seinem Feldprediger Eisenhardt, einem jungen Grafen, seinem Vetter, und <term type="one-word" n="2340">dessen</term> Hofmeister, Haudy, Mary und andern Offiziers.)</hi></p>
+
+<p>DER JUNGE GRAF <term type="one-word" n="6">Ob wir nicht bald wieder eine gute Truppe werden herbekommen</term>?</p>
+
+<p>HAUDY Das wäre zu wünschen, besonders für unsere junge Herren. Man sagt, Godeau hat herkommen wollen.</p>
+
+<p>HOFMEISTER <distinct type="alternative-form" n="leugnen">Es ist doch in der Tat nicht zu leugnen</distinct>, daß die Schaubühne eine fast unentbehrliche Sache für eine Garnison ist, c'est à dire eine Schaubühne, wo Geschmack herrscht, wie <distinct type="alternative-form" n="Exempel">zum Exempel</distinct> auf der französischen.</p>
+
+<p>EISENHARDT <term type="one-word" n="2341">Ich sehe nicht ab, wo der Nutzen stecken sollte</term>.</p>
+
+<p>OBRISTER Das sagen Sie wohl nur so, <distinct type="alternative-form" n="Pastor">Herr Pastor</distinct>, weil Sie <distinct type="alternative-form" n="Läppchen">die beiden kleinen weißen Läppchen unterm Kinn</distinct> haben, ich weiß, im Herzen denken Sie anders.</p>
+
+<p>EISENHARDT Verzeihen Sie, Herr Obriste! ich bin nie Heuchler gewesen, und wenn das ein notwendiges Laster <term type="one-word" n="2342">für unsern Stand</term> wäre, so dächt ich, <distinct type="alternative-form" n="ausgenommen">wären doch die Feldprediger davon wohl ausgenommen</distinct>, da sie mit vernünftigeren Leuten zu tun haben. Ich liebe das Theater selber und <term type="one-word" n="13">gehe gern hinein</term>, ein gutes Stück zu sehen, <distinct type="alternative-form" n="deswegen">aber deswegen glaube ich noch nicht</distinct>, daß es ein so heilsames Institut für das Corps Offiziers sei.</p>
+
+<p>HAUDY Aber <distinct type="alternative-form" n="Gotteswillen">um Gotteswillen</distinct>, Herr Pfaff oder Herr Pfarr, wie Sie da heißen, sagen Sie mir einmal, <term type="one-word" n="2343">was für Unordnungen werden nicht vorgebeugt oder abgehalten durch die Komödie</term>. Die Offiziers müssen doch einen Zeitvertreib haben.</p>
+
+<p>EISENHARDT <distinct type="alternative-form" n="Mäßigung">Mit aller Mäßigung</distinct>, Herr Major! sagen Sie <term type="one-word" n="483">lieber</term>, <term type="one-word" n="947">was für Unordnungen werden nicht eingeführt unter den Offiziers durch die Komödie</term>.</p>
+
+<p>HAUDY Das ist nun wieder so <term type="one-word" n="2344">in den Tag hinein</term> räsoniert. Kurz und gut, Herr <hi rend="italic">(lehnt sich mit den beiden Ellenbogen auf den Tisch)</hi>, ich behaupte Ihnen hier, daß eine einzige Komödie, und wenn's <distinct type="alternative-form" n="ärgste">die ärgste Farce</distinct> wäre, zehnmal mehr Nutzen, ich sage <term type="one-word" n="2345">nicht unter den Offiziers allein</term>, sondern im ganzen Staat angerichtet hat als alle <distinct type="alternative-form" n="Predigten">Predigten</distinct> zusammengenommen, die <term type="one-word" n="1605">Sie und Ihresgleichen</term> in Ihrem ganzen Leben <distinct type="alternative-form" n="Predigten">gehalten haben und halten werden</distinct>.</p>
+
+<p>OBRISTER <hi rend="italic">(winkt Haudy unwillig)</hi>  Major!</p>
+
+<p>EISENHARDT <distinct type="alternative-form" n="Vorurteilen">Wenn ich mit Vorurteilen für mein Amt eingenommen wäre</distinct>, Herr Major, so würde ich böse werden. So <term type="one-word" n="2347">aber wollen wir</term> alles das <term type="one-word" n="2346">beiseite setzen</term>, weil ich <distinct type="alternative-form" n="weder">weder</distinct> Sie <distinct type="alternative-form" n="weder">noch</distinct> viele von den Herren <distinct type="alternative-form" n="fähig">für fähig halte</distinct>, den eigentlichen Nutzen unsers Amts in Ihrem ganzen Leben beurteilen zu können, und <term type="one-word" n="2348">wollen nur bei der Komödie bleiben</term> und dem erstaunenden Nutzen, den <term type="one-word" n="2349">sie</term> für die Herren vom Corps haben soll. Ich bitte Sie, beantworten Sie mir eine einzige Frage, was lernen die Herren dort?</p>
+
+<p>MARY <term type="one-word" n="2350">Ei was</term>, muß man denn immer lernen, wir <distinct type="alternative-form" n="amüsieren">amüsieren uns</distinct>, ist das nicht genug?</p>
+
+<p>EISENHARDT Wollte Gott, daß Sie <distinct type="alternative-form" n="amüsieren">sich</distinct> bloß <distinct type="alternative-form" n="amüsieren">amüsierten</distinct>, daß Sie nicht lernten! So aber <distinct type="alternative-form" n="ahmen">ahmen</distinct> Sie <distinct type="alternative-form" n="ahmen">nach</distinct>, was Ihnen dort vorgestellt wird, und bringen Unglück und Fluch in die Familien.</p>
+
+<p>OBRISTER Lieber Herr Pastor, Ihr Enthusiasmus ist löblich, aber <distinct type="alternative-form" n="schmeckt">er schmeckt nach dem schwarzen Rock</distinct>, <term type="one-word" n="259">nehmen Sie mir's nicht übel</term>. Welche Familie ist <distinct type="alternative-form" n="je">noch je</distinct> durch einen Offizier unglücklich geworden? Daß ein Mädel einmal <distinct type="alternative-form" n="kriegt">ein Kind kriegt</distinct>, <term type="one-word" n="744">das es nicht besser haben will</term> -</p>
+
+<p>HAUDY Eine Hure wird immer eine Hure, <term type="one-word" n="1242">gerate sie unter welche Hände sie will</term>; wird's keine Soldatenhure, so wird's eine Pfaffenhure.</p>
+
+<p>EISENHARDT Herr Major, es verdrießt mich, <term type="one-word" n="482">daß Sie immer die Pfaffen mit ins Spiel mengen</term>, weil Sie mich dadurch verhindern, Ihnen freimütig zu antworten. Sie könnten denken, <distinct type="alternative-form" n="mische">es mische sich persönliche Bitterkeit in meine Reden</distinct>, und <distinct type="alternative-form" n="Feuer">wenn ich in Feuer gerate</distinct>, so schwöre ich Ihnen doch, daß es bloß die Sache ist, von der wir sprechen, nicht Ihre Spöttereien und Anzüglichkeiten über mein Amt. <term type="one-word" n="2351">Das kann durch alle dergleichen witzige Einfälle weder verlieren noch gewinnen</term>.</p>
+
+<p>HAUDY Na so reden Sie, reden Sie, schwatzen Sie, <term type="one-word" n="2352">dafür sind wir ja da</term>, wer verbietet es Ihnen?</p>
+
+<p>EISENHARDT Was Sie vorhin gesagt haben, war ein Gedanke, der eines Nero oder Oglei Oglu Seele <term type="one-word" n="2353">würdig</term> gewesen wäre und auch da bei seiner ersten Erscheinung vielleicht <distinct type="alternative-form" n="Grausen">Grausen würde verursacht haben</distinct>. Eine Hure wird immer eine Hure, kennen Sie <distinct type="alternative-form" n="Geschlecht">das andere Geschlecht</distinct> so genau?</p>
+
+<p>HAUDY Herr, Sie werden es mich nicht kennen lehren.</p>
+
+<p>EISENHARDT <distinct type="alternative-form" n="Meisterstücken">Sie kennen es von den Meisterstücken Ihrer Kunst vielleicht</distinct>, aber erlauben Sie mir, Ihnen zu sagen, eine Hure wird niemals eine Hure, <term type="one-word" n="442">wenn sie nicht dazu gemacht wird</term>. Der Trieb ist in allen Menschen, aber jedes Frauenzimmer weiß, <distinct type="alternative-form" n="Glückseligkeit">daß sie dem Triebe ihre ganze künftige Glückseligkeit zu danken hat</distinct>, und wird sie die aufopfern, <term type="one-word" n="2354">wenn man sie nicht drum betrügt</term>?</p>
+
+<p>HAUDY <term type="one-word" n="2355">Red ich denn von</term> honetten Mädchen?</p>
+
+<p>EISENHARDT Eben die honetten Mädchen müssen zittern vor Ihren Komödien, da lernen Sie die Kunst, sie malhonett zu machen.</p>
+
+<p>MARY <term type="one-word" n="1755">Wer wird so schlecht denken</term>.</p>
+
+<p>HAUDY Der Herr hat auch ein verfluchtes Maul über die Offiziers. Sackerment, wenn mir <term type="one-word" n="412">ein anderer</term> das sagte. Meint Er Herr denn, wir <distinct type="alternative-form" n="aufhören">hören auf</distinct>, honnettehommes zu sein, sobald wir <distinct type="alternative-form" n="treten">in Dienste treten</distinct>?</p>
+
+<p>EISENHARDT Ich wünsche Ihnen viel Glück zu diesen Gesinnungen. Solang ich aber noch <distinct type="alternative-form" n="entretenierte">entretenierte Mätressen</distinct> und unglückliche Bürgerstöchter sehen werde, kann ich meine Meinung nicht zurücknehmen.</p>
+
+<p>HAUDY Das verdiente einen Nasenstüber.</p>
+
+<p>EISENHARDT <hi rend="italic">(<distinct type="alternative-form" n="aufstehen">steht auf</distinct>)</hi>  Herr, <term type="one-word" n="2356">ich trag einen Degen</term>.</p>
+
+<p>OBRISTER Major, ich bitt Euch - Herr Eisenhardt <term type="one-word" n="2357">hat nicht unrecht</term>, was wollt Ihr von ihm. <term type="one-word" n="2358">Und der erste, der ihm zu nahe kommt</term> - <distinct type="alternative-form" n="gesetzt">setzen</distinct> Sie <distinct type="alternative-form" n="gesetzt">sich</distinct>, Herr Pastor, er soll Ihnen <distinct type="alternative-form" n="Genugtuung">Genugtuung geben</distinct>. <hi rend="italic">(Haudy geht hinaus).</hi> Aber Sie gehn auch zu weit, Herr Eisenhardt, <distinct type="alternative-form" n="alledem">mit alledem</distinct>. Es ist kein Offizier, <term type="one-word" n="1260">der nicht wissen sollte</term>, was die Ehre von ihm fodert.</p>
+
+<p>EISENHARDT Wenn er Zeit genug hat, <distinct type="alternative-form" n="dran">dran zu denken</distinct>. Aber werden ihm nicht in den neusten Komödien <distinct type="alternative-form" n="gröbsten">die gröbsten Verbrechen gegen</distinct> <distinct type="alternative-form" n="heiligsten">die heiligsten Rechte der Väter</distinct> <distinct type="alternative-form" n="heiligsten">und Familien</distinct> <distinct type="alternative-form" n="reizenden">unter so reizenden Farben vorgestellt</distinct>, <distinct type="alternative-form" n="Stachel">den giftigsten Handlungen so der Stachel genommen</distinct>, daß ein Bösewicht dasteht, als ob er ganz neulich vom Himmel gefallen wäre? <distinct type="alternative-form" n="aufmuntern">Sollte das nicht aufmuntern</distinct>, sollte das nicht alles ersticken, <term type="one-word" n="2359">was das Gewissen aus der Eltern Hause mitgebracht haben kann</term>? Einen wachsamen Vater zu betrügen oder ein unschuldig Mädchen in Lastern zu unterrichten, <distinct type="alternative-form" n="Preisaufgaben">das sind die Preisaufgaben, die dort aufgelöst werden</distinct>.</p>
+
+<p>HAUDY <hi rend="italic">(im Vorhause mit andern Offiziers, <distinct type="alternative-form" n="aufgeht">da die Tür aufgeht</distinct>)</hi>  Der verfluchte Schwarzrock -</p>
+
+<p>OBRISTER Laßt uns ins Kaffeehaus gehn, Pfarrer, <distinct type="alternative-form" n="Revanche">Sie sind mir die Revanche im Schach schuldig</distinct> - und Adjutant! wollten Sie doch den Major Haudy für heut bitten, nicht aus seiner Stube zu gehen. Sagen Sie ihm, <distinct type="alternative-form" n="wiederbringen">ich werde ihm morgen früh seinen Degen selber wiederbringen</distinct>.</p>
+
+
+<p><hi rend="bold">Fünfte Szene</hi></p>
+<p>IN LILLE <hi rend="italic">(Wesener sitzt und <term type="one-word" n="2360">speist zu Nacht</term> mit seiner Frau und ältesten Tochter. Marie <distinct type="alternative-form" n="hereintreten">tritt</distinct> <distinct type="alternative-form" n="geputzt">ganz geputzt</distinct> <distinct type="alternative-form" n="hereintreten">herein</distinct>.)</hi></p>
+
+<p>MARIE <hi rend="italic">(<distinct type="alternative-form" n="fällt">fällt ihm um den Hals</distinct>)</hi>  Ach Pappa, Pappa!</p>
+
+<p>WESENER <hi rend="italic">(mit vollem Munde)</hi>  Was ist, <distinct type="alternative-form" n="fehlt">was fehlt dir</distinct>?</p>
+
+<p>MARIE Ich kann's Ihm nicht verhehlen, ich bin in der Komödie gewesen. <term type="one-word" n="1471">Was das für Dings ist</term>.</p>
+
+<p>WESENER <hi rend="italic">(<term type="one-word" n="2361">rückt seinen Stuhl vom Tisch weg</term> und <distinct type="alternative-form" n="abkehren">kehrt</distinct> das Gesicht <distinct type="alternative-form" n="abkehren">ab</distinct>.)</hi></p>
+
+<p>MARIE Wenn Er gesehen hätte, was ich gesehen habe, Er würde wahrhaftig nicht böse sein, Papa. <hi rend="italic">(<term type="one-word" n="2205">Setzt sich ihm auf den Schoß</term>.)</hi> Lieber Papa, <distinct type="alternative-form" n="durcheinander">was das für Dings alles durcheinander ist</distinct>, ich werde die Nacht nicht schlafen können für lauter Vergnügen. Der gute Herr Baron.</p>
+
+<p>WESENER Was, der Baron hat dich in die Komödie geführt?</p>
+
+<p>MARIE <hi rend="italic">(etwas furchtsam)</hi>  Ja Papa - lieber Pappa!</p>
+
+<p>WESENER <hi rend="italic">(stößt sie von seinem Schoß)</hi>  <term type="one-word" n="2362">Fort von mir</term>, du Luder - willst die Mätresse vom Baron werden?</p>
+
+<p>MARIE <hi rend="italic">(mit dem Gesicht halb abgekehrt, halb weinend)</hi>  Ich war bei der Weyhern - <distinct type="alternative-form" n="stunden">und da stunden wir an der Tür</distinct> <hi rend="italic">(stotternd)</hi>  und <term type="one-word" n="1185">da redt' er uns an</term>.</p>
+
+<p>WESENER Ja lüg nur, <term type="one-word" n="2363">lüg nur dem Teufel ein Ohr ab</term>, <term type="one-word" n="2364">geh mir aus den Augen</term>, du gottlose Seele.</p>
+
+<p>CHARLOTTE Das hätt ich dem Papa wollen voraussagen, daß es so gehen würde. Sie haben immer Heimlichkeiten miteinander gehabt, sie und der Baron.</p>
+
+<p>MARIE <hi rend="italic">(weinend)</hi>  Willst du <distinct type="alternative-form" n="Halt's">das Maul halten</distinct>.</p>
+
+<p>CHARLOTTE Denk doch, vor dir gewiß nicht. <distinct type="alternative-form" n="kommandieren">Will noch kommandieren dazu</distinct> und <distinct type="alternative-form" n="aufführen">führt sich</distinct> so <distinct type="alternative-form" n="aufführen">auf</distinct>.</p>
+
+<p>MARIE <distinct type="alternative-form" n="Heidevogel">Nimm dich nur man selber in acht mit deinem jungen Herrn Heidevogel</distinct>. Wenn ich <distinct type="alternative-form" n="aufführen">mich</distinct> so schlecht aufführte als du -</p>
+
+<p>WESENER Wollt ihr schweigen? <hi rend="italic">(Zu Marieel )</hi> <term type="one-word" n="2365">Fort in deine Kammer, den Augenblick</term>, du sollst heut nicht <term type="one-word" n="2366">zu Nacht essen</term> - schlechte Seele! <hi rend="italic">(Marie <distinct type="alternative-form" n="fortgehen">geht fort</distinct>.)</hi> Und schweig du auch nur, du wirst auch nicht engelrein sein. Meinst du, kein Mensch <distinct type="alternative-form" n="gesehen">sieht</distinct>, <term type="one-word" n="2368">warum der Herr Heidevogel so oft ins Haus kommt</term>?</p>
+
+<p>CHARLOTTE Das ist alles des Marieel Schuld. <hi rend="italic">(Weint)</hi>  Die gottsvergeßne Allerweltshure will honette Mädels <distinct type="alternative-form" n="Blame">in Blame bringen</distinct>, weil sie so denkt.</p>
+
+<p>WESENER <hi rend="italic">(sehr laut)</hi> <distinct type="alternative-form" n="Halt's">Halt's Maul</distinct>! Marie hat ein viel zu edles Gemüt, als daß sie von dir reden sollte, aber du schalusierst auf deine eigene Schwester; weil du nicht so schön bist als sie, sollst du zum wenigsten besser denken. Schäm dich - <hi rend="italic">(Zur Magd)</hi>  Nehmt ab, ich esse nichts mehr. <hi rend="italic">(Schiebt Teller und Serviette fort, wirft sich in einen Lehnstuhl und bleibt in tiefen Gedanken sitzen.)</hi></p>
+
+
+<p><hi rend="bold">Sechste Szene</hi></p>
+<p>MARIENS ZIMMER <hi rend="italic">(Sie sitzt auf ihrem Bett, hat die Zitternadel in der Hand und <term type="one-word" n="1195">spiegelt damit</term>, <distinct type="alternative-form" n="Träumereien">in den tiefsten Träumereien</distinct>. Der Vater <distinct type="alternative-form" n="hereintreten">tritt herein</distinct>, <distinct type="alternative-form" n="fährt">sie fährt auf</distinct> und <distinct type="alternative-form" n="suchen">sucht</distinct> die Zitternadel zu verbergen.)</hi></p>
+
+<p>MARIE Ach Herr Jesus --</p>
+
+<p>WESENER Na, <term type="one-word" n="2379">so mach Sie doch das Kind nicht</term>. <hi rend="italic">(Geht einigemal <term type="one-word" n="2380">auf und ab</term>, dann <distinct type="alternative-form" n="setzt">setzt</distinct> er <distinct type="alternative-form" n="setzt">sich</distinct> zu ihr)</hi>  Hör, Marieel! du weißt, <term type="one-word" n="1493">ich bin dir gut</term>, sei du nur recht <distinct type="alternative-form" n="aufrichtig">aufrichtig gegen</distinct> mich, <term type="one-word" n="1979">es wird dein Schade nicht sein</term>. Sag mir, <term type="one-word" n="2381">hat dir der Baron was von der Lieb vorgesagt</term>?</p>
+
+<p>MARIE <hi rend="italic">(sehr geheimnisvoll)</hi>  Pappa! - er ist verliebt in mich, das ist wahr. <term type="one-word" n="2382">Sieht Er einmal</term>, diese Zitternadel hat er mir auch geschickt.</p>
+
+<p>WESENER <distinct type="alternative-form" n="Hagelwetter">Was tausend Hagelwetter</distinct> - <distinct type="alternative-form" n="Potz">Potz Mord noch einmal</distinct> <hi rend="italic">(<distinct type="alternative-form" n="wegnehmen">nimmt</distinct> ihr die Zitternadel <distinct type="alternative-form" n="wegnehmen">weg</distinct>,)</hi>  hab ich dir nicht verboten -</p>
+
+<p>MARIE Aber Papa, ich kann doch so grob nicht sein und <distinct type="alternative-form" n="abschlagen">es ihm abschlagen</distinct>. Ich sag Ihm, <distinct type="alternative-form" n="wütig">er hat getan wie wütig</distinct>, als ich's nicht annehmen wollte <hi rend="italic">(läuft nach dem Schrank,)</hi> hier sind auch Verse, <term type="one-word" n="2384">die er auf mich gemacht hat</term>. <hi rend="italic">(Reicht ihm ein Papier.)</hi></p>
+
+<p>WESENER <hi rend="italic">(<term type="one-word" n="2385">liest laut</term>)</hi>  Du höchster Gegenstand von meinen reinen Trieben, <distinct type="alternative-form" n="bet">Ich bet dich an</distinct>, ich will dich ewig lieben. Weil die Versicherung von meiner Lieb und Treu, <distinct type="alternative-form" n="allerschönstes">Du allerschönstes Licht</distinct>, mit jedem Morgen neu. <distinct type="alternative-form" n="allerschönstes">Du allerschönstes Licht</distinct>, ha ha ha.</p>
+
+<p>MARIE Wart Er, ich will Ihm noch was weisen, er hat mir auch ein Herzchen geschenkt, <distinct type="alternative-form" n="besetzt">mit kleinen Steinen besetzt in einem Ring</distinct>. <hi rend="italic">(Wieder zum Schrank. Der Vater besieht es gleichgültig.)</hi></p>
+
+<p>WESENER <hi rend="italic">(liest noch einmal)</hi>  <term type="one-word" n="2213">Du höchster Gegenstand von meinen reinen Trieben</term>. <hi rend="italic">(Steckt die Verse in die Tasche.)</hi> Er denkt doch honett, seh ich. Hör aber, Marieel, was ich dir sage, du mußt kein Präsent mehr von ihm annehmen. Das gefällt mir nicht, daß er dir soviele Präsente macht.</p>
+
+<p>MARIE Das ist sein gutes Herz, Pappa.</p>
+
+<p>WESENER Und die Zitternadel gib mir her, die will ich ihm zurückgeben. <term type="one-word" n="417">Laß mich nur machen</term>, ich weiß schon, <term type="one-word" n="2369">was zu deinem Glück dient</term>, ich hab länger in der Welt gelebt als du, mein Tochter, und du kannst <term type="one-word" n="2370">nur immer allesfort</term> mit ihm in die Komödien gehn, <distinct type="alternative-form" n="jedesmal">nur nimm jedesmal die Madam Weyher mit</distinct>, und <term type="multiword" n="2208">laß dir nur immer nichts davon merken</term><term type="multiword" n="2208">, als ob ich davon wüßte</term>, sondern sag nur, <term type="one-word" n="2209">daß er's recht geheim hält</term> und daß ich sehr böse werden würde, wenn ich's erführe. Nur keine Präsente von ihm angenommen, Mädel, <distinct type="alternative-form" n="Gotteswillen">um Gotteswillen</distinct>.</p>
+
+<p>MARIE Ich weiß wohl, daß der Pappa <term type="one-word" n="2207">mir nicht übel raten wird.</term> <hi rend="italic">(Küßt ihm die Hand).</hi> <term type="one-word" n="2371">Er soll sehen, daß ich Seinem Rat in allen Stücken folgen werde</term>. Und ich werde Ihm alles wiedererzählen, <distinct type="alternative-form" n="verlassen">darauf kann Er sich verlassen</distinct>.</p>
+
+<p>WESENER Na so denn.<hi rend="italic"> (Küßt sie).</hi> <term type="one-word" n="2211">Kannst noch einmal gnädige Frau werden</term>, närrisches Kind. Man kann nicht wissen, <term type="one-word" n="2210">was einem manchmal für ein Glück aufgehoben ist</term></p>
+
+<p>MARIE Aber Papa. <hi rend="italic">(Etwas leise)</hi>  Was wird der arme Stolzius sagen?</p>
+
+<p>WESENER Du mußt darum den Stolzius nicht so gleich abschrecken, <term type="one-word" n="2372">hör einmal</term>. - <term type="one-word" n="2373">Nu, ich will dir schon sagen, wie du den Brief an ihn einzurichten hast</term>. Unterdessen schlaf Sie gesund, Meerkatze.</p>
+
+<p>MARIE <hi rend="italic">(küßt ihm die Hand)</hi>  Gute Nacht, Pappuschka! - <hi rend="italic">(<term type="one-word" n="2374">Da er fort ist</term>, <term type="one-word" n="2375">tut sie einen tiefen Seufzer</term> und tritt ans Fenster, indem sie <distinct type="alternative-form" n="aufschnürt">sich aufschnürt</distinct>)</hi>  Das Herz ist mir so schwer. Ich glaub, <distinct type="alternative-form" n="gewittern">es wird gewittern die Nacht</distinct>. <distinct type="alternative-form" n="einschlüge">Wenn es einschlüge</distinct> - <hi rend="italic">(Sieht <distinct type="alternative-form" n="Höhe">in die Höhe</distinct>, <term type="one-word" n="2376">die Hände über ihre offene Brust schlagend</term>)</hi>  Gott, <term type="one-word" n="2377">was hab ich denn Böses getan</term>? - - Stolzius - ich lieb dich ja noch - aber wenn ich nun <term type="one-word" n="2212">mein Glück besser machen kann</term> - und Pappa selber mir den Rat gibt. <hi rend="italic">(<term type="one-word" n="1795">Zieht die Gardine vor</term>)</hi>. <distinct type="alternative-form" n="Trifft">Trifft mich's, so trifft mich's</distinct>, <term type="one-word" n="2206">ich sterb nicht anders als gerne</term>. <hi rend="italic">(<distinct type="alternative-form" n="Löscht">Löscht</distinct> ihr Licht <distinct type="alternative-form" n="Löscht">aus</distinct>.)</hi></p>
+
+
+<p><hi rend="bold">ZWEITER AKT</hi></p>
+<p><hi rend="bold">Erste Szene</hi></p>
+<p>IN ARMENTIERES <hi rend="italic">(Haudy und Stolzius spazieren an der Lys.)</hi></p>
+
+<p>HAUDY <distinct type="alternative-form" n="Bockshorn">Er muß sich dadurch nicht gleich ins Bockshorn jagen lassen</distinct>, guter Freund! ich kenne den Desportes, er ist ein Spitzbube, <term type="one-word" n="2386">der nichts sucht, als sich zu amüsieren</term>, <distinct type="alternative-form" n="abspenstig">er wird Ihm darum Seine Braut nicht gleich abspenstig machen wollen</distinct>.</p>
+
+<p>STOLZIUS Aber das Gerede, Herr Major! <distinct type="alternative-form" n="Land">Stadt und Land</distinct> ist voll davon. Ich könnte <distinct type="alternative-form" n="stürzen">mich</distinct> den Augenblick <distinct type="alternative-form" n="stürzen">ins Wasser stürzen</distinct>, <distinct type="alternative-form" n="nachdenke">wenn ich dem Ding nachdenke</distinct>.</p>
+
+<p>HAUDY <hi rend="italic">(faßt ihn unterm Arm)</hi>  <term type="one-word" n="2215">Er muß sich das nicht so zu Herzen gehen lassen</term>, <term type="one-word" n="2214">zum Teufel</term>! <term type="one-word" n="2387">Man muß viel über sich reden lassen in der Welt</term>. Ich bin Sein bester Freund, das kann Er versichert sein, und ich würd es Ihm gewiß sagen, wenn Gefahr dabei wäre. Aber es ist nichts. <term type="one-word" n="2216">Er bildt sich das nur so ein</term>, <term type="one-word" n="2217">mach Er nur</term>, daß die Hochzeit noch diesen Winter sein kann, solang wir noch hier in Garnison liegen, <term type="one-word" n="2218">und macht Ihm der Desportes alsdenn die geringste Unruhe</term>, <term type="one-word" n="1054">so bin ich Sein Mann</term>, <term type="one-word" n="2219">es soll Blut kosten</term>, das versichere ich Ihn. <term type="one-word" n="2220">Unterdessen kehr Er sich ans Gerede nicht</term>, Er weiß wohl, die Jungfern, die am bravsten sind, von denen wird <term type="one-word" n="2221">das meiste dumme Zeug</term> räsoniert, das ist ganz natürlich, <term type="one-word" n="2222">daß sich die jungen Fats zu rächen suchen, die nicht haben ankommen können</term>.</p>
+
+
+<p><hi rend="bold">Zweite Szene</hi></p>
+<p>DAS KAFFEEHAUS <hi rend="italic">(Eisenhardt und Pirzel im Vordergrunde auf einem Sofa und trinken Kaffee. Im Hintergrunde eine Gruppe Offiziers schwatzend und lachend.)</hi></p>
+
+<p>EISENHARDT<hi rend="italic"> (zu Pirzel)</hi>  Es ist lächerlich, wie die Leute alle <distinct type="alternative-form" n="herschwärmen">um den armen Stolzius herschwärmen</distinct> wie Fliegen um einen Honigkuchen. <term type="one-word" n="2388">Der zupft ihn da, der stößt ihn hier</term>, der geht mit ihm spazieren, der nimmt ihn ins Cabriolet, der spielt Billard mit ihm, <distinct type="alternative-form" n="Jagdhunde">wie Jagdhunde, die Witterung haben</distinct>. Und wie augenscheinlich sein Tuchhandel zugenommen hat, seitdem man weiß, daß er die schöne Jungfer heuraten wird, <distinct type="alternative-form" n="durchgegangen">die neulich hier durchgegangen</distinct>.</p>
+
+<p>PIRZEL (<hi rend="italic">faßt ihn an die Hand, mit viel Energie)</hi>  Woher kommt's, Herr Pfarrer? Daß die Leute nicht denken. <hi rend="italic">(<distinct type="alternative-form" n="aufstehen">Steht auf </distinct><distinct type="alternative-form" n="malerischen">in einer sehr malerischen Stellung</distinct>, halb nach der Gruppe zugekehrt.)</hi>  Es ist ein vollkommenstes Wesen. Dieses vollkommenste Wesen kann ich entweder beleidigen oder nicht beleidigen.</p>
+
+<p>EINER AUS DER GESELLSCHAFT <hi rend="italic">(<distinct type="alternative-form" n="umkehren">kehrt sich um</distinct>)</hi>  Nun, <distinct type="alternative-form" n="anfangen">fängt</distinct> er schon wieder <distinct type="alternative-form" n="anfangen">an</distinct>?</p>
+
+<p>PIRZEL <hi rend="italic">(sehr eifrig)</hi> Kann ich es beleidigen <hi rend="italic">(<distinct type="alternative-form" n="kehrt">kehrt sich</distinct> ganz <distinct type="alternative-form" n="kehrt">gegen</distinct> die Gesellschaft)</hi>, so würde es aufhören, das Vollkommenste zu sein.</p>
+
+<p>EIN ANDERER AUS DER GESELLSCHAFT Ja, ja Pirzel, du hast recht, du hast ganz recht.</p>
+
+<p>PIRZEL <hi rend="italic">(<distinct type="alternative-form" n="kehrt">kehrt sich</distinct> geschwind zum Feldprediger)</hi> Kann ich es nicht beleidigen - <hi rend="italic">(Faßt ihn an die Hand und bleibt stockstill in tiefen Gedanken)</hi></p>
+
+<p>ZWEI, DREI AUS DEM HAUFEN Pirzel, <term type="one-word" n="2389">zum Teufel</term>! redst du mit uns?</p>
+
+<p>PIRZEL <hi rend="italic">(<distinct type="alternative-form" n="kehrt">kehrt sich</distinct> sehr ernsthaft zu ihnen)</hi>  Meine lieben Kameraden, ihr seid verehrungswürdige Geschöpfe Gottes, also <term type="multiword" n="2390">kann ich</term> euch <term type="multiword" n="2390">nicht anders</term> als respektieren und hochachten, ich bin auch ein Geschöpf Gottes, also müßt ihr mich gleichfalls <term type="one-word" n="2224">in Ehren halten</term>.</p>
+
+<p>EINER Das wollten wir dir auch raten.</p>
+
+<p>PIRZEL <hi rend="italic">(<distinct type="alternative-form" n="kehrt">kehrt sich</distinct> wieder zum Pfarrer)</hi> Nun -</p>
+
+<p>EISENHARDT Herr Hauptmann, <term type="one-word" n="479">ich bin in allen Stücken Ihrer Meinung</term>. Nur war die Frage, <term type="one-word" n="1434">wie es den Leuten in den Kopf gebracht werden könnte</term>, <distinct type="alternative-form" n="abzulassen">vom armen Stolzius abzulassen</distinct> und nicht Eifersucht und Argwohn in zwei Herzen zu werfen, <term type="one-word" n="2391">die vielleicht auf ewig einander glücklich gemacht haben würden</term>.</p>
+
+<p>PIRZEL <hi rend="italic">(der <distinct type="alternative-form" n="setzt">sich</distinct> mittlerweile <distinct type="alternative-form" n="setzt">gesetzt</distinct> hatte, <distinct type="alternative-form" n="aufstehen">steht</distinct> wieder sehr hastig <distinct type="alternative-form" n="aufstehen">auf</distinct>)</hi> Wie ich Ihnen die Ehre und das Vergnügen habe zu sagen, Herr Pfarrer! <term type="one-word" n="2410">das macht weil die Leute nicht denken</term>. Denken, denken, was der Mensch ist, <term type="one-word" n="2392">das ist ja meine Rede</term>. <hi rend="italic">(Faßt ihn an die Hand)</hi>. Sehen Sie, das ist Ihre Hand, aber was ist das, Haut, Knochen, Erde,<hi rend="italic"> (klopft ihm auf den Puls)</hi>  da, da steckt es, das ist nur die Scheide, <term type="one-word" n="1125">da steckt der Degen drein</term>, im Blut, im Blut - <hi rend="italic">(<distinct type="alternative-form" n="herumsehen">Sieht sich</distinct> plötzlich <distinct type="alternative-form" n="herumsehen">herum</distinct>, <term type="one-word" n="2393">weil Lärm wird</term>.)</hi></p>
+
+<p><hi rend="italic">(Haudy <distinct type="alternative-form" n="hereintreten">tritt herein</distinct> mit großem Geschrei.)</hi></p>
+<p>HAUDY Leute, nun hab ich ihn, <distinct type="alternative-form" n="frömmste">es ist der frömmste Herrgott von der Welt</distinct>. <hi rend="italic">(Brüllt entsetzlich)</hi>. <distinct type="alternative-form" n="Roux">Madam Roux</distinct>! <distinct type="alternative-form" n="schwenken">gleich lassen Sie Gläser schwenken</distinct> und <distinct type="alternative-form" n="zurecht">machen</distinct> uns guten Punsch <distinct type="alternative-form" n="zurecht">zurecht</distinct>. Er wird gleich hier sein, ich bitte euch, <term type="one-word" n="1497">geht mir artig mit dem Menschen um</term>.</p>
+
+<p>EISENHARDT <hi rend="italic">(<distinct type="alternative-form" n="bückt">bückt sich vor</distinct>)</hi>  Wer, Herr Major, wenn's erlaubt ist -</p>
+
+<p>HAUDY <hi rend="italic">(ohne ihn anzusehen)</hi>  Nichts, ein guter Freund von mir.</p>
+
+<p><hi rend="italic">(Die ganze Gesellschaft <distinct type="alternative-form" n="drängt">drängt sich um</distinct> Haudy.)</hi></p>
+
+<p>EINER Hast du ihn ausgefragt, wird die Hochzeit bald sein?</p>
+
+<p>HAUDY Leute, <term type="one-word" n="740">ihr müßt mich schaffen lassen</term>, sonst verderbt ihr mir den ganzen Handel. Er hat ein Zutrauen zu mir, sag ich euch, wie zum <distinct type="alternative-form" n="Propheten">Propheten Daniel</distinct>, und <distinct type="alternative-form" n="mengt">wenn einer von euch sich darein mengt</distinct>, <distinct type="alternative-form" n="verschissen">so ist alles verschissen</distinct>. Er ist ohnedem eifersüchtig genug, das arme Herz, der Desportes <distinct type="alternative-form" n="grausam">macht ihm grausam zu schaffen</distinct>, und <term type="one-word" n="2394">ich hab ihn mit genauer Not gehalten</term>, daß er nicht ins Wasser sprang. <distinct type="alternative-form" n="Pfiff">Mein Pfiff ist</distinct>, <distinct type="alternative-form" n="beizubringen">ihm Zutrauen zu seinem Weibe beizubringen</distinct>, er muß sie wohl kennen, <distinct type="alternative-form" n="sturmfesten">daß sie keine von den sturmfesten ist</distinct>. <term type="one-word" n="1304">Das sei euch also zur Nachricht</term>, daß ihr mir den Menschen nicht verderbt.</p>
+
+<p>RAMMLER Was willst du doch reden, ich kenn ihn besser als du, <term type="one-word" n="2396">er hat eine feine Nase</term>, das glaub du mir nur.</p>
+
+<p>HAUDY Und du <distinct type="alternative-form" n="feinere">eine noch feinere</distinct>, merk ich.</p>
+
+<p>RAMMLER Du meinst, das sei das Mittel, <distinct type="alternative-form" n="einzuschmeicheln">sich bei ihm einzuschmeicheln</distinct>, wenn man ihm <term type="one-word" n="2397">Gutes</term> von seiner Braut sagt? Du <distinct type="alternative-form" n="irrst">irrst dich</distinct>, ich kenn ihn besser, grad das Gegenteil. <term type="one-word" n="1358">Er stellt sich</term>, als ob er dir's glaubte und <term type="one-word" n="2398">schreibt es sich hinter die Ohren</term>. Aber wenn man ihm seine Frau <distinct type="alternative-form" n="verdächtig">verdächtig macht</distinct>, so glaubt er, <term type="one-word" n="693">daß wir's aufrichtig mit ihm meinen</term> </p>
+
+<p>HAUDY <distinct type="alternative-form" n="erhabenen">Mit deiner erhabenen Politik</distinct>, Rotnase! Willst du <term type="one-word" n="2399">dem Kerl den Kopf toll machen</term>, meinst du, er hat nicht Grillen genug drin? Und <term type="one-word" n="2400">wenn er sie sitzen läßt</term> oder <distinct type="alternative-form" n="aufhängt">sich aufhängt</distinct> <term type="one-word" n="1241">so hast du's darnach</term>. Nicht wahr, Herr Pfarrer, <distinct type="alternative-form" n="Pfifferling">eines Menschen Leben ist doch kein Pfifferling</distinct>.</p>
+
+<p>EISENHARDT <term type="one-word" n="2401">Ich menge mich in Ihren Kriegsrat nicht</term>.</p>
+
+<p>HAUDY <distinct type="alternative-form" n="rechtgeben">Sie müssen mir aber doch rechtgeben</distinct>.</p>
+
+<p>PIRZEL: Meine werten Brüder und Kameraden, tut niemand Unrecht. Eines Menschen Leben ist ein Gut, <term type="one-word" n="987">das er sich nicht selber gegeben hat</term>. <term type="one-word" n="1667">Nun aber hat niemand ein Recht auf ein Gut</term>, <term type="one-word" n="2402">das ihm von einem andern ist gegeben worden</term>. Unser Leben ist ein solches Gut </p>
+
+<p>HAUDY<hi rend="italic"> (faßt ihn an die Hand)</hi>  Ja, Pirzel, du bist der bravste Mann, den ich kenne <hi rend="italic">(<distinct type="alternative-form" n="setzt">setzt sich</distinct> zwischen ihn und den Pfarrer)</hi>, aber der Jesuit <hi rend="italic">(den Pfarr umarmend)</hi>, der gern selber möchte <distinct type="alternative-form" n="Hahn">Hahn im Korbe</distinct> sein </p>
+
+<p>RAMMLER <hi rend="italic">(<distinct type="alternative-form" n="setzt">setzt sich</distinct> auf die andere Seite zum Pfarrer und zischelt ihm in die Ohren)</hi> Herr Pfarrer, Sie sollen nur sehen, was ich dem Haudy für einen Streich spielen werde.</p>
+
+<p><hi rend="italic">(Stolzius <distinct type="alternative-form" n="hereintreten">tritt herein</distinct>. Haudy <distinct type="alternative-form" n="aufspringen">springt auf</distinct>.)</hi></p>
+
+<p>HAUDY Ah, mein Bester, kommen Sie, ich habe ein gut Glas Punsch für uns bestellen lassen. <distinct type="alternative-form" n="durchgeweht">Der Wind hat uns vorhin so durchgeweht</distinct>.<hi rend="italic"> (Führt ihn an einen Tisch.)</hi></p>
+
+<p>STOLZIUS <hi rend="italic">(den Hut abziehend zu den übrigen)</hi> Meine Herren, Sie werden mir vergeben, daß ich so dreist bin, auf Ihr Kaffeehaus zu kommen, es ist <distinct type="alternative-form" n="Befehl">auf Befehl</distinct> des Herrn Majors geschehen.</p>
+
+<p><hi rend="italic">(Alle <distinct type="alternative-form" n="abziehen">ziehen</distinct> die Hüte <distinct type="alternative-form" n="abziehen">ab</distinct>, sehr höflich, und <distinct type="alternative-form" n="schneiden">schneiden Komplimenten</distinct>. Rammler <distinct type="alternative-form" n="aufstehen">steht auf</distinct> und geht näher.)</hi></p>
+
+<p>RAMMLER O <distinct type="alternative-form" n="gehorsamer">gehorsamer Diener</distinct>, es ist uns eine besondere Ehre.</p>
+
+<p>STOLZIUS <hi rend="italic">(<term type="one-word" n="2403">rückt noch einmal den Hut</term>, <distinct type="alternative-form" n="kaltsinnig">etwas kaltsinnig</distinct>, und <distinct type="alternative-form" n="setzt">setzt sich</distinct> zu Haudy)</hi>  Es geht ein so scharfer Wind draußen, ich meine, wir werden Schnee bekommen.</p>
+
+<p>HAUDY <hi rend="italic">(<distinct type="alternative-form" n="stopfend">eine Pfeife stopfend</distinct>)</hi> Ich glaub es auch. - Sie rauchen doch, Herr Stolzius.</p>
+
+<p>STOLZIUS <term type="one-word" n="2404">Ein wenig</term>.</p>
+
+<p>RAMMLER Ich weiß nicht, <term type="one-word" n="2405">wo denn unser Punsch bleibt</term>, Haudy <hi rend="italic">(<distinct type="alternative-form" n="aufstehen">steht auf</distinct>)</hi>,  was die verdammte Roux solange macht.</p>
+
+<p>HAUDY <term type="one-word" n="2226">Bekümmere dich um deine Sachen</term>. <hi rend="italic">(Brüllt mit einer erschrecklichen Stimme)</hi>. <distinct type="alternative-form" n="Roux">Madam Roux</distinct>! <term type="one-word" n="2406">Licht her</term> - und unser Punsch, <term type="one-word" n="2407">wo bleibt er</term>.</p>
+
+<p>STOLZIUS O mein Herr Major, <distinct type="alternative-form" n="Ungelegenheit">als ich Ihnen Ungelegenheit machen sollte</distinct>, würd es mir sehr von Herzen leid tun.</p>
+
+<p>HAUDY <term type="one-word" n="2408">Ganz und gar nicht</term>, lieber Freund. <hi rend="italic">(Präsentiert ihm die Pfeife.)</hi> Die Lysluft kann doch wahrhaftig der Gesundheit nicht gar zu zuträglich sein.</p>
+
+<p>RAMMLER <hi rend="italic">(<distinct type="alternative-form" n="setzt">setzt sich</distinct> zu ihnen an den Tisch)</hi>  Haben Sie neulich Nachrichten aus Lille gehabt? Wie <distinct type="alternative-form" n="befindet">befindet sich</distinct> Ihre Jungfer Braut? <hi rend="italic">(Haudy <distinct type="alternative-form" n="fürchterliche">macht ihm ein paar fürchterliche Augen</distinct>, er bleibt lächelnd sitzen)</hi>.</p>
+
+<p>STOLZIUS <hi rend="italic">(verlegen)</hi>  Zu Ihren Diensten, mein Herr - aber <distinct type="alternative-form" n="gehorsamst">ich bitt gehorsamst um Verzeihung</distinct>, ich weiß noch von keiner Braut, ich habe keine.</p>
+
+<p>RAMMLER Die Jungfer Wesener aus Lille, ist sie nicht Ihre Braut? Der Desportes hat es mir doch geschrieben, daß Sie verlobt wären.</p>
+
+<p>STOLZIUS Der Herr Desportes <distinct type="alternative-form" n="mögte">mögte es denn besser wissen als ich</distinct>.</p>
+
+<p>HAUDY <hi rend="italic">(rauchend)</hi> Der Rammler <term type="one-word" n="2142">schwatzt immer in die Welt hinein</term>, ohne zu wissen, was er redt und was er will.</p>
+
+<p>EINER AUS DEM HAUFEN: Ich versichere Ihnen, Herr Stolzius, Desportes ist ein ehrlicher Mann.</p>
+
+<p>STOLZIUS <distinct type="alternative-form" n="gezweifelt">Daran</distinct> habe ich ja gar nicht <distinct type="alternative-form" n="gezweifelt">gezweifelt</distinct>.</p>
+
+<p>HAUDY Ihr Leute wißt viel vom Desportes. Wenn ihn ein Mensch kennen kann, so muß ich es doch wohl sein, er ist mir von seiner Mutter rekommandiert worden, als er ans Regiment kam, und hat nichts getan, <term type="one-word" n="374">ohne mich zu Rat zu ziehen</term>. Aber ich versichere Ihnen, Herr Stolzius, daß Desportes ein Mensch ist <distinct type="alternative-form" n="Sentiment">der Sentiment und Religion hat</distinct>.</p>
+
+<p>RAMMLER Und wir sind Schulkameraden miteinander gewesen. <distinct type="alternative-form" n="blödern">Keinen blödern Menschen mit dem Frauenzimmer habe ich noch in meinem Leben gesehen</distinct>.</p>
+
+<p>HAUDY Das ist wahr, <term type="one-word" n="2409">darin hat er recht</term>. <distinct type="alternative-form" n="hervorzubringen">Er ist nicht imstande ein Wort hervorzubringen</distinct>, <distinct type="alternative-form" n="ansieht">sobald ihn ein Frauenzimmer freundlich ansieht</distinct>.</p>
+
+<p>RAMMLER <hi rend="italic">(mit einer pedantisch plumpen Verstellung)</hi>  Ich glaube <distinct type="alternative-form" n="Tat">in der Tat</distinct> - <term type="one-word" n="1199">wo mir recht ist</term> - ja, es ist wahr, er korrespondiert noch mit ihr, ich habe <distinct type="alternative-form" n="Abreise">den Tag seiner Abreise</distinct> einen Brief gelesen, den er an eine Mademoiselle in Brüssel schrieb, <distinct type="alternative-form" n="verliebt">in die</distinct> er <distinct type="alternative-form" n="Erstaunen">ganz zum Erstaunen</distinct> <distinct type="alternative-form" n="verliebt">verliebt</distinct> war. Er wird sie wohl nun bald heiraten, denke ich.</p>
+
+<p>EINER AUS DER GESELLSCHAFT <distinct type="alternative-form" n="begreifen">Ich kann nur nicht begreifen</distinct>, was er solang in Lille macht.</p>
+
+<p>HAUDY Wetter Element, wo bleibt unser Punsch denn - <distinct type="alternative-form" n="Roux">Madam Roux</distinct>!!!</p>
+
+<p>RAMMLER In Lille! <term type="one-word" n="2411">O das kann euch niemand erklären als ich</term>, denn <term type="one-word" n="1694">ich weiß um alle seine Geheimnisse</term>. Aber <term type="one-word" n="240">es läßt sich nicht öffentlich sagen</term>.</p>
+
+<p>HAUDY<hi rend="italic"> (verdrießlich)</hi>  <term type="one-word" n="2227">So sag heraus</term>, Narre! <term type="one-word" n="898">was hältst du hinter dem Berge</term>.</p>
+
+<p>RAMMLER <hi rend="italic">(lächelnd)</hi>  Ich kann euch nur soviel sagen, daß er eine Person dort erwartet, mit der er <term type="one-word" n="2412">in der Stille</term> fortreisen will.</p>
+
+<p>STOLZIUS <hi rend="italic">(<distinct type="alternative-form" n="aufstehen">steht auf</distinct> und <distinct type="alternative-form" n="weglegen">legt</distinct> die Pfeife <distinct type="alternative-form" n="weglegen">weg</distinct>)</hi>  Meine Herren, ich habe die Ehre, <distinct type="alternative-form" n="empfehlen">mich</distinct> Ihnen <distinct type="alternative-form" n="empfehlen">zu empfehlen</distinct>.</p>
+
+<p>HAUDY <hi rend="italic">(erschrocken)</hi>  Was ist - wohin liebster Freund - <term type="one-word" n="1330">wir werden den Augenblick bekommen</term>.</p>
+
+<p>STOLZIUS <term type="one-word" n="2414">Sie nehmen mir's nicht übel</term> - <distinct type="alternative-form" n="zugestoßen">mir ist den Moment etwas zugestoßen</distinct>.</p>
+
+<p>HAUDY Was denn? - Der Punsch wird Ihnen gut tun, ich versichere Sie.</p>
+
+<p>STOLZIUS Daß ich mich nicht wohl befinde, lieber Herr Major. Sie werden mir verzeihen - erlauben Sie - aber ich kann keinen Augenblick länger hier bleiben, oder ich <term type="one-word" n="2416">falle um</term> -</p>
+
+<p>HAUDY Das ist die Rheinluft - oder war der Tabak zu stark?</p>
+
+<p>STOLZIUS <term type="one-word" n="2417">Leben Sie wohl</term>. <hi rend="italic">(<distinct type="alternative-form" n="abgehen">Geht</distinct> wankend <distinct type="alternative-form" n="abgehen">ab</distinct>.)</hi></p>
+
+<p>HAUDY <term type="one-word" n="2418">Da haben wir's</term>. <distinct type="alternative-form" n="Arschgesichtern">Mit euch verfluchten Arschgesichtern</distinct>.</p>
+
+<p>RAMMLER Ha ha ha ha - <hi rend="italic">(<distinct type="alternative-form" n="Besinnt">Besinnt sich</distinct> <distinct type="alternative-form" n="Weile">eine Weile</distinct>, herumgehend)</hi>.  <distinct type="alternative-form" n="Teufels">Ihr dummen Teufels</distinct>, seht ihr denn nicht, daß ich das alles <distinct type="alternative-form" n="angestellt">mit Fleiß angestellt</distinct> habe - Herr Pfarrer, hab ich's Ihnen nicht gesagt?</p>
+
+<p>EISENHARDT Lassen Sie mich aus dem Spiel, ich bitte Sie.</p>
+
+<p>HAUDY Du bist <distinct type="alternative-form" n="Gans">eine politische Gans</distinct>, ich werde <distinct type="alternative-form" n="Genick">dir das Genick umdrehen</distinct>.</p>
+
+<p>RAMMLER Und ich <distinct type="alternative-form" n="entzweibrechen">brech dir Arm und Bein entzwei</distinct> und <term type="one-word" n="2419">werf sie zum Fenster hinaus</term>. <hi rend="italic">(Spaziert thrasonisch umher)</hi>. <distinct type="alternative-form" n="Finten">Ihr kennt meine Finten noch nicht.</distinct></p>
+
+<p>HAUDY Ja, du steckst voll <distinct type="alternative-form" n="Finte">Finten</distinct> wie ein alter Pelz voll Läuse. <term type="one-word" n="2228">Du bist ein Kerl zum Speien mit deiner Politik</term>.</p>
+
+<p>RAMMLER Und ich pariere, <term type="one-word" n="2420">daß ich dich und all euch Leute hier beim Stolzius in Sack stecke</term>, <term type="one-word" n="1678">wenn ich's darauf ansetze</term>.</p>
+
+<p>HAUDY Hör, Rammler! <distinct type="alternative-form" n="schade">es ist nur schade</distinct>, daß du ein bißchen zuviel Verstand bekommen hast, <distinct type="alternative-form" n="zunicht">denn er macht sich selber zunicht</distinct>, es geht dir wie einer allzuvollen Bouteille, <term type="one-word" n="2421">die man umkehrt</term> und <distinct type="alternative-form" n="herausläuft">doch kein Tropfen herausläuft</distinct>, <term type="one-word" n="327">weil einer dem andern im Wege steht</term>. Geh geh, wenn ich eine Frau habe, geb ich dir die Erlaubnis, bei ihr zu schlafen, <term type="one-word" n="2422">wenn du sie dahin bringen kannst</term>.</p>
+
+<p>RAMMLER <hi rend="italic">(sehr schnell <distinct type="alternative-form" n="abgehend">auf- und abgehend</distinct>)</hi> Ihr sollt nur sehen, was ich aus dem Stolzius noch machen will. <hi rend="italic">(<distinct type="alternative-form" n="ab">Ab</distinct>)</hi>.</p>
+
+<p>HAUDY Der Kerl <distinct type="alternative-form" n="Gallenfieber">macht einem das Gallenfieber</distinct> mit seiner Dummheit. <term type="one-word" n="2423">Er kann nichts, als</term> andern Leuten das Konzept verderben.</p>
+
+<p>EINER Das ist wahr, <distinct type="alternative-form" n="mischt">er mischt sich in alles</distinct>.</p>
+
+<p>MARY Er hat den Kopf immer voll Intrigen und Ränken und meint, andere Leute <distinct type="alternative-form" n="darohne">können ebensowenig darohne leben</distinct> als er. Letzt sagte ich dem Reitz ins Ohr, <term type="one-word" n="1274">er möcht</term> mir doch <term type="one-word" n="2424">auf morgen</term> seine Sporen leihen; <term type="one-word" n="2425">ist er mir nicht den ganzen Tag nachgegangen</term> und hat mich <distinct type="alternative-form" n="Gotteswillen">um Gotteswillen</distinct> gebeten, ich möcht ihm sagen, <distinct type="alternative-form" n="vorhätten">was wir vorhätten</distinct>. Ich glaub, <distinct type="alternative-form" n="Staatsmann">es ist ein Staatsmann an ihm verdorben</distinct>.</p>
+
+<p>EIN ANDERER Neulich <term type="one-word" n="2426">stellt ich mich an ein Haus</term>, einen Brief im Schatten zu lesen, er meinte gleich, es wär ein Liebesbrief, <distinct type="alternative-form" n="herabgeworfen">der mir aus dem Hause wär herabgeworfen worden</distinct>, und ist die ganze Nacht bis um zwölf Uhr um das Haus herumgeschlichen. Ich dachte, ich sollte <distinct type="alternative-form" n="aufbersten">aufbersten für Lachen</distinct>, es wohnt ein alter Jude <term type="one-word" n="2427">von sechzig Jahren</term> in dem Hause, und er hatte überall in der Straße Schildwachten ausgestellt, <distinct type="alternative-form" n="auflauren">die mir auflauren sollten</distinct> und ihm ein Zeichen geben, <distinct type="alternative-form" n="hereinginge">wenn ich hereinginge</distinct>. <distinct type="alternative-form" n="abgekauft">Ich habe einem von den Kerls mit drei Livres das ganze Geheimnis abgekauft</distinct>; ich dacht, <term type="one-word" n="2428">ich sollte rasend werden</term>.</p>
+
+<p>ALLE Ha, ha, ha, und er meint, es sei ein hübsch Mädchen drin.</p>
+
+<p>MARY <term type="one-word" n="2429">Hört einmal</term>, wollt ihr <distinct type="alternative-form" n="Spaß">einen Spaß haben</distinct>, der echt ist, so wollen wir den Juden avertieren, <term type="one-word" n="2430">es sei einer da</term>, <distinct type="alternative-form" n="Absichten">der Absichten auf sein Geld habe</distinct>.</p>
+
+<p>HAUDY Recht recht, <distinct type="alternative-form" n="Schwerenot">daß euch die Schwerenot</distinct>, wollen wir gleich zu ihm gehen. Das soll uns eine Komödie geben, <distinct type="alternative-form" n="ihresgleichen">die ihresgleichen nicht hat</distinct>. Und du, Mary, <term type="one-word" n="2431">bring ihn nur immer mehr auf die Gedanken</term>, daß da die schönste Frau in ganz Armentieres wohnt und daß Gilbert <distinct type="alternative-form" n="anvertraut">dir anvertraut hat</distinct>, er werde diese Nacht zu ihr gehn.</p>
+
+
+<p><hi rend="bold">Dritte Szene</hi></p>
+<p>IN LILLE <hi rend="italic">(Marie weinend auf einem Lehnstuhl, einen Brief in der Hand. Desportes tritt herein.)</hi></p>
+
+<p>DESPORTES <distinct type="alternative-form" n="fehlt">Was fehlt Ihnen</distinct>, mein goldenes Marieel, <term type="one-word" n="2432">was haben Sie</term>?</p>
+
+<p>MARIE <hi rend="italic">(will den Brief in die Tasche stecken)</hi>  Ach -</p>
+
+<p>DESPORTES <distinct type="alternative-form" n="Himmels">Ums Himmels willen</distinct>, was ist das für ein Brief, der Ihnen Tränen verursachen kann?</p>
+
+<p>MARIE <hi rend="italic">(etwas leiser)</hi>  Sehen Sie nur, was mir der Mensch, der Stolzius, schreibt, <term type="multiword" n="2433">recht, </term><term type="multiword" n="2433">als ob er ein Recht hätte</term>, mich auszuschelten. <hi rend="italic">(Weint wieder.)</hi></p>
+
+<p>DESPORTES<hi rend="italic"> (liest stille)</hi> Das ist ein impertinenter Esel. Aber sagen Sie mir, warum wechseln Sie Briefe mit solch einem Hundejungen?</p>
+
+<p>MARIE <hi rend="italic">(<distinct type="alternative-form" n="trocknet">trocknet sich die Augen</distinct>)</hi>  Ich will Ihnen nur sagen, Herr Baron, es ist, weil er <distinct type="alternative-form" n="angehalten">angehalten hat um mich</distinct> und ich ihm schon so gut als halb versprochen bin.</p>
+
+<p>DESPORTES <distinct type="alternative-form" n="angehalten">Er um Sie angehalten</distinct>? Wie darf <distinct type="alternative-form" n="unterstehen">sich</distinct> der Esel das <distinct type="alternative-form" n="unterstehen">unterstehen</distinct>? Warten Sie, ich will ihm den Brief beantworten.</p>
+
+<p>MARIE Ja, mein lieber Herr Baron! Und Sie können nicht glauben, <distinct type="alternative-form" n="auszustehen">was ich mit meinem Vater auszustehen habe</distinct>, <term type="one-word" n="1821">er liegt mir immer in den Ohren</term>, ich soll mir mein Glück nicht verderben.</p>
+
+<p>DESPORTES Ihr Glück - mit solch einem Lümmel. Was denken Sie doch, liebstes Marieel, und was denkt Ihr Vater? <term type="one-word" n="2434">ich kenne ja des Menschen seine Umstände</term>. Und <distinct type="alternative-form" n="kurz">kurz und gut</distinct>, <term type="one-word" n="2435">Sie sind für keinen Bürger gemacht</term>.</p>
+
+<p>MARIE Nein, Herr Baron, <term type="one-word" n="2436">davon wird nichts</term>, das sind nur leere Hoffnungen, <term type="one-word" n="2437">mit denen</term> Sie mich hintergehen. <distinct type="alternative-form" n="zugeben">Ihre Familie wird das nimmermehr zugeben</distinct>.</p>
+
+<p>DESPORTES Das ist meine Sorge. Haben Sie Feder und Dinte, ich will dem Lumpenhund seinen Brief beantworten, <term type="one-word" n="372">warten Sie einmal</term>.</p>
+
+<p>MARIE Nein, ich will selber schreiben. <hi rend="italic">(<distinct type="alternative-form" n="setzt">Setzt sich</distinct> an den Tisch und <distinct type="alternative-form" n="zurecht">macht</distinct> das Schreibzeug <distinct type="alternative-form" n="zurecht">zurecht</distinct>, er stellt sich ihr hinter die Schulter)</hi>.</p>
+
+<p>DESPORTES So will ich Ihnen diktieren.</p>
+
+<p>MARIE Das sollen Sie auch nicht. <hi rend="italic">Schreibt.</hi></p>
+
+<p>DESPORTES <hi rend="italic">(liest ihr über die Schulter)</hi>  Monsieur - Flegel <distinct type="alternative-form" n="dazusetzen">setzen</distinct> Sie <distinct type="alternative-form" n="dazusetzen">dazu</distinct>. <hi rend="italic">(<distinct type="alternative-form" n="tunkt">Tunkt eine Feder ein</distinct> und will dazu schreiben)</hi></p>
+
+<p>MARIE <hi rend="italic">(beide Arme über den Brief ausbreitend)</hi>  Herr Baron - <hi rend="italic">(<term type="one-word" n="2229">Sie fangen an zu schäckern</term>; <distinct type="alternative-form" n="rückt">sobald sie den Arm rückt</distinct>, <term type="one-word" n="2230">macht er Miene zu schreiben</term>; nach vielem Lachen gibt sie ihm mit der nassen Feder eine große Schmarre übers Gesicht. Er läuft zum Spiegel <distinct type="alternative-form" n="abzuwischen">sich abzuwischen</distinct>, sie <distinct type="alternative-form" n="fortschreiben">schreibt fort</distinct>.)</hi></p>
+
+<p>DESPORTES <distinct type="alternative-form" n="belaure">Ich belaure Sie doch</distinct>. <hi rend="italic">(Er kommt näher, sie droht ihm mit der Feder, endlich steckt sie das Blatt in die Tasche; er will sie <distinct type="alternative-form" n="verhindern">daran verhindern</distinct>, sie ringen zusammen; Marie kitzelt ihn, er macht ein erbärmliches Geschrei, bis er endlich halb atemlos auf den Lehnstuhl fällt).</hi></p>
+
+<p>WESENER <hi rend="italic">(<distinct type="alternative-form" n="hereintreten">tritt herein</distinct>)</hi> Na, was gibt's - die Leute von der Straße werden bald hereinkommen.</p>
+
+<p>MARIE <hi rend="italic">(<distinct type="alternative-form" n="erholt">erholt sich</distinct>)</hi> Pappa, denkt doch, was der grobe Flegel, der Stolzius, mir für einen Brief schreibt, er nennt mich Ungetreue! Denk doch, <distinct type="alternative-form" n="Säue">als ob ich die Säue mit ihm gehütet hätte</distinct>, aber <term type="one-word" n="2438">ich will ihm antworten darauf</term>, <distinct type="alternative-form" n="vermuten">daß er sich nicht vermuten soll</distinct>, der Grobian.</p>
+
+<p>WESENER Zeig mir her den Brief - <term type="one-word" n="1687">ei sieh doch, die Jungfer Zipfersaat</term> - ich will ihn unten im Laden lesen. <hi rend="italic">(<distinct type="alternative-form" n="ab">Ab</distinct>)</hi>.</p>
+
+<p><hi rend="italic">(Jungfer Zipfersaat <distinct type="alternative-form" n="hereintreten">tritt herein</distinct>.)</hi></p>
+
+<p>MARIE <hi rend="italic">(hier und da launicht herumknicksend)</hi>  <distinct type="alternative-form" n="JungferZipfersaat">Jungfer Zipfersaat</distinct>, hier habe ich die Ehre, dir einen Baron zu präsentieren, der <term type="one-word" n="1688">sterblich verliebt in</term> dich ist. Hier, Herr Baron, ist die Jungfer, <term type="one-word" n="899">von der</term> wir so viel gesprochen haben und <term type="one-word" n="2439">in die Sie sich neulich in der Komödie so sterblich verschameriert haben</term>.</p>
+
+<p><distinct type="alternative-form" n="JungferZipfersaat">JUNGFER ZIPFERSAAT</distinct> <hi rend="italic">(beschämt)</hi> Ich weißt nicht, wie du bist, Marieel.</p>
+
+<p>MARIE <hi rend="italic">(einen tiefen Knicks)</hi>  Jetzt können Sie Ihre Liebesdeklaration machen. <hi rend="italic">(Läuft ab, die Kammertür hinter sich zuschlagend. <distinct type="alternative-form" n="JungferZipfersaat">Jungfer Zipfersaat</distinct>, ganz verlegen, tritt ans Fenster. Desportes, <distinct type="alternative-form" n="angesehen">der sie verächtlich angesehen</distinct>, <distinct type="alternative-form" n="paßt">paßt auf Marien</distinct>, die von Zeit zu Zeit die Kammertür ein wenig eröffnet. Endlich <term type="one-word" n="1790">steckt sie den Kopf heraus</term>; höhnisch)</hi>  Na, <term type="one-word" n="634">seid ihr bald fertig</term>?</p>
+
+<p><hi rend="italic">(Desportes <distinct type="alternative-form" n="suchen">sucht</distinct> <distinct type="alternative-form" n="einzuklemmen">sich zwischen die Tür einzuklemmen</distinct>, Marie <term type="multiword" n="1831">sticht</term> ihn mit einer großen Stecknadel <term type="multiword" n="1831">fort</term>; er schreit und <term type="one-word" n="2367">läuft plötzlich heraus</term>, um durch eine andere Tür in jenes Zimmer zu kommen. <distinct type="alternative-form" n="JungferZipfersaat">Jungfer Zipfersaat</distinct> <distinct type="alternative-form" n="fortgehen">geht</distinct> ganz verdrießlich <distinct type="alternative-form" n="fortgehen">fort</distinct>, derweil das Geschrei und Gejauchz im Nebenzimmer fortwährt.)</hi></p>
+
+<p>WESENERS ALTE MUTTER <hi rend="italic">(kriecht durch die Stube, die Brille auf der Nase, <distinct type="alternative-form" n="setzt">setzt sich</distinct> in eine Ecke des Fensters und strickt und singt oder krächzt vielmehr mit ihrer alten rauhen Stimme:)</hi></p>
+
+<p>Ein Mädele jung ein Würfel ist, </p>
+<p><term type="one-word" n="2232">Wohl auf den Tisch gelegen:</term> </p>
+<p>Das kleine Rösel aus Hennegau </p>
+<p>Wird bald zu <term type="one-word" n="2233">Gottes Tisch</term> gehen.</p>
+
+<p><hi rend="italic">(<distinct type="alternative-form" n="Maschen">Zählt die Maschen ab</distinct>.)</hi></p>
+
+<p>Was lächelst so froh, mein liebes Kind, </p>
+<p><term type="one-word" n="2234">Dein Kreuz wird dir'n schon kommen</term> </p>
+<p><term type="one-word" n="2235">Wenn's heißt</term>, das Rösel aus Hennegau </p>
+<p>Hab nun einen Mann genommen.</p>
+
+<p>O Kindlein mein, <term type="one-word" n="2440">wie tut's mir so weh</term>, </p>
+<p>Wie dir dein Äugelein lachen, </p>
+<p>Und wenn ich die tausend Tränelein seh, </p>
+<p>Die werden dein Bäckelein waschen.</p>
+
+<p><hi rend="italic">(Indessen <distinct type="alternative-form" n="fortdauern">dauert</distinct> das Geschäcker im Nebenzimmer <distinct type="alternative-form" n="fortdauern">fort</distinct>. Die alte Frau <term type="one-word" n="2441">geht hinein</term>, <distinct type="alternative-form" n="berufen">sie zu berufen</distinct>.)</hi></p>
+
+
+<p><hi rend="bold">DRITTER AKT</hi></p>
+<p><hi rend="bold">Erste Szene</hi></p>
+<p>IN ARMENTIERES. DES JUDEN HAUS <hi rend="italic">(Rammler mit einigen verkleideten Leuten, <term type="one-word" n="2236">die er stellt</term>.)</hi></p>
+
+<p>RAMMLER <hi rend="italic">(<term type="one-word" n="2237">zum letzten</term>)</hi>  Wenn jemand hineingeht, so huste - ich will mich unter die Treppe verstecken, daß ich ihm gleich nachschleichen kann. <hi rend="italic">(<distinct type="alternative-form" n="verkriecht">Verkriecht sich unter die Treppe</distinct>.)</hi></p>
+
+<p>AARON <hi rend="italic">(<term type="one-word" n="2442">sieht aus dem Fenster</term>)</hi>  Gad, was ein gewaltiger Kamplat ist das unter meinem eignen Hause.</p>
+
+<p><hi rend="italic">(Mary, <term type="one-word" n="2238">im Rocklor eingewickelt</term>, <term type="one-word" n="2239">kommt die Gasse heran</term>, <distinct type="alternative-form" n="stehenbleiben">bleibt</distinct> unter des Juden Fenster <distinct type="alternative-form" n="stehenbleiben">stehen</distinct> und <term type="one-word" n="2240">läßt ein subtiles Pfeifchen hören</term>.)</hi></p>
+
+<p>AARON <hi rend="italic">(<term type="one-word" n="1588">leise herab</term>)</hi> <term type="one-word" n="2443">Sein Sie's</term>, gnädiger Herr? <hi rend="italic">(Jener winkt.)</hi>  Ich werde soglach aufmachen.</p>
+
+<hi rend="italic"><p>(Mary <distinct type="alternative-form" n="hinauf">geht die Treppe hinauf</distinct>. Einer hustet leise. Rammler <distinct type="alternative-form" n="nachschleichen">schleicht</distinct> ihm auf den Zehen <distinct type="alternative-form" n="nachschleichen">nach</distinct>, <term type="one-word" n="2241">ohne daß der sich umsieht</term>. Der Jude <distinct type="alternative-form" n="aufmachen">macht</distinct> die Tür <distinct type="alternative-form" n="aufmachen">auf</distinct>, beide <distinct type="alternative-form" n="hineingehen">gehen hinein</distinct>.)</p>
+
+<p>(Der Schauplatz <distinct type="alternative-form" n="verwandelt">verwandelt sich</distinct> in das Zimmer des Juden. Es ist stockdunkel. Mary und Aaron flüstern sich in die Ohren. Rammler <distinct type="alternative-form" n="herumschleichen">schleicht</distinct> immer von weitem <distinct type="alternative-form" n="herumschleichen">herum</distinct>, <distinct type="alternative-form" n="zurückweichen">weicht</distinct> aber gleich <distinct type="alternative-form" n="zurückweichen">zurück</distinct>, sobald jene eine Bewegung machen.)</p></hi>
+
+<p>MARY Er ist hier drinne. </p>
+
+<p>AARON <term type="one-word" n="2242">O wai mer</term>. </p>
+
+<p>MARY Still nur, <distinct type="alternative-form" n="Leides">er soll Euch kein Leides tun</distinct>, <term type="one-word" n="233">laßt mit Euch machen, was er will</term>, und <distinct type="alternative-form" n="knebelte">wenn er Euch auch knebelte</distinct>, in einer Minute bin ich wieder bei Euch mit der Wache, <term type="one-word" n="2446">es soll ihm übel genug bekommen</term>. <term type="one-word" n="69">Legt Euch nur zu Bette</term>. </p>
+
+<p>AARON <term type="one-word" n="2447">Wenn er mich aber ams Leben bringt, he</term>? </p>
+
+<p>MARY <term type="one-word" n="2448">Seid nur ohne Sorgen</term>, <term type="one-word" n="2449">ich bin im Augenblick wieder da</term>. <distinct type="alternative-form" n="überführt">Er kann sonst nicht überführt werden</distinct>. Die Wache steht hier unten schon parat, ich will sie nur hereinrufen. <term type="one-word" n="2450">Legt Euch</term> - <hi rend="italic">(<distinct type="alternative-form" n="hinausgehen">Geht hinaus</distinct>. Der Jude <term type="one-word" n="2451">legt sich zu Bette</term>. Rammler schleicht näher hinan.)</hi> </p>
+
+<p>AARON <hi rend="italic">(<distinct type="alternative-form" n="klappt">klappt mit den Zähnen</distinct>)</hi>  Adonai! Adonai! </p>
+
+<p>RAMMLER <hi rend="italic">(<term type="one-word" n="2452">vor sich</term>)</hi> Ich glaube gar, es ist eine Jüdin. <hi rend="italic">(Laut, indem er Marys Stimme nachzuahmen <distinct type="alternative-form" n="versuchen">sucht</distinct>.)</hi>  Ach mein Schätzchen, wie kalt ist es draußen. </p>
+
+<p>AARON <hi rend="italic">(<term type="one-word" n="1690">immer leiser</term>)</hi> Adonai! </p>
+
+<p>RAMMLER Du kennst mich doch, ich bin dein Mann nicht, ich bin Mary. <hi rend="italic">(<term type="one-word" n="2453">Zieht sich Stiefel und Rock aus</term>.)</hi> Ich glaube, wir werden noch Schnee bekommen, so kalt ist es.</p>
+
+<p><hi rend="italic">(Mary mit einem großen Gefolge Offizieren mit Laternen <distinct type="alternative-form" n="hereinstürzen">stürzen herein</distinct> und <term type="one-word" n="2243">schlagen ein abscheulich Gelächter auf</term>. Der Jude <distinct type="alternative-form" n="aufrichten">richtet sich</distinct> erschrocken <distinct type="alternative-form" n="aufrichten">auf</distinct>.)</hi></p>
+
+<p>HAUDY Bist du toll geworden, Rammler, willst du mit dem Juden <distinct type="alternative-form" n="Unzucht">Unzucht treiben</distinct>?</p>
+
+<p>RAMMLER <hi rend="italic">(steht wie versteinert da. Endlich <term type="one-word" n="1100">zieht er seinen Degen</term>.)</hi> <term type="one-word" n="2244">Ich will euch in Kreuzmillionen Stücken zerhauen alle miteinander</term>. <hi rend="italic">(Er <term type="multiword" n="2454">läuft</term> verwirrt <term type="multiword" n="2454">hinaus</term>)</hi>.</p>
+
+<p>DIE ANDEREN <hi rend="italic">(<term type="one-word" n="2245">lachen nur noch rasender</term>)</hi>.</p>
+
+<p>AARON. Ich bin <distinct type="alternative-form" n="wäs">wäs Gad</distinct> halb tot gewesen <hi rend="italic">(Er <distinct type="alternative-form" n="aufstehen">steht auf</distinct>)</hi>.</p>
+
+<p>DIE ANDEREN<hi rend="italic"> (<term type="one-word" n="2246">laufen alle Rammlern nach</term>).</hi></p>
+
+<p>AARON <hi rend="italic">(folgt ihnen).</hi></p>
+
+
+<p><hi rend="bold">Zweite Szene</hi> <hi rend="italic">(Stolzius' Wohnung. Stolzius sitzt mit verbundenem Kopf an einem Tisch, auf dem eine Lampe brennt, einen Brief in der Hand, seine Mutter neben ihm.)</hi></p>
+
+<p>MUTTER <hi rend="italic">(die <distinct type="alternative-form" n="aufeinmal">auf einmal</distinct> <distinct type="alternative-form" n="ereifert">sich ereifert</distinct>)</hi>. Willst du denn nicht schlafen gehen, du gottloser Mensch! So red doch, so sag, <term type="one-word" n="2455">was dir fehlt</term>, das Luder <distinct type="alternative-form" n="wert">ist deiner nicht wert gewesen</distinct>. <distinct type="alternative-form" n="grämst">Was grämst du dich</distinct>, <distinct type="alternative-form" n="wimmerst">was wimmerst du um eine solche - Soldatenhure</distinct>.</p>
+
+<p>STOLZIUS <hi rend="italic">(mit dem äußersten Unwillen <term type="one-word" n="2247">vom Tisch sich aufrichtend</term>)</hi>. Mutter -</p>
+
+<p>MUTTER Was ist sie denn anders - du - und du auch, daß du <distinct type="alternative-form" n="hängst">dich an</distinct> solche Menscher <distinct type="alternative-form" n="hängst">hängst</distinct>.</p>
+
+<p>STOLZIUS <hi rend="italic">(faßt ihr beide Hände)</hi> Liebe Mutter, schimpft nicht auf sie, sie ist unschuldig, der Offizier hat <distinct type="alternative-form" n="verrückt">ihr den Kopf verrückt</distinct>. <term type="one-word" n="2456">Seht einmal</term>, <term type="one-word" n="2457">wie sie mir sonst geschrieben hat</term>. Ich muß den Verstand verlieren darüber. Solch ein gutes Herz!</p>
+
+<p>MUTTER <hi rend="italic">(<distinct type="alternative-form" n="aufstehen">steht auf</distinct> und <distinct type="alternative-form" n="stampft">stampft mit dem Fuß</distinct>)</hi> Solch ein Luder - gleich zu Bett mit dir, <term type="one-word" n="2458">ich befehl' es dir</term>. <distinct type="alternative-form" n="daraus">Was soll daraus werden</distinct>, was soll da herauskommen? Ich will dir weisen, junger Herr, daß ich dir deine Mutter bin.</p>
+
+<p>STOLZIUS <hi rend="italic">(<term type="one-word" n="2459">an seine Brust schlagend</term>)</hi> Marieel - nein, sie ist es nicht mehr, <distinct type="alternative-form" n="dieselbe">sie ist nicht dieselbe mehr</distinct> - <hi rend="italic">(Er <distinct type="alternative-form" n="aufspringen">springt auf</distinct>)</hi> Laßt mich -</p>
+
+<p>MUTTER <hi rend="italic">(weint)</hi> <term type="one-word" n="1904">Wohin</term>, du Gottvergessener?</p>
+
+<p>STOLZIUS. Ich will <term type="one-word" n="2461">den Teufel</term>, <term type="one-word" n="2460">der sie verkehrt hat</term> - <hi rend="italic">(Er fällt kraftlos auf die Bank, <term type="one-word" n="2462">beide Hände in die Höhe</term>)</hi> Oh, du sollst mir's bezahlen, <distinct type="alternative-form" n="bezahlen">du sollst mir's bezahlen</distinct>. <hi rend="italic">(Kalt)</hi> Ein Tag ist wie der andere, was nicht heut kommt, <term type="one-word" n="2463">kommt gut</term>. Wie heißt's in dem Liede, Mutter, <distinct type="alternative-form" n="Vögelein">wenn ein Vögelein von einem Berge alle Jahr ein Körnlein wegtrüge, endlich würde es ihm doch gelingen</distinct>.</p>
+
+<p>MUTTER Ich glaube, du phantasierst schon <hi rend="italic">(<distinct type="alternative-form" n="greift">sie greift ihm an den Puls</distinct>)</hi>, <distinct type="alternative-form" n="leg">leg dich zu Bett</distinct>, Karl, ich bitte dich <distinct type="alternative-form" n="Gotteswillen">um Gottes willen</distinct>. Ich will dich warm zudecken, was wird da herauskommen, du großer Gott, das ist ein hitziges Fieber - <distinct type="alternative-form" n="Metze">um solch eine Metze</distinct>.</p>
+
+<p>STOLZIUS Endlich - endlich - <term type="one-word" n="2464">alle Tage</term> ein Sandkorn, ein Jahr hat zehn, zwanzig, dreißig, hundert -</p>
+
+<p>MUTTER <hi rend="italic">(will ihn fortleiten)</hi></p>
+
+<p>STOLZIUS <term type="one-word" n="2465">Laßt mich</term>, Mutter, ich bin gesund.</p>
+
+<p>MUTTER Komm nur, komm <hi rend="italic">(<distinct type="alternative-form" n="fortschleppend">ihn mit Gewalt fortschleppend</distinct>)</hi>, Narre! - <distinct type="alternative-form" n="loslassen">Ich werde dich nicht loslassen</distinct>, das glaub' mir nur. <hi rend="italic">(Sie <distinct type="alternative-form" n="abgehen">gehen ab</distinct>)</hi>.</p>
+
+
+<p><hi rend="bold">Dritte Szene</hi> <hi rend="italic">(In Lille. <distinct type="alternative-form" n="JungferZipfersaat">Jungfer Zipfersaat</distinct>. Eine Magd aus Weseners Hause.)</hi></p>
+
+<p><distinct type="alternative-form" n="JungferZipfersaat">JUNGFER ZIPFERSAAT</distinct> Sie ist <term type="one-word" n="2466">zu Hause</term>, <term type="one-word" n="2248">aber sie läßt sich nicht sprechen</term>? Denk doch, ist sie so vornehm geworden?</p>
+
+<p>MAGD. Sie sagt, <term type="one-word" n="728">sie hat zu tun</term>; sie liest in einem Buch.</p>
+
+<p><distinct type="alternative-form" n="JungferZipfersaat">JUNGFER ZIPFERSAAT</distinct> Sag Sie ihr nur, ich hätt' ihr etwas zu sagen, <term type="one-word" n="180">woran ihr alles in der Welt gelegen ist</term>.</p>
+
+<p><hi rend="italic">(Marie kommt, ein Buch in der Hand.)</hi></p>
+<p>MARIE <hi rend="italic">(<distinct type="alternative-form" n="nachlässigem">mit nachlässigem Ton</distinct>)</hi> Guten Morgen <distinct type="alternative-form" n="JungferZipfersaat">Jungfer Zipfersaat</distinct>. <term type="one-word" n="2467">Warum hat Sie sich nicht gesetzt</term>?</p>
+
+<p><distinct type="alternative-form" n="JungferZipfersaat">JUNGFER ZIPFERSAAT</distinct> Ich kam, ihr nur zu sagen, daß der Baron Desportes diesen Morgen weggelaufen ist.</p>
+
+<p>MARIE. <term type="one-word" n="2468">Was redst du da</term>? <hi rend="italic"><term type="one-word" n="22">(Ganz außer sich)</term></hi></p>
+
+<p><distinct type="alternative-form" n="JungferZipfersaat">JUNGFER ZIPFERSAAT</distinct> Sie kann es mir glauben; er ist meinem Vetter <term type="one-word" n="895">über die siebenhundert</term> Taler <distinct type="alternative-form" n="schuldig">schuldig geblieben</distinct>, und als sie auf sein Zimmer kamen, fanden sie alles ausgeräumt und einen Zettel auf dem Tisch, wo er ihnen schrieb, <distinct type="alternative-form" n="nachzusetzen">sie sollten sich keine Mühe geben, ihm nachzusetzen</distinct>, <term type="one-word" n="2249">er hab' seinen Abschied genommen</term> und <distinct type="alternative-form" n="österreichische">wolle in österreichische Dienste gehen</distinct>.</p>
+
+<p>MARIE <hi rend="italic">(schluchzend, <distinct type="alternative-form" n="herauslaufen">läuft heraus</distinct> und ruft)</hi> Papa! Papa!</p>
+
+<p>WESENER <hi rend="italic">(hinter der Szene)</hi>. Na, was ist?</p>
+
+<p>MARIE. <term type="one-word" n="1587">Komm Er doch geschwind herauf</term>, lieber Papa!</p>
+
+<p><distinct type="alternative-form" n="JungferZipfersaat">JUNGFER ZIPFERSAAT</distinct> Da sieht Sie, wie die Herren Offiziers sind. <term type="one-word" n="2250">Das hätt' ich ihr wollen zum voraus sagen</term>.</p>
+
+<p>WESENER <hi rend="italic">(kommt herein)</hi>. Na. was ist - Ihr Diener, <distinct type="alternative-form" n="JungferZipfersaat">Jungfer Zipfersaat</distinct>.</p>
+
+<p>MARIE. Papa, was sollen wir anfangen? Der Desportes ist weggelaufen.</p>
+
+<p>WESENER <term type="one-word" n="1311">Ei sieh doch</term>, wer erzählt dir denn <distinct type="alternative-form" n="Histörchen">so artige Histörchen</distinct>?</p>
+
+<p>MARIE. Er ist <term type="one-word" n="2469">dem jungen Herrn Seidenhändler Zipfersaat</term> siebenhundert Taler <distinct type="alternative-form" n="schuldig">schuldig geblieben</distinct> und hat einen Zettel auf dem Tisch gelassen, daß er in seinem Leben nicht nach Flandern wiederkommen will.</p>
+
+<p>WESENER <hi rend="italic">(sehr böse)</hi>. Was das ein gottloses verdammtes Gered' - <hi rend="italic">(<term type="one-word" n="2471">Sich auf die Brust schlagend</term>)</hi>  <term type="one-word" n="2472">Ich sag' gut für die siebenhundert Taler</term>, versteht Sie mich, <distinct type="alternative-form" n="JungferZipfersaat">Jungfer Zipfersaat</distinct>? <term type="one-word" n="2473">Und für noch einmal so viel, wenn Sie's haben will</term>. <distinct type="alternative-form" n="verkehrt">Ich hab' mit dem Hause über die dreißig Jahr verkehrt</distinct>, aber das sind die gottsvergessenen Neider -</p>
+
+<p><distinct type="alternative-form" n="JungferZipfersaat">JUNGFER ZIPFERSAAT</distinct> Das wird meinem Vetter eine große Freude machen, Herr Wesener, <term type="one-word" n="1704">wenn Sie es auf sich nehmen wollen</term>, den guten Namen vom Herrn Baron zu retten.</p>
+
+<p>WESENER. Ich geh' mit ihr, den Augenblick. <hi rend="italic">(Er sucht seinen Hut)</hi>  Ich will <term type="one-word" n="2251">den Leuten das Maul stopfen</term>, die <distinct type="alternative-form" n="unterstehen">sich unterstehen</distinct> wollen, <term type="one-word" n="2252">mir das Haus in übeln Ruf zu bringen</term>; versteht Sie mich?</p>
+
+<p>MARIE. Aber Papa - <hi rend="italic">(Ungeduldig)</hi>  Oh, ich wünschte daß ich ihn nie gesehen hätte.</p>
+
+<p>WESENER und <distinct type="alternative-form" n="JungferZipfersaat">JUNGFER ZIPFERSAAT</distinct> <hi rend="italic">(<distinct type="alternative-form" n="abgehen">gehen ab</distinct>)</hi>.</p>
+
+<p>MARIE <hi rend="italic">(wirft sich in den Sorgstuhl, und nachdem sie <distinct type="alternative-form" n="Weile">eine Weile</distinct> in tiefen Gedanken gesessen, ruft sie ängstlich)</hi>  Lotte! - Lotte!</p>
+
+<p>CHARLOTTE <hi rend="italic">(kommt)</hi>. Na, was willst du denn, daß du mich so rufst?</p>
+
+<p>MARIE <hi rend="italic">(<term type="one-word" n="2474">geht ihr entgegen</term>)</hi>. Lottchen - mein liebes Lottchen <hi rend="italic">(Ihr unter den Kinn streichelnd)</hi>.</p>
+
+<p>CHARLOTTE. Na, <distinct type="alternative-form" n="behüte">Gott behüte</distinct>, <distinct type="alternative-form" n="Wunder">wo kommt das Wunder</distinct>?</p>
+
+<p>MARIE. Du bist auch mein allerbestes Charlottel, du.</p>
+
+<p>CHARLOTTE. Gewiß will sie wieder Geld von mir leihen.</p>
+
+<p>MARIE. Ich will dir auch alles zu Gefallen tun.</p>
+
+<p>CHARLOTTE. Ei was, ich habe nicht Zeit <hi rend="italic">(Sie will gehen)</hi>.</p>
+
+<p>MARIE <hi rend="italic">(hält sie)</hi>. So hör doch - nur für einen Augenblick - kannst du mir nicht helfen, einen Brief schreiben?</p>
+
+<p>CHARLOTTE. Ich habe nicht Zeit.</p>
+
+<p>MARIE. Nur ein paar Zeilen - <distinct type="alternative-form" n="Livres">ich lass' dir auch die Perlen vor sechs Livres</distinct>.</p>
+
+<p>CHARLOTTE. <term type="one-word" n="2475">An wen denn</term>?</p>
+
+<p>MARIE <hi rend="italic">(beschämt)</hi>. An den Stolzius.</p>
+
+<p>CHARLOTTE <hi rend="italic">(<distinct type="alternative-form" n="anfangen">fängt an</distinct> zu lachen)</hi>. <term type="one-word" n="840">Schlägt Ihr das Gewissen</term>?</p>
+
+<p>MARIE (halb weinend). <term type="one-word" n="2152">So laß doch</term> -</p>
+
+<p>CHARLOTTE <hi rend="italic">(setzt sich an den Tisch)</hi>. Na, was willst ihm denn schreiben - Sie weiß, <distinct type="alternative-form" n="ungern">wie ungern ich schreib'</distinct>.</p>
+
+<p>MARIE. <term type="one-word" n="103">Ich hab' so ein Zittern in den Händen</term> - schreib so oben oder in einer Reihe, wie du willst - '<distinct type="alternative-form" n="liebwertester">Mein liebwertester Freund</distinct>'.</p>
+
+<p>CHARLOTTE. <distinct type="alternative-form" n="liebwertester">Mein liebwertester Freund</distinct>.</p>
+
+<p>MARIE. '<distinct type="alternative-form" n="dero">Dero haben</distinct> in Ihrem letzten Schreiben mir <distinct type="alternative-form" n="billige">billige Gelegenheit</distinct> gegeben, <term type="one-word" n="2478">da meine Ehre angegriffen</term>.</p>
+
+<p>CHARLOTTE Angegriffen.</p>
+
+<p>MARIE '<term type="one-word" n="2477">Indessen müssen nicht alle Ausdrücke auf der Waagschale legen</term>, <term type="one-word" n="2476">sondern auf das Herz ansehen</term>, das Ihnen' - wart, wie soll ich nun schreiben? </p>
+
+<p>CHARLOTTE Was weiß ich? </p>
+
+<p>MARIE So sag doch, wie heißt das Wort nun? </p>
+
+<p>CHARLOTTE Weiß ich denn, was du ihm schreiben willst? </p>
+
+<p>MARIE "Daß mein Herz und -" <hi rend="italic">(<distinct type="alternative-form" n="anfangen">Fängt an</distinct> zu weinen und wirft sich in den Lehnstuhl.)</hi></p>
+
+<p>CHARLOTTE <hi rend="italic">(<distinct type="alternative-form" n="ansehen">sieht </distinct>sie <distinct type="alternative-form" n="ansehen">an</distinct> und lacht)</hi>  Na, was soll ich ihm denn schreiben? </p>
+
+<p>MARIE <hi rend="italic">(schluchzend)</hi>  Schreib, was du willst. </p>
+
+<p>CHARLOTTE <hi rend="italic">(schreibt und liest)</hi>  "Daß mein Herz nicht so wankelmütig ist, als Sie es <distinct type="alternative-form" n="vorstellen">sich vorstellen</distinct>" - ist so recht? </p>
+
+<p>MARIE <hi rend="italic">(<distinct type="alternative-form" n="aufspringen">springt auf</distinct> und <term type="one-word" n="2479">sieht ihr über die Schulter</term>)</hi> Ja, so ist's recht, so ist's recht. <hi rend="italic">(Sie umhalsend.)</hi> Mein altes Scharlottel du. </p>
+
+<p>CHARLOTTE Na, <distinct type="alternative-form" n="ausschreiben">so laß Sie mich doch ausschreiben</distinct>.</p>
+
+<p><hi rend="italic">(Marie spaziert ein paarmal <term type="one-word" n="2480">auf und ab</term>, dann springt sie plötzlich zu ihr, <term type="one-word" n="2481">reißt ihr das Papier unter dem Arm weg</term> und zerreißt's in tausend Stücken.)</hi></p>
+
+<p>CHARLOTTE <hi rend="italic">(in Wut)</hi>  Na, seht doch - ist das nicht ein Luder eben, da ich den besten Gedanken hatte - aber so eine Canaille ist Sie. </p>
+
+<p>MARIE Canaille vous même. </p>
+
+<p>CHARLOTTE <hi rend="italic">(droht ihr mit dem Dintenfaß)</hi>  Du- </p>
+
+<p>MARIE <term type="one-word" n="2482">Sie sucht einen noch mehr zu kränken</term>, wenn man schon im Unglück ist. </p>
+
+<p>CHARLOTTE Luder! warum zerreißt du denn, <term type="one-word" n="2483">da ich eben im besten Schreiben bin</term>? </p>
+
+<p>MARIE <hi rend="italic">(ganz hitzig)</hi>  Schimpf nicht! </p>
+
+<p>CHARLOTTE <hi rend="italic">(auch halb weinend)</hi>  Warum zerreißt du denn? </p>
+
+<p>MARIE <distinct type="alternative-form" n="vorlügen">Soll ich ihm denn vorlügen</distinct>?<hi rend="italic"> (Fängt äußerst heftig an zu weinen und wirft sich mit dem Gesicht auf einen Stuhl.)</hi></p>
+
+<p><hi rend="italic">(Wesener <distinct type="alternative-form" n="hereintreten">tritt herein</distinct>. Marie <distinct type="alternative-form" n="aufsehen">sieht auf</distinct> und <term type="one-word" n="2253">fliegt ihm an den Hals</term>.)</hi></p>
+
+<p>MARIE <hi rend="italic">(zitternd)</hi>  Pappa, lieber Pappa, <term type="one-word" n="2484">wie steht's</term> - <distinct type="alternative-form" n="Gotteswillen">um Gotteswillen</distinct>, red Er doch.</p>
+
+<p>WESENER So sei doch nicht so närrisch, <term type="one-word" n="2486">er ist ja nicht aus der Welt</term>, <term type="one-word" n="2485">Sie tut ja wie abgeschmackt</term> -</p>
+
+<p>MARIE Wenn er aber <term type="multiword" n="2487">fort</term> ist-</p>
+
+<p>WESENER Wenn er <term type="multiword" n="2487">fort</term> ist, so muß er wiederkommen, ich glaube, Sie hat den Verstand verloren und will mich auch wunderlich machen. Ich kenne das Haus <term type="one-word" n="2488">seit länger als gestern</term>, <term type="one-word" n="1414">sie werden doch das nicht wollen auf sich sitzen lassen</term>. <distinct type="alternative-form" n="kurz">Kurz und gut</distinct>, <distinct type="alternative-form" n="Notarius">schick herauf zu unserm Notarius droben, ob er zu Hause ist</distinct>, ich will den Wechsel, den ich für ihn unterschrieben habe, <distinct type="alternative-form" n="vidimieren">vidimieren lassen</distinct>, zugleich die Kopie von dem Promesse de Mariage, und alles den Eltern zuschicken.</p>
+
+<p>MARIE Ach Papa, lieber Pappa! ich will gleich selber laufen und ihn holen.<hi rend="italic"> (<term type="one-word" n="1076">Läuft über Hals und Kopf ab</term>.)</hi></p>
+
+<p>WESENER Das Mädel kann, <term type="one-word" n="1134">Gott verzeih mir</term>, <term type="one-word" n="2489">einem Louis quatorze selber das Herz machen in die Hosen fallen</term>. <term type="one-word" n="2490">Aber schlecht ist das auch von Monsieur le Baron</term>, <term type="one-word" n="2254">ich will es bei seinem Herrn Vater schon für ihn kochen</term>, <term type="one-word" n="2493">wart du nur</term>. - <term type="one-word" n="2492">Wo bleibt sie denn</term>? <hi rend="italic">(<distinct type="alternative-form" n="nachgehen">Geht</distinct> Marien <distinct type="alternative-form" n="nachgehen">nach</distinct>.)</hi></p>
+
+
+<p><hi rend="bold">Vierte Szene</hi></p>
+<p>IN ARMENTIERES <hi rend="italic">(Ein Spaziergang <distinct type="alternative-form" n="eingegangenen">auf dem eingegangenen Stadtgraben</distinct>. Eisenhardt und Pirzel spazieren.)</hi></p>
+
+<p>EISENHARDT Herr von Mary will <term type="one-word" n="2494">das Semester</term> in Lille zubringen, <distinct type="alternative-form" n="bedeuten">was mag das zu bedeuten haben</distinct>? Er hat doch dort keine Verwandte, soviel ich weiß.</p>
+
+<p>PIRZEL: Er ist auch <term type="one-word" n="2495">keiner von denen</term>, <distinct type="alternative-form" n="weghaben">die es weghaben</distinct>. Flüchtig, flüchtig - Aber der Obristlieutenant, das ist ein Mann.</p>
+
+<p>EISENHARDT <hi rend="italic">(beiseite)</hi>  Weh mir, wie bring ich den Menschen aus seiner Metaphysik zurück - (<hi rend="italic">Laut</hi>). Um den Menschen zu kennen, müßte man <distinct type="alternative-form" n="Erachtens">meines Erachtens</distinct> bei dem Frauenzimmer anfangen. </p>
+
+<p>PIRZEL<hi rend="italic"> (schüttelt den Kopf. )</hi></p>
+
+<p>EISENHARDT <hi rend="italic">(beiseite)</hi>  Was die andern zuviel sind, ist der zuwenig. O Soldatenstand, furchtbare Ehlosigkeit, was für Karikaturen machst du aus den Menschen?</p>
+
+<p>PIRZEL: Sie <distinct type="alternative-form" n="meinst">meinen</distinct>, beim Frauenzimmer - <term type="one-word" n="99">das wär grad, als ob man bei den Schafen anfinge</term>. Nein, was der Mensch ist. (<hi rend="italic"><term type="one-word" n="1496">Den Finger an der Nase</term></hi>. )</p>
+
+<p>EISENHARDT <hi rend="italic">(beiseite)</hi>  <distinct type="alternative-form" n="philosophiert">Der philosophiert mich zu Tode</distinct>. <hi rend="italic">(Laut)</hi>. <term type="one-word" n="1048">Ich habe die Anmerkung gemacht</term>, daß man in diesem Monat keinen Schritt vors Tor tun kann, <term type="one-word" n="2255">wo man nicht einen Soldaten mit einem Mädchen karessieren sieht</term>. </p>
+
+<p>PIRZEL: <term type="one-word" n="2496">Das macht, weil</term> die Leute nicht denken. </p>
+
+<p>EISENHARDT Aber hindert Sie <distinct type="alternative-form" n="Denkens">das Denken</distinct> nicht zuweilen im Exerzieren? </p>
+
+<p>PIRZEL: <term type="one-word" n="2498">Ganz und gar nicht</term>, das geht so mechanisch. <term type="one-word" n="2499">Haben doch die andern auch nicht die Gedanken beisammen</term>, <term type="one-word" n="2500">sondern schweben ihnen alleweile die schönen Mädchens vor den Augen</term>. </p>
+
+<p>EISENHARDT <distinct type="alternative-form" n="Bataillen">Das muß seltsame Bataillen geben</distinct>. Ein ganzes Regiment mit verrückten Köpfen muß Wundertaten tun. </p>
+
+<p>PIRZEL Das geht alles mechanisch. </p>
+
+<p>EISENHARDT Ja, aber Sie laufen auch mechanisch. Die preußischen Kugeln müssen Sie bisweilen sehr unsanft aus Ihren süßen Träumen geweckt haben. <hi rend="italic">(Gehen weiter.)</hi></p>
+
+
+<p><hi rend="bold">Fünfte Szene</hi></p>
+<p>IN LILLE - MARYS WOHNUNG <hi rend="italic">(Mary. Stolzius <term type="one-word" n="2501">als Soldat</term>.)</hi></p>
+
+<p>MARY <hi rend="italic">(zeichnet, <distinct type="alternative-form" n="aufsehen">sieht auf</distinct>)</hi>  Wer da? <hi rend="italic">(<distinct type="alternative-form" n="ansehen">Sieht</distinct> ihn lang <distinct type="alternative-form" n="ansehen">an</distinct> und <distinct type="alternative-form" n="aufstehen">steht auf</distinct>.)</hi> Stolzius?</p>
+
+<p>STOLZIUS Ja, Herr.</p>
+
+<p>MARY <term type="multiword" n="2502">Wo</term>, <distinct type="alternative-form" n="Sackerment">zum Sackerment</distinct>, <term type="multiword" n="2502">kommt Ihr denn her</term>? und in diesem Rock? <hi rend="italic">(<distinct type="alternative-form" n="umkehren">Kehrt</distinct> ihn <distinct type="alternative-form" n="umkehren">um</distinct>)</hi>. Wie verändert, wie abgefallen, wie blaß? <term type="one-word" n="1109">Ihr könntet mir's hundertmal sagen, Ihr wärt Stolzius, ich glaubt es Euch nicht.</term></p>
+
+<p>STOLZIUS <term type="one-word" n="1611">Das macht</term> der Schnurrbart, gnädiger Herr. Ich hörte, daß <distinct type="alternative-form" n="Gnaden">Euer Gnaden</distinct> einen Bedienten brauchten, und <term type="one-word" n="1389">weil ich dem Herrn Obristen sicher bin</term>, so hat er mir die Erlaubnis gegeben, hieherzukommen, um allenfalls <distinct type="alternative-form" n="anwerben">Ihnen einige Rekruten anwerben zu helfen</distinct> und Sie zu bedienen.</p>
+
+<p>MARY Bravo! Ihr seid ein braver Kerl! und das gefällt mir, daß Ihr dem König dient. <term type="one-word" n="2503">Was kommt auch heraus bei dem Philisterleben</term>. Und <distinct type="alternative-form" n="zuzusetzen">Ihr habt was zuzusetzen</distinct>, Ihr könnt honett leben und <term type="one-word" n="2504">es noch einmal weit bringen</term>, <term type="one-word" n="2505">ich will für Euch sorgen</term>, das könnt Ihr versichert sein. Kommt nur, <distinct type="alternative-form" n="besprechen">ich will gleich ein Zimmer für Euch besprechen</distinct>, Ihr sollt diesen ganzen Winter bei mir bleiben, <term type="one-word" n="283">ich will es schon gut machen beim Obristen</term>.</p>
+
+<p>STOLZIUS <term type="one-word" n="2506">Solang ich meine Schildwachten bezahle</term>, <distinct type="alternative-form" n="anhaben">kann mir niemand was anhaben</distinct>. <hi rend="italic">(<distinct type="alternative-form" n="abgehen">Gehen ab</distinct>.)</hi></p>
+
+
+<p><hi rend="bold">Sechste Szene</hi> <hi rend="italic">(Frau Wesener. Marie. Charlotte.)</hi></p>
+
+<p>FRAU WESENER: Es ist eine Schande, <distinct type="alternative-form" n="umgeht">wie Sie mit ihm umgeht</distinct>. Ich seh keinen Unterschied, <term type="one-word" n="2508">wie du dem Desportes begegnet bist, so begegnest du ihm auch</term>.</p>
+
+<p>MARIE Was soll ich denn machen, Mamma? Wenn er nun sein bester Freund ist und <term type="multiword" n="2509">er</term> uns <term type="multiword" n="2509">allein</term> noch Nachrichten von ihm verschaffen kann.</p>
+
+<p>CHARLOTTE Wenn er dir nicht so viele Präsente machte, <term type="one-word" n="2510">würdst du auch anders mit ihm sein</term>.</p>
+
+<p>MARIE Soll ich ihm denn die Präsente ins Gesicht zurückwerfen? Ich muß doch wohl höflich mit ihm sein, <term type="one-word" n="902">da</term> er noch <term type="one-word" n="2511">der einzige</term> ist, der mit ihm korrespondiert. Wenn ich ihn abschrecke, <term type="one-word" n="2512">da wird schön Dings herauskommen</term>, er <distinct type="alternative-form" n="aufgefangen">fängt</distinct> ja alle Briefe <distinct type="alternative-form" n="aufgefangen">auf</distinct>, die der Pappa an seinen Vater schreibt, <term type="one-word" n="1145">das hört Sie ja</term>. </p>
+
+<p>FRAU WESENER: <term type="one-word" n="2258">Kurz und gut</term>, du sollst nun nicht ausfahren mit diesem, <term type="one-word" n="2513">ich leid es nicht</term>. </p>
+
+<p>MARIE So <distinct type="alternative-form" n="mitkommen">komm</distinct> Sie denn <distinct type="alternative-form" n="mitkommen">mit</distinct>, Mama! er hat Pferd und Cabriolet bestellt, <distinct type="alternative-form" n="zurückfahren">sollen die wieder zurückfahren</distinct>? </p>
+
+<p>FRAU WESENER <term type="one-word" n="2515">Was geht's mich an</term>? </p>
+
+<p>MARIE So <distinct type="alternative-form" n="mitkommen">komm</distinct> du denn <distinct type="alternative-form" n="mitkommen">mit</distinct>, Lotte - Was <distinct type="alternative-form" n="anfangen">fang</distinct> ich nun <distinct type="alternative-form" n="anfangen">an</distinct>? Mamma, Sie weiß nicht, <distinct type="alternative-form" n="aussteh">was ich alles aussteh</distinct> <distinct type="alternative-form" n="Ihrentwillen">um Ihrentwillen</distinct>. </p>
+
+<p>CHARLOTTE Sie ist frech obenein. </p>
+
+<p>MARIE <distinct type="alternative-form" n="stillschweigend">Schweig</distinct> du nur <distinct type="alternative-form" n="stillschweigend">still</distinct>. </p>
+
+<p>CHARLOTTE <hi rend="italic">(<term type="one-word" n="587">etwas leise für sich</term>)</hi>  Soldatenmensch. </p>
+
+<p>MARIE <hi rend="italic">(<term type="one-word" n="2259">tut, als ob sie's nicht hörte, und fährt fort, sich vor dem Spiegel zu putzen</term>)</hi>  Wenn wir den Mary beleidigen, <term type="one-word" n="2516">so haben wir alles uns selber vorzuwerfen</term>. </p>
+
+<p>CHARLOTTE <hi rend="italic">(laut, indem sie schnell zur Stube hinausgeht)</hi> Soldatenmensch! </p>
+
+<p>MARIE <hi rend="italic">(<term type="one-word" n="2260">kehrt sich um</term>)</hi>  Seh Sie nur, Mamma! <hi rend="italic">(Die Hände faltend. )</hi></p>
+
+<p>FRAU WESENER Wer kann dir helfen, <distinct type="alternative-form" n="darnach">du machst es darnach</distinct>.</p>
+
+<p><hi rend="italic">(Mary <distinct type="alternative-form" n="hereintreten">tritt herein</distinct>.)</hi></p>
+<p>MARIE <hi rend="italic">(<distinct type="alternative-form" n="aufheitern">heitert</distinct> schnell ihr Gesicht <distinct type="alternative-form" n="aufheitern">auf</distinct>. Mit der größten Munterkeit und Freundlichkeit ihm <distinct type="alternative-form" n="entgegengehen">entgegen gehend</distinct>)</hi>  Ihre Dienerin, Herr von Mary! haben Sie wohl geschlafen? </p>
+
+<p>MARY Unvergleichlich, meine gnädige Mademoiselle! ich habe das ganze gestrige Feuerwerk im Traum <distinct type="alternative-form" n="andernmal">zum andernmal</distinct> gesehen. </p>
+
+<p>MARIE Es war doch recht schön. </p>
+
+<p>MARY Es muß wohl schön gewesen sein, weil es Ihre Approbation hat.</p>
+
+<p>MARIE O <distinct type="alternative-form" n="Connoisseuse">ich bin keine Connoisseuse von den Sachen</distinct>, <term type="one-word" n="951">ich sage nur wieder</term>, wie ich es von Ihnen gehört habe. <hi rend="italic">(Er küßt ihr die Hand, sie <distinct type="alternative-form" n="Knicks">macht einen tiefen Knicks</distinct>.)</hi>  <distinct type="alternative-form" n="Rumor">Sie sehen uns hier noch ganz in Rumor</distinct>, meine Mutter wird gleich fertig sein. </p>
+
+<p>MARY Madam Wesener <distinct type="alternative-form" n="mitkommen">kommen</distinct> also <distinct type="alternative-form" n="mitkommen">mit</distinct>? </p>
+
+<p>FRAU WESENER <hi rend="italic">(trocken)</hi>  Wieso? <distinct type="alternative-form" n="Platz">ist kein Platz für mich da</distinct>?</p>
+
+<p>MARY O ja, <term type="one-word" n="2517">ich steh hinten auf</term>, und <distinct type="alternative-form" n="Caspar">mein Caspar kann zu Fuß vorangehn</distinct>. </p>
+
+<p>MARIE Hören Sie, <term type="one-word" n="2518">Ihr Soldaten</term> gleicht sehr viel einem gewissen Menschen, den ich ehemals gekannt habe und der auch um mich angehalten hat. </p>
+
+<p>MARY <distinct type="alternative-form" n="Körbchen">Und Sie gaben ihm ein Körbchen</distinct>. <term type="one-word" n="2519">Daran ist auch der Desportes wohl schuld gewesen</term>. </p>
+
+<p>MARIE <term type="one-word" n="2261">Er hat mir's eingetränkt.</term> </p>
+
+<p>MARY Wollen wir? <hi rend="italic">(Er bietet ihr die Hand, <term type="one-word" n="2520">sie macht ihm einen Knicks</term> und <term type="one-word" n="2521">winkt auf ihre Mutter</term>, er gibt Frau Wesenern die Hand und sie folgt ihnen.)</hi></p>
+
+
+<p><hi rend="bold">Siebente Szene</hi></p>
+<p>IN PHILIPPEVILLE <hi rend="italic">(Desportes allein, ausgezogen, in einem grünen Zimmer, einen Brief schreibend, ein brennend Licht vor ihm.)</hi></p>
+
+<p>DESPORTES <hi rend="italic">(brummt, indem er schreibt)</hi>  <distinct type="alternative-form" n="schmieren">Ich muß ihr doch das Maul ein wenig schmieren</distinct>, <distinct type="alternative-form" n="Briefschreiben">sonst nimmt das Briefschreiben kein Ende</distinct>, und mein Vater <distinct type="alternative-form" n="aufgefangen">fängt</distinct> noch wohl gar einmal einen <distinct type="alternative-form" n="aufgefangen">auf</distinct>. <hi rend="italic">(Liest den Brief)</hi>. "Ihr bester Vater ist böse auf mich, daß ich ihn so lange aufs Geld warten lasse, ich bitte Sie, besänftigen Sie ihn, bis ich eine bequeme Gelegenheit finde, <distinct type="alternative-form" n="entdecken">meinem Vater alles zu entdecken</distinct> und ihn zu der Einwilligung zu bewegen, Sie, meine Geliebte, <distinct type="alternative-form" n="eternally">auf ewig</distinct> zu besitzen. Denken Sie, ich bin in der größten Angst, daß er nicht schon einige von Ihren Briefen aufgefangen hat, denn ich sehe aus Ihrem letzten, daß Sie viele an mich müssen geschrieben haben, die ich nicht erhalten habe. Und das könnte uns alles verderben. Darf ich bitten, so schreiben Sie nicht eher an mich, als bis ich Ihnen eine neue Adresse geschickt habe, unter der ich die Briefe sicher erhalten kann." <hi rend="italic">(<distinct type="alternative-form" n="Siegelt">Siegelt zu</distinct>)</hi>. Wenn ich den Mary recht <distinct type="alternative-form" n="verliebt">verliebt in</distinct> sie machen könnte, daß sie mich vielleicht vergißt. Ich will ihm schreiben, er soll nicht von meiner Seite kommen, wenn ich <distinct type="alternative-form" n="anbetungswürdige">meine anbetungswürdige Marie</distinct> werde glücklich gemacht haben, er soll ihr Cicisbeo sein, wart nur.<hi rend="italic"> (Spaziert einigemal tiefsinnig auf und nieder, dann geht er heraus.)</hi></p>
+
+
+<p><hi rend="bold">Achte Szene</hi></p>
+<p>IN LILLE. DER GRÄFIN LA ROCHE WOHNUNG <hi rend="italic">(Die Gräfin. Ein Bedienter.)</hi></p>
+
+<p>GRÄFIN <hi rend="italic">(<term type="one-word" n="1397">sieht nach ihrer Uhr</term>)</hi>  Ist der junge Herr noch nicht zurückgekommen?</p>
+
+<p>BEDIENTER Nein, gnädige Frau. </p>
+
+<p>GRÄFIN Gebt mir den Hauptschlüssel und <term type="one-word" n="2522">legt Euch schlafen</term>. Ich werde dem jungen Herrn selber aufmachen. Was macht <distinct type="alternative-form" n="Cathrinchen">Jungfer Cathrinchen</distinct>?</p>
+
+<p>BEDIENTER Sie hat den Abend <term type="one-word" n="2523">große Hitze</term> gehabt. </p>
+
+<p>GRÄFIN <term type="one-word" n="2524">Geht nur noch einmal hinein</term> und seht, ob die Mademoiselle auch noch munter ist. Sagt ihr nur, ich gehe nicht zu Bett, <distinct type="alternative-form" n="ablösen">um ein Uhr werde ich kommen und sie ablösen</distinct>. <hi rend="italic">(Bedienter ab)</hi></p>
+
+<p>GRÄFIN <hi rend="italic">(allein)</hi>  Muß denn ein Kind seiner Mutter bis ins Grab Schmerzen schaffen? <term type="one-word" n="2525">Wenn du nicht mein Einziger wärst</term> und ich dir kein so empfindliches Herz gegeben hätte <hi rend="italic">(<term type="one-word" n="1891">Man pocht</term>. Sie <term type="one-word" n="2526">geht heraus</term> und <term type="one-word" n="2257">kommt wieder herein</term> mit ihm.)</hi></p>
+
+<p>JUNGER GRAF Aber gnädige Mutter, wo ist denn der Bediente? <term type="one-word" n="2001">Die verfluchten Leute</term>, wenn es nicht so spät wäre, <term type="one-word" n="533">ich ließ den Augenblick nach der Wache gehen</term> und <term type="one-word" n="1369">ihm alle Knochen im Leibe entzweischlagen</term>.</p>
+
+<p>GRÄFIN Sachte, sachte, mein Sohn. Wie, <distinct type="alternative-form" n="übereilte">wenn ich mich nun gegen dich so übereilte</distinct>, wie du gegen den unschuldigen Menschen.</p>
+
+<p>JUNGER GRAF Aber <distinct type="alternative-form" n="auszuhalten">es ist doch nicht auszuhalten</distinct>.</p>
+
+<p>GRÄFIN Ich selbst habe ihn zu Bett geschickt. Ist's nicht genug, <term type="one-word" n="2262">daß der Kerl den ganzen Tag auf dich passen muß</term>. <term type="one-word" n="2263">Soll er sich auch die Nachtruhe entziehen um deinetwillen</term>? Ich glaube, du willst mich lehren, die Bedienten anzusehen wie die Bestien.</p>
+
+<p>JUNGER GRAF <hi rend="italic">(küßt ihr die Hand)</hi>  Gnädige Mutter.</p>
+
+<p>GRÄFIN Ich muß ernsthaft mit dir reden, junger Mensch! Du <distinct type="alternative-form" n="anfangen">fängst an</distinct>, mir trübe Tage zu machen. Du weißt, ich habe dich nie eingeschränkt, <term type="one-word" n="713">mich in alle deine Sachen gemischt als deine Freundin, nie als Mutter</term>. Warum <distinct type="alternative-form" n="anfangen">fängst</distinct> du mir denn jetzt <distinct type="alternative-form" n="anfangen">an</distinct>, ein Geheimnis aus deinen Herzensangelegenheiten zu machen, <distinct type="alternative-form" n="Torheiten">da du doch sonst keine deiner jugendlichen Torheiten vor mir geheimhieltest</distinct> und ich, weil ich selbst ein Frauenzimmer bin, dir allezeit den besten Rat zu geben wußte.<hi rend="italic"> (<distinct type="alternative-form" n="ansehen">sieht</distinct> ihn steif <distinct type="alternative-form" n="ansehen">an</distinct>.)</hi>  Du <distinct type="alternative-form" n="anfangen">fängst an</distinct>, lüderlich zu werden, mein Sohn.</p>
+
+<p>JUNGER GRAF <hi rend="italic">(ihr die Hand mit Tränen küssend)</hi>  Gnädige Mutter, ich schwöre Ihnen, <term type="one-word" n="2527">ich habe kein Geheimnis für Sie</term>. Sie haben mir nach dem Nachtessen mit <term type="multiword" n="2529">Jungfer Wesenern</term> begegnet, Sie haben <term type="one-word" n="2530">aus der Zeit</term> und <term type="one-word" n="856">aus der Art, mit der wir sprachen</term>, <distinct type="alternative-form" n="Schlüsse">Schlüsse gemacht</distinct> - es ist ein artig Mädchen, und das ist alles.</p>
+
+<p>GRÄFIN Ich will nichts mehr wissen. Sobald du Ursache zu haben glaubst, mir was zu verhehlen - aber bedenk auch, <term type="one-word" n="2531">daß du hernach die Folgen deiner Handlungen nur dir selber zuzuschreiben hast</term>. <distinct type="alternative-form" n="Anklam">Fräulein Anklam</distinct> hat hier Verwandte, und ich weiß, daß <term type="multiword" n="2529">Jungfer Wesenern</term> <term type="one-word" n="2532">nicht in dem besten Ruf steht</term>, ich glaube, nicht aus ihrer Schuld, <term type="one-word" n="2533">das arme Kind soll hintergangen worden sein</term>.</p>
+
+<p>JUNGER GRAF <hi rend="italic">(kniend)</hi>  <term type="one-word" n="265">Eben das</term>, gnädige Mutter! eben ihr Unglück - <distinct type="alternative-form" n="Umstände">Wenn Sie die Umstände wüßten</distinct>, ja, ich muß Ihnen alles sagen, ich fühle, daß ich <distinct type="alternative-form" n="Anteil">einen Anteil an</distinct> dem Schicksal des Mädchens <distinct type="alternative-form" n="Anteil">nehme</distinct> - Und doch - wie leicht ist sie zu hintergehen gewesen! ein so leichtes, offenes, unschuldiges Herz - es quält mich, Mama! <term type="one-word" n="1796">daß sie nicht in bessere Hände gefallen ist</term>.</p>
+
+<p>GRÄFIN Mein Sohn, <distinct type="alternative-form" n="überlaß">überlaß das Mitleiden mir</distinct>. Glaube mir <hi rend="italic">(umarmt ihn)</hi>  glaube mir, ich habe kein härteres Herz als du. Aber mir kann das Mitleiden nicht so gefährlich werden. Höre meinen Rat, folge mir. <distinct type="alternative-form" n="Ruhe">Um deiner Ruhe willen</distinct>, geh nicht mehr hin, reis aus der Stadt, reis zu <distinct type="alternative-form" n="Anklam">Fräulein Anklam</distinct> - und sei versichert, <term type="one-word" n="2534">daß es Jungfer Wesenern hier nicht übel werden soll</term>. <distinct type="alternative-form" n="zärtlichste">Du hast ihr in mir ihre zärtlichste Freundin zurückgelassen</distinct> - Versprichst du mir das?</p>
+
+<p>JUNGER GRAF <hi rend="italic">(<distinct type="alternative-form" n="ansehen">sieht</distinct> sie lang zärtlich <distinct type="alternative-form" n="ansehen">an</distinct>)</hi>  Gut, Mamma, ich verspreche Ihnen alles - Nur noch ein Wort, eh ich reise. Es ist ein unglückliches Mädchen, das ist gewiß.</p>
+
+<p>GRÄFIN <distinct type="alternative-form" n="Beruhige">Beruhige dich</distinct> nur. <hi rend="italic">(Ihm auf die Backen klopfend)</hi>. Ich glaube dir's mehr, als du mir es sagen kannst.</p>
+
+<p>JUNGER GRAF <hi rend="italic">(<distinct type="alternative-form" n="aufstehen">steht auf</distinct> und küßt ihr die Hand)</hi> Ich kenne Sie - <hi rend="italic">(Beide <distinct type="alternative-form" n="abgehen">gehen ab</distinct>.)</hi></p>
+
+
+<p><hi rend="bold">Neunte Szene</hi> <hi rend="italic">(Frau Wesener. Marie.)</hi></p>
+
+<p>MARIE <term type="one-word" n="2535">Laß Sie nur sein</term>, Mama! ich will ihn recht quälen.</p>
+
+<p>FRAU WESENER <term type="one-word" n="2536">Ach geh doch</term>! was? er hat dich vergessen, er ist in drei Tagen nicht hier gewesen, und die ganze Welt sagt, er hab sich verliebt in die kleine Madam Duval, da in der Brüßlerstraße.</p>
+
+<p>MARIE Sie kann nicht glauben, wie kompläsant der Graf gegen mich ist.</p>
+
+<p>FRAU WESENER Ei was, der soll ja auch schon versprochen sein.</p>
+
+<p>MARIE So quäl ich doch den Mary <term type="one-word" n="2537">damit</term>. <term type="one-word" n="1759">Er</term> kommt den Abend nach dem Nachtessen wieder her. <term type="one-word" n="2538">Wenn uns doch der Mary nur einmal begegnen wollte mit seiner Madam Duval</term>.</p>
+
+<p><hi rend="italic">(Ein Bedienter <distinct type="alternative-form" n="hereintreten">tritt herein</distinct>.)</hi></p>
+<p>BEDIENTER Die Gräfin La Roche <term type="one-word" n="2264">läßt fragen</term>, ob Sie zu Hause sind.</p>
+
+<p>MARIE<hi rend="italic"> (in der äußersten Verwirrung)</hi>  Ach Himmel, die Mutter vom Herrn Grafen - Sag Er nur - Mamma, so sag Sie doch, was soll er sagen.</p>
+
+<p>FRAU WESENER <hi rend="italic">(will gehen.)</hi></p>
+
+<p>MARIE Sag Er nur, es wird uns eine hohe Ehre - Mamma! Mamma! so red Sie doch.</p>
+
+<p>FRAU WESENER Kannst du denn das Maul nicht auftun? Sag Er, es wird uns eine hohe Ehre sein - <distinct type="alternative-form" n="Unordnung">wir sind zwar in der größten Unordnung hier</distinct>.</p>
+
+<p>MARIE Nein, nein, wart Er nur, ich will selber an den Wagen herabkommen. <hi rend="italic">(Geht herunter mit dem Bedienten. <term type="one-word" n="1419">Die alte Wesenern</term> <distinct type="alternative-form" n="fortgehen">geht fort</distinct>.)</hi></p>
+
+
+<p><hi rend="bold">Zehnte Szene</hi> <hi rend="italic">(die Gräfin La Roche und Marie, die wieder hereinkommen.)</hi></p>
+
+<p>MARIE Sie werden verzeihen, gnädige Frau, <term type="one-word" n="2265">es ist hier alles in der größten Rappuse</term>.</p>
+
+<p>GRÄFIN Mein liebes Kind, <distinct type="alternative-form" n="allergeringsten">Sie brauchen mit mir nicht die allergeringsten Umstände zu machen</distinct>. <hi rend="italic">(Faßt sie an die Hand und <distinct type="alternative-form" n="setzt">setzt sich</distinct> mit ihr aufs Kanapee)</hi>. <distinct type="alternative-form" n="ansehen">Sehen</distinct> Sie mich als Ihre beste Freundin <distinct type="alternative-form" n="ansehen">an</distinct> <hi rend="italic">(sie küssend,)</hi>  ich versichere Sie, daß ich den aufrichtigsten <distinct type="alternative-form" n="Anteil">Anteil nehme an allem</distinct>, was Ihnen begegnen kann.</p>
+
+<p>MARIE <hi rend="italic">(sich die Augen wischend)</hi>  Ich weiß nicht, <term type="one-word" n="2539">womit ich die besondere Gnade verdient habe, die Sie für mich tragen</term>. </p>
+
+<p>GRÄFIN Nichts von Gnade, ich bitte Sie. <term type="one-word" n="2540">Es ist mir lieb</term> daß wir allein sind, ich habe Ihnen viel, vieles zu sagen, <term type="one-word" n="2541">das mir auf dem Herzen liegt</term>, <distinct type="alternative-form" n="manches">und Sie auch manches zu fragen</distinct>. <hi rend="italic">(Marie sehr aufmerksam, die Freude in ihrem Gesicht.)</hi> Ich liebe Sie, mein Engel! <distinct type="alternative-form" n="enthalten">ich kann mich nicht enthalten</distinct>, es Ihnen zu zeigen. <hi rend="italic">(Marie küßt ihr inbrunstvoll die Hand.)</hi> Ihr ganzes Betragen hat <term type="one-word" n="2542">so etwas Offenes</term>, <term type="one-word" n="2543">so etwas Einnehmendes</term>, daß mir Ihr Unglück dadurch doppelt schmerzhaft wird. Wissen Sie denn auch, meine neue, liebe Freundin, daß man viel viel in der Stadt von Ihnen spricht?</p>
+
+<p>MARIE Ich weiß wohl, daß es allenthalben <term type="multiword" n="2544">böse</term> Zungen gibt.</p>
+
+<p>GRÄFIN Nicht lauter <term type="multiword" n="2544">böse</term>, auch gute sprechen von Ihnen. Sie sind unglücklich, aber Sie können <distinct type="alternative-form" n="trösten">sich</distinct> damit <distinct type="alternative-form" n="trösten">trösten</distinct>, <distinct type="alternative-form" n="zugezogen">daß Sie sich Ihr Unglück durch kein Laster zugezogen</distinct>. Ihr einziger Fehler war, daß Sie die Welt nicht kannten, daß Sie den Unterscheid nicht kannten, der <term type="one-word" n="2545">unter</term> den verschiedenen Ständen herrscht, daß Sie die "Pamela" gelesen haben, das gefährlichste Buch, das eine Person aus Ihrem Stande lesen kann.</p>
+
+<p>MARIE Ich kenne das Buch <term type="one-word" n="2546">ganz und gar nicht</term>.</p>
+
+<p>GRÄFIN So haben Sie den Reden der jungen Leute zuviel getraut.</p>
+
+<p>MARIE Ich habe nur einem zuviel getraut, und <distinct type="alternative-form" n="ausgemacht">es ist noch nicht ausgemacht</distinct>, ob er falsch gegen mich denkt.</p>
+
+<p>GRÄFIN Gut, liebe Freundin! aber sagen Sie mir, ich bitte Sie, <term type="one-word" n="2547">wie kamen Sie doch dazu</term>, <term type="one-word" n="2548">über Ihren Stand heraus sich nach einem Mann umzusehen</term>? Ihre Gestalt, dachten Sie, könnte Sie schon weiter führen als Ihre Gespielinnen; ach, liebe Freundin, eben das hätte Sie sollen vorsichtiger machen. Schönheit ist niemals ein Mittel, eine gute Heurat zu stiften, und niemand hat mehr Ursache zu zittern als <term type="one-word" n="2549">ein schön Gesicht</term>. Tausend Gefahren, <distinct type="alternative-form" n="überstreut">mit Blumen überstreut</distinct>, tausend Anbeter und keinen Freund, tausend unbarmherzige Verräter.</p>
+
+<p>MARIE Ach, gnädige Frau, <term type="one-word" n="594">ich weiß wohl</term>, daß ich häßlich bin.</p>
+
+<p>GRÄFIN Keine falsche Bescheidenheit. Sie sind schön, der Himmel hat Sie damit gestraft. <term type="one-word" n="2550">Es fanden sich Leute über Ihren Stand</term>, <term type="one-word" n="2551">die Ihnen Versprechungen taten</term>. <distinct type="alternative-form" n="Schwierigkeit">Sie sahen gar keine Schwierigkeit</distinct>, <distinct type="alternative-form" n="rücken">eine Stufe höher zu rücken</distinct>, Sie verachteten Ihre Gespielinnen, <distinct type="alternative-form" n="nötig">Sie glaubten nicht nötig zu haben</distinct>, <distinct type="alternative-form" n="erwerben">sich andere liebenswürdige Eigenschaften zu erwerben</distinct>, Sie scheuten die Arbeit, Sie begegneten jungen Mannsleuten Ihres Standes verächtlich, Sie wurden gehaßt. Armes Kind! wie glücklich hätten Sie einen rechtschaffenen Bürger machen können, wenn Sie <distinct type="alternative-form" n="Gesichtszüge">diese fürtreffliche Gesichtszüge</distinct>, dieses einnehmende bezaubernde Wesen mit einem demütigen menschenfreundlichen Geist beseelt hätten, wie wären Sie <term type="one-word" n="2552">von allen Ihresgleichen</term> angebetet, <distinct type="alternative-form" n="Vornehmen">von allen Vornehmen nachgeahmt und bewundert worden</distinct>. <term type="one-word" n="941">Aber Sie wollten von Ihresgleichen beneidet werden</term>. Armes Kind, <term type="one-word" n="2553">wo dachten Sie hin</term>, und <distinct type="alternative-form" n="eintauschen">gegen</distinct> <distinct type="alternative-form" n="elendes">welch ein elendes Glück</distinct> wollten Sie alle diese Vorzüge <distinct type="alternative-form" n="eintauschen">eintauschen</distinct>? Die Frau eines Mannes zu werden, der <distinct type="alternative-form" n="Ihrentwillen">um Ihrentwillen</distinct> von seiner ganzen Familie gehaßt und verachtet würde. Und <distinct type="alternative-form" n="Hazardspiel">einem so unglücklichen Hazardspiel zu Gefallen</distinct> Ihr ganzes Glück, Ihre ganze Ehre, <term type="one-word" n="2554">Ihr Leben selber</term> <distinct type="alternative-form" n="Karte">auf die Karte zu setzen</distinct>. Wo <distinct type="alternative-form" n="hinausdenken">dachten Sie hinaus</distinct>? wo <distinct type="alternative-form" n="hinausdenken">dachten</distinct> Ihre Eltern <distinct type="alternative-form" n="hinausdenken">hinaus</distinct>? Armes betrogenes, durch die Eitelkeit gemißhandeltes Kind. <hi rend="italic">(Drückt sie an ihre Brust.)</hi>  <distinct type="alternative-form" n="hergeben">Ich wollte mein Blut hergeben</distinct>, daß das nicht geschehen wäre. </p>
+
+<p>MARIE <hi rend="italic">(weint auf ihre Hand)</hi>  Er liebte mich aber.</p>
+
+<p>GRÄFIN Die Liebe eines Offiziers, Marie - eines Menschen, der <distinct type="alternative-form" n="gewöhnt">an</distinct> <distinct type="alternative-form" n="Ausschweifung">jede Art von Ausschweifung</distinct>, von Veränderung <distinct type="alternative-form" n="gewöhnt">gewöhnt ist</distinct>, der ein braver Soldat zu sein aufhört, sobald er ein treuer Liebhaber wird, der dem König schwört, es nicht zu sein, und <term type="one-word" n="1771">sich dafür von ihm bezahlen läßt</term>. Und Sie glaubten, die einzige Person auf der Welt zu sein, die <term type="multiword" n="2556">ihn</term> trotz des Zorns seiner Eltern, trotz des Hochmuts seiner Familie, trotz seines Schwurs, trotz seines Charakters, trotz der ganzen Welt <term type="multiword" n="2556">treu erhalten</term> wollten? Das heißt, Sie wollten die Welt umkehren. - - <term type="one-word" n="2557">Und da Sie nun sehen</term>, <distinct type="alternative-form" n="fehlgeschlagen">daß es fehlgeschlagen hat</distinct>, so glauben Sie, <distinct type="alternative-form" n="auszuführen">bei andern Ihren Plan auszuführen</distinct> und sehen nicht, daß das, was Sie <distinct type="alternative-form" n="haltenfür">für</distinct> Liebe bei den Leuten <distinct type="alternative-form" n="haltenfür">halten</distinct>, nichts als Mitleiden mit Ihrer Geschichte oder gar <distinct type="alternative-form" n="Schlimmers">was Schlimmers</distinct> ist. <hi rend="italic">(Marie fällt vor ihr auf die Knie, verbirgt ihr Gesicht in ihren Schoß und schluchzt)</hi>. <distinct type="alternative-form" n="entschließen">Entschließ dich</distinct>, bestes Kind! unglückliches Mädchen, noch ist es Zeit, noch ist der Abgrund zu vermeiden, ich will sterben, <distinct type="alternative-form" n="herausziehe">wenn ich dich nicht herausziehe</distinct>. <distinct type="alternative-form" n="Anschläge">Lassen Sie sich alle Anschläge auf meinen Sohn vergehen</distinct>, er ist versprochen, die <distinct type="alternative-form" n="mitkommen">Fräulein Anklam</distinct> hat seine Hand und sein Herz. Aber <distinct type="alternative-form" n="mitkommen">kommen</distinct> Sie <distinct type="alternative-form" n="mitkommen">mit</distinct> in mein Haus, Ihre Ehre <distinct type="alternative-form" n="Stoß">hat einen großen Stoß gelitten</distinct>, das ist der einzige Weg, sie wiederherzustellen. Werden Sie meine Gesellschafterin, und <distinct type="alternative-form" n="gefaßt">machen Sie sich gefaßt</distinct>, in einem Jahr keine Mannsperson zu sehen. Sie sollen mir meine Tochter erziehen helfen - kommen Sie, wir wollen gleich zu Ihrer Mutter gehen und sie um Erlaubnis bitten, <term type="one-word" n="2558">daß Sie mit mir fahren dürfen</term>.</p>
+
+<p>MARIE <hi rend="italic">(hebt den Kopf rührend aus ihrem Schoß <distinct type="alternative-form" n="hebt">auf</distinct>)</hi> Gnädige Frau - es ist zu spät.</p>
+
+<p>GRÄFIN <hi rend="italic">(hastig)</hi>  Es ist nie zu spät, vernünftig zu werden. <distinct type="alternative-form" n="Aussteuer">Ich setze Ihnen tausend Taler zur Aussteuer aus</distinct>, ich weiß, daß Ihre Eltern Schulden haben.</p>
+
+<p>MARIE <hi rend="italic">(noch immer auf den Knien, halb rückwärts fallend, <distinct type="alternative-form" n="gefalteten">mit gefalteten Händen</distinct>)</hi>   Ach! gnädige Frau, erlauben Sie mir, <distinct type="alternative-form" n="bedenke">daß ich mich drüber bedenke</distinct> - daß ich alles das meiner Mutter vorstelle.</p>
+
+<p>GRÄFIN Gut, liebes Kind, tun Sie Ihr Bestes - Sie sollen Zeitvertreib genug <term type="one-word" n="2559">bei mir</term> haben, <term type="one-word" n="2560">ich will Sie im Zeichnen, Tanzen und Singen unterrichten lassen</term>.</p>
+
+<p>MARIE <hi rend="italic">(fällt auf ihr Gesicht)</hi>  O <term type="one-word" n="2561">gar zu, gar zu gnädige</term> Frau. </p>
+
+<p>GRÄFIN <term type="one-word" n="3">Ich muß fort</term> - Ihre Mutter würde mich in einem wunderlichen Zustand antreffen. <hi rend="italic">(<distinct type="alternative-form" n="abgehen">Geht</distinct> schnell <distinct type="alternative-form" n="abgehen">ab</distinct>, <distinct type="alternative-form" n="hineinsehen">sieht</distinct> noch durch die Tür <distinct type="alternative-form" n="hineinsehen">hinein</distinct> nach Marien, die noch immer wie im Gebet liegt)</hi>. Adieu, Kind! <hi rend="italic">(<term type="one-word" n="2053">Ab</term>)</hi>.</p>
+
+
+<p><hi rend="bold">VIERTER AKT</hi></p>
+<p><hi rend="bold">Erste Szene</hi> <hi rend="italic">(Mary. Stolzius.)</hi></p>
+
+<p>MARY Soll ich dir aufrichtig sagen, Stolzius, wenn der Desportes das Mädchen nicht heuratet, so heurate ich's. <distinct type="alternative-form" n="Rasendwerden">Ich bin zum Rasendwerden verliebt in sie</distinct>. Ich habe schon versucht, <distinct type="alternative-form" n="zerstreuen">mir die Gedanken zu zerstreuen</distinct>, <term type="one-word" n="2094">du weißt wohl</term>, <distinct type="alternative-form" n="zerstreuen">mit der Duval</distinct>, <term type="one-word" n="2563">und denn gefällt mir die Wirtschaft mit dem Grafen gar nicht</term> und daß die Gräfin <term type="one-word" n="2564">sie nun gar ins Haus genommen hat</term>, aber alles das - <distinct type="alternative-form" n="verschlägt">verschlägt doch nichts</distinct>, <distinct type="alternative-form" n="Narrheit">ich kann mir die Narrheit nicht aus dem Kopf bringen</distinct>.</p>
+
+<p>STOLZIUS Schreibt denn der Desportes gar nicht mehr?</p>
+
+<p>MARY Ei freilich schreibt er. Sein Vater hat ihn neulich wollen zu einer Heurat zwingen und ihn vierzehn Tage bei Wasser und Brot eingesperrt - <hi rend="italic">(<term type="one-word" n="2565">Sich an den Kopf schlagend</term>.)</hi> Und wenn ich noch so denke, wie sie neulich im Mondschein mit mir spazieren ging und mir ihre Not klagte, wie sie manchmal mitten in der Nacht aufspränge, <distinct type="alternative-form" n="einkämen">wenn ihr die schwermütigen Gedanken einkämen</distinct>, und <distinct type="alternative-form" n="suchte">nach einem Messer suchte</distinct>.</p>
+
+<p>STOLZIUS <hi rend="italic">(zittert.)</hi></p>
+
+<p>MARY Ich fragte, ob sie mich auch liebte. Sie sagte, sie liebte mich zärtlicher als alle ihre Freunde und Verwandten und drückte meine Hand gegen ihre Brust.</p>
+
+<p>STOLZIUS <hi rend="italic">(<term type="one-word" n="2266">wendet sein Gesicht gegen die Wand</term>.)</hi></p>
+
+<p>MARY Und <distinct type="alternative-form" n="Schmätzchen">als ich sie um ein Schmätzchen bat</distinct>, so sagte sie, wenn es in ihrer Gewalt stünde, mich glücklich zu machen, so täte sie es gewiß. So aber müßte ich erst die Erlaubnis vom Desportes haben. - <hi rend="italic">(<distinct type="alternative-form" n="anfassen">Faßt</distinct> Stolzius hastig <distinct type="alternative-form" n="anfassen">an</distinct>)</hi>. Kerl, <term type="one-word" n="2267">der Teufel soll mich holen</term>, wenn ich sie nicht heurate, <term type="one-word" n="537">wenn der Desportes sie sitzen läßt</term>.</p>
+
+<p>STOLZIUS <hi rend="italic">(sehr kalt)</hi>  <term type="one-word" n="2568">Sie soll doch recht gut mit der Gräfin sein</term>.</p>
+
+<p>MARY Wenn ich nur wüßte, wie man sie zu sprechen bekommen könnte. <distinct type="alternative-form" n="Erkundige">Erkundige dich</distinct> doch.</p>
+
+
+<p><hi rend="bold">Zweite Szene</hi></p>
+<p>IN ARMENTIERES <hi rend="italic">(Desportes in der Prison. Haudy bei ihm.)</hi></p>
+
+<p>DESPORTES Es ist mir recht lieb, daß ich in Prison itzt bin, so erfährt kein Mensch, daß ich hier sei.</p>
+
+<p>HAUDY Ich will den Kameraden allen verbieten, es zu sagen. </p>
+
+<p>DESPORTES <distinct type="alternative-form" n="Dingen">Vor allen Dingen</distinct>, daß es nur der Mary nicht erfährt.</p>
+
+<p>HAUDY Und der Rammler. Der ohnedem <term type="one-word" n="2569">so ein großer Freund von dir sein will</term> und sagt, <term type="one-word" n="2570">er ist mit Fleiß darum ein paar Wochen später zum Regiment gekommen</term>, um dir die Anciennität zu lassen.</p>
+
+<p>DESPORTES Der Narr. </p>
+
+<p>HAUDY O hör, neulich ist wieder ein Streich mit ihm gewesen, <distinct type="alternative-form" n="Fressen">der zum Fressen ist</distinct>. Du weißt, der Gilbert <distinct type="alternative-form" n="logiert">logiert bei</distinct> einer alten <term type="one-word" n="2571">krummen</term> schielenden Witwe, <term type="one-word" n="2572">bloß um ihrer schönen Cousine willen</term>. Nun <term type="one-word" n="2573">gibt er alle Wochen der zu Gefallen ein Konzert im Hause</term>, einmal <distinct type="alternative-form" n="besäuft">besäuft sich</distinct> mein Rammler, und weil er meint, die Cousine schläft dort, <term type="one-word" n="2144">wo schleicht er sich vom Nachtessen weg</term> und <distinct type="alternative-form" n="gewöhnlichen">nach seiner gewöhnlichen Politik</distinct> <distinct type="alternative-form" n="obenauf">obenauf in der Witwe Schlafzimmer</distinct>, <term type="one-word" n="2574">zieht sich aus</term> und <term type="one-word" n="2575">legt sich zu Bette</term>. Die Witwe, <term type="one-word" n="2576">die sich auch den Kopf etwas warm gemacht hat</term>, <term type="multiword" n="2577">bringt noch erst ihre Cousine</term>, <term type="one-word" n="1683">die auf der Nachbarschaft wohnt</term>, <term type="multiword" n="2577">mit der Laterne nach Hause</term>; wir meinen, unser Rammler ist nach Hause gegangen, <term type="one-word" n="2578">sie steigt hernach in ihr Zimmer herauf</term>, <term type="one-word" n="730">will sich zu Bett legen</term> und findt meinen Monsieur da, der in der äußersten Konfusion ist. Er entschuldigt sich, <term type="one-word" n="2579">er habe die Gelegenheit vom Hause nicht gewußt</term>, <distinct type="alternative-form" n="transportiert">sie transportiert ihn ohne viele Mühe wieder herunter</distinct>, und <distinct type="alternative-form" n="Bäuche">wir lachen uns über den Mißverstand die Bäuche fast entzwei</distinct>. Er bittet sie und uns alle, <distinct type="alternative-form" n="Gotteswillen">um Gotteswillen</distinct> doch keinem Menschen was von der Historie zu sagen. Du weißt nun aber, wie der Gilbert ist, der hat's nun alles dem Mädel wiedererzählt, und die hat <term type="multiword" n="2580">dem alten Weibe</term> steif und fest <term type="multiword" n="2580">in den Kopf gesetzt</term>, Rammler wäre <distinct type="alternative-form" n="verliebt">verliebt in</distinct> sie. In der Tat hat er auch ein Zimmer in dem Hause gemietet, vielleicht um sie zu bewegen, <distinct type="alternative-form" n="Lärm">nicht Lärm davon zu machen</distinct>. Nun solltest du aber dein Himmelsgaudium haben, ihn und das alte Mensch in Gesellschaft zusammen zu sehen. <distinct type="alternative-form" n="minaudiert">Sie minaudiert und liebäugelt</distinct> und verzerrt ihr schiefes runzlichtes Gesicht <term type="one-word" n="2581">gegen ihn</term>, <term type="one-word" n="2582">daß man sterben möchte</term>, und er mit seiner roten Habichtsnase und den stieren erschrocknen Augen - siehst du, es ist ein Anblick, an den man nicht denken kann, <distinct type="alternative-form" n="zerspringen">ohne zu zerspringen</distinct>.</p>
+
+<p>DESPORTES Wenn ich wieder frei werde, <distinct type="alternative-form" n="Gang">soll doch mein erster Gang zu Gilbert sein</distinct>. Meine Mutter wird nächstens an den Obristen schreiben, das Regiment soll <distinct type="alternative-form" n="gutsagen">für meine Schulden gutsagen</distinct>.</p>
+
+
+<p><hi rend="bold">Dritte Szene</hi></p>
+<p>IN LILLE. EIN GÄRTCHEN AN DER GRÄFIN LA ROCHE HAUSE <hi rend="italic">(Die Gräfin in einer Allee.)</hi></p>
+
+<p>GRÄFIN <term type="one-word" n="821">Was das Mädchen haben mag</term>, daß es so spät in den Garten hinausgegangen ist. Ich fürchte, ich fürchte, es ist <distinct type="alternative-form" n="Abgeredtes">etwas Abgeredtes</distinct>. Sie zeichnet zerstreut, spielt die Harfe zerstreut, ist immer abwesend, wenn ihr der Sprachmeister was vorsagt - still, hör ich nicht jemand - ja, sie ist oben im Lusthause, und von der Straße antwortet ihr jemand. <hi rend="italic">(Lehnt ihr Ohr an <term type="one-word" n="2583">die grüne Wand des Gartens</term>.)</hi></p>
+
+<p><hi rend="italic">(Hinter der Szene:)</hi> MARYS STIMME Ist das erlaubt, alle Freunde, <term type="one-word" n="114">alles, was Ihnen lieb war</term>, so zu vergessen?</p>
+
+<p>MARIES STIMME Ach, lieber Herr Mary, es tut mir leid genug, aber es muß schon so sein. Ich versichere Ihnen, die Frau Gräfin ist die scharmanteste Frau, <term type="one-word" n="2268">die auf Gottes Erdboden ist</term>. </p>
+
+<p>MARY Sie sind ja aber wie in einem Kloster da, wollen Sie denn gar nicht mehr in die Welt? Wissen Sie, daß Desportes geschrieben hat, er ist untröstlich, er will wissen, wo Sie sind und warum Sie ihm nicht antworten? </p>
+
+<p>MARIE So? - Ach, ich muß ihn vergessen, sagen Sie ihm das, er soll mich nur auch vergessen. </p>
+
+<p>MARY Warum denn? - Grausame Mademoiselle! ist das erlaubt, Freunden so zu begegnen? </p>
+
+<p>MARIE Es kann nun schon nicht anders sein - Ach Herr Gott, ich höre jemand im Garten unten. Adieu, adieu - Flattieren Sie sich nur nicht - <hi rend="italic">(Kommt herunter. )</hi></p>
+
+<p>GRÄFIN So Marie! ihr <distinct type="alternative-form" n="Rendezvous">gebt euch Rendezvous</distinct>. </p>
+
+<p>MARIE <hi rend="italic">(äußerst erschrocken)</hi> Ach, gnädige Frau - es war ein Verwandter von mir - mein Vetter, und der hat nun erst erfahren, wo ich bin. </p>
+
+<p>GRÄFIN <hi rend="italic">(sehr ernsthaft)</hi>  Ich habe alles gehört. </p>
+
+<p>MARIE <hi rend="italic">(halb auf den Knien)</hi>  Ach Gott, so verzeihen Sie mir nur diesmal. </p>
+
+<p>GRÄFIN Mädchen, du bist wie das Bäumchen hier im Abendwinde, jeder Hauch verändert dich. Was denkst du denn, daß du hier unter meinen Augen <term type="one-word" n="2584">den Faden mit dem Desportes wieder anzuspinnen denkst</term>, dir Rendezvous mit seinen guten Freunden gibst. Hätt ich das gewußt, <term type="one-word" n="2585">ich hätte mich deiner nicht angenommen</term>. </p>
+
+<p>MARIE Verzeihen Sie mir nur diesmal. </p>
+
+<p>GRÄFIN Ich verzeih es dir niemals, <distinct type="alternative-form" n="wider">wenn du wider dein eigen Glück handelst</distinct>. Geh! <hi rend="italic">(Marie <distinct type="alternative-form" n="abgehen">geht</distinct> ganz verzweiflungsvoll <distinct type="alternative-form" n="abgehen">ab</distinct>)</hi>. </p>
+
+<p>GRÄFIN <hi rend="italic">(allein)</hi> Ich weiß nicht, ob ich dem Mädchen ihren Roman <term type="one-word" n="1663">fast mit gutem Gewissen</term> nehmen darf. <distinct type="alternative-form" n="behält">Was behält das Leben für Reiz übrig</distinct>, <distinct type="alternative-form" n="hineinträgt">wenn unsere Imagination nicht welchen hineinträgt</distinct>; Essen, Trinken, Beschäftigungen <distinct type="alternative-form" n="Aussicht">ohne Aussicht</distinct>, <distinct type="alternative-form" n="gebildetem">ohne sich selbst gebildetem Vergnügen</distinct> <distinct type="alternative-form" n="gefristeter">sind nur ein gefristeter Tod</distinct>. Das fühlt sie auch wohl und <term type="one-word" n="2586">stellt sich nur vergnügt</term>. Wenn ich etwas <distinct type="alternative-form" n="ausfindig">ausfindig machen</distinct> könnte, ihre Phantasie mit meiner Klugheit zu vereinigen, ihr Herz, nicht ihren Verstand zu zwingen, mir zu folgen.</p>
+
+
+<p><hi rend="bold">Vierte Szene<hi rend="italic"> (Desportes im Prison, hastig <distinct type="alternative-form" n="abgehend">auf- und abgehend</distinct>, einen Brief in der Hand.)</hi></hi></p>
+
+<p>DESPORTES Wenn sie mir hieher kommt, ist mein ganzes Glück verdorben - <term type="one-word" n="2269">zu Schand und Spott bei allen Kameraden</term>. <hi rend="italic">(<distinct type="alternative-form" n="setzt">Setzt sich</distinct> und schreibt.)</hi> - Mein Vater darf sie auch nicht sehen -</p>
+
+
+<p><hi rend="bold">Fünfte Szene</hi></p>
+<p>IN LILLE. WESENERS HAUS <hi rend="italic">(Der alte Wesener. Ein Bedienter der Gräfin.)</hi></p>
+
+<p>WESENER Marie fortgelaufen -! Ich <distinct type="alternative-form" n="Todes">bin des Todes</distinct>. <hi rend="italic">(<term type="one-word" n="2587">Läuft heraus</term>. Der Bediente folgt ihm.)</hi></p>
+
+
+<p><hi rend="bold">Sechste Szene</hi></p>
+<p>MARYS WOHNUNG</p>
+<p><hi rend="italic">(Mary. Stolzius, der ganz bleich und verwildert dasteht.)</hi></p>
+
+<p>MARY <term type="one-word" n="2275">So laßt uns ihr nachsetzen</term>, zum tausend Sackerment. <term type="one-word" n="942">Ich bin schuld an allem</term>. Gleich lauf hin und bring Pferde her.</p>
+
+<p>STOLZIUS Wenn man nur wissen könnte, wohin -</p>
+
+<p>MARY Nach Armentieres. <term type="one-word" n="1916">Wo kann sie anders hin sein</term>. <hi rend="italic">(Beide <term type="one-word" n="2589">ab</term>.)</hi></p>
+
+
+<p><hi rend="bold">Siebente Szene</hi></p>
+<p>WESENERS HAUS</p>
+<p><hi rend="italic">(Frau Wesener und Charlotte <distinct type="alternative-form" n="Kappen">in Kappen</distinct>. Wesener <distinct type="alternative-form" n="wiederkommen">kommt wieder</distinct>.)</hi></p>
+
+<p>WESENER Es ist alles umsonst. Sie ist <term type="one-word" n="2588">nirgends ausfindig zu machen</term>. <hi rend="italic">(<term type="one-word" n="900">Schlägt in die Hände</term>.)</hi>  Gott! - wer weiß, wo sie <distinct type="alternative-form" n="ertränkt">sich ertränkt</distinct> hat.</p>
+
+<p>CHARLOTTE Wer weiß aber noch, Papa...</p>
+
+<p>WESENER Nichts. Die Boten der Frau Gräfin sind wiedergekommen, und es ist noch keine halbe Stunde, <term type="one-word" n="2080">daß man sie vermißt hat</term>. <term type="one-word" n="1528">Zu jedem Tor ist einer herausgeritten</term>, und <term type="one-word" n="2590">sie kann doch nicht aus der Welt sein</term> in so kurzer Zeit.</p>
+
+
+<p><hi rend="bold">Achte Szene</hi></p>
+<p>IN PHILIPPEVILLE</p>
+<p><hi rend="italic">(Desportes' Jäger, einen Brief von seinem Herrn in der Hand.)</hi></p>
+
+<p>JÄGER Oh! <term type="one-word" n="2276">da kommt mir ja ein schönes Stück Wildpret recht ins Garn hereingelaufen</term>. Sie hat meinem Herrn geschrieben, sie würde grad nach Philippeville zu ihm kommen <hi rend="italic">(sieht in den Brief)</hi>, <term type="one-word" n="2591">zu Fuß</term> - o das arme Kind - ich will dich erfrischen.</p>
+
+
+<p><hi rend="bold">Neunte Szene</hi></p>
+<p>IN ARMENTIERES. EIN KONZERT IM HAUSE DER FRAU BISCHOF <hi rend="italic">(Verschiedene Damen im Kreise um das Orchester, <term type="multiword" n="2592">unter denen</term> auch Frau Bischof und ihre Cousine. Verschiedene Offiziere, <term type="multiword" n="2592">unter denen</term> auch Haudy, Rammler, Mary, Desportes, Gilbert, stehen vor ihnen und unterhalten die Damen.)</hi></p>
+
+<p>MADEMOISELLE BISCHOF <hi rend="italic">(zu Rammler)</hi> Und Sie sind auch <distinct type="alternative-form" n="eingezogen">hier eingezogen</distinct>, Herr Baron?</p>
+
+<p>RAMMLER <hi rend="italic">(<distinct type="alternative-form" n="verbeugt">verbeugt sich</distinct> stillschweigend und <term type="one-word" n="2593">wird rot über und über</term>.)</hi></p>
+
+<p>HAUDY <distinct type="alternative-form" n="Logis">Er hat sein Logis im zweiten Stock genommen</distinct>, <term type="one-word" n="872">grad gegenüber Ihrer Frau Base Schlafkammer</term>.</p>
+
+<p>MADEMOISELLE BISCHOF Das hab ich gehört. Ich wünsche meiner Base viel Glück.</p>
+
+<p>MADAME BISCHOF<hi rend="italic">(schielt und lächelt <distinct type="alternative-form" n="kokette">auf eine kokette Art</distinct>)</hi> <term type="multiword" n="628">He he he</term>, der Herr Baron <term type="one-word" n="2594">wäre wohl nicht eingezogen</term>, wenn ihm nicht der Herr von Gilbert mein Haus so rekommandiert hätte. <term type="one-word" n="2595">Und zum andern</term> <term type="multiword" n="1531">begegne ich allen meinen Herren</term> <term type="multiword" n="1531">auf eine solche Art</term>, <distinct type="alternative-form" n="beklagen">daß sie sich nicht über mich werden zu beklagen haben</distinct>.</p>
+
+<p>MADEMOISELLE BISCHOF Das glaub ich, <distinct type="alternative-form" n="vertragen">Sie werden sich gut miteinander vertragen</distinct>.</p>
+
+<p>GILBERT <distinct type="alternative-form" n="Haken">Es ist</distinct> <distinct type="alternative-form" n="alledem">mit alledem</distinct> <distinct type="alternative-form" n="Haken">so ein kleiner Haken unter den beiden</distinct>, sonst wäre Rammler nicht hier eingezogen.</p>
+
+<p>MADAME BISCHOF So? <hi rend="italic">(Hält den Fächer vorm Gesicht. )</hi> <term type="multiword" n="628">He he he</term>, <distinct type="alternative-form" n="seiter">seiter wenn</distinct> denn, meinten Sie, Herr von Gilbert, <distinct type="alternative-form" n="seiter">seiter wenn</distinct> denn?</p>
+
+<p>HAUDY Seit dem letzten Konzertabend, wissen Sie wohl, Madame.</p>
+
+<p>RAMMLER <hi rend="italic">(zupft Haudy)</hi> Haudy.</p>
+
+<p>MADAME BISCHOF <hi rend="italic">(schlägt ihn mit dem Fächer)</hi>  Unartiger Herr Major! müssen Sie denn auch alles gleich herausplappern.</p>
+
+<p>RAMMLER Madame! ich weiß gar nicht, wie wir so familiär miteinander sollten geworden sein, ich bitte mir's aus -</p>
+
+<p>MADAME BISCHOF <hi rend="italic">(sehr böse)</hi>  So, Herr? und <distinct type="alternative-form" n="mausig">Sie wollen sich noch mausig machen</distinct>, und <term type="one-word" n="64">zum andern</term> müßten Sie sich das noch <distinct type="alternative-form" n="haltenfür">für</distinct> eine große Ehre <distinct type="alternative-form" n="haltenfür">halten</distinct>, wenn <term type="one-word" n="2596">eine Frau von meinem Alter</term> und von meinem Charakter sich familiär mit Ihnen gemacht hätte, und <term type="one-word" n="2597">denk doch einmal</term>, <distinct type="alternative-form" n="einbildt">was Er sich nicht einbildt</distinct>, der junge Herr.</p>
+
+<p>ALLE OFFIZIERS Ach Rammler - Pfui Rammler - das ist doch nicht recht, <term type="one-word" n="2598">wie du der Madam begegnest</term>. </p>
+
+<p>RAMMLER Madame, <distinct type="alternative-form" n="halt's">halten Sie das Maul</distinct>, oder ich brech Ihnen Arm und Bein entzwei und werf Sie zum Fenster hinaus. </p>
+
+<p>MADAME BISCHOF <hi rend="italic">(<distinct type="alternative-form" n="aufstehen">steht</distinct> wütend <distinct type="alternative-form" n="aufstehen">auf</distinct>)</hi> Herr, komm Er <hi rend="italic">(faßt ihn an Arm)</hi> - den Augenblick komm Er, probier Er, mir was Leids zu tun. </p>
+
+<p>ALLE In die Schlafkammer, Rammler, <term type="one-word" n="2270">Sie fodert dich heraus</term>. </p>
+
+<p>MADAME BISCHOF <term type="one-word" n="2277">Wenn Er sich noch breit macht</term>, so werf ich ihn aus dem Hause heraus, weiß Er das. Und <term type="one-word" n="102">der Weg zum Kommendanten ist nicht weit</term>.<hi rend="italic"> (Fängt an zu weinen)</hi>  <term type="one-word" n="1797">Denk doch</term>, mir in meinem eigenen Hause Impertinenzien zu sagen, der impertinente Flegel...</p>
+
+<p>MADEMOISELLE BISCHOF Nun still doch, Bäslein, der Herr Baron <term type="one-word" n="2599">hat es ja so übel nicht gemeint</term>. <distinct type="alternative-form" n="gespaßt">Er hat ja nur gespaßt</distinct>, so sei Sie doch ruhig.</p>
+
+<p>GILBERT Rammler, sei vernünftig, ich bitte dich. Was für Ehre hast du davon, ein alt Weib zu beleidigen. </p>
+
+<p>RAMMLER Ihr könnt mir alle - <hi rend="italic">(<term type="one-word" n="2600">Läuft heraus</term>)</hi></p>
+
+<p>MARY Ist das nicht lustig, Desportes? <term type="one-word" n="2601">Was fehlt dir</term>? Du lachst ja nicht. </p>
+
+<p>DESPORTES <term type="one-word" n="736">Ich hab erstaunende Stiche auf der Brust</term>. Der Katarrh wird mich noch umbringen. </p>
+
+<p>MARY <term type="one-word" n="183">Ist das aber nicht zum Zerspringen mit dem Original</term>? <term type="one-word" n="2136">Sahst du wie er braun und blau um die Nase ward für Ärgernis</term>. <distinct type="alternative-form" n="Vettel">Ein andrer würde sich lustig gemacht haben mit der alten Vettel</distinct>.</p>
+
+<p><hi rend="italic">(Stolzius <distinct type="alternative-form" n="hereinkommen">kommt herein</distinct> und zupft Mary.)</hi></p>
+
+<p>MARY Was ist? </p>
+
+<p>STOLZIUS <distinct type="alternative-form" n="ungnädig">Nehmen</distinct> Sie doch nicht <distinct type="alternative-form" n="ungnädig">ungnädig</distinct>, Herr Lieutenant! <term type="one-word" n="2602">wollten Sie nicht auf einen Augenblick in die Kammer kommen</term>. </p>
+
+<p>MARY <term type="one-word" n="2603">Was gibt's denn</term>? <term type="one-word" n="2604">Habt Ihr wo was erfahren</term>? </p>
+
+<p>STOLZIUS <hi rend="italic">(<distinct type="alternative-form" n="schüttelt">schüttelt mit dem Kopf</distinct>.)</hi></p>
+
+<p>MARY Nun denn <hi rend="italic">(<term type="one-word" n="2605">geht etwas weiter vorwärts</term>)</hi> - so sagt nur hier. </p>
+
+<p>STOLZIUS Die Ratten haben <term type="one-word" n="1668">die vorige Nacht</term> Ihr bestes Antolagenhemd zerfressen; eben, als ich den Wäscheschrank aufmachte, <term type="one-word" n="2606">sprangen mir zwei, drei entgegen</term>. </p>
+
+<p>MARY <term type="one-word" n="2271">Was ist daran gelegen</term>? - <term type="one-word" n="726">Laßt Gift aussetzen.</term> </p>
+
+<p>STOLZIUS Da muß ich ein versiegeltes Zettelchen von Ihnen haben. </p>
+
+<p>MARY<hi rend="italic">(unwillig)</hi>  Warum kommt Ihr mir denn just jetzt? </p>
+
+<p>STOLZIUS <term type="one-word" n="2607">Auf den Abend</term> hab ich nicht Zeit, Herr Lieutenant - <distinct type="alternative-form" n="Montierungsstücken">ich muß heute noch bei der Lieferung von den Montierungsstücken sein</distinct>. </p>
+
+<p>MARY Da habt Ihr meine Uhr, <distinct type="alternative-form" n="Petschaft">Ihr könnt ja mit meinem Petschaft zusiegeln</distinct>. <hi rend="italic">(Stolzius <distinct type="alternative-form" n="abgehen">geht ab</distinct> - Mary tritt wieder zur Gesellschaft.)</hi></p>
+
+<p><hi rend="italic">(Eine Symphonie <distinct type="alternative-form" n="anheben">hebt an</distinct>.)</hi></p>
+
+<p>DESPORTES <hi rend="italic">(der <distinct type="alternative-form" n="gestellt">sich</distinct> in einen Winkel <distinct type="alternative-form" n="gestellt">gestellt</distinct> hat, <term type="one-word" n="2272">für sich</term>)</hi>  Ihr Bild steht unaufhörlich vor mir - <term type="one-word" n="2273">Pfui Teufel!</term> <term type="one-word" n="362">fort mit den Gedanken</term>. <term type="one-word" n="863">Kann ich dafür</term>, <term type="one-word" n="2608">daß sie so eine wird</term>? <term type="one-word" n="2274">Sie hat's ja nicht besser haben wollen</term>. <hi rend="italic">(Tritt wieder zur andern Gesellschaft und hustet erbärmlich.)</hi></p>
+
+<p><hi rend="italic">(Mary steckt ihm <distinct type="alternative-form" n="Lakritz">ein Stück Lakritz</distinct> in den Mund. Er erschrickt. Mary lacht.)</hi></p>
+
+
+<p><hi rend="bold">Zehnte Szene</hi></p>
+<p>IN LILLE. WESENERS HAUS</p>
+<p><hi rend="italic">(Frau Wesener. Ein Bedienter der Gräfin.)</hi></p>
+
+<p>FRAU WESENER Wie, die Frau Gräfin <distinct type="alternative-form" n="Alteration">haben sich zu Bett gelegt vor Alteration</distinct>? Vermeld Er unsern untertänigsten Respekt der Frau Gräfin und der Fräulein, mein Mann ist nach Armentieres gereist, weil ihm die Leute alles im Hause haben versiegeln wollen wegen der Kaution und er gehört hat, daß der Herr von Desportes beim Regiment sein soll. <term type="one-word" n="1313">Und es tut uns herzlich leid</term>, daß die Frau Gräfin <term type="multiword" n="2609">sich</term> unser Unglück so <term type="multiword" n="2609">zu Herzen nimmt</term>.</p>
+
+
+<p><hi rend="bold">Eilfte Szene</hi></p>
+<p>IN ARMENTIERES</p>
+<p><hi rend="italic">(Stolzius <term type="one-word" n="2610">geht vor einer Apothek herum</term>. Es regnet.)</hi></p>
+
+<p>STOLZIUS Was zitterst du? - Meine Zunge ist so schwach, daß ich fürchte, ich werde kein einziges Wort hervorbringen können. <term type="one-word" n="1146">Er wird mir's ansehen</term> - Und müssen denn die zittern, <term type="one-word" n="725">die Unrecht leiden</term>, <distinct type="alternative-form" n="fröhlich">und die allein fröhlich sein</distinct>, die Unrecht tun! - Wer weiß, <term type="one-word" n="2611">zwischen welchem Zaun</term> sie jetzt verhungert. Herein, Stolzius! wenn's nicht für ihn ist, so ist's doch für dich. Und das ist ja alles, was du wünschest - <hi rend="italic">(Geht hinein.)</hi></p>
+
+
+<p><hi rend="bold">FÜNFTER AKT</hi></p>
+<p><hi rend="bold">Erste Szene</hi></p>
+<p>AUF DEM WEGE NACH ARMENTIERES <hi rend="italic">(Wesener, der ausruht.)</hi></p>
+
+<p>WESENER Nein, <distinct type="alternative-form" n="Post">keine Post nehm ich nicht</distinct>, und sollt ich hier liegen bleiben. Mein armes Kind hat mich genug gekostet, eh sie zu der Gräfin kam, <term type="one-word" n="2612">das mußte immer die Staatsdame gemacht sein</term>, und Bruder und Schwester sollen's ihr nicht vorzuwerfen haben. <term type="one-word" n="852">Mein Handel hat auch nun schon zwei Jahr gelegen</term> - wer weiß, was Desportes mit ihr tut, was er mit uns allen tut - denn <term type="one-word" n="2613">bei ihm</term> ist sie doch gewiß. Man muß Gott vertrauen - <hi rend="italic">(Bleibt in tiefen Gedanken.)</hi></p>
+
+<p><hi rend="bold">Zweite Szene</hi></p>
+<p><hi rend="italic">(Marie auf einem andern Wege nach Armentieres, unter einem Baum ruhend, zieht <term type="one-word" n="2614">ein Stück trocknes Brot</term> aus der Tasche.)</hi></p>
+
+<p>MARIE Ich habe immer geglaubt, daß man von Brot und Wasser allein leben könnte. <hi rend="italic">(<distinct type="alternative-form" n="nagt">Nagt daran</distinct>.)</hi>  O hätt ich nur einen Tropfen von dem Wein, <term type="one-word" n="2616">den ich so oft aus dem Fenster geworfen</term> - womit ich mir in der Hitze die Hände wusch - <hi rend="italic">(Kontorsionen.)</hi>  Oh, das quält - - <distinct type="alternative-form" n="Bettelmensch">nun ein Bettelmensch</distinct> - <hi rend="italic">(<distinct type="alternative-form" n="ansehen">Sieht</distinct> das Stück Brot <distinct type="alternative-form" n="ansehen">an</distinct>.)</hi>  Ich kann's nicht essen, Gott weiß es. <distinct type="alternative-form" n="verhungern">Besser verhungern</distinct>. (<distinct type="alternative-form" n="hinwerfen">Wirft</distinct> das Stück Brot <distinct type="alternative-form" n="hinwerfen">hin</distinct> und <distinct type="alternative-form" n="rafft">rafft sich auf</distinct>)  Ich will kriechen, so weit ich komme, und <term type="one-word" n="2618">fall ich um</term>, <distinct type="alternative-form" n="desto">desto besser</distinct>.</p>
+
+
+<p><hi rend="bold">Dritte Szene</hi></p>
+<p>IN ARMENTIERES. MARYS WOHNUNG <hi rend="italic">(Mary und Desportes sitzen beide ausgekleidet an einem kleinen gedeckten Tisch. Stolzius <term type="one-word" n="2619">nimmt Servietten aus</term>.)</hi></p>
+
+<p>DESPORTES Wie ich dir sage, es ist eine Hure <distinct type="alternative-form" n="Anfang">vom Anfang an</distinct> gewesen, und <term type="one-word" n="2620">sie ist mir nur darum gut gewesen</term>, weil ich ihr Präsente machte. <term type="one-word" n="692">Ich bin ja durch sie in Schulden gekommen, daß es erstaunend war</term>, <term type="one-word" n="1817">sie hätte mich um Haus und Hof gebracht</term>, <distinct type="alternative-form" n="getrieben">hätt ich das Spiel länger getrieben</distinct>. Kurzum, Herr Bruder, <distinct type="alternative-form" n="versehe">eh ich mich's versehe</distinct>, krieg ich einen Brief von dem Mädel, sie will zu mir kommen nach Philippeville. <term type="one-word" n="1102">Nun stell dir das Spektakel vor</term>, wenn mein Vater die hätte <distinct type="alternative-form" n="gekriegt">zu sehen gekriegt</distinct>. <hi rend="italic">(Stolzius <distinct type="alternative-form" n="wechselt">wechselt</distinct> <term type="one-word" n="2621">einmal ums andere</term> die Servietten <distinct type="alternative-form" n="wechselt">um</distinct>, um Gelegenheit zu haben, länger im Zimmer zu bleiben.)</hi>  <term type="one-word" n="2622">Was zu tun</term>, ich schreib meinem Jäger, er soll sie empfangen und <distinct type="alternative-form" n="Stubenarrest">ihr solange Stubenarrest auf meinem Zimmer ankündigen</distinct>, bis ich selber wieder nach Philippeville zurückkäme und sie heimlich zum Regiment abholte. Denn sobald mein Vater sie <distinct type="alternative-form" n="gekriegt">zu sehen kriegte</distinct>, <distinct type="alternative-form" n="Todes">wäre sie des Todes</distinct>. Nun, mein Jäger ist ein starker robuster Kerl, <term type="one-word" n="27">die Zeit wird ihnen schon lang werden</term> auf einer Stube allein. <term type="one-word" n="2623">Was der nun aus ihr macht, will ich abwarten</term> <hi rend="italic">(lacht höhnisch)</hi>  Ich hab ihm <term type="one-word" n="1491">unter der Hand</term> zu verstehen gegeben, daß es mir nicht zuwider sein würde.</p>
+
+<p>MARY Hör, Desportes, das ist doch malhonett.</p>
+
+<p>DESPORTES <term type="one-word" n="896">Was malhonett</term>, was willst du - Ist sie nicht versorgt genug, wenn mein Jäger sie heuratet? Und für so eine -</p>
+
+<p>MARY Sie <distinct type="alternative-form" n="angeschrieben">war doch sehr gut angeschrieben bei</distinct> der Gräfin. Und <distinct type="alternative-form" n="hol">hol mich der Teufel</distinct>, Bruder, ich hätte sie geheuratet, wenn <distinct type="alternative-form" n="Quer">mir</distinct> nicht der junge Graf <distinct type="alternative-form" n="Quer">in die Quer gekommen wäre</distinct>, denn der <distinct type="alternative-form" n="angeschrieben">war</distinct> auch verflucht <distinct type="alternative-form" n="angeschrieben">gut bei ihr angeschrieben</distinct>.</p>
+
+<p>DESPORTES <term type="one-word" n="1075">Da hättest du ein schön Sauleder an den Hals bekommen</term>. <hi rend="italic">(Stolzius <distinct type="alternative-form" n="herausgehen">geht heraus</distinct>.)</hi></p>
+
+<p>MARY <hi rend="italic">(<term type="one-word" n="2624">ruft ihm nach</term>)</hi>  <distinct type="alternative-form" n="Weinsuppe">Macht, daß der Herr seine Weinsuppe bald bekommt</distinct> - Ich weiß nicht, <distinct type="alternative-form" n="ward">wie es kam, daß der Mensch mit ihr bekannt ward</distinct>, <term type="one-word" n="2625">ich glaube gar</term>, sie wollte mich eifersüchtig machen, <distinct type="alternative-form" n="gemault">denn ich hatte eben ein paar Tage her mit ihr gemault</distinct>. <term type="one-word" n="2626">Das hätt alles noch nichts zu sagen gehabt</term>, aber einmal <distinct type="alternative-form" n="hinkommen">kam</distinct> ich <distinct type="alternative-form" n="hinkommen">hin</distinct>, es war in den heißesten Hundstagen, und sie hatte eben wegen der Hitze nur ein dünnes, dünnes Röckchen von Nesseltuch an, <distinct type="alternative-form" n="durchschienen">durch das ihre schönen Beine durchschienen</distinct>. Sooft sie durchs Zimmer ging und das Röckchen ihr so nachflatterte - hör, <distinct type="alternative-form" n="Seligkeit">ich hätte die Seligkeit drum geben mögen</distinct>, die Nacht bei ihr zu schlafen. Nun <term type="one-word" n="2627">stell dir vor</term>, <term type="one-word" n="2628">zu allem Unglück</term> muß den Tag der Graf hinkommen, nun kennst du des Mädels Eitelkeit. <distinct type="alternative-form" n="unsinnig">Sie tat wie unsinnig mit ihm</distinct>, <term type="one-word" n="2629">ob nun mich zu schagrinieren</term> oder weil solche Mädchens gleich nicht wissen, <distinct type="alternative-form" n="woran">woran sie sind</distinct>, wenn ein Herr von hohem Stande <distinct type="alternative-form" n="herabläßt">sich herabläßt</distinct>, ihnen ein freundlich Gesicht zu weisen. <hi rend="italic">(Solzius <distinct type="alternative-form" n="hereinkommen">kommt herein</distinct>, <term type="one-word" n="2630">trägt vor Desportes auf</term> und <term type="one-word" n="2631">stellt sich</term> totenbleich hinter seinen Stuhl.)</hi>  <term type="one-word" n="2632">Mir ging's wie dem überglühten Eisen</term>, <term type="one-word" n="1430">das auf einmal kalt wie Eis wird</term>. <hi rend="italic">(Desportes schlingt die Suppe begierig in sich)</hi>. <distinct type="alternative-form" n="verging">Aller Appetit zu ihr verging mir</distinct>. <term type="one-word" n="2633">Von der Zeit an hab ich ihr nie wieder recht gut werden können</term>. Zwar <term type="one-word" n="2634">wie</term> ich hörte, daß sie von der Gräfin weggelaufen sei -</p>
+
+<p>DESPORTES <hi rend="italic">(im Essen)</hi>  <term type="one-word" n="2278">Was reden wir weiter von dem Knochen</term>? Ich will dir sagen, Herr Bruder, <term type="one-word" n="2635">du tust mir einen großen Gefallen</term>, <term type="one-word" n="2636">wenn du mir ihrer nicht mehr erwähnst</term>. Es ennuyiert mich, wenn ich an sie denken soll. <hi rend="italic">(<distinct type="alternative-form" n="wegschieben">Schiebt</distinct> die Schale <distinct type="alternative-form" n="wegschieben">weg</distinct>.)</hi></p>
+
+<p>STOLZIUS <hi rend="italic">(hinter dem Stuhl, mit verzerrtem Gesicht)</hi>  Wirklich? <hi rend="italic">(Beide <distinct type="alternative-form" n="ansehen">sehen</distinct> ihn <distinct type="alternative-form" n="ansehen">an</distinct> <distinct type="alternative-form" n="Verwunderung">voll Verwunderung</distinct>.)</hi></p>
+
+<p>DESPORTES <hi rend="italic">(<term type="one-word" n="2637">hält sich die Brust</term>)</hi> <distinct type="alternative-form" n="Stiche">Ich kriege Stiche</distinct> - Aye! </p>
+
+<p>MARY <hi rend="italic">(steif den Blick auf Stolzius geheftet, ohne ein Wort zu sagen)</hi>.</p>
+
+<p>DESPORTES <hi rend="italic">(wirft sich in einen Lehnstuhl)</hi> - Aye! - <hi rend="italic">(Mit Kontorsionen)</hi>  Mary! -</p>
+
+<p>STOLZIUS <hi rend="italic">(<term type="one-word" n="2145">springt hinzu</term>, faßt ihn an die Ohren und <term type="one-word" n="197">heftet sein Gesicht auf das seinige</term>. Mit fürchterlicher Stimme)</hi>  Marie! - Marie! - Marie!</p>
+
+<p>MARY <hi rend="italic">(<term type="one-word" n="2638">zieht den Degen</term> und will ihn durchbohren.)</hi></p>
+
+<p>STOLZIUS <hi rend="italic">(<distinct type="alternative-form" n="umkehren">kehrt sich</distinct> kaltblütig <distinct type="alternative-form" n="umkehren">um</distinct> und <term type="one-word" n="2640">faßt ihm in den Degen</term>)</hi>  Geben Sie sich keine Mühe, es ist schon geschehen. Ich sterbe <term type="one-word" n="2639">vergnügt</term>, <distinct type="alternative-form" n="mitnehmen">da ich den mitnehmen kann</distinct>.</p>
+
+<p>MARY <hi rend="italic">(läßt ihm den Degen in der Hand und <term type="one-word" n="2641">läuft heraus</term>)</hi>  Hilfe! - Hilfe-</p>
+
+<p>DESPORTES Ich bin vergiftet.</p>
+
+<p>STOLZIUS Ja, Verräter, das bist du - und ich bin Stolzius, dessen Braut du zur Hure machtest. Sie war meine Braut. Wenn ihr nicht leben könnt, <term type="one-word" n="149">ohne Frauenzimmer unglücklich zu machen</term>, warum <distinct type="alternative-form" n="wendt">wendt</distinct> ihr <distinct type="alternative-form" n="wendt">euch an</distinct> die, die euch nicht widerstehen können, <term type="one-word" n="1698">die euch aufs erste Wort glauben</term>. - Du bist gerochen, meine Marie! Gott kann mich nicht verdammen. <hi rend="italic">(Sinkt nieder.)</hi></p>
+
+<p>DESPORTES Hilfe! <hi rend="italic">(Nach einigen Verzuckungen <term type="one-word" n="2642">stirbt er gleichfalls</term>.)</hi></p>
+
+
+<p><hi rend="bold">Vierte Szene</hi> <hi rend="italic">(Wesener spaziert an der Lys in tiefen Gedanken. Es ist Dämmerung. Eine verhüllte Weibsperson zupft ihn am Rock.)</hi></p>
+
+<p>WESENER <term type="one-word" n="2643">Laß Sie mich</term> - <term type="one-word" n="2644">ich bin kein Liebhaber von solchen Sachen</term>.</p>
+
+<p>DIE WEIBSPERSON <hi rend="italic">(mit halb unvernehmlicher Stimme)</hi>  <distinct type="alternative-form" n="Gotteswillen">Um Gottes willen</distinct>, ein klein Almosen, gnädiger Herr.</p>
+
+<p>WESENER Ins Arbeitshaus mit Euch. <term type="one-word" n="616">Es sind hier der lüderlichen Bälge die Menge</term>, wenn man allen Almosen geben sollte, hätte man viel zu tun.</p>
+
+<p>WEIBSPERSON Gnädiger Herr, ich bin drei Tage gewesen, ohne einen Bissen Brot in Mund zu stecken, haben Sie doch die Gnade und führen mich in ein Wirtshaus, wo ich einen Schluck Wein tun kann.</p>
+
+<p>WESENER <term type="one-word" n="2648">Ihr</term> lüderliche Seele! <distinct type="alternative-form" n="schämt">schämt</distinct> Ihr <distinct type="alternative-form" n="schämt">Euch</distinct> nicht, einem honetten Mann <term type="one-word" n="2646">das zuzumuten</term>? <term type="one-word" n="2647">Geht, lauft Euren Soldaten nach</term>. <hi rend="italic">(<term type="one-word" n="2649">Weibsperson geht fort</term>, ohne zu antworten.)</hi></p>
+
+<p>WESENER <distinct type="alternative-form" n="deucht">Mich deucht</distinct>, sie seufzte so tief. Das Herz wird mir so schwer. <hi rend="italic">(<distinct type="alternative-form" n="hervorziehen">Zieht</distinct> den Beutel <distinct type="alternative-form" n="hervorziehen">hervor</distinct>)</hi>. Wer weiß, wo meine Tochter itzt Almosen heischt. <hi rend="italic">(<term type="one-word" n="2650">Läuft ihr nach</term> und reicht ihr zitternd ein Stück Geld.)</hi>  <distinct type="alternative-form" n="Gulden">Da hat Sie einen Gulden</distinct> - <distinct type="alternative-form" n="bessere">aber bessere Sie sich</distinct>.</p>
+
+<p>WEIBSPERSON <hi rend="italic">(<distinct type="alternative-form" n="anfangen">fängt</distinct> <distinct type="alternative-form" n="anfangen">an</distinct> zu weinen)</hi> O Gott! <hi rend="italic">(Nimmt das Geld und fällt halb ohnmächtig nieder)</hi>. Was kann mir das helfen ?</p>
+
+<p>WESENER  <hi rend="italic">(<distinct type="alternative-form" n="abkehren">kehrt</distinct> sich <distinct type="alternative-form" n="abkehren">ab</distinct> und wischt sich die Augen. Zu ihr, <term type="one-word" n="2652">ganz außer sich</term>)</hi>  <term type="one-word" n="2653">Wo ist Sie her</term>?</p>
+
+<p>WEIBSPERSON Das darf ich nicht sagen. Aber ich bin eines honetten Mannes Tochter.</p>
+
+<p>WESENER War Ihr Vater ein Galanteriehändler?</p>
+
+<p>WEIBSPERSON  <hi rend="italic">(<distinct type="alternative-form" n="stillschweigend">schweigt stille</distinct>.)</hi></p>
+
+<p>WESENER Ihr Vater war ein honetter Mann? - <distinct type="alternative-form" n="aufstehen">Steh</distinct> Sie <distinct type="alternative-form" n="aufstehen">auf</distinct>, ich will Sie in mein Haus führen. <hi rend="italic">(<distinct type="alternative-form" n="aufzuhelfen">Sucht ihr aufzuhelfen</distinct>.)</hi>  Wohnt Ihr Vater nicht etwan in Lille - <hi rend="italic">(Beim letzten Wort <term type="one-word" n="2654">fällt sie ihm um den Hals</term>.)</hi></p>
+
+<p>WESENER <hi rend="italic">(schreit laut)</hi> Ach, meine Tochter.</p>
+
+<p>MARIE Mein Vater ! <hi rend="italic">(Beide <distinct type="alternative-form" n="wälzen">wälzen sich</distinct> halbtot auf der Erde. Eine Menge Leute <distinct type="alternative-form" n="versammeln">versammeln sich</distinct> um sie und <distinct type="alternative-form" n="forttragen">tragen</distinct> sie <distinct type="alternative-form" n="forttragen">fort</distinct>.)</hi></p>
+
+
+<p><hi rend="bold">Fünfte und letzte Szene</hi></p>
+<p>DES OBRISTEN WOHNUNG</p>
+<p><hi rend="italic">(Der Obriste Graf von Spannheim. Die Gräfin La Roche.)</hi></p>
+
+<p>GRÄFIN Haben Sie <term type="one-word" n="2655">die beiden Unglücklichen</term> gesehen? Ich habe das Herz noch nicht. Der Anblick tötete mich.</p>
+
+<p>OBRISTER <term type="one-word" n="2656">Er hat mich zehn Jahre älter gemacht</term>. Und daß das bei meinem Corps - ich will dem Mann alle seine Schulden bezahlen und noch tausend Taler <distinct type="alternative-form" n="Schadloshaltung">zu seiner Schadloshaltung</distinct> obenein. Hernach will ich sehen, <distinct type="alternative-form" n="Bösewichts">was ich bei dem Vater des Bösewichts für diese durch ihn verwüstete Familie auswirken kann</distinct>.</p>
+
+<p>GRÄFIN Würdiger Mann! nehmen Sie meinen heißesten Dank in dieser Träne - das beste liebenswürdigste Geschöpf! <term type="one-word" n="453">was für Hoffnungen fing ich nicht schon an von ihr zu schöpfen</term>. <hi rend="italic">(Sie weint.)</hi></p>
+
+<p>OBRISTER <term type="one-word" n="2657">Diese Tränen machen Ihnen Ehre</term>. <distinct type="alternative-form" n="erweichen">Sie erweichen auch mich</distinct>. Und warum sollte ich nicht weinen, ich, der fürs Vaterland streiten und sterben soll, <distinct type="alternative-form" n="Untergebenen">einen Bürger desselben durch einen meiner Untergebenen mit seinem ganzen Hause in den unwiederbringlichsten Untergang gestürzt zu sehen</distinct>.</p>
+
+<p>GRÄFIN Das sind die Folgen des ehlosen Standes der Herren Soldaten.</p>
+
+<p>OBRISTER <hi rend="italic">(zuckt die Schultern)</hi> <distinct type="alternative-form" n="abzuhelfen">Wie ist dem abzuhelfen</distinct>? Schon Homer hat, <distinct type="alternative-form" n="deucht">deucht mich</distinct>, gesagt, ein guter Ehmann sei ein schlechter Soldat. Und die Erfahrung bestätigt's. - Ich habe allezeit eine besondere Idee gehabt, wenn ich die Geschichte der Andromeda gelesen. Ich <distinct type="alternative-form" n="ansehen">sehe</distinct> die Soldaten <distinct type="alternative-form" n="ansehen">an</distinct> wie das Ungeheuer, dem schon von Zeit zu Zeit ein unglückliches Frauenzimmer freiwillig aufgeopfert werden muß, damit die übrigen Gattinnen und Töchter <distinct type="alternative-form" n="verschont">verschont bleiben</distinct>.</p>
+
+<p>GRÄFIN Wie verstehen Sie das?</p>
+
+<p>OBRISTER Wenn der König eine Pflanzschule von Soldatenweibern anlegte; <term type="one-word" n="2658">die müßten sich aber freilich denn schon dazu verstehen</term>, <distinct type="alternative-form" n="entsagen">den hohen Begriffen, die sich ein junges Frauenzimmer von ewigen Verbindungen macht, zu entsagen</distinct>.</p>
+
+<p>GRÄFIN Ich zweifle, daß <distinct type="alternative-form" n="entschließen">sich</distinct> <term type="one-word" n="2659">ein Frauenzimmer von Ehre</term> <distinct type="alternative-form" n="entschließen">dazu entschließen</distinct> könnte.</p>
+
+<p>OBRISTER <term type="one-word" n="2660">Amazonen müßten es sein</term>. <term type="one-word" n="2661">Eine edle Empfindung</term>, <distinct type="alternative-form" n="deucht">deucht mich</distinct>, <distinct type="alternative-form" n="Waage">hält hier der andern die Waage</distinct>. <distinct type="alternative-form" n="Delikatesse">Die Delikatesse der weiblichen Ehre dem Gedanken, eine Märtyrerin für den Staat zu sein</distinct>.</p>
+
+<p>GRÄFIN Wie wenig kennt ihr Männer doch das Herz und die Wünsche eines Frauenzimmers.</p>
+
+<p>OBRISTER Freilich müßte der König das Beste tun, <distinct type="alternative-form" n="rühmlich">diesen Stand glänzend und rühmlich zu machen</distinct>. <distinct type="alternative-form" n="Werbegelder">Dafür ersparte er die Werbegelder</distinct>, und die Kinder gehörten ihm. O ich wünschte, <distinct type="alternative-form" n="fände">daß sich nur einer fände</distinct>, <term type="one-word" n="524">diese Gedanken bei Hofe durchzutreiben</term>, <term type="one-word" n="402">ich wollte ihm schon Quellen entdecken</term>. <term type="one-word" n="2662">Die Beschützer des Staats würden sodann auch sein Glück sein</term>, <term type="one-word" n="2279">die äußere Sicherheit desselben nicht die innere aufheben</term> und <term type="one-word" n="2280">in der bisher durch uns zerrütteten Gesellschaft</term> Fried und <term type="one-word" n="2281">Wohlfahrt aller</term> und Freude <term type="one-word" n="2663">sich untereinander küssen</term>.</p>
+
+
+</body> </text> </TEI.2>

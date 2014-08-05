@@ -121,13 +121,4 @@ class TextsController < ApplicationController
         redirect_to texts_path
       end
     end
-
-    def text_loc(id)
-      Rails.root.join('app', 'assets', 'texts', "#{id}.html")
-    end
-
-    def about_text_loc(id)
-      Rails.root.join('app', 'assets', 'texts', 'about', "#{id}-about.html")
-    end
-
 end

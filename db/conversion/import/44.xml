@@ -1,0 +1,1050 @@
+<!DOCTYPE TEI.2 SYSTEM "../DTD/tei2.dtd" [ <!ENTITY % TEI.prose "INCLUDE" > <!ENTITY % TEI.XML "INCLUDE"> ]>
+<?xml-stylesheet type="text/css" href="text.css"?>
+<?xml-stylesheet type="text/css" href="text_d.css"?>
+<?xml-stylesheet type="text/css" href="text_dp.css"?>
+<?xml-stylesheet type="text/css" href="text_e.css"?>
+<?xml-stylesheet type="text/css" href="text_em.css"?>
+<?xml-stylesheet type="text/css" href="text_m.css"?>
+<TEI.2>
+<teiHeader>
+</teiHeader>
+
+<text>
+<body>
+
+<p>
+﻿<head><term type="one-word" n="126">Woyzeck</term></head>
+</p>
+<p>
+<author><term type="one-word" n="7">Georg Büchner</term></author>
+</p>
+<p>
+<hi rend="bold">Personen:</hi>
+</p>
+<p>
+Woyzeck; 
+Marie; 
+Hauptmann; 
+Doktor; 
+Tamboumajour; 
+Unteroffizier; 
+Andres; 
+Margret; 
+Budenbesitzer; 
+Marktschreier; 
+Alter Mann mit Leierkasten; 
+Jude; 
+Wirt; 
+Erster Handwerksbursch; 
+Zweiter Handwerksbursch;
+Käthe; 
+Narr Karl; 
+Großmutter; 
+Erstes, zweites, drittes Kind; 
+Erste, zweite Person; 
+Polizeikommissar 
+</p>
+<p>
+Soldaten. Studenten. Burschen und Mädchen.
+Kinder. Volk
+</p>
+<p>
+<hi rend="bold"><term type="one-word" n="38">Beim Hauptmann</term></hi>
+</p>
+<p>
+<hi rend="italic">Hauptmann auf dem Stuhl, Woyzeck rasiert ihn.</hi>
+</p>
+<p>
+HAUPTMANN: Langsam, Woyzeck, langsam; <term type="one-word" n="43">eins nach dem andern</term>! <term type="multiword" n="52">Er</term> macht mir ganz schwindlig. Was soll ich dann mit den 10 Minuten anfangen, die <term type="multiword" n="52">Er</term> heut zu früh fertig wird? Woyzeck, bedenk <term type="multiword" n="52">Er</term>, <term type="multiword" n="52">Er</term> hat noch <term type="one-word" n="63">seine</term> schönen dreißig Jahr zu leben, dreißig Jahr! <term type="one-word" n="69">Macht</term> dreihundertsechzig Monate! und Tage! Stunden! Minuten! Was will <term type="multiword" n="52">Er</term> denn mit der ungeheuren Zeit all anfangen? <term type="one-word" n="64">Teil Er sich ein</term>, Woyzeck! 
+</p>
+<p>
+WOYZECK: Jawohl, <term type="multiword" n="82">Herr Hauptmann</term>.
+</p>
+<p>
+HAUPTMANN: <term type="one-word" n="83">Es wird mir ganz angst um die Welt</term>, wenn ich <distinct type="alternative-form" n="denkenan">an</distinct> die Ewigkeit denke. Beschäftigung, Woyzeck, Beschäftigung! Ewig: das ist ewig, das ist ewig - das <distinct type="alternative-form" n="einsehen">siehst</distinct> du <distinct type="alternative-form" n="einsehen">ein</distinct>; nur ist es <term type="one-word" n="94">aber wieder</term> nicht ewig, und das ist ein Augenblick, ja ein Augenblick - Woyzeck, <term type="one-word" n="99">es schaudert mich</term>, wenn ich denke, dass <distinct type="alternative-form" n="sichherumdrehen">sich</distinct> die Welt in einem Tag <distinct type="alternative-form" n="sichherumdrehen">herumdreht</distinct>. <term type="one-word" n="103">Was 'n</term> Zeitverschwendung! <term type="one-word" n="105">Wo soll das hinaus</term>? Woyzeck, ich kann kein Mühlrad <term type="one-word" n="110">mehr</term> sehen, oder ich werd melancholisch. 
+</p>
+<p>
+WOYZECK: Jawohl, <term type="multiword" n="82">Herr Hauptmann</term>. 
+</p>
+<p>
+HAUPTMANN: Woyzeck, <term type="multiword" n="52">Er</term> <distinct type="alternative-form" n="aussehen">sieht</distinct> immer so verhetzt <distinct type="alternative-form" n="aussehen">aus</distinct>! Ein guter Mensch tut das nicht, ein guter Mensch, der <distinct type="alternative-form" n="seinem">sein</distinct> gutes Gewissen hat. - <distinct type="alternative-form" n="geredet">Red</distinct> <term type="multiword" n="52">Er</term> doch <term type="one-word" n="124">was</term> Woyzeck! <term type="one-word" n="125">Was ist heut für Wetter</term>? 
+</p>
+<p>
+WOYZECK: Schlimm, <term type="multiword" n="82">Herr Hauptmann</term>, schlimm: Wind! 
+</p>
+<p>
+HAUPTMANN: Ich spür's schon. <term type="one-word" n="131">'s ist so was Geschwindes draußen</term>: so ein Wind macht mir den Effekt wie eine Maus. - (<hi rend="italic">Pfiffig</hi>): Ich glaub', <term type="one-word" n="139">wir haben so was aus Süd-Nord</term>? 
+</p>
+<p>
+WOYZECK: Jawohl, <term type="multiword" n="82">Herr Hauptmann</term>. 
+</p>
+<p>
+HAUPTMANN: <term type="multiword" n="140">Ha, ha ha</term>! Süd-Nord! <term type="multiword" n="140">Ha, ha, ha</term>! Oh, <term type="multiword" n="52">Er</term> ist dumm, ganz abscheulich dumm! - (<hi rend="italic">Gerührt</hi>): Woyzeck, <term type="multiword" n="52">Er</term> ist ein guter Mensch - aber - (<hi rend="italic">Mit Würde</hi>): Woyzeck, <term type="multiword" n="52">Er</term> hat keine Moral! Moral, das ist, wenn man moralisch ist, versteht <term type="multiword" n="52">Er</term>. Es ist ein gutes Wort. <term type="multiword" n="52">Er</term> hat ein Kind ohne den Segen der Kirche, wie <term type="one-word" n="156">unser hochehrwürdiger Herr Garnisionsprediger</term> sagt - ohne den Segen der Kirche, <term type="one-word" n="157">es ist nicht von mir</term>. 
+</p>
+<p>
+WOYZECK: <term type="multiword" n="82">Herr Hauptmann</term>, <term type="one-word" n="159">der liebe Gott wird den armen Wurm nicht drum ansehen, ob das Amen drüber gesagt ist, eh er gemacht wurde</term>. <term type="one-word" n="160">Der Herr</term> sprach: <term type="one-word" n="162">Lasset die Kleinen zu mir kommen.</term> 
+</p>
+<p>
+HAUPTMANN: Was sagt <term type="multiword" n="52">Er</term> da? <term type="one-word" n="164">Was ist das für eine kuriose Antwort</term>? <term type="multiword" n="52">Er</term> macht mich ganz konfus mit seiner Antwort. Wenn ich sag': <term type="multiword" n="52">Er</term>, so <distinct type="alternative-form" n="gemeint">mein'</distinct> ich <term type="multiword" n="52">Ihn, Ihn</term> - 
+</p>
+<p>
+WOYZECK: Wir <distinct type="alternative-form" n="armes">arme</distinct> Leut - <distinct type="alternative-form" n="gesehen">Sehn</distinct> Sie, <term type="multiword" n="82">Herr Hauptmann</term>: Geld, Geld! Wer kein Geld hat - <term type="one-word" n="173">Da setz einmal eines seinesgleichen auf die Moral in der Welt</term>! Man hat auch <distinct type="alternative-form" n="seinem">sein</distinct> Fleisch und Blut. <term type="one-word" n="177">Unsereins ist doch einmal unselig in der und der andern Welt</term>. Ich glaub', wenn wir in Himmel kämen, so müssten wir <distinct type="alternative-form" n="gedonnert">donnern</distinct> helfen. 
+</p>
+<p>
+HAUPTMANN: Woyzeck, <term type="multiword" n="52">Er</term> hat keine Tugend! <term type="multiword" n="52">Er</term> ist kein tugendhafter Mensch! Fleisch und Blut? Wenn ich <term type="one-word" n="187">am Fenster</term> lieg', wenn's geregnet hat, und den weißen Strümpfen <distinct type="alternative-form" n="nachsehen">nachseh</distinct>', wie sie über die Gassen springen - <term type="one-word" n="195">verdammt</term>, Woyzeck, da kommt mir die Liebe! Ich hab' auch Fleisch und Blut. Aber, Woyzeck, die Tugend! Die Tugend! Wie sollte ich dann <term type="one-word" n="197">die Zeit rumbringen</term>? Ich sag' mir immer: du bist ein tugendhafter Mensch - (<hi rend="italic">gerührt</hi>): - ein guter Mensch, ein guter Mensch. 
+</p>
+<p>
+WOYZECK: Ja, <term type="multiword" n="82">Herr Hauptmann</term>, die Tugend - <term type="one-word" n="198">ich hab's noch nit so aus</term>. <distinct type="alternative-form" n="sehen">Sehn</distinct> Sie: wir gemeine Leut, das hat keine Tugend, es kommt nur so die Natur; aber wenn ich ein Herr wär und hätt' ein' Hut und eine Uhr und <term type="one-word" n="204">eine Anglaise</term> und könnt' vornehm rede, ich wollt' schon tugendhaft sein. <term type="one-word" n="206">Es muss was Schönes sein um die Tugend</term>, <term type="multiword" n="82">Herr Hauptmann</term>. Aber ich bin ein armer Kerl! 
+</p>
+<p>
+HAUPTMANN: Gut, Woyzeck. Du bist ein guter Mensch, ein guter Mensch. Aber du denkst zuviel, das zehrt; du <distinct type="alternative-form" n="aussehen">siehst</distinct> immer so verhetzt <distinct type="alternative-form" n="aussehen">aus</distinct>. - <term type="one-word" n="210">Der Diskurs</term> hat mich ganz <term type="one-word" n="211">angegriffen</term>. Geh jetzt, und renn nicht so; langsam, <term type="one-word" n="214">hübsch langsam</term> <term type="one-word" n="215">die Straße hinunter</term>! 
+</p>
+<p>
+<hi rend="bold"><term type="one-word" n="216">Freies Feld</term>, die Stadt in der Ferne</hi>
+</p>
+<p>
+<hi rend="italic">Woyzeck und Andres schneiden Stecken im Gebüsch. Andres pfeift.</hi>
+</p>
+<p>
+WOYZECK: Ja, Andres, der Platz ist verflucht. Siehst Du <term type="one-word" n="224">den lichten Streif da über das Gras hin</term>, wo die Schwämme so nachwachsen? Da rollt abends der Kopf. <term type="one-word" n="231">Es hob ihn einmal einer auf</term>, er meint', es wär ein Igel: drei Tag und drei Nächt, <term type="one-word" n="239">er lag auf den Hobelspänen</term>. - (<hi rend="italic">Leise</hi>): Andres, das waren die Freimaurer! <term type="one-word" n="236">Ich hab's</term>, die Freimaurer! 
+</p>
+<p>
+ANDRES (<hi rend="italic">singt</hi>):
+Saßen dort zwei Hasen, /
+<distinct type="alternative-form" n="abfressen">fraßen ab</distinct> das grüne, grüne Gras...
+</p>
+<p>
+WOYZECK: Still: Hörst du's, Andres? Hörst du's? <term type="one-word" n="248">Es geht was</term>! 
+</p>
+<p>
+ANDRES:
+<distinct type="alternative-form" n="abfressen">Fraßen ab</distinct> das grüne, grüne Gras... /
+<term type="one-word" n="249">bis auf den grünen Rasen</term>.
+</p>
+<p>
+WOYZECK: <term type="one-word" n="250">Es geht hinter mir, unter mir</term>. - (<hi rend="italic">Stampft auf den Boden</hi>) Hohl, hörst Du? Alles hohl da unten! Die Freimaurer! 
+</p>
+<p>
+ANDRES: Ich <distinct type="alternative-form" n="fürchten">fürcht' mich</distinct>. 
+</p>
+<p>
+WOYZECK: 's ist so kurios still. Man möcht' <term type="one-word" n="256">den Atem halten</term>. - Andres! 
+</p>
+<p>
+ANDRES: Was? 
+</p>
+<p>
+WOYZECK: <term type="one-word" n="258">Red was</term>! - (<hi rend="italic"><term type="one-word" n="259">Starrt in die Gegend</term>.</hi>) - Andres, wie hell! Über der Stadt <distinct type="alternative-form" n="ist">is</distinct> alles Glut! <term type="one-word" n="262">Ein Feuer fährt um den Himmel und ein Getös herunter wie Posaunen</term>. <term type="one-word" n="263">Wie's heraufzieht</term>! - <term type="one-word" n="264">Fort</term>! Sieh nicht hinter dich! - (<hi rend="italic">Reißt ihn ins Gebüsch.</hi>) 
+</p>
+<p>
+ANDRES (<hi rend="italic">nach einer Pause</hi>): Woyzeck, hörst <term type="one-word" n="267">du's</term> noch? 
+</p>
+<p>
+WOYZECK: Still, alles still, <term type="one-word" n="268">als wär' die Welt tot</term>. 
+</p>
+<p>
+ANDRES: Hörst du? <term type="one-word" n="269">Sie trommeln drin</term>. <term type="one-word" n="270">Wir müssen fort</term>! 
+</p>
+<p>
+<hi rend="bold">Die Stadt</hi>
+</p>
+<p>
+<hi rend="italic">Marie mit ihrem Kind am Fenster. Margret. <term type="one-word" n="274">Der Zapfenstreich geht vorbei</term>, der Tambourmajor voran.
+</hi></p>
+<p>
+MARIE (<hi rend="italic"><term type="one-word" n="276">das Kind wippend auf dem Arm</term></hi>): He, Bub! <term type="one-word" n="279">Sa ra ra ra</term>! Hörst? Da kommen sie! 
+</p>
+<p>
+MARGRET: Was ein Mann, wie ein Baum! 
+</p>
+<p>
+MARIE: Er steht auf seinen Füßen wie ein Löw. 
+</p>
+<p>
+(<hi rend="italic">Tambourmajor grüßt.</hi>) 
+</p>
+<p>
+MARGRET: <term type="one-word" n="287">Ei</term>, <term type="one-word" n="290">was freundliche Auge</term>, <term type="one-word" n="289">Frau Nachbarin</term>! <term type="one-word" n="291">So was is man an ihr nit gewöhnt</term>. 
+</p>
+<p>
+MARIE (<hi rend="italic">singt</hi>): Soldaten, das sind schöne Bursch ... 
+</p>
+<p>
+MARGRET: <term type="one-word" n="292">Ihre Auge glänze ja noch</term> - 
+</p>
+<p>
+MARIE: <term type="one-word" n="293">Und wenn</term>! Trag <term type="multiword" n="294">Sie</term> <term type="one-word" n="295">Ihr</term> Aug zum Jud, und lass <term type="multiword" n="294">Sie</term> sie putze; vielleicht glänze sie noch, dass man sie für zwei Knöpfe verkaufen könnt. 
+</p>
+<p>
+MARGRET: Was, <term type="multiword" n="294">Sie</term>? <term type="multiword" n="294">Sie</term>? <term type="one-word" n="304">Frau Jungfer</term>! Ich bin eine honette Person, aber <term type="multiword" n="294">Sie</term>, es <distinct type="alternative-form" n="wissen">weiß</distinct> jeder, <term type="multiword" n="294">Sie</term> <distinct type="alternative-form" n="durchgucken">guckt</distinct> sieben Paar lederne Hose <distinct type="alternative-form" n="durchgucken">durch</distinct>! 
+</p>
+<p>
+MARIE: Luder! - (<hi rend="italic"><term type="multiword" n="314">Schlägt</term> das Fenster <term type="multiword" n="314">durch</term></hi>). - Komm, <distinct type="alternative-form" n="meinem">mei</distinct> Bub! Was die Leute wolle. Bist doch nur ein arm <term type="one-word" n="316">Hurenkind</term> und machst deiner Mutter Freud mit <term type="one-word" n="318">deim</term> <term type="one-word" n="319">unehlichen</term> Gesicht! <term type="one-word" n="321">Sa! sa!</term> - (<hi rend="italic">Singt</hi>):
+Mädel, was <distinct type="alternative-form" n="anfangen">fangst</distinct> Du jetzt <distinct type="alternative-form" n="anfangen">an</distinct>? /
+Hast ein klein Kind und kein' Mann! /
+<term type="one-word" n="324">Ei</term>, <term type="one-word" n="325">was frag' ich danach</term>? /
+Sing' ich die ganze Nacht /
+<term type="one-word" n="328">heio, popeio</term>, <term type="one-word" n="327">mei Bu</term>, juchhe! /
+<term type="one-word" n="330">Gibt mir kein Mensch nix dazu</term>.
+</p>
+<p>
+(<hi rend="italic">Es klopft am Fenster.</hi>) 
+</p>
+<p>
+MARIE: Wer da? Bist du's, Franz? <distinct type="alternative-form" n="hereinkommen">Komm herein</distinct>! 
+</p>
+<p>
+WOYZECK: Kann nit. Muss zum <term type="one-word" n="334">Verles'</term>. 
+</p>
+<p>
+MARIE: Hast du Stecken geschnitten für den Hauptmann? 
+</p>
+<p>
+WOYZECK: Ja, Marie. 
+</p>
+<p>
+MARIE: <term type="one-word" n="335">Was hast du</term>, Franz? Du siehst so verstört. 
+</p>
+<p>
+WOYZECK (<hi rend="italic">geheimnisvoll</hi>): Marie, es war wieder was, viel - <term type="one-word" n="340">steht nicht geschrieben</term>: <term type="one-word" n="341">Und sieh, da ging ein Rauch vom Land, wie der Rauch vom Ofen</term>? 
+</p>
+<p>
+MARIE: Mann! 
+</p>
+<p>
+WOYZECK: <term type="one-word" n="342">Es ist hinter mir hergangen bis vor die Stadt</term>. Etwas, was wir nicht fassen, begreifen, <term type="one-word" n="345">was uns von Sinnen bringt</term>. Was soll das werden? 
+</p>
+<p>
+MARIE: Franz! 
+</p>
+<p>
+WOYZECK: <term type="one-word" n="346">Ich muss fort</term>. - <term type="one-word" n="360">Heut abend</term> <term type="one-word" n="347">auf die Mess</term>! Ich hab wieder gespart. - (<hi rend="italic">Er geht.</hi>) 
+</p>
+<p>
+MARIE: Der Mann! So vergeistert. Er hat sein Kind nicht angesehn! Er <distinct type="alternative-form" n="überschnappen">schnappt</distinct> noch <distinct type="alternative-form" n="überschnappen">über</distinct> mit den Gedanken! - <term type="one-word" n="353">Was bist so still</term>, Bub? <distinct type="alternative-form" n="fürchten">Fürchtest dich</distinct>? Es wird so dunkel; man meint, man wär' blind. <term type="one-word" n="356">Sonst scheint als die Latern herein</term>. <term type="one-word" n="357">Ich halt's nit aus</term>; <term type="one-word" n="358">es schauert mich</term>! - (<hi rend="italic"><term type="one-word" n="349">Geht ab.</term></hi>) 
+</p>
+<p>
+<hi rend="bold">Buden. 
+</hi></p>
+<p>
+<hi rend="italic">Lichter. Volk</hi>
+</p>
+<p>
+ALTER MANN (<hi rend="italic">singt und Kind tanzt zum Leierkasten</hi>):
+Auf der Welt ist kein Bestand, /
+Wir müssen alle sterben, /
+das ist uns wohlbekannt.
+</p>
+<p>
+WOYZECK: <term type="one-word" n="366">Hei, Hopsa's</term>! - Armer Mann, alter Mann! Armes Kind, junges Kind! Sorgen und Feste! 
+</p>
+<p>
+MARIE: <term type="one-word" n="370">Mensch</term>, sind noch die Narrn <term type="one-word" n="1378">von Verstande</term>, dann ist man selbst ein Narr. - Komische Welt! Schöne Welt! 
+</p>
+<p>
+(<hi rend="italic">Beide gehn weiter zum Marktschreier.</hi>) 
+</p>
+<p>
+MARKTSCHREIER (<hi rend="italic">vor seiner Bude mit seiner Frau in Hosen und einem <term type="one-word" n="1376">kostümierten</term> Affen</hi>): Meine Herren, meine Herren! Sehn Sie die Kreatur, wie sie Gott gemacht: nix, gar nix. <distinct type="alternative-form" n="sehen">Sehn</distinct> Sie jetzt die Kunst: geht aufrecht, hat Rock und Hosen, hat ein' Säbel! Der Aff ist Soldat; <term type="one-word" n="386">s' ist noch nicht viel</term>, <term type="one-word" n="387">unterste Stuf von menschliche Geschlecht</term>. Ho! <term type="one-word" n="389">Mach Kompliment</term>! So - bist Baron. Gib Kuss! - (<hi rend="italic">Er trompetet</hi>): Wicht ist musikalisch. - Meine Herren, hier ist zu sehen das astronomische Pferd und die kleine Kanaillevögele. Sind Favorit von alle gekrönte Häupter Europas, verkündigen den Leuten alles: wie alt, wieviel Kinder, <term type="one-word" n="405">was für Krankheit</term>. <term type="one-word" n="406">Die Repräsentationen</term> anfangen! Es wird sogleich sein Commencement von Commencement. 
+</p>
+<p>
+WOYZECK: Willst Du? 
+</p>
+<p>
+MARIE: Meinetwegen. Das muss schön Ding sein. Was der Mensch Quasten hat! Und die Frau Hosen! 
+</p>
+<p>
+(<hi rend="italic">Beide gehen in die Bude.</hi>) 
+</p>
+<p>
+TAMBOURMAJOR: Halt, jetzt! Siehst du sie! Was ein Weibsbild! 
+</p>
+<p>
+UNTEROFFIZIER: Teufel! Zum Fortpflanzen von Kürassierregimentern! 
+</p>
+<p>
+TAMBOURMAJOR: Und zur Zucht von Tambourmajors! 
+</p>
+<p>
+UNTEROFFIZIER: Wie sie den Kopf trägt! Man meint, das schwarze Haar müsst' sie abwärts ziehn wie ein Gewicht. Und Augen - 
+</p>
+<p>
+TAMBOURMAJOR: <term type="one-word" n="1258">Als ob</term> man in ein' Ziehbrunnen oder zu einem Schornstein <term type="one-word" n="425">hinunter guckt</term>. <term type="one-word" n="426">Fort, hintendrein</term>! - 
+</p>
+<p>
+<hi rend="bold">Das Innere der hellerleuchteten Bude
+</hi></p>
+<p>
+MARIE: Was Licht! 
+</p>
+<p>
+WOYZECK: Ja, Marie, schwarze Katzen mit feurigen Augen. Hei, was ein Abend! 
+</p>
+<p>
+DER BUDENBESITZER (<hi rend="italic">ein Pferd vorführend</hi>): Zeig dein Talent! Zeig deine viehische Vernünftigkeit! Beschäme die menschliche Sozietät! Meine Herren, dies Tier, was Sie da <distinct type="alternative-form" n="sehen">sehn</distinct>, Schwanz am Leib, auf seine vier Hufe, ist Mitglied von alle gelehrt Sozietät, ist Professor an unsre Universität, wo die Studente bei ihm reiten und <term type="one-word" n="453">schlagen</term> lernen. - Das war einfacher <distinct type="alternative-form" n="Verstands">Verstand</distinct>. Denk jetzt <term type="multiword" n="457">mit der doppelten Raison</term>! Was machst du, wann du <term type="multiword" n="457">mit der doppelten Raison</term> denkst? Ist unter der gelehrten Société da ein Esel? - (<hi rend="italic">Der Gaul schüttelt den Kopf.</hi>) - <distinct type="alternative-form" n="sehen">Sehn</distinct> Sie jetzt <term type="one-word" n="463">die doppelte Raison</term>? Das ist <term type="one-word" n="464">Viehsionomik</term>. Ja, das ist kein viehdummes Individuum, das ist ein Person, ein Mensch, ein tierischer Mensch - und doch ein Vieh, ein Bête. - (<hi rend="italic"><term type="one-word" n="470">Das Pferd führt sich ungebührlich auf</term>.</hi>) - So, beschäme die Société. <distinct type="alternative-form" n="sehen">Sehn</distinct> Sie, das Vieh ist noch Natur, unideale Natur! Lernen Sie bei ihm! Fragen Sie den Arzt, es ist sonst höchst schädlich! Das hat geheißen: Mensch, sei natürlich! Du bist geschaffen aus Staub, Sand, Dreck. Willst du mehr <distinct type="alternative-form" n="ist">sein</distinct> als Staub, Sand, Dreck? - <distinct type="alternative-form" n="sehen">Sehn</distinct> Sie, was Vernunft: es kann rechnen und kann doch nit <term type="one-word" n="485">an den Fingern herzählen</term>. Warum? Kann sich nur nit <distinct type="alternative-form" n="ausgedrückt">ausdrücken</distinct>, nur nit explizieren, ist ein verwandelter Mensch. Sag den Herren, <term type="one-word" n="490">wieviel Uhr ist es</term>! Wer von den Herren und Damen hat ein Uhr? ein Uhr? 
+</p>
+<p>
+UNTEROFFIZIER: Eine Uhr? - (<hi rend="italic">Zieht großartig und <term type="one-word" n="493">gemessen</term> eine Uhr aus der Tasche.</hi>) Da, mein Herr! 
+</p>
+<p>
+MARIE: Das muss ich <distinct type="alternative-form" n="sehen">sehn</distinct>. - (<hi rend="italic">Sie klettert <term type="one-word" n="496">auf den ersten Platz</term>; Unteroffizier hilft ihr.</hi>) 
+</p>
+<p>
+TAMBOURMAJOR: Das ist ein Weibsbild. 
+</p>
+<p>
+<hi rend="bold">Mariens Kammer</hi>
+</p>
+<p>
+MARIE (<hi rend="italic">sitzt, ihr Kind auf dem Schoß, ein Stückchen Spiegel in der Hand</hi>): <term type="one-word" n="502">Der andre</term> hat ihm befohlen, und er hat gehen müssen! - (<hi rend="italic">Bespiegelt sich</hi>): <term type="one-word" n="505">Was die Steine glänzen</term>! <term type="one-word" n="506">Was sind's für</term>? Was hat er gesagt? - - <distinct type="alternative-form" n="schlafen">Schlaf</distinct>, Bub! <distinct type="alternative-form" n="zudrücken">Drück</distinct> die Augen <distinct type="alternative-form" n="zudrücken">zu</distinct>, <term type="one-word" n="509">fest</term>! - (<hi rend="italic">Das Kind versteckt die Augen hinter den Händen.</hi>) - <term type="one-word" n="513">Noch fester</term>! Bleib so - still, <term type="one-word" n="515">oder er holt dich</term>! - (<hi rend="italic">Singt</hi>): 
+Mädel, mach's Ladel zu /
+<term type="one-word" n="517">'s kommt e Zigeunerbu</term>, /
+führt dich an deiner Hand /
+fort ins Zigeunerland.
+(<hi rend="italic">Spiegelt sich wieder.</hi>) - <term type="multiword" n="522">'s ist</term> gewiss Gold! <term type="one-word" n="525">Wie wird mir's beim Tanzen stehen</term>? <term type="one-word" n="526">Unsereins</term> hat nur ein Eckchen in der Welt und ein Stück Spiegel, und doch hab ich ein' so roten Mund als die großen Madamen <term type="one-word" n="530">mit ihrem Spiegeln von oben bis unten</term> und ihren schönen Herrn, die ihnen die Händ <distinct type="alternative-form" n="geküsst">küssen</distinct>. Ich bin nur ein arm Weibsbild! - (<hi rend="italic">Das Kind <distinct type="alternative-form" n="sichaufrichten">richtet sich auf</distinct>.</hi>) - Still, Bub, <term type="one-word" n="534">die Augen zu</term>! <term type="one-word" n="535">Das Schlafengelchen</term>! Wie's an der Wand läuft. - (<hi rend="italic"><term type="one-word" n="538">Sie blinkt ihm mit dem Glas</term></hi>): Die Auge zu, <term type="one-word" n="539">oder es sieht dir hinein</term>, <term type="one-word" n="540">dass</term> du blind wirst! 
+</p>
+<p>
+(<hi rend="italic">Woyzeck <distinct type="alternative-form" n="hereintreten">tritt herein</distinct>, hinter sie. Sie <distinct type="alternative-form" n="auffahren">fährt auf</distinct>, <term type="one-word" n="544">mit den Händen nach den Ohren</term>.</hi>) 
+</p>
+<p>
+WOYZECK: <term type="one-word" n="545">Was hast du</term>? 
+</p>
+<p>
+MARIE: Nix. 
+</p>
+<p>
+WOYZECK: Unter deinen Fingern glänzt's ja. 
+</p>
+<p>
+MARIE: Ein Ohrringlein; <term type="one-word" n="549">hab's</term> gefunden. 
+</p>
+<p>
+WOYZECK: Ich hab' so noch nix gefunden, <term type="one-word" n="550">zwei auf einmal</term>! 
+</p>
+<p>
+MARIE: Bin ich <term type="one-word" n="551">ein Mensch</term>? 
+</p>
+<p>
+WOYZECK: <term type="multiword" n="522">'s ist</term> gut, Marie. - <term type="one-word" n="552">Was der Bub schläft</term>! <term type="one-word" n="554">Greif ihm unters Ärmchen</term>, der Stuhl drückt ihn. Die hellen Tropfen <distinct type="alternative-form" n="stehen">stehn</distinct> ihm auf der Stirn; alles Arbeit unter der Sonn, sogar Schweiß im Schlaf. Wir arme Leut! - <term type="one-word" n="563">Da ist wieder Geld</term>, Marie; die Löhnung und was von <term type="one-word" n="565">meim</term> Hauptmann. 
+</p>
+<p>
+MARIE: <term type="one-word" n="566">Gott vergelt's</term>, Franz. 
+</p>
+<p>
+WOYZECK: <term type="one-word" n="567">Ich muss fort</term>. <term type="one-word" n="568">Heut abend</term>, Marie! Adies! 
+</p>
+<p>
+MARIE (<hi rend="italic">allein, nach einer Pause</hi>): Ich bin doch ein schlechter Mensch! Ich könnt' mich erstechen. - <term type="one-word" n="573">Ach, was Welt</term>! Geht doch alle zum Teufel, Mann und Weib! 
+</p>
+<p>
+<hi rend="bold">Beim Doktor
+</hi></p>
+<p>
+<hi rend="italic">Woyzeck. Der Doktor. 
+</hi></p>
+<p>
+DOKTOR: Was erleb' ich, Woyzeck? <term type="one-word" n="577">Ein Mann von Wort</term>! 
+</p>
+<p>
+WOYZECK: <term type="one-word" n="578">Was denn</term>, <term type="multiword" n="732">Herr Doktor</term>? 
+</p>
+<p>
+DOKTOR: Ich hab's <distinct type="alternative-form" n="sehen">gesehn</distinct>, Woyzeck; <term type="multiword" n="599">Er</term> hat auf die <distinct type="alternative-form" n="Straße">Straß</distinct> gepisst, an die Wand gepisst, wie ein Hund. - Und doch drei Groschen täglich und die Kost! Woyzeck, das ist schlecht; die Welt wird schlecht, sehr schlecht! 
+</p>
+<p>
+WOYZECK: Aber, <term type="multiword" n="732">Herr Doktor</term>, <term type="one-word" n="585">wenn einem die Natur kommt</term>. 
+</p>
+<p>
+DOKTOR: <term type="one-word" n="586">Die Natur kommt, die Natur kommt</term>! Die Natur! Hab' ich nicht nachgewiesen, dass <term type="one-word" n="588">der Musculus constrictor vesicae</term> dem Willen unterworfen ist? Die Natur! Woyzeck, der Mensch ist frei, in dem Menschen verklärt sich die Individualität zur Freiheit. - Den Harn nicht halten können! - (<hi rend="italic">Schüttelt den Kopf, legt die Hände auf den Rücken und geht <term type="one-word" n="598">auf und ab</term>.</hi>) - Hat <term type="multiword" n="599">Er</term> schon seine Erbsen gegessen, Woyzeck? Nichts als Erbsen, cruciferae, merk <term type="multiword" n="599">Er</term> <distinct type="alternative-form" n="merken">sich's</distinct>! <term type="one-word" n="604">Es gibt</term> eine Revolution in der Wissenschaft, ich <term type="multiword" n="607">sprenge</term> sie <term type="multiword" n="607">in die Luft</term>. Harnstoff 0,10, <term type="one-word" n="609">salzsaures Ammonium</term>, Hyperoxydul - Woyzeck, muss <term type="multiword" n="599">Er</term> nicht wieder pissen? <term type="multiword" n="611">Geh</term> <term type="multiword" n="599">Er</term> <term type="multiword" n="611">einmal hinein</term> und probier <term type="multiword" n="599">Er</term>'s! 
+</p>
+<p>
+WOYZECK: Ich kann nit, <term type="multiword" n="732">Herr Doktor</term>. 
+</p>
+<p>
+DOKTOR (<hi rend="italic">mit Affekt</hi>): Aber an die Wand pissen! Ich hab's schriftlich, den Akkord in der Hand! - Ich hab's gesehen, mit diesen Augen gesehen; <term type="one-word" n="617">ich steckt' grade die Nase zum Fenster hinaus</term> und ließ die Sonnenstrahlen hineinfallen, um das Niesen zu beobachten. - (<hi rend="italic"><term type="one-word" n="622">Tritt auf ihn los</term></hi>): Nein, Woyzeck, ich ärgre <distinct type="alternative-form" n="ärgre">mich</distinct> nicht; Ärger ist ungesund, ist unwissenschaftlich. Ich bin ruhig, ganz ruhig; mein Puls hat seine gewöhnlichen sechzig, und ich sag's <term type="multiword" n="599">Ihm</term> mit der größten Kaltblütigkeit. <term type="one-word" n="633">Behüte</term>, wer wird <distinct type="alternative-form" n="ärgre">sich</distinct> <distinct type="alternative-form" n="ärgre">über</distinct> einen Menschen ärgern, ein' Mensch! Wenn es noch ein Proteus wäre, <term type="one-word" n="636">der einem krepiert</term>! Aber, Woyzeck, <term type="multiword" n="599">Er</term> hätte nicht an die Wand pissen sollen - 
+</p>
+<p>
+WOYZECK: <distinct type="alternative-form" n="sehen">Sehn</distinct> Sie, <term type="multiword" n="732">Herr Doktor</term>, manchmal hat <term type="one-word" n="637">einer</term> so 'en Charakter, so 'ne Struktur. - Aber mit der Natur ist's <term type="one-word" n="641">was anders</term>, <distinct type="alternative-form" n="sehen">sehn</distinct> Sie; mit der Natur - (<hi rend="italic"><term type="one-word" n="642">er kracht mit den Fingern</term></hi>) -, <term type="one-word" n="643">das is so was</term>, wie soll ich sagen, zum Beispiel ... 
+</p>
+<p>
+DOKTOR: Woyzeck, <term type="multiword" n="599">Er</term> philosophiert wieder. 
+</p>
+<p>
+WOYZECK (<hi rend="italic">vertraulich</hi>): <term type="multiword" n="732">Herr Doktor</term>, haben Sie schon <term type="one-word" n="647">was</term> von der doppelten Natur <distinct type="alternative-form" n="sehen">gesehn</distinct>? Wenn die Sonn in Mittag steht und es ist, <term type="one-word" n="650">als ging' die Welt in Feuer auf</term>, hat schon eine fürchterliche Stimme zu mir <distinct type="alternative-form" n="geredet">geredt</distinct>! 
+</p>
+<p>
+DOKTOR: Woyzeck, <term type="multiword" n="599">Er</term> hat eine Aberratio. 
+</p>
+<p>
+WOYZECK (<hi rend="italic">legt den Finger auf die Nase</hi>): Die Schwämme, <term type="multiword" n="732">Herr Doktor</term>, <term type="one-word" n="655">da, da steckt's</term>. Haben Sie schon <distinct type="alternative-form" n="sehen">gesehn</distinct>, in was für Figuren die Schwämme auf dem Boden wachsen? Wer das lesen könnt! 
+</p>
+<p>
+DOKTOR: Woyzeck, <term type="multiword" n="599">Er</term> hat die schönste <term type="one-word" n="658">Aberratio mentalis partialis</term>, <term type="multiword" n="659">die zweite Spezies</term>, <term type="one-word" n="660">sehr schön ausgeprägt</term>. Woyzeck, <term type="multiword" n="599">Er</term> kriegt <term type="one-word" n="662">Zulage</term>! <term type="multiword" n="659">Zweite Spezies</term>: <term type="one-word" n="663">fixe Idee</term> mit allgemein vernünftigem Zustand. - <term type="multiword" n="599">Er</term> tut noch alles wie sonst? Rasiert <term type="multiword" n="668">seinen</term> Hauptmann? 
+</p>
+<p>
+WOYZECK: Jawohl. 
+</p>
+<p>
+DOKTOR: Isst <term type="multiword" n="668">seine</term> Erbsen? 
+</p>
+<p>
+WOYZECK: Immer ordentlich, <term type="multiword" n="732">Herr Doktor</term>. Das Geld für <term type="one-word" n="671">die Menage</term> kriegt meine Frau. 
+</p>
+<p>
+DOKTOR: <term type="one-word" n="672">Tut seinen Dienst</term>? 
+</p>
+<p>
+WOYZECK: Jawohl. 
+</p>
+<p>
+DOKTOR: Er ist ein interessanter Kasus. <term type="one-word" n="674">Subjekt</term> Woyzeck, <term type="multiword" n="599">Er</term> kriegt Zulage, <term type="multiword" n="675">halt</term> <term type="multiword" n="599">Er</term> <term type="multiword" n="675">sich brav</term>. Zeig <term type="multiword" n="599">Er</term> <term type="multiword" n="668">seinen</term> Puls. Ja. 
+</p>
+<p>
+<hi rend="bold">Mariens Kammer
+</hi></p>
+<p>
+<hi rend="italic">Marie. Tambourmajor.</hi> 
+</p>
+<p>
+TAMBOURMAJOR: Marie! 
+</p>
+<p>
+MARIE (<hi rend="italic">ihn ansehend, mit Ausdruck</hi>): <term type="one-word" n="677">Geh einmal vor dich hin</term>! <term type="one-word" n="678">Über die Brust wie ein Rind</term> und ein Bart wie ein Löw. <term type="one-word" n="680">So ist keiner</term>! - Ich bin stolz vor allen Weibern! 
+</p>
+<p>
+TAMBOURMAJOR: Wenn ich am Sonntag <term type="one-word" n="689">erst</term> <term type="one-word" n="684">den großen Federbusch</term> hab' und die weiße Handschuh, <term type="one-word" n="686">Donnerwetter</term>! Der Prinz sagt immer: <term type="one-word" n="690">Mensch</term>, <term type="one-word" n="688">Er</term> ist ein Kerl. 
+</p>
+<p>
+MARIE (<hi rend="italic">spöttisch</hi>): <term type="one-word" n="692">Ach was</term>! - (<hi rend="italic"><term type="one-word" n="693">Tritt vor ihn hin</term></hi>): Mann! 
+</p>
+<p>
+TAMBOURMAJOR: Und du bist auch ein Weibsbild! Sapperment, <term type="one-word" n="695">wir wollen eine Zucht Tambourmajors anlegen</term>. He? - (<hi rend="italic">Er umfasst sie.</hi>) 
+</p>
+<p>
+MARIE (<hi rend="italic">verstimmt</hi>): Lass mich! 
+</p>
+<p>
+TAMBOURMAJOR: Wild Tier! 
+</p>
+<p>
+MARIE (<hi rend="italic">heftig</hi>): <term type="one-word" n="700">Rühr mich an</term>! 
+</p>
+<p>
+TAMBOURMAJOR: Sieht dir der Teufel aus den Augen? 
+</p>
+<p>
+MARIE: Meinetwegen! Es ist alles eins! 
+</p>
+<p>
+<hi rend="bold">Straße
+</hi></p>
+<p>
+<hi rend="italic">Hauptmann. Doktor. Hauptmann keucht <term type="one-word" n="703">die Straße herunter</term>, <distinct type="alternative-form" n="anhalten">hält an</distinct>; keucht, <distinct type="alternative-form" n="umsehen">sieht sich um</distinct>. 
+</hi></p>
+<p>
+HAUPTMANN: <term type="multiword" n="731">Herr Doktor</term>, rennen Sie nicht so! Rudern Sie mir Ihrem Stock nicht so in der Luft! <term type="one-word" n="710">Sie hetzen sich ja hinter dem Tod drein</term>. Ein guter Mensch, der <distinct type="alternative-form" n="seinem">sein</distinct> gutes <distinct type="alternative-form" n="Gewissens">Gewissen</distinct> hat, geht nicht so schnell. Ein guter Mensch - (<hi rend="italic">Er erwischt den Doktor <term type="one-word" n="713">am Rock</term></hi>): Herr Doktor, erlauben Sie, dass ich ein Menschenleben rette! 
+</p>
+<p>
+DOKTOR: <term type="multiword" n="717">Pressiert</term>, <term type="multiword" n="730">Herr Hauptmann</term>, <term type="multiword" n="717">pressiert</term>! 
+</p>
+<p>
+HAUPTMANN: <term type="multiword" n="731">Herr Doktor</term>, ich bin so schwermütig, <term type="one-word" n="719">ich habe so was Schwärmerisches</term>; ich muss immer weinen, wenn ich <distinct type="alternative-form" n="meines">meinen </distinct>Rock an der Wand hängen sehe -. 
+</p>
+<p>
+DOKTOR: Hm! Aufgedunsen, fett, dicker Hals: apoplektische Konstitution. Ja, <term type="multiword" n="730">Herr Hauptmann</term>, Sie können eine <term type="one-word" n="729">Apoplexia cerebri </term>kriegen; Sie können sie aber vielleicht auch nur <term type="one-word" n="736">auf der einen Seite</term> bekommen und <term type="one-word" n="737">auf der einen</term> gelähmt sein, oder aber Sie können <term type="one-word" n="739">im besten Fall</term> geistig gelähmt werden und nur <term type="one-word" n="759">fort</term> vegetieren: das sind so ohgefähr Ihre Aussichten auf die nächsten vier Wochen! Übrigens kann ich Sie versichern, <term type="one-word" n="748">dass Sie einen von den interessanten Fällen abgeben</term>, und wenn Gott will, dass Ihre Zunge <term type="one-word" n="750">zum Teil</term> gelähmt wird, so machen wir unsterbliche Experimente. 
+</p>
+<p>
+HAUPTMANN: <term type="multiword" n="731">Herr Doktor</term>, erschrecken Sie mich nicht! <term type="one-word" n="754">Es sind schon Leute am Schreck gestorben</term>, <term type="one-word" n="755">am bloßen hellen Schreck</term>. - Ich sehe schon <term type="one-word" n="916">die Leute mit den Zitronen in den Händen</term>; aber sie werden sagen, er war ein guter Mensch, ein guter Mensch - <term type="one-word" n="757">Teufel Sargnagel</term>! 
+</p>
+<p>
+DOKTOR (<hi rend="italic"><term type="one-word" n="758">hält ihm den Hut hin</term></hi>): Was ist das, <term type="multiword" n="730">Herr Hauptmann</term>? - Das ist ein Hohlkopf, geehrtester Herr Exerzierzagel! 
+</p>
+<p>
+HAUPTMANN (<hi rend="italic">macht eine Falte</hi>): Was ist das, <term type="multiword" n="731">Herr Doktor</term>? - Das ist <term type="one-word" n="772">Einfalt</term>, <term type="one-word" n="767">bester Herr Sargnagel</term>! Hähähä! Aber <term type="one-word" n="768">nichts für ungut</term>! Ich bin ein guter Mensch, aber ich kann auch, wenn ich will, <term type="multiword" n="731">Herr Doktor</term>, hähähä, wenn ich will ... - (<hi rend="italic">Woyzeck kommt und will vorbeieilen</hi>) - He, Woyzeck, <term type="one-word" n="770">was hetzt Er sich so an uns vorbei</term>. Bleib <term type="multiword" n="771">Er</term> doch, Woyzeck! <term type="multiword" n="771">Er</term> läuft ja wie ein offnes Rasiermesser durch die Welt, man schneidt sich an <term type="multiword" n="771">Ihm</term>; <term type="multiword" n="771">Er</term> läuft, als hätt er ein Regiment Kastrierte zu rasieren und würde gehenkt <term type="one-word" n="778">über dem längsten Haar noch vor dem Verschwinden</term>. Aber, über die langen Bärte - was wollt' ich doch sagen? Woyzeck: die langen Bärte ... 
+</p>
+<p>
+DOKTOR: Ein langer Bart unter dem Kinn, schon Plinius spricht <term type="one-word" n="783">davon</term>, <term type="one-word" n="784">man müsst es den Soldaten abgewöhnen</term> ... 
+</p>
+<p>
+HAUPTMANN (<hi rend="italic"><distinct type="alternative-form" n="fortfahren">fährt</distinct> <distinct type="alternative-form" n="fortfahren">fort</distinct></hi>): Ha, über die langen Bärte! <term type="one-word" n="787">Wie is</term>, Woyzeck, hat <term type="multiword" n="771">Er</term> noch nicht ein Haar aus einem Bart in seiner Schüssel gefunden? He, <term type="multiword" n="771">Er</term> versteht mich doch? Ein Haar eines Menschen, vom Bart eines Sapeurs, eines Unteroffiziers, eines - eines Tambourmajors? He, Woyzeck? Aber <term type="multiword" n="771">Er</term> hat eine brave Frau. <term type="one-word" n="792">Geht Ihm nicht wie andern</term>. 
+</p>
+<p>
+WOYZECK: Jawohl! Was wollen Sie sagen, <term type="multiword" n="730">Herr Hauptmann</term>? 
+</p>
+<p>
+HAUPTMANN: <term type="one-word" n="793">Was der Kerl ein Gesicht macht</term>! ... Vielleicht nun auch nicht in der Suppe, aber wenn <term type="multiword" n="771">Er</term> <term type="one-word" n="795">sich eilt</term> und um die Eck geht, so kann <term type="multiword" n="771">Er</term> vielleicht noch auf ein Paar Lippen <term type="one-word" n="798">eins</term> finden. Ein Paar Lippen, Woyzeck. Kerl, <term type="multiword" n="771">Er</term> ist ja kreideweiß! 
+</p>
+<p>
+WOYZECK: <term type="multiword" n="730">Herr Hauptmann</term>, ich bin ein armer Teufel - und hab's <term type="one-word" n="800">sonst nichts</term> auf der Welt. <term type="multiword" n="730">Herr Hauptmann</term>, wenn Sie Spaß machen - 
+</p>
+<p>
+HAUPTMANN: <term type="one-word" n="802">Spaß ich</term>? <term type="one-word" n="803">Dass dich Spaß</term>, Kerl! 
+</p>
+<p>
+DOKTOR: Den Puls, Woyzeck, den Puls! - <term type="one-word" n="804">Klein, hart, hüpfend, unregelmäßig</term>. 
+</p>
+<p>
+WOYZECK: <term type="multiword" n="730">Herr Hauptmann</term>, die Erd is höllenheiß - mir eiskalt, eiskalt - Die Hölle is kalt, wollen wir wetten. - - Unmöglich! <term type="one-word" n="812">Mensch! Mensch!</term> Unmöglich! 
+</p>
+<p>
+HAUPTMANN: Kerl, will <term type="multiword" n="771">Er</term> - will <term type="multiword" n="771">Er</term> ein paar Kugeln <term type="one-word" n="814">vor den Kopf </term>haben? <term type="multiword" n="771">Er</term> ersticht mich mit seinen Augen, und ich <distinct type="alternative-form" n="gemeint">mein'</distinct> es gut mit <term type="multiword" n="771">Ihm</term>, weil <term type="multiword" n="771">Er</term> ein guter Mensch ist, Woyzeck, ein guter Mensch. 
+</p>
+<p>
+DOKTOR: Gesichtsmuskeln starr, gespannt, zuweilen <term type="one-word" n="819">hüpfend</term>. Haltung aufgeregt, gespannt. 
+</p>
+<p>
+WOYZECK: Ich geh'. Es is viel möglich. Der Mensch! Es is viel möglich. - Wir haben schön Wetter, <term type="multiword" n="730">Herr Hauptmann</term>. <distinct type="alternative-form" n="sehen">Sehn</distinct> Sie, so ein schöner, fester, grauer Himmel; <term type="one-word" n="825">man könnte Lust bekommen</term>, ein' Kloben hineinzuschlagen und <term type="one-word" n="828">sich daran zu hängen</term>, nur wegen des Gedankenstriches zwischen Ja und wieder Ja - und Nein. <term type="multiword" n="730">Herr Hauptmann</term>, Ja und Nein? <distinct type="alternative-form" n="schuld">Ist</distinct> das Nein <distinct type="alternative-form" n="schuld">am</distinct> Ja oder das Ja <distinct type="alternative-form" n="schuld">am</distinct> Nein schuld? Ich will <distinct type="alternative-form" n="nachdenken">darüber nachdenken</distinct>. - (<hi rend="italic"><distinct type="alternative-form" n="abgehen">Geht</distinct> mit breiten Schritten <distinct type="alternative-form" n="abgehen">ab</distinct>, erst langsamer, dann <term type="one-word" n="836">immer schneller</term>.</hi>) 
+</p>
+<p>
+HAUPTMANN: <term type="one-word" n="837">Mir wird ganz schwindlig vor den Menschen</term>. Wie schnell! Der <term type="one-word" n="840">lange</term> Schlingel <term type="one-word" n="838">greift aus</term>, als läuft der Schatten von einem <term type="one-word" n="845">Spinnbein</term>, und <term type="one-word" n="842">der Kurze, das zuckelt</term>. Der Lange ist der Blitz und der Kleine der Donner. Ha ha ... Grotesk! grotesk! 
+</p>
+<p>
+<hi rend="bold">Mariens Kammer
+</hi></p>
+<p>
+<hi rend="italic">Marie. Woyzeck. 
+</hi></p>
+<p>
+WOYZECK (<hi rend="italic"><distinct type="alternative-form" n="ansehen">sieht</distinct> sie starr <distinct type="alternative-form" n="ansehen">an</distinct> und schüttelt den Kopf</hi>): Hm! Ich seh' nichts, ich seh nichts. O man müsst's sehen, man müsst's greifen könne mit Fäusten! 
+</p>
+<p>
+MARIE (<hi rend="italic">verschüchtert</hi>): <term type="one-word" n="850">Was hast du</term>, Franz? - Du bist hirnwütig, Franz. 
+</p>
+<p>
+WOYZECK: Eine Sünde, so dick und so breit - es stinkt, dass man die Engelchen zum Himmel hinausräuchern könnt'! Du hast ein' roten Mund, Marie. Keine Blase drauf? Wie, Marie, du bist schön wie die Sünde - kann die Todsünde so schön sein? 
+</p>
+<p>
+MARIE: Franz, du redest im Fieber! 
+</p>
+<p>
+WOYZECK: Teufel! - Hat er da gestanden? So? So? 
+</p>
+<p>
+MARIE: <term type="one-word" n="860">Dieweil</term> der Tag lang und die Welt alt is, können viele Menschen an einem Platz stehen, <term type="one-word" n="861">einer nach dem andern</term>. 
+</p>
+<p>
+WOYZECK: Ich hab ihn <distinct type="alternative-form" n="sehen">gesehn</distinct>! 
+</p>
+<p>
+MARIE: Man kann viel <distinct type="alternative-form" n="sehen">sehn</distinct>, wenn man zwei Auge hat und nicht blind is und die Sonn scheint. 
+</p>
+<p>
+WOYZECK: Mensch! - (<hi rend="italic"><term type="one-word" n="863">Geht auf sie los</term>.</hi>) 
+</p>
+<p>
+MARIE: <term type="one-word" n="864">Rühr mich an</term>, Franz! <term type="one-word" n="865">Ich hätt' lieber</term> ein Messer in den Leib als deine Hand <term type="one-word" n="868">auf meiner</term>. Mein Vater hat mich nit anzugreifen gewagt, <term type="one-word" n="870">wie</term> ich zehn Jahre alt war, wenn ich ihn ansah. 
+</p>
+<p>
+WOYZECK: Weib! - Nein, <term type="one-word" n="872">es müsste was an dir sein</term>! Jeder Mensch ist ein Abgrund; <term type="one-word" n="874">es schwindelt einem</term>, <term type="one-word" n="875">wenn man hinabsieht</term>. - Es wäre! Sie geht wie die Unschuld. Nun, Unschuld, <term type="one-word" n="878">du hast ein Zeichen an dir</term>. <distinct type="alternative-form" n="wissen">Weiß</distinct> ich's? <distinct type="alternative-form" n="wissen">Weiß</distinct> ich's? Wer <distinct type="alternative-form" n="wissen">weiß</distinct> es? - (<hi rend="italic">Er geht.</hi>) 
+</p>
+<p>
+<hi rend="bold">Die Wachstube.
+</hi></p>
+<p>
+<hi rend="italic">Woyzeck. Andres. </hi>
+</p>
+<p>
+ANDRES (<hi rend="italic">singt</hi>): <term type="one-word" n="879">
+Frau Wirtin</term> hat ne brave Magd, /
+sie sitzt im Garten Tag und Nacht, /
+sie sitzt in ihrem Garten ...
+</p>
+<p>
+WOYZECK: Andres! 
+</p>
+<p>
+ANDRES: <term type="one-word" n="882">Nu? </term>
+</p>
+<p>
+WOYZECK: Schön Wetter. 
+</p>
+<p>
+ANDRES: Sonntagswetter - Musik vor der Stadt. Vorhin - <term type="one-word" n="886">sind die Weibsbilder hinaus</term>; <term type="one-word" n="887">die Mensche dampfe, das geht</term>! 
+</p>
+<p>
+WOYZECK (<hi rend="italic">unruhig</hi>): Tanz, Andres, <term type="one-word" n="918">sie tanze</term>!
+</p>
+<p>
+ANDRES: <term type="one-word" n="891">Im Rössel und in Sternen</term>. 
+</p>
+<p>
+WOYZECK: Tanz, Tanz! 
+</p>
+<p>
+ANDRES: <distinct type="alternative-form" n="meinetwegen">Meinetwege</distinct>. (<hi rend="italic">Singt</hi>):
+Sitzt in ihrem Garten, /
+<term type="one-word" n="919">bis dass</term> das Glöcklein zwölfe schlägt, /
+und <term type="one-word" n="895">passt auf</term> <term type="one-word" n="896">die Solda-aten</term>.
+</p>
+<p>
+WOYZECK: Andres, ich hab' <distinct type="alternative-form" n="kein">kei</distinct> <distinct type="alternative-form" n="Ruhe">Ruh</distinct>. 
+</p>
+<p>
+ANDRES: Narr! 
+</p>
+<p>
+WOYZECK: <term type="one-word" n="898">Ich muss hinaus</term>. <term type="one-word" n="899">Es dreht sich mir vor den Augen</term>. Tanz, Tanz! Wird sie <distinct type="alternative-form" n="heißes">heiße</distinct> Händ habe! <term type="one-word" n="901">Verdammt</term>, Andres! 
+</p>
+<p>
+ANDRES: Was willst du? 
+</p>
+<p>
+WOYZECK: <term type="one-word" n="902">Ich muss fort</term>, muss sehen. 
+</p>
+<p>
+ANDRES: Du <term type="one-word" n="903">Unfried</term>! <term type="one-word" n="904">Wegen dem Mensch</term>? 
+</p>
+<p>
+WOYZECK: Ich muss hinaus, <term type="one-word" n="907">'s is</term> so heiß dahie. 
+</p>
+<p>
+<hi rend="bold">Wirtshaus</hi>
+</p>
+<p>
+<hi rend="italic">Die Fenster offen, Tanz. Bänke vor dem Haus. Bursche. 
+</hi></p>
+<p>
+ERSTER HANDWERKSBURSCH: 
+Ich <distinct type="alternative-form" n="anhaben">hab'</distinct> ein Hemdlein <distinct type="alternative-form" n="anhaben">an</distinct>, das ist nicht mein; /
+meine Seele <term type="one-word" n="912">stinkt nach Branndewein</term> - 
+</p>
+<p>
+ZWEITER HANDWERKSBURSCH: Bruder, soll ich <term type="multiword" n="913">dir</term> <term type="one-word" n="1381">aus Freundschaft</term> <term type="multiword" n="913">ein Loch in die Natur machen</term>? Vorwärts! Ich will <term type="multiword" n="913">ein Loch in die Natur machen</term>! Ich bin auch ein Kerl, du weißt - <term type="one-word" n="914">ich will ihm alle Flöh am Leib totschlagen</term>.
+</p>
+<p>
+ERSTER HANDWERKSBURSCH: <distinct type="alternative-form" n="meines">Meine</distinct> Seele, <distinct type="alternative-form" n="meines">meine</distinct> Seele stinkt nach Branndewein! - <term type="one-word" n="920">Selbst das Geld geht in Verwesung über</term>! Vergissmeinnicht, wie ist diese Welt so schön! Bruder, ich muss ein Regenfass voll <term type="one-word" n="924">greinen</term> <term type="one-word" n="923">vor Wehmut</term>. <term type="one-word" n="926">Ich wollt'</term>, unsre Nasen wären zwei Bouteillen, und <term type="one-word" n="928">wir könnten sie uns einander in den Hals gießen</term>. 
+</p>
+<p>
+ANDRE (<hi rend="italic">im Chor</hi>): 
+Ein Jäger aus der Pfalz /
+ritt einst durch einen grünen Wald. /
+<term type="one-word" n="934">Halli, hallo, ha</term> lustig ist die <term type="one-word" n="935">Jägerei</term> /
+allhier auf grüner <distinct type="alternative-form" n="Heide">Heid</distinct>. /
+Das Jagen is <distinct type="alternative-form" n="meines">mei</distinct> Freud.
+</p>
+<p>
+(<hi rend="italic">Woyzeck</hi> <hi rend="italic">stellt sich <term type="one-word" n="890">ans Fenster</term>. Marie und der Tambourmajor <distinct type="alternative-form" n="vorbeitanzen">tanzen vorbei</distinct>, <term type="one-word" n="941">ohne ihm zu bemerken</term>.</hi>) 
+</p>
+<p>
+WOYZECK: Er! Sie! Teufel!
+</p>
+<p>
+MARIE (<hi rend="italic"><term type="one-word" n="945">im Vorbeitanzen</term></hi>): <term type="multiword" n="944">Immer zu, immer zu</term> -
+</p>
+<p>
+WOYZECK (<hi rend="italic">erstickt</hi>): <term type="multiword" n="944">Immer zu - immer zu</term>! - (<hi rend="italic"><distinct type="alternative-form" n="auffahren">Fährt</distinct> heftig <distinct type="alternative-form" n="auffahren">auf</distinct> und sinkt zurück auf die Bank</hi>): <term type="multiword" n="944">Immer zu, immer zu</term>! - (<hi rend="italic"><term type="one-word" n="949">Schlägt die Hände ineinander</term></hi>): Dreht <distinct type="alternative-form" n="drehen">euch</distinct>, wälzt euch! Warum <distinct type="alternative-form" n="ausblasen">bläst</distinct> Gott nicht die Sonn <distinct type="alternative-form" n="ausblasen">aus</distinct>, <term type="one-word" n="975">dass</term> alles in Unzucht sich übereinanderwälzt, Mann und Weib, Mensch und Vieh?! <term type="one-word" n="956">Tut's am hellen Tag</term>, <term type="one-word" n="958">tut's einem auf den Händen</term> wie die Mücken! - Weib! Das Weib is <term type="one-word" n="959">heiß, heiß</term>! - <term type="multiword" n="944">Immer zu, immer zu</term>! - <distinct type="alternative-form" n="auffahren">Fährt auf</distinct>: Der Kerl, <term type="one-word" n="960">wie er an ihr herum greift</term>, <term type="one-word" n="961">an ihrem Leib</term>! Er, er hat sie - wie ich <term type="one-word" n="962">zu Anfang</term>. - (<hi rend="italic">Er <distinct type="alternative-form" n="zusammensinken">sinkt</distinct> betäubt <distinct type="alternative-form" n="zusammensinken">zusammen</distinct>.</hi>) 
+</p>
+<p>
+ERSTER HANDWERKSBURSCH (<hi rend="italic">predigt auf dem Tisch</hi>): Jedoch, wenn ein <distinct type="alternative-form" n="Wanderer">Wandrer</distinct>, der gelehnt steht an dem Strom der Zeit oder aber <term type="multiword" n="969">sich</term> die göttliche Weisheit <term type="multiword" n="969">beantwortet</term> und <term type="one-word" n="972">sich anredet</term>: Warum ist der Mensch? Warum ist der Mensch? - Aber <term type="one-word" n="1033">wahrlich, ich sage euch</term>: Von was hätte <term type="one-word" n="976">der Landmann</term>, der <term type="one-word" n="977">Weißbinder</term>, der Schuster, der Arzt leben sollen, wenn Gott den Menschen nicht geschaffen hätte? Von was hätte der Schneider leben sollen, <term type="one-word" n="980">wenn er dem Menschen nicht die Empfindung der Scham eingepflanzt hätte</term>, von was der Soldat, wenn er ihm nicht mit dem Bedürfnis <term type="one-word" n="983">sich totzuschlagen</term> ausgerüstet hätte? Darum zweifelt nicht - ja, ja, es ist lieblich und fein, aber <term type="one-word" n="987">alles Irdische</term> ist übel, <term type="one-word" n="989">selbst das Geld geht in Verwesung über</term>. <term type="one-word" n="990">Zum Beschluss</term>, <term type="one-word" n="992">meine geliebten Zuhörer</term>, <term type="one-word" n="993">lasst uns noch übers Kreuz pissen</term>, damit ein Jud stirbt! 
+</p>
+<p>
+(<hi rend="italic">Unter allgemeinem Gejohle erwacht Woyzech und <term type="one-word" n="997">rast davon</term>.</hi>) 
+</p>
+<p>
+<hi rend="bold"><term type="one-word" n="998">Freies Feld</term></hi>
+</p>
+<p>
+WOYZECK: <term type="multiword" n="999">Immer zu! Immer zu!</term> <term type="one-word" n="1000">Hisch, hasch!</term> So gehn die Geigen und <term type="one-word" n="1002">die Pfeifen</term>. - <term type="multiword" n="999">Immer zu! Immer zu!</term> - Still, Musik! Was spricht da unten? - (<hi rend="italic">Reckt sich gegen den Boden</hi>): Ha, was, was sagt ihr? Lauter! Lauter! <term type="one-word" n="1005">Stich, stich die Zickwolfin tot? - Stich, stich die Zickwolfin tot!</term> - Soll ich! Muss ich? Hör' ich's da auch? - Sagt's der Wind auch? - Hör' ich's <term type="multiword" n="999">immer, immer zu</term>: <term type="one-word" n="1006">stich</term> tot, tot! 
+</p>
+<p>
+<hi rend="bold">Ein Zimmer in der Kaserne</hi>
+</p>
+<p>
+<hi rend="italic">Nacht. Andres und Woyzech in einem Bett. 
+</hi></p>
+<p>
+WOYZECK (<hi rend="italic">Leise</hi>): Andres! 
+</p>
+<p>
+(<hi rend="italic">Andres murmelt im Schlaf.</hi>) 
+</p>
+<p>
+WOYZECK (<hi rend="italic">schüttelt Andres</hi>): He, Andres! Andres! 
+</p>
+<p>
+ANDRES: <term type="one-word" n="1011">Na was is</term>? 
+</p>
+<p>
+WOYZECK: Ich kann nit schlafen! Wenn ich die Aug zumach', <distinct type="alternative-form" n="sichdrehen">dreht sich's</distinct> immer, und ich hör' die Geigen, <term type="multiword" n="999">immer zu, immer zu</term>. Und <term type="one-word" n="1013">dann spricht's</term> aus der Wand. Hörst du nix? 
+</p>
+<p>
+ANDRES: Ja - lass sie tanze! <term type="one-word" n="1014">Einer is müd</term>, und dann Gott behüt uns, amen. 
+</p>
+<p>
+WOYZECK: Es <distinct type="alternative-form" n="reden">redt</distinct> immer: <term type="one-word" n="1017">stich! stich!</term> und <term type="one-word" n="1019">zieht mir zwischen den Augen wie ein Messer</term> - 
+</p>
+<p>
+ANDRES: Schlaf, Narr! - (<hi rend="italic">Er <distinct type="alternative-form" n="einschlafen">schläft</distinct> wieder <distinct type="alternative-form" n="einschlafen">ein</distinct>.</hi>) 
+</p>
+<p>
+WOYZECK: <term type="multiword" n="999">Immer zu! Immer zu! </term>
+</p>
+<p>
+<hi rend="bold">Der Hof des Doktors</hi>
+</p>
+<p>
+<hi rend="italic">Studenten und Woyzeck unten, der Doktor <term type="one-word" n="1020">am Dachfenster</term>.</hi> 
+</p>
+<p>
+DOKTOR: <term type="multiword" n="1027">Meine Herren</term>, ich bin auf dem Dach wie <term type="multiword" n="1022">David</term>, als er die <term type="multiword" n="1022">Bathseba</term> sah; aber ich sehe nichts als die <term type="one-word" n="1023">culs de Paris</term> der <term type="one-word" n="1025">Mädchenpension</term> im Garten trocknen. <term type="multiword" n="1027">Meine Herren</term>, <term type="one-word" n="1028">wir sind an der wichtigen Frage über</term> das Verhältnis des Subjekts zum Objekt. Wenn wir nur eins von den Dingen nehmen, worin <distinct type="alternative-form" n="manifestieren">sich</distinct> die organische Selbstaffirmation des Göttlichen, auf einem so hohen Standpunkte, manifestiert, und ihre Verhältnisse zum Raum, zur Erde, zum <term type="one-word" n="1041">Planetarischen</term> untersuchen, <term type="multiword" n="1027">meine Herren</term>, wenn ich diese Katze <term type="one-word" n="1043">zum Fenster hinauswerfe</term>: wie wird diese Wesenheit <distinct type="alternative-form" n="verhalten">sich zum</distinct> <term type="one-word" n="1046">centrum gravitationis</term> gemäß ihrem eigenen Instinkt verhalten? - He, Woyzeck - (<hi rend="italic">brüllt</hi>) -, Woyzeck! 
+</p>
+<p>
+WOYZECK (<hi rend="italic"><distinct type="alternative-form" n="auffangen">fängt</distinct> die Katze <distinct type="alternative-form" n="auffangen">auf</distinct></hi>): <term type="one-word" n="1052">Herr Doktor</term>, sie beißt!
+</p>
+<p>
+DOKTOR: Kerl, <term type="multiword" n="1054">Er</term> <term type="multiword" n="1056">greift</term> die Bestie so zärtlich <term type="multiword" n="1056">an</term>, als wär's <term type="multiword" n="1054">seine</term> Großmutter. - (<hi rend="italic">Er <distinct type="alternative-form" n="herunterkommen">kommt herunter</distinct>.</hi>)
+</p>
+<p>
+WOYZECK: <term type="multiword" n="1053">Herr Doktor</term>, <term type="one-word" n="1060">ich hab's Zittern</term>. 
+</p>
+<p>
+DOKTOR (<hi rend="italic">ganz erfreut</hi>): <term type="one-word" n="1062">Ei, ei!</term> Schön, Woyzeck! - (<hi rend="italic">Reibt sich die Hände. Er nimmt die Katze</hi>): Was seh' ich, <term type="multiword" n="1027">meine Herren</term>, die neue Spezies <term type="one-word" n="1064">Hasenlaus</term>, eine schöne Spezies ... - (<hi rend="italic">Er <distinct type="alternative-form" n="herausziehen">zieht</distinct> eine Lupe <distinct type="alternative-form" n="herausziehen">heraus</distinct>, die Katze <distinct type="alternative-form" n="fortlaufen">läuft fort</distinct>.</hi>) - <term type="multiword" n="1027">Meine Herren</term>, das Tier hat keinen wissenschaftlichen Instinkt ... Sie können <term type="one-word" n="1071">dafür</term> <term type="one-word" n="1072">was anders</term> sehen. Sehen Sie: der Mensch, seit einem Vierteljahr isst er nichts als Erbsen; bemerken Sie die Wirkung, <term type="one-word" n="1076">fühlen Sie einmal</term>: Was ein ungleicher Puls! <term type="one-word" n="1078">Der und die Augen</term>!
+</p>
+<p>
+WOYZECK: <term type="multiword" n="1053">Herr Doktor</term>, es wird mir dunkel! - (<hi rend="italic">Er <distinct type="alternative-form" n="sichsetzen">setzt sich</distinct>.</hi>)
+</p>
+<p>
+DOKTOR: Courage, Woyzeck! Noch <term type="one-word" n="1081">ein paar</term> Tage, und dann ist's fertig. Fühlen Sie, <term type="multiword" n="1027">meine Herren</term>, fühlen Sie! - (<hi rend="italic">Sie betasten ihm Schläfe, Puls und Busen.</hi>) - Apropos, Woyzeck, beweg den Herren doch einmal die Ohren! Ich hab' es Ihnen schon zeigen wollen, zwei Muskeln sind bei ihm tätig. <term type="one-word" n="1091">Allons</term>, <term type="one-word" n="1092">frisch!</term> 
+</p>
+<p>
+WOYZECK: Ach, <term type="multiword" n="1053">Herr Doktor</term>! 
+</p>
+<p>
+DOKTOR: Bestie, soll ich dir die Ohren bewegen? <term type="one-word" n="1093">Willst du's machen wie die Katze</term>? So, <term type="multiword" n="1027">meine Herren</term>! Das sind so Übergänge zum Esel, häufig auch die Folge weiblicher Erziehung und die Muttersprache. Wieviel Haare hat dir die Mutter zum Andenken schon ausgerissen <term type="one-word" n="1103">aus Zärtlichkeit</term>? Sie sind dir ja ganz dünn geworden <term type="one-word" n="1105">seit ein paar Tagen</term>. Ja, die Erbsen, <term type="multiword" n="1027">meine Herren</term>! 
+</p>
+<p>
+<hi rend="bold">Kasernenhof
+</hi></p>
+<p>
+WOYZECK: Hast nix gehört?
+</p>
+<p>
+ANDRES: Er is da, noch mit einem Kameraden.
+</p>
+<p>
+WOYZECK: Er hat was gesagt. 
+</p>
+<p>
+ANDRES: <term type="one-word" n="1110">Woher weißt du's</term>? Was soll ich's sagen? Nu, er lachte, und dann sagt er: Ein köstlich Weibsbild! Die hat Schenkel, und alles so heiß! 
+</p>
+<p>
+WOYZECK (<hi rend="italic">ganz kalt</hi>): So, hat er das gesagt? <term type="one-word" n="1112">Von was hat mir doch heut nacht geträumt</term>? War's nicht von einem Messer? Was man doch närrische Träume hat! 
+</p>
+<p>
+ANDRES: Wohin, Kamerad? 
+</p>
+<p>
+WOYZECK: Meinem Offizier Wein holen. - Aber, Andres, <term type="one-word" n="1117">sie war doch ein einzig Mädel</term>. 
+</p>
+<p>
+ANDRES: Wer war? 
+</p>
+<p>
+WOYZECK: Nix. Adies! - (<hi rend="italic">Ab.</hi>) 
+</p>
+<p>
+<hi rend="bold">Wirtshaus</hi>
+</p>
+<p>
+<hi rend="italic">Tambourmajor. Woyzeck. Leute. 
+</hi></p>
+<p>
+TAMBOURMAJOR: Ich bin ein Mann! - (<hi rend="italic">Schlägt sich auf die Brust</hi>): Ein Mann, sag' ich. <term type="one-word" n="1382">Wer will was</term>? Wer kein besoffner Herrgott ist, <term type="one-word" n="1123">der lass sich von mir</term>. <term type="one-word" n="1124">Ich will ihn die Nas ins Arschloch prügeln</term>! Ich will - (<hi rend="italic">Zu Woyzeck</hi>): Du Kerl, sauf! <term type="one-word" n="1126">Ich wollt'</term> die Welt wär' Schnaps, Schnaps - der Mann muss saufen! - (<hi rend="italic">Woyzeck pfeift.</hi>) - Kerl, soll ich dir die <distinct type="alternative-form" n="Zunge">Zung</distinct> aus dem Hals <distinct type="alternative-form" n="ziehen">ziehn</distinct> und sie um den Leib herumwickeln? - (<hi rend="italic">Sie ringen, Woyzeck verliert.</hi>) - Soll ich dir noch so viel Atem lassen als 'en <term type="one-word" n="1132">Altweiberfurz</term>, soll ich? - (<hi rend="italic">Woyzeck <distinct type="alternative-form" n="setzen">setzt sich</distinct> erschöpft zitternd auf eine Bank.</hi>) - <term type="one-word" n="1135">Der Kerl soll dunkelblau pfeifen</term>. 
+<term type="multiword" n="1136">Branndewein</term>, das ist mein Leben;
+<term type="multiword" n="1136">Branndwein</term> gibt Courage!
+</p>
+<p>
+EINE: <term type="one-word" n="1137">Der hat sein Fett</term>. 
+</p>
+<p>
+ANDRE: Er <distinct type="alternative-form" n="geblutet">blut'</distinct> . 
+</p>
+<p>
+WOYZECK: <term type="one-word" n="1139">Eins nach dem andern</term>. 
+</p>
+<p>
+<hi rend="bold">Kramladen
+</hi></p>
+<p>
+<hi rend="italic">Woyzeck. Der Jude. 
+</hi></p>
+<p>
+WOYZECK: Das Pistolchen ist zu teuer.
+</p>
+<p>
+JUDE: <term type="one-word" n="1142">Nu</term>, <term type="one-word" n="1384">kauft's oder kauft's nit</term>, <term type="one-word" n="1143">was is</term>?
+</p>
+<p>
+WOYZECK: Was <distinct type="alternative-form" n="gekostet">kost'</distinct> das Messer?
+</p>
+<p>
+JUDE: <term type="one-word" n="1145">'s ist ganz grad</term>. Wollt <term type="multiword" n="1147">Ihr Euch</term> den Hals <term type="one-word" n="1385">mit</term> abschneiden? Nu, was is es? Ich geb's <term type="multiword" n="1147">Euch</term> so wohlfeil <term type="one-word" n="1149">wie ein andrer</term>. <term type="multiword" n="1147">Ihr</term> sollt <term type="multiword" n="1147">Euern</term> Tod wohlfeil haben, aber doch nit umsonst. <term type="one-word" n="1152">Was is es</term>? <term type="one-word" n="1153">Er</term> soll ein ökonomischer Tod haben.
+</p>
+<p>
+WOYZECK: Das kann mehr als Brot schneiden - 
+</p>
+<p>
+JUDE: <distinct type="alternative-form" n="zwei">Zwee</distinct> <distinct type="alternative-form" n="Groschen">Grosche</distinct>. 
+</p>
+<p>
+WOYZECK: Da! - (<hi rend="italic"><distinct type="alternative-form" n="abgehen">Geht ab</distinct>.</hi>) 
+</p>
+<p>
+JUDE: Da! <term type="one-word" n="1156">Als ob's nichts wär</term>! Und es is doch Geld. - Du Hund! 
+</p>
+<p>
+<hi rend="bold">Mariens Kammer
+</hi></p>
+<p>
+NARR (<hi rend="italic">liegt und erzählt sich Märchen an den Fingern</hi>): Der hat die goldne <distinct type="alternative-form" n="Krone">Kron</distinct>, der Herr König ... Morgen <distinct type="alternative-form" n="geholt">hol'</distinct> ich <term type="one-word" n="1164">der Frau Königin ihr Kind</term> ... Blutwurst sagt: komm, Leberwurst ... 
+</p>
+<p>
+MARIE (<hi rend="italic">blättert in der Bibel</hi>): "Und ist kein Betrug in seinem Munde erfunden" ... Herrgott, Herrgott! <distinct type="alternative-form" n="ansehen">Sieh</distinct> mich nicht <distinct type="alternative-form" n="ansehen">an</distinct>! - (<hi rend="italic">Blättert weiter</hi>): "Aber die Pharisäer brachten ein Weib zu ihm, <term type="one-word" n="1174">im Ehebruch begriffen</term>, und <term type="one-word" n="1175">stelleten sie ins Mittel dar</term> . . . Jesus aber sprach: So verdamme ich dich auch nicht. <term type="one-word" n="1177">Geh hin und sündige hinfort nicht mehr</term>!" - (<hi rend="italic">Schlägt die Hände zusammen</hi>): Herrgott! Herrgott! Ich kann nicht! - Herrgott, gib mir nur so viel, dass ich beten kann. - (<hi rend="italic">Das Kind drängt sich an sie.</hi>) - Das Kind gibt mir einen Stich ins Herz. - (<hi rend="italic">Zum Narren</hi>): Karl! Das <term type="one-word" n="1181">brüst' sich</term> in der Sonne! - (<hi rend="italic">Narr nimmt das Kind und wird still.</hi>) - Der Franz ist nit gekommen, gestern nit, heut nit. Es wird heiß hier! - (<hi rend="italic">Sie <distinct type="alternative-form" n="aufmachen">macht</distinct> das Fenster <distinct type="alternative-form" n="aufmachen">auf</distinct> und liest wieder</hi>): "<term type="one-word" n="1184">Und trat hinten zu seinen Füßen und weinete, und fing an, seine Füße zu netzen mit Tränen und mit den Haaren ihres Hauptes zu trocknen, und küssete seine Füße und salbete sie mit Salbe</term> ..." (<hi rend="italic">Schlägt sich auf die Brust</hi>): Alles tot! Heiland! Heiland! ich möchte dir die Füße salben! - 
+</p>
+<p>
+<hi rend="bold">Kaserne
+</hi></p>
+<p>
+<hi rend="italic">Andres. Woyzeck kramt in seinen Sachen.</hi> 
+</p>
+<p>
+WOYZECK: Das <term type="one-word" n="1191">Kamisolchen</term>, Andres, ist nit zur Montur: du kannst's brauchen, Andres.
+</p>
+<p>
+ANDRES (<hi rend="italic">ganz starr, sagt zu allem</hi>): Jawohl.
+</p>
+<p>
+WOYZECK: Das Kreuz meiner Schwester und <term type="one-word" n="1193">das Ringlein</term>.
+</p>
+<p>
+ANDRES: Jawohl. 
+</p>
+<p>
+WOYZECK: Ich hab' auch noch <term type="one-word" n="1194">ein Heiligen, zwei Herze und schön Gold</term> - es lag in meiner Mutter Bibel, und <term type="one-word" n="1195">da steht</term>: 
+Herr, wie dein Leib war rot und wund, /
+so lass mein Herz <distinct type="alternative-form" n="gewesen">sein</distinct> <term type="one-word" n="1197">aller Stund</term>. 
+Mein Mutter fühlt nur noch, wenn ihr die Sonn auf die Händ scheint - das tut nix. 
+</p>
+<p>
+ANDRES: Jawohl. 
+</p>
+<p>
+WOYZECK (<hi rend="italic"><distinct type="alternative-form" n="hervorziehen">zieht</distinct> ein Papier <distinct type="alternative-form" n="hervorziehen">hervor</distinct></hi>): <term type="one-word" n="1200">Friedrich Johann Franz Woyzeck</term>, Wehrmann, Füsilier im <term type="multiword" n="1203">2.</term> Regiment, <term type="multiword" n="1203">2.</term> Bataillion <term type="one-word" n="1205">4.</term> Kompanie, <term type="one-word" n="1207">geboren Mariä Verkündigung</term>, den <term type="one-word" n="1209">20.</term> Juli. - Ich bin heut alt 30 Jahr, 7 Monat und 12 Tage.
+</p>
+<p>
+ANDRES: Franz, du kommst ins Lazarett. <term type="one-word" n="1214">Armer</term>, du musst Schnaps trinken und Pulver drin, das töt' das Fieber.
+</p>
+<p>
+WOYZECK: Ja, Andres, wenn ein Schreiner die Hobelspäne sammelt, es weiß niemand, <term type="one-word" n="1220">wer seinen Kopf drauflegen wird</term>.
+</p>
+<p>
+<hi rend="bold">Straße</hi>
+<hi rend="italic">Marie mit Mädchen vor der Haustür, Großmutter; <term type="one-word" n="1222">später</term> Woyzeck 
+</hi></p>
+<p>
+MÄDCHEN: 
+Wie scheint die Sonn <term type="one-word" n="1223">am Lichtmesstag</term> /
+und <term type="one-word" n="1224">steht das Korn im Blühn</term>. /
+Sie gingen wohl die Wiese hin, /
+sie gingen <term type="one-word" n="1227">zu zwein und zwein</term>. /
+Die Pfeifer gingen voran, /
+die Geiger hinterdrein, /
+sie <distinct type="alternative-form" n="angehabt">hatten</distinct> rote Socken <distinct type="alternative-form" n="angehabt">an</distinct> ...
+</p>
+<p>
+ERSTES KIND: Das ist nit schön. 
+</p>
+<p>
+ZWEITES KIND: Was willst du auch immer! 
+</p>
+<p>
+ERSTES KIND: Marie, sing du uns! 
+</p>
+<p>
+MARIE: Ich kann nit. 
+</p>
+<p>
+ERSTES KIND: Warum? 
+</p>
+<p>
+MARIE: Darum. 
+</p>
+<p>
+ZWEITES KIND: Aber warum darum? 
+</p>
+<p>
+DRITTES KIND: Großmutter, erzähl! 
+</p>
+<p>
+GROSSMUTTER: Kommt, ihr kleinen Krabben! - <term type="one-word" n="1234">Es war einmal</term> ein arm Kind und hatt' kein Vater und keine Mutter, war alles tot, und war <term type="multiword" n="1235">niemand mehr</term> auf der Welt. Alles tot, und es <term type="one-word" n="1236">is hingangen</term> und hat gesucht Tag und Nacht. Und weil auf der Erde <term type="multiword" n="1235">niemand mehr</term> war, wollt's in Himmel gehn, und der Mond <distinct type="alternative-form" n="angucken">guckt</distinct> es so freundlich <distinct type="alternative-form" n="angucken">an</distinct>; und <term type="multiword" n="1240">wie</term> es endlich zum Mond kam, <term type="one-word" n="1242">war's</term> <term type="one-word" n="1243">ein Stück faul Holz</term>. Und da <term type="one-word" n="1244">is es zur Sonn gangen</term>, und wie es zur Sonn kam, war's ein verwelkt <term type="one-word" n="1246">Sonneblum</term>. Und <term type="multiword" n="1240">wie</term>'s zu den Sternen kam, <term type="one-word" n="1248">waren's</term> kleine goldne Mücken, <term type="one-word" n="1249">die waren angesteckt</term>, <term type="one-word" n="1250">wie der Neuntöter sie auf die Schlehen steckt</term>. Und <term type="multiword" n="1240">wie</term>'s wieder auf die Erde wollt, war die Erde <term type="one-word" n="1251">ein umgestürzter Hafen</term>. Und es war ganz allein. Und da hat <distinct type="alternative-form" n="hingesetzt">sich's</distinct> hingesetzt und geweint, und da sitzt es noch und is ganz allein. 
+</p>
+<p>
+WOYZECK (<hi rend="italic">erscheint</hi>): Marie! 
+</p>
+<p>
+MARIE (<hi rend="italic">erschreckt</hi>): Was is? 
+</p>
+<p>
+WOYZECK: Marie, wir wollen gehn. <term type="one-word" n="1254">'s is Zeit</term>. 
+</p>
+<p>
+MARIE: Wohin? 
+</p>
+<p>
+WOYZECK: <term type="one-word" n="1255">Weiß ich's</term>? 
+</p>
+<p>
+<hi rend="bold"><term type="one-word" n="1256">Waldsaum</term> am Teich
+</hi></p>
+<p>
+<hi rend="italic">Marie und Woyzeck</hi>. 
+</p>
+<p>
+MARIE: <term type="one-word" n="1260">Also dort hinaus is die Stadt</term>. 's is finster. 
+</p>
+<p>
+WOYZECK: Du sollst noch bleiben. Komm, setz <distinct type="alternative-form" n="setzen">dich</distinct>! 
+</p>
+<p>
+MARIE: Aber <term type="one-word" n="1262">ich muss fort</term>. 
+</p>
+<p>
+WOYZECK: Du wirst dir die Füße nit wund laufe.
+</p>
+<p>
+MARIE: <term type="one-word" n="1263">Wie bist du nur auch</term>! 
+</p>
+<p>
+WOYZECK: Weißt du auch, <term type="one-word" n="1264">wie lang es jetzt is</term>, Marie?
+</p>
+<p>
+MARIE: <term type="one-word" n="1265">Am Pfingsten zwei Jahr.</term> 
+</p>
+<p>
+WOYZECK: Weißt du auch, wie lang es noch sein wird?
+</p>
+<p>
+MARIE: <term type="one-word" n="1266">Ich muss fort, das Nachtessen richten</term>. 
+</p>
+<p>
+WOYZECK: <term type="multiword" n="1267">Friert's dich</term>, Marie? Und doch bist du warm. <term type="one-word" n="1269">Was du heiße Lippen hast</term>! <distinct type="alternative-form" n="heißes">Heiß, heißen</distinct> <term type="one-word" n="1270">Hurenatem</term>! Und doch möcht' ich den Himmel geben, sie <term type="one-word" n="1271">noch einmal</term> zu küssen. - <term type="multiword" n="1267">Friert's dich</term>? Wenn man kalt is, so friert man nicht mehr. Du wirst vom <term type="one-word" n="1273">Morgentau</term> nicht frieren. 
+</p>
+<p>
+MARIE: Was sagst du? 
+</p>
+<p>
+WOYZECK: Nix. 
+</p>
+<p>
+(<hi rend="italic">Schweigen.</hi>) 
+</p>
+<p>
+MARIE: <term type="one-word" n="1275">Was der Mond rot aufgeht</term>! 
+</p>
+<p>
+WOYZECK: Wie ein blutig Eisen. 
+</p>
+<p>
+MARIE: Was <distinct type="alternative-form" n="vorgehabt">hast</distinct> du <distinct type="alternative-form" n="vorgehabt">vor</distinct>, Franz, du bist so blass. - (<hi rend="italic">Er <term type="one-word" n="1280">holt mit dem Messer aus</term>.</hi>) - Franz <term type="one-word" n="1281">halt ein</term>! <term type="one-word" n="1282">Um des Himmels willen</term>, <term type="one-word" n="1283">Hilfe, Hilfe!
+</term></p>
+<p>
+WOYZECK (<hi rend="italic"><term type="one-word" n="1284">sticht darauf los</term></hi>): Nimm das und das! Kannst du nicht sterben? So! So! - Ha, sie zuckt noch; noch nicht? Noch nicht? Immer noch. - (<hi rend="italic"><term type="one-word" n="1287">Stoßt nochmals zu</term>.</hi>) - Bist du tot! Tot! Tot! - (<hi rend="italic">Er <term type="multiword" n="1288">lässt</term> das Messer <term type="multiword" n="1288">fallen</term> und läuft weg</hi>.) 
+</p>
+<p>
+<hi rend="bold">Das Wirtshaus
+</hi></p>
+<p>
+WOYZECK: <term type="one-word" n="1291">Tanzt alle</term>, <term type="one-word" n="1290">immer zu</term>! Schwitzt und stinkt! <term type="one-word" n="1293">Er holt euch doch einmal alle</term>! - (<hi rend="italic">Singt</hi>): 
+Ach. Tochter, <term type="one-word" n="1295">lieb</term> Tochter /
+<term type="one-word" n="1296">was hast du gedenkt</term>, /
+<term type="one-word" n="1297">dass du dich an die Landkutscher /
+und die Fuhrleut hast gehenkt</term>.
+</p>
+<p>
+(<hi rend="italic">Er tanzt</hi>): So, Käthe, setz <distinct type="alternative-form" n="setzen">dich</distinct>! Ich hab' heiß heiß! - (<hi rend="italic">Er <distinct type="alternative-form" n="ausgezogen">zieht</distinct> den Rock <distinct type="alternative-form" n="ausgezogen">aus</distinct>.</hi>) - <term type="one-word" n="1299">Es ist einmal so</term>, der Teufel holt die eine und lässt <term type="one-word" n="1300">die andre</term> laufen. Käthe, du bist heiß! Warum denn? Käthe, du wirst auch noch kalt werden. Sei vernünftig. - Kannst du nicht singen?
+</p>
+<p>
+KÄTHE (<hi rend="italic">singt</hi>): 
+Ins Schwabenland, das mag ich nicht, /
+und lange Kleider trag' ich nicht, /
+denn lange Kleider, spitze Schuh, /
+<term type="one-word" n="1305">die kommen keiner Dienstmagd zu</term>.
+</p>
+<p>
+WOYZECK: Nein, keine Schuh, man kann auch ohne Schuh in die <distinct type="alternative-form" n="Hölle">Höll</distinct> gehn. 
+</p>
+<p>
+KÄTHE (<hi rend="italic">singt</hi>): 
+O pfui <term type="one-word" n="1307">mein Schatz</term>, das war nicht fein, /
+behalt dein Taler und schlaf allein.
+</p>
+<p>
+WOYZECK: Ja, wahrhaftig, ich möchte mich nicht blutig machen. 
+</p>
+<p>
+KÄTHE: Aber was hast du an deiner Hand? 
+</p>
+<p>
+WOYZECK: Ich? Ich? 
+</p>
+<p>
+KÄTHE: Rot! Blut! 
+</p>
+<p>
+(<hi rend="italic"><term type="one-word" n="1311">Es stellen sich Leute um sie</term>.</hi>)
+</p>
+<p>
+WOYZECK: Blut? Blut? 
+</p>
+<p>
+WIRT: Uu - Blut! 
+</p>
+<p>
+WOYZECK: Ich glaub', ich hab' mich geschnitten, <term type="one-word" n="1313">da an der rechten Hand</term>. 
+</p>
+<p>
+WIRT: Wie kommt's aber an den Ellenbogen? 
+</p>
+<p>
+WOYZECK: Ich hab's abgewischt. 
+</p>
+<p>
+WIRT: Was, mit der rechten Hand an den rechten Ellenbogen? <term type="one-word" n="1316">Ihr</term> seid geschickt!
+</p>
+<p>
+NARR: <term type="one-word" n="1317">Und da hat der Ries gesagt</term>: Ich <distinct type="alternative-form" n="riechen">riech</distinct>', ich <distinct type="alternative-form" n="riechen">riech</distinct>' Menschenfleisch. Puh, das stinkt schon!
+</p>
+<p>
+WOYZECK: Teufel, was wollt ihr? <term type="one-word" n="1321">Was geht's euch an</term>? <term type="one-word" n="1322">Platz</term>, oder <term type="one-word" n="1323">der erste</term> - Teufel! Meint ihr, ich hätt' jemand umgebracht? Bin ich ein Mörder? Was gafft ihr? <distinct type="alternative-form" n="angucken">Guckt</distinct> euch selbst <distinct type="alternative-form" n="angucken">an</distinct>! <term type="one-word" n="1327">Platz da</term>! - (<hi rend="italic">Er läuft hinaus.</hi>) 
+</p>
+<p>
+<hi rend="bold">Am Teich
+</hi></p>
+<p>
+WOYZECK (<hi rend="italic">allein</hi>): Das Messer? Wo ist das Messer? Ich hab' es da gelassen. Es verrät mich! Näher, noch näher! Was is das für ein Platz? Was hör' ich? Es rührt <distinct type="alternative-form" n="rühren">sich</distinct> <term type="one-word" n="1333">was</term>. Still. - Da in der Nähe. Marie? Ha, Marie! Still. Alles still! <term type="multiword" n="1335">Was</term> bist du so bleich, Marie? <term type="multiword" n="1335">Was</term> hast du eine rote Schnur um den Hals? <term type="one-word" n="1338">Bei wem</term> hast du das Halsband verdient mit deinen Sünden? Du warst schwarz <term type="one-word" n="1341">davon</term>, schwarz! Hab' ich dich gebleicht? <term type="multiword" n="1335">Was</term> hängen deine Haare so wild? Hast du deine Zöpfe heute nicht geflochten? ... - Das Messer, das Messer! Hab' ich's? So! - (<hi rend="italic">Er läuft zum Wasser.</hi>) So, da hinunter! - (<hi rend="italic">Er wirft das Messer hinein.</hi>) - <term type="one-word" n="1345">Es taucht in das dunkle Wasser wie ein Stein</term>. - Nein, <term type="one-word" n="1346">es liegt zu weit vorn</term>, wenn sie <term type="one-word" n="1347">sich baden</term>. - (<hi rend="italic">Er geht in den Teich und wirft weit.</hi>) - So, jetzt - aber im Sommer, <term type="one-word" n="1350">wenn sie tauchen nach Muscheln</term>? - Bah, es wird rostig, wer kann's erkennen. - <term type="one-word" n="1354">Hätt' ich es zerbrochen</term>! - - Bin ich noch blutig? Ich muss <distinct type="alternative-form" n="waschen">mich</distinct> waschen. Da ein Fleck, und da <term type="one-word" n="1357">noch einer</term> . . . 
+</p>
+<p>
+(<hi rend="italic">Es kommen Leute.</hi>)
+</p>
+<p>
+ERSTE PERSON: Halt! 
+</p>
+<p>
+ZWEITE PERSON: Hörst du? Still! Dort! 
+</p>
+<p>
+ERSTE: Uu! Da! <term type="one-word" n="1386">Was ein Ton</term>! 
+</p>
+<p>
+ZWEITE: Es ist das Wasser, es ruft: <term type="one-word" n="1361">Schon lang ist niemand ertrunken</term>. <term type="multiword" n="1362">Fort</term>! Es ist nicht gut, es zu hören!
+</p>
+<p>
+ERSTE: Uu! Jetzt wieder! - Wie ein Mensch, der stirbt! 
+</p>
+<p>
+ZWEITE: Es ist unheimlich! So dunstig, allenthalben <term type="one-word" n="1366">Nebelgrau</term> - und das Summen der Käfer <term type="one-word" n="1369">wie gesprungne Glocken</term>. <term type="multiword" n="1362">Fort</term>!
+</p>
+<p>
+ERSTE: Nein, zu deutlich, zu laut! <term type="one-word" n="1371">Da hinauf</term>! <distinct type="alternative-form" n="mitkommen">Komm mit</distinct>!
+</p>
+</body> </text> </TEI.2>

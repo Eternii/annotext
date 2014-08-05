@@ -10,6 +10,8 @@ var phrases = {};
 var $purple = "#9900CC";          // For display of alt class.
 var $blue_light = "#3399FF";      // For display of phrase class. 
 
+// Used to check for the non-breaking space
+var nbsp_str = String.fromCharCode(160)
 
 /* Name:         setGlossary
  * Called by:    show.js.erb (Texts controller)
@@ -60,7 +62,7 @@ $(document).on("mouseup", "#text-display", function(event) {
     var selRange = window.getSelection();
     var node = selRange.focusNode;
 
-    if (node)
+    if (node && (node.id != "text-display"))
       delegateMethod(selRange, node);
   }
 });
@@ -285,6 +287,7 @@ function getClickedWord(selRange, node) {
  * Called by:    getClickedWord, selectword (CKEditor plugin)
  * Parameters:   str - Text from the DOM node that was clicked.
  *               loc - Location in the DOM node where the click occured.
+ * Assumes:      nbsp_str - The non-breaking space in the form of a string.
  * Returns:      word (word clicked on, without punctuation, lowercase, etc.)
  * Citation:     Derived mostly from getClickedWord in Annotext 3.0 global.js
  * Explanation:
@@ -293,6 +296,9 @@ function getClickedWord(selRange, node) {
  * and/or spaces surrounding the word to isolate the word. Following this, the
  * word is passed to another function to finish cleanup before being returned
  * as the word that Annotext should look up.
+ *   Because the CKEditor likes to insert &nbsp characters, this function adds
+ * an extra check (for that character) not present in previous versions of 
+ * Annotext.
  */
 function isolateWord(str, loc) {
   var word = '';
@@ -301,11 +307,17 @@ function isolateWord(str, loc) {
 
   var j1 = sec1.lastIndexOf(' ');
   var j2 = sec1.lastIndexOf('\n');
-  var j = (j1<0 ? j2 : (j2<0 ? j1 : (j1>j2 ? j1 : j2)));
+  var j3 = sec1.lastIndexOf(nbsp_str);
+
+  var j  = (j1<0 ? j2 : (j2<0 ? j1 : (j1>j2 ? j1 : j2)));
+  j  = (j3<0 ? j : (j<0 ? j3 : (j3>j ? j3 : j)));
 
   var i1 = sec2.indexOf(' ');
   var i2 = sec2.indexOf('\n');
+  var i3 = sec2.indexOf(nbsp_str);
+
   var i = (i1<0 ? i2 : (i2<0 ? i1 : (i1<i2 ? i1 : i2)));
+  i = (i3<0 ? i : (i<0 ? i3 : (i3<i ? i3 : i)));
 
   if (j >= 0)
     word = sec1.slice(j+1);
@@ -343,7 +355,7 @@ function trimWordLowerCase(word) {
 
   // Remove any punctionation surrounding the word
   // List derived from NON_WORD_CHARS array in Annotext 3.0
-  pattern = /^[.,!?:;\/|\\'"()\[\]-]+|[.,!?:;\/|\\'"()\[\]-]+$/g;
+  pattern = /^[.,!¡?¿:;\/|\\'"“”‘’‚„«»‹›()\[\]\-_]+|[.,!¡?¿:;\/|\\'"“”‘’‚„«»‹›()\[\]\-_]+$/g;
   word = word.replace(pattern,"");
  
   word = word.toLowerCase();

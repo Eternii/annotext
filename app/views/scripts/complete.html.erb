@@ -1,0 +1,14 @@
+<% provide(:title, 'Script Results') %>
+<h1>Completion Script Results</h1>
+
+<ul>
+  <% if @missing.none? %>
+    Nothing was found to be missing.
+  <% end %>
+
+  <% @missing.each do |item| %>
+    <li>
+      <%= item %>
+    </li>
+  <% end %>
+</ul>

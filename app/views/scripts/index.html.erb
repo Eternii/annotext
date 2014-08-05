@@ -1,0 +1,13 @@
+<% provide(:title, 'Scripts') %>
+<h1>Available Scripts</h1>
+
+
+<%= form_tag(complete_path, method: 'get') do %>
+  <%= select_tag 'texts_dropdown',
+           options_from_collection_for_select(@texts, :id, :title) %>
+
+  <%= submit_tag "Check for missing definitions", class: "btn btn-primary" %>
+  <%= submit_tag "Check for missing lemma definitions",
+                                                  class: "btn btn-primary" %>
+  <%= submit_tag "Check for missing phrases", class: "btn btn-primary" %>
+<% end %>

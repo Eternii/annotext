@@ -1,4 +1,4 @@
-<% if signed_in? %>
+<% if signed_in? && !showing_text? %>
   <li>
     <%= link_to editor_help_path, target: "_blank" do %>
       <%= content_tag(:span, "", class: "glyphicon glyphicon-question-sign") %>

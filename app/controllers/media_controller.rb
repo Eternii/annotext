@@ -108,6 +108,6 @@ class MediaController < ApplicationController
     # the /texts directory, so the path must start with media to use the
     # pipeline. Note that the full absolute path won't work.
     def asset_path
-      "media/#{@media.text_id.to_s}/#{@media.location}"
+      "#{@media.text_id.to_s}/media/#{@media.location}"
     end
 end

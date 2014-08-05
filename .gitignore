@@ -15,6 +15,9 @@
 /log/*.log
 /tmp
 
+# Ignore converted text files
+/assets/texts/
+
 # Ignore other unneeded files
 database.yml
 doc/

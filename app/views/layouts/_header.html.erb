@@ -7,7 +7,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <% if params[:controller]=="texts" && params[:action]=="show" %>
+      <% if showing_text? %>
         <div id="translation-box" class="navbar-text"></div>
       <% else %>
         <%= link_to "Annotext", root_path, id: "logo", class: "navbar-brand" %>

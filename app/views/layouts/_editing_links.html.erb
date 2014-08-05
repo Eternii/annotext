@@ -6,6 +6,13 @@
   </a>
   <ul class="dropdown-menu">
     <li>
+      <%= link_to scripts_path, :target => "_blank" do %>
+        <%= content_tag(:span,"",class: "glyphicon glyphicon glyphicon-ok")%>
+        Scripts
+      <% end %>
+    </li>
+    <li class="divider"></li>
+    <li>
       <%= link_to edit_user_path(current_user) do %>
         <%= content_tag(:span, "", class: "glyphicon glyphicon-user") %>
         Update Profile
@@ -20,7 +27,7 @@
     <li class="divider"></li>
     <li>
       <%= link_to users_path do %>
-        <%= content_tag(:span, "", class: "glyphicon glyphicon-th-list") %>
+        <%= content_tag(:span, "", class: "glyphicon glyphicon-list") %>
         User List
       <% end %>
     </li>

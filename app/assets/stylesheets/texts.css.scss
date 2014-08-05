@@ -48,7 +48,7 @@
   left:0px;
 }
 
-.sortable {   /* Editor Text Index */
+.sortable {   /* Only used in Editor Text Index */
   .text-click {
     background-color: $gray-medium-light;
     border: 1px solid $gray;
@@ -88,8 +88,9 @@
 
 #text-display {
   padding-top: 65px;
-  font-size: 1.1em;
-  line-height: 1.7em;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.12em;
+  line-height: 1.2em;
   .title {
     display: inline-block;
     width: 100%;
@@ -97,24 +98,29 @@
     font-weight: bold;
     font-size: 3em;
   }
-  .author {
-    text-align: center;
-  }
   .note {
     color: $gray-medium;
   }
-  /* The following should be consistent in ckeditor/contents2 */
+  /* The following should be match: app/assets/stylesheets/ckeditor/contents2 */
   .verse {
     float: right;
   }
+  p {
+    margin: 0.0em;
+    /* font-style and line-height defined in custom.css.scss */
+  }
   .xlarge_text {
-    font-size: 3em;
+    font-size: 1.9em;
+    margin-bottom: 0.3em;
+    line-height: 1.1em;
   }
   .large_text {
-    font-size: 2em;
+    font-size: 1.5em;
+    margin-bottom: 0.3em;
   }
   .medium_text {
-    font-size: 1.5em;
+    font-size: 1.2em;
+    margin-bottom: 0.3em;
   }
 }
 

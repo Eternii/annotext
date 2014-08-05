@@ -1,8 +1,8 @@
 <ul class="nav navbar-nav navbar-right">
-  <% if params[:controller]=="texts" && params[:action]=="edit" %>
+  <% if editing_text? %>
     <%= render partial: 'layouts/save_notification' %>
     <%= render partial: 'layouts/view_text_link' %>
-  <% elsif params[:controller]=="texts" && params[:action]=="show" %>
+  <% elsif showing_text? %>
     <%= render partial: 'layouts/search_bar' %>
     <%= render partial: 'layouts/options_dropdown' %>
     <%= render partial: 'layouts/about_text_link' %>
@@ -13,7 +13,7 @@
   <%= render partial: 'layouts/home_links' %>
   <%= render partial: 'layouts/help_links' %>
 
-  <% if signed_in? %>
+  <% if signed_in? && !showing_text? %>
     <%= render partial: 'layouts/editing_links' %>
   <% end %>
 </ul>
