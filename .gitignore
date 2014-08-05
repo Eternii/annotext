@@ -16,7 +16,7 @@
 /tmp
 
 # Ignore converted text files
-/assets/texts/
+app/assets/texts/
 
 # Ignore other unneeded files
 database.yml
