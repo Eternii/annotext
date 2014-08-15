@@ -12,6 +12,9 @@ class TextsController < ApplicationController
     @text.position = @position
     @text.released = false
     if @text.save
+      Dir.mkdir(Rails.root.join('app', 'assets', 'texts', "#{@text.id}"))
+      Dir.mkdir(Rails.root.join('app', 'assets', 'texts', "#{@text.id}",
+                                                                      'media'))
       File.new(       text_loc(@text.id), "w+")
       File.new( about_text_loc(@text.id), "w+")
       redirect_to edit_text_path(@text)

@@ -1,12 +1,21 @@
-# ruby encoding: utf-8
+# encoding: UTF-8
+
+# * ************************************************************************* *
+# *  See Tech Notes for more information about this script and its defaults.  *
+# * ************************************************************************* *
 
 # *** All texts in the TEXTS array will be converted for the given LANGuage ***
-# *** Dictionary conversion at the bottom of the file
+# LANGuage is for old file names, e.g. 1-en.xml is the text 1 english glossary.
+TEXTS = []
 #TEXTS = [1,2,3,24,25,27,28,29,30,31]
-TEXTS = [1]
 LANG = "en"
 
-# Run with rake db:seed (or created alongside the db with db:setup)
+# *** Dictionary conversion at the bottom of the file will run if true ***
+# The dictionary file that will be converted is de-en.xml
+CONVERT_DICTIONARY = true
+
+
+# Run with rake db:seed (or create alongside the db with db:setup)
 # Put glossaries and texts into the db/conversion/import directory.
 # Each converted text is saved to  app/assets/text/#{new_id}/#{new_id}.html
 # Each converted text also creates app/assets/text/#{new_id}/about.html
@@ -182,6 +191,53 @@ TEXTS.each do |t|
     end
   end
 end
+
+
+if CONVERT_DICTIONARY then
+  puts "Beginning glossary conversion for dictionary..."
+
+  # First loop through the glossary.
+  File.open("#{Rails.root}/db/conversion/import/de-en.xml",'r') do |file|
+    cnt = 0
+    line = file.gets    # First line should be ignored - defines old css
+    line = file.gets    # Second line contains the entire dictionary
+    gloss = line.split('/><')
+    (0..(gloss.length-1)).each do |i|
+      entry = String.new(gloss[i])
+      /f=\"(?<term>[^\"]+)\"/ =~ entry
+      /d=\"(?<defin>[^\"]+)\"/ =~ entry
+      /g=\"(?<type>[^\"]+)\"/ =~ entry
+      term  = (term==nil ? "" : term)
+      type  = (type==nil ? "" : type)
+      defin = (defin==nil ? "" : defin)
+
+      pos = entry.rindex(/m\d+=/)
+      if (pos == nil) then
+        # Ignore in dictionary. This is unretrievable.
+      else
+        # Find match num. Form is m#=... Assume two digits max.
+        num = entry[pos+1..pos+2].to_i
+        def_id = 0
+
+        # Add each match to the Matches table
+        (0..num).each do |j|
+          m = /m#{j}=\"(?<de>[^\"]+)\"/.match(entry)
+          if (j==0)                     # Create Definition if the first time
+            new_def = Definition.create(term: term, lex_class: type,
+                                              definition: defin, text_id: nil)
+            def_id = new_def.id
+          end
+          if (m != nil) then            # Create Match
+            m = m[:de]
+            m = m.mb_chars.downcase.to_s
+            Match.create(word: m, text_id: nil, definition_id: def_id)
+          end
+        end
+      end
+    end
+  end
+end
+
 
 BEGIN {
   def get_title_by_text(t)

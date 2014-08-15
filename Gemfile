@@ -35,7 +35,7 @@ gem 'jquery-ui-rails', '4.1.0'
 gem 'turbolinks', '1.1.1'
 gem 'jbuilder', '1.0.2'
 gem 'remotipart', '1.2.1'
-gem 'nokogiri', '1.6.2.1'
+gem 'nokogiri', '1.6.3.1'
 
 group :doc do
   gem 'sdoc', '0.3.20', require: false

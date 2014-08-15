@@ -62,6 +62,8 @@ $(document).on("mouseup", "#text-display", function(event) {
     var selRange = window.getSelection();
     var node = selRange.focusNode;
 
+    console.log(node.id);
+
     if (node && (node.id != "text-display"))
       delegateMethod(selRange, node);
   }

@@ -1,0 +1,24 @@
+#!/bin/bash
+
+#    *** Script for Backing Up Annotext Development and Testing Data ***
+#
+#   Copies the Annotext development database and texts to a newly created 
+# folder on the Desktop. Folder is marked with date and Unix timestamp. The
+# texts are copied via their asset folders, so about texts and (any existing)
+# media is also copied.
+
+echo
+
+echo "Working: Creating directory."
+timestamp=$(date +"%Y-%m-%d_%s")
+directory="Annotext_$timestamp"
+mkdir ~/Desktop/$directory
+
+echo "Working: Copying database."
+cp db/development.sqlite3 ~/Desktop/$directory/development.sqlite3
+
+echo "Working: Copying texts."
+cp -r app/assets/texts/* ~/Desktop/$directory
+
+echo
+echo "Finished: Created $directory on Desktop."
