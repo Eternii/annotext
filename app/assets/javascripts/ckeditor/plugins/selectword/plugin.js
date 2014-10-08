@@ -92,3 +92,21 @@ CKEDITOR.tools.extend( CKEDITOR.dom.node.prototype,
   }
 });
 
+CKEDITOR.tools.extend( CKEDITOR.dom.node.prototype,
+{
+  getAscendantNote : function(includeSelf) {
+    var element = this.$;
+
+    if (!includeSelf)
+      element = element.parentNode;
+
+    while (element) {
+      if (element.className == 'note glyphicon glyphicon-file')
+        return new CKEDITOR.dom.node(element);
+
+      element = element.parentNode;
+    }
+
+    return null;
+  }
+});

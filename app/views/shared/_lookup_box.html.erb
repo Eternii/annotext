@@ -1,0 +1,5 @@
+<%= form_tag(match_path, :method => "get", remote: true) do %>
+  <%= text_field_tag :word, params[:word], placeholder: "Search Matches" %>
+  <%= hidden_field_tag :text, params[:id] %>
+  <%= submit_tag "Search", :name => nil %>
+<% end %>

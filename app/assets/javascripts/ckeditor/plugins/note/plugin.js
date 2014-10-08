@@ -6,7 +6,8 @@ CKEDITOR.plugins.add('note',
     editor.addCommand('noteDialog', new CKEDITOR.dialogCommand('noteDialog'));
 
     editor.ui.addButton('Note', {
-      label: 'Insert Note',
+      label: 'Insert/Edit Note',
+      title: 'Create or Edit a note.',
       command: 'noteDialog',
       icon: iconPath
     });
@@ -21,9 +22,10 @@ CKEDITOR.plugins.add('note',
       });
       editor.contextMenu.addListener(function(element) {
         if (element)
-          element = element.getAscendant('span', true);
+          element = element.getAscendantNote(true);
 
-        if (element && !element.isReadOnly() && !element.data('cke-realelment')
+        if (element && !element.isReadOnly()
+                    && !element.data('cke-realelment')
                     && (element.getAttribute('note') != ""))
           return { noteItem : CKEDITOR.TRISTATE_OFF };
 
@@ -65,10 +67,10 @@ CKEDITOR.plugins.add('note',
           var element = sel.getStartElement();
 
           if (element)
-            element = element.getAscendant('span', true);
+            element = element.getAscendantNote(true);
 
-          if (!element || element.getName() != 'span'
-                       || element.getAttribute('note') == ""
+          if (!element || (element.getAttribute('class') != 
+                                      'note glyphicon glyphicon-file')
                        || element.data('cke-realelement')) {
             element = editor.document.createElement('span');
             this.insertMode = true;
